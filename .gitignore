@@ -1,0 +1,3 @@
+data/*.html
+data/wiki_listes_raw.json
+.DS_Store
