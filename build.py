@@ -501,7 +501,7 @@ def build_simple(slug, title, desc, h1, lead, body, eyebrow=None, noindex=False,
 def build_merci():
     slug = 'merci'
     body = f'''<p>Nous vous recontactons sous 48 h ouvrées pour convenir d'une visite. Besoin d'une réponse plus rapide ? Appelez le <a href="tel:{PHONE_INTL}">{PHONE}</a>.</p>
-<p>En attendant, nos <a href="/conseils">conseils</a> répondent aux questions les plus fréquentes : période de taille, autorisation d'abattage, prix.</p>
+<p>En attendant, nos <a href="/conseils">conseils</a> répondent aux questions les plus fréquentes : période de taille, autorisation d'abattage, arbres dangereux.</p>
 <p><a class="btn btn-primary" href="/">Retour à l'accueil</a></p>'''
     p = page_head([('Accueil', 'index'), ('Merci', slug)], 'Merci, votre demande est bien reçue', 'Votre message est arrivé chez Robin Humbert.') + f'<section class="section"><div class="narrow prose">{body}</div></section>\n'
     write(slug, head(slug, 'Merci – Demande envoyée | Arboritaille', 'Votre demande de devis est bien reçue.', noindex=True) + header() + p + footer())
@@ -647,7 +647,7 @@ def build_guide(slug, G):
 
 def build_guides_hub():
     slug = 'conseils'; trail = [('Accueil', 'index'), ('Conseils', slug)]
-    p = page_head(trail, 'Conseils d\'arboriste : <em class="hl">comprendre vos arbres</em>', 'Période de taille, autorisations, prix, arbres dangereux, plantation : les réponses d\'un arboriste-grimpeur aux questions que nos clients nous posent.', 'Conseils')
+    p = page_head(trail, 'Conseils d\'arboriste : <em class="hl">comprendre vos arbres</em>', 'Période de taille, autorisations, arbres dangereux, plantation : les réponses d\'un arboriste-grimpeur aux questions que nos clients nous posent.', 'Conseils')
     items = ''.join(f'<a class="card card-link card-img" href="/conseils/{k}">{pic(g.get("img", "arboriste_grimpeur-2"), g.get("img_alt", ""), card=True)}<div class="card-body"><span class="card-tag">{esc(g.get("categorie", "Conseils"))}</span><h3>{esc(g["titre_court"])}</h3><p>{esc(g["lead"][:160])}…</p></div></a>' for k, g in GUIDES.items())
     p += f'<section class="section"><div class="wrap"><div class="services-grid" style="margin-top:0">{items}</div></div></section>\n'
     p += cta('arboriste_grimpeur-3', 'Un doute sur un arbre ?', 'Visite et devis gratuits, sans engagement.')

@@ -17,6 +17,7 @@ RewriteRule ^prise-de-rendez-vous/?$ /contact [R=301,L]
 RewriteRule ^elagage-quand-et-pourquoi/?$ /conseils/elagage-quand-et-pourquoi [R=301,L]
 RewriteRule ^elagage-blog/?$ /conseils [R=301,L]
 RewriteRule ^blog/?$ /conseils [R=301,L]
+RewriteRule ^conseils/prix-elagage-abattage-arbre/?$ /conseils [R=301,L]
 
 # 3) /index.html et /page.html -> URL propre
 RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
