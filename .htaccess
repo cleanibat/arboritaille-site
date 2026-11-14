@@ -7,6 +7,10 @@ DirectorySlash Off
 
 RewriteEngine On
 
+# Pendant la maintenance, aucune réponse n'est mise en cache (CDN Hostinger compris), aperçu réservé inclus.
+RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
+RewriteRule ^ - [E=MAINT:1]
+
 # 0) MAINTENANCE : actif tant que le fichier maintenance.flag est présent à la racine (le supprimer pour rouvrir le site).
 #    Aperçu réservé : https://arboritaille.ch/?apercu=37b3b216651b pose un cookie de 12 h qui donne accès au site.
 RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
@@ -19,7 +23,11 @@ RewriteRule ^ - [R=503,L]
 ErrorDocument 503 /maintenance.html
 <IfModule mod_headers.c>
   Header always set Retry-After "86400" "expr=%{REQUEST_STATUS} == 503"
-  Header always set Cache-Control "no-store" "expr=%{REQUEST_STATUS} == 503"
+  Header always set Cache-Control "private, no-store" env=MAINT
+  Header set Cache-Control "private, no-store" env=MAINT
+  Header unset Expires env=MAINT
+  Header always set Cache-Control "private, no-store" env=REDIRECT_MAINT
+  Header always set Cache-Control "private, no-store" "expr=%{REQUEST_STATUS} == 503"
 </IfModule>
 
 # 1) HTTPS et domaine canonique sans www
