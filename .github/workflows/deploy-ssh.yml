@@ -31,7 +31,7 @@ jobs:
           rsync -az --delete \
             -e "ssh -i ~/.ssh/deploy_key -p ${{ secrets.SSH_PORT }}" \
             --exclude '.git' --exclude '.github' --exclude '*.py' --exclude 'data' --exclude 'tools' \
-            --exclude 'content' --exclude 'docs' --exclude '.claude' \
+            --exclude 'content' --exclude 'docs' --exclude '.claude' --exclude 'img/carte-zone.svg.html' \
             --exclude 'README.md' --exclude '.nojekyll' --exclude '.DS_Store' --exclude '.gitignore' \
             ./ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_TARGET_DIR }}
       - name: Déposer la configuration Make hors docroot

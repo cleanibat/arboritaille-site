@@ -3,6 +3,7 @@ AddDefaultCharset UTF-8
 AddType font/woff2 .woff2
 AddType image/webp .webp
 Options -Indexes
+DirectorySlash Off
 
 RewriteEngine On
 
@@ -22,6 +23,10 @@ RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
 RewriteRule ^index\.html$ / [R=301,L]
 RewriteCond %{THE_REQUEST} \s/+([^\s?]+)\.html[\s?] [NC]
 RewriteRule ^ /%1 [R=301,L]
+
+# 3 bis) /conseils : page index du dossier conseils/ (conseils.html)
+RewriteRule ^conseils/$ /conseils [R=301,L]
+RewriteRule ^conseils$ conseils.html [L]
 
 # 4) Barre oblique finale superflue
 RewriteCond %{REQUEST_FILENAME} !-d
