@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Gibloux (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Gibloux (FR) : Farvagny, Rossens, Corpataux-Magnedens, Le Glèbe, Vuisternens-en-Ogoz. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Gibloux · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Gibloux</em> : taille, abattage et soins aux arbres",
+ "lead": "Gibloux réunit depuis 2016 cinq anciennes communes sous le nom d'une chaîne de collines des Préalpes fribourgeoises. Sur ces 36 km², nous taillons, abattons et plantons vos arbres après une visite gratuite depuis Courgenay.",
+ "points": ["Visite et devis gratuits", "Cinq anciennes communes, un seul interlocuteur", "Lisières et arbres forestiers : règles respectées", "Taille raisonnée des arbres de ferme"],
+ "intro_eyebrow": "Vos arbres à Gibloux",
+ "intro_h2": "Entre villages et forêt du Gibloux : deux régimes pour vos arbres",
+ "intro": "<p>La commune de Gibloux existe depuis le 1er janvier 2016. Elle regroupe Corpataux-Magnedens, Farvagny, Le Glèbe, Rossens et Vuisternens-en-Ogoz : 8 719 habitants sur 36 km², à 700 m d'altitude.</p><p>Elle doit son nom à la chaîne de collines du Gibloux, mentionnée dès 1141. Cette chaîne n'a connu qu'une faible colonisation humaine et une exploitation sylvicole. Qui dit sylviculture dit forêt.</p><p>Deux règles se côtoient donc. En forêt, tout abattage passe par le service forestier. Dans les villages et en campagne, c'est la loi fribourgeoise sur les boisements hors forêt et le règlement communal d'urbanisme qui s'appliquent.</p><p>Pour un arbre de jardin en lisière, la question « forêt ou pas forêt » se pose parfois. Nous vous aidons à la trancher avec la commune avant de proposer une coupe.</p>",
+ "faits": [["Habitants", "8 719 (2025)"], ["Altitude", "700 m"], ["Superficie", "36,06 km²"], ["Depuis Courgenay", "env. 75 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Gibloux.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. En forêt, l'abattage passe par le service forestier. Nous vérifions la règle de Gibloux avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Lisière de forêt", "texte": "Un arbre forestier qui surplombe votre jardin ne se coupe pas sans l'accord du service forestier. Nous préparons la demande avec vous et exécutons la coupe une fois l'accord obtenu."},
+  {"icone": "HOME", "titre": "Villages et fermes", "texte": "Dans un village, un arbre de ferme ou de jardin grandit souvent sans suivi. Une taille d'entretien tous les quelques années évite les grosses coupes."},
+  {"icone": "SPROUT", "titre": "Planter à 700 m", "texte": "L'altitude moyenne de la commune convient à la plupart des feuillus indigènes. Nous choisissons l'essence selon la place, le sol et l'exposition, et plantons avec tuteurage tripode."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et de dégagement des arbres de ferme, de jardin et de lisière dans les villages de Gibloux.",
+  "abattage-demontage": "Abattage direct en campagne, démontage par sections près des bâtiments, bois débité ou évacué.",
+  "plantation-arbres": "Plantation d'un arbre d'ombrage ou d'un fruitier adapté à 700 m d'altitude, avec tuteurage tripode.",
+  "rognage-souche": "Rognage de la souche après abattage, copeaux laissés en paillage ou évacués.",
+  "urgence-tempete-arbre-dangereux": "Dégagement d'un arbre tombé sur une toiture ou un accès après une tempête."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Rossens et Farvagny comme dans le reste de Gibloux ?", "a": "Oui, dans les cinq anciennes communes : Corpataux-Magnedens, Farvagny, Le Glèbe, Rossens et Vuisternens-en-Ogoz. La visite et le devis sont gratuits. Gibloux est à une septantaine de kilomètres de Courgenay."},
+  {"q": "Un arbre de la forêt du Gibloux penche sur mon jardin, puis-je le couper ?", "a": "Pas sans autorisation : tout abattage en forêt est soumis à l'accord du service forestier. Nous identifions avec vous le propriétaire du massif et préparons la demande. Une fois l'accord obtenu, nous démontons l'arbre à la corde."},
+  {"q": "Et pour un arbre dans mon jardin à Gibloux ?", "a": "En zone à bâtir, le règlement communal d'urbanisme désigne les arbres protégés. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune. Nous vérifions avant le devis."},
+  {"q": "Après une tempête, qui appeler pour un arbre tombé sur une maison ?", "a": "Mettez-vous en sécurité, prévenez votre assurance, puis contactez-nous. Nous dégageons la toiture en démontant l'arbre par sections, sans aggraver les dégâts. Un rapport photo peut être fourni pour l'assurance."},
+  {"q": "Que faire des branches sur un grand terrain ?", "a": "Sur une parcelle de campagne, le broyage sur place est souvent la solution la plus simple : les copeaux servent de paillage. Le bois est débité en bûches ou évacué, selon votre choix dans le devis."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à tailler ou à abattre à Gibloux ?",
+ "cta_lead": "En jardin, en campagne ou en lisière : visite et devis gratuits."
+}

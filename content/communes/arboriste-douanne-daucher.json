@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Douanne-Daucher (BE) | Arboritaille",
+ "desc": "Taille, démontage et abattage d'arbres à Douanne-Daucher, sur la rive du lac de Bienne, canton de Berne. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Douanne-Daucher · Lac de Bienne",
+ "h1": "Arboriste-grimpeur à <em>Douanne-Daucher</em> : taille, abattage et soins aux arbres",
+ "lead": "Douanne-Daucher s'étire sur la rive du lac de Bienne, de Daucher à Douanne, avec l'île Saint-Pierre. Sur les terrains étroits du bord de l'eau, nous travaillons depuis l'arbre. Visite et devis gratuits.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Démontage à la corde sur les terrains étroits de la rive",
+  "Ni grue ni camion lourd là où le terrain ne les accepte pas",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Douanne-Daucher",
+ "intro_h2": "Quatre villages et une île sur la rive du lac de Bienne",
+ "intro": "<p>Douanne-Daucher, Twann-Tüscherz en allemand, est née en 2010 de la fusion de Douanne et de Daucher-Alfermée. La commune s'étend sur 12,44 km2 le long du lac de Bienne et inclut l'île Saint-Pierre.</p><p>Avec 100 habitants au km2, l'habitat se regroupe en général dans les localités : Douanne, Daucher, Alfermée et Wingreis. Au bord d'un lac, les arbres poussent souvent sur des terrains étroits, entre l'eau et la route.</p><p>Un accès réduit n'empêche pas un démontage soigné : nous travaillons depuis l'arbre et descendons les pièces à la corde, sans grue ni camion lourd là où le terrain ne les accepte pas.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 239 (2025)"
+  ],
+  [
+   "Altitude",
+   "434 m"
+  ],
+  [
+   "Superficie",
+   "12,44 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Douanne-Daucher.</strong> Le canton de Berne protège haies et bosquets dans leur état actuel (LCPN, BSG 426.11) : entretien permis, suppression soumise à une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Douanne-Daucher avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "PIN",
+   "titre": "Terrains de rive",
+   "texte": "Au bord d'un lac, les parcelles sont souvent étroites, prises entre l'eau et la route. Nous organisons le chantier pour que les branches descendent côté jardin, jamais côté route ni côté eau."
+  },
+  {
+   "icone": "CABLE",
+   "titre": "Tout à la corde",
+   "texte": "Quand un camion ne peut pas approcher, nous débitons l'arbre en pièces courtes, retenues et descendues une à une. Le bois est ensuite porté ou roulé jusqu'au point d'enlèvement."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Vent et humidité du lac",
+   "texte": "Au bord d'un lac, les arbres subissent le vent et une humidité élevée. Nous surveillons les fourches fragiles et le bois mort, et nous allégeons les couronnes trop lourdes."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et allègement pour les arbres de jardin de Douanne, Daucher, Alfermée et Wingreis.",
+  "abattage-demontage": "Démontage à la corde sur les terrains étroits de la rive, sans machine lourde. Bois débité et porté jusqu'au point d'enlèvement.",
+  "urgence-tempete-arbre-dangereux": "Arbre fendu ou couché après un coup de vent sur le lac : nous sécurisons les lieux, puis nous démontons.",
+  "diagnostic-expertise-arbre": "Un vieil arbre vous inquiète ? Nous l'examinons et vous remettons un avis écrit avec les options possibles."
+ },
+ "faq": [
+  {
+   "q": "Ma parcelle à Douanne est coincée entre la route et le lac, pouvez-vous intervenir ?",
+   "a": "Oui. Nous grimpons dans l'arbre et nous descendons chaque pièce à la corde, du côté choisi. Il suffit d'un passage à pied pour sortir le bois, débité en morceaux faciles à porter."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Douanne-Daucher ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Douanne-Daucher. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
+  },
+  {
+   "q": "Intervenez-vous à Alfermée et à Wingreis ?",
+   "a": "Oui, dans toutes les localités de la commune, ainsi qu'à Gléresse et Evilard, voisines. Depuis Courgenay, comptez environ trente-cinq kilomètres à vol d'oiseau ; la visite reste gratuite."
+  },
+  {
+   "q": "Que faites-vous du bois quand aucun camion ne peut approcher ?",
+   "a": "Nous le débitons en bûches courtes et nous le portons jusqu'à un point accessible, ou nous le laissons empilé sur place pour votre chauffage. Les branches sont broyées ou évacuées selon le devis."
+  },
+  {
+   "q": "Pouvons-nous correspondre en allemand ?",
+   "a": "Oui. Douanne-Daucher est germanophone : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur place, nous expliquons le travail en français. Vous pouvez nous écrire dans la langue qui vous convient."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à tailler ou à abattre à Douanne-Daucher ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Le Landeron (NE) : arboriste-grimpeur, taille, abattage | Arboritaille",
+ "desc": "Le Landeron (NE) : taille douce, haubanage, diagnostic et démontage d'arbres par un arboriste-grimpeur, du bourg médiéval au lac. Visite et devis gratuits.",
+ "hero_img": "demontage_saule_bienne", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Le Landeron · Littoral",
+ "h1": "<em>Le Landeron</em> : arboriste-grimpeur pour la taille, le haubanage et l'abattage",
+ "lead": "Le Landeron est la seule commune neuchâteloise riveraine du lac de Bienne, à une quarantaine de kilomètres de Courgenay. Nous y taillons, consolidons et démontons les arbres, dans le bourg comme dans les jardins.",
+ "points": ["Visite sur place et devis gratuits", "Conserver l'arbre quand c'est possible", "Haubanage des fourches fragiles", "Descente à la corde près des murs anciens"],
+ "intro_eyebrow": "Vos arbres sur la commune",
+ "intro_h2": "Un bourg du XIVe siècle et sa place plantée d'arbres",
+ "intro": "<p>Fondé en 1325 par Rodolphe IV de Neuchâtel, Le Landeron a gardé l'aspect d'une bourgade médiévale fortifiée. Sa place plantée d'arbres figure parmi ses monuments, avec les façades de 1600 et une vingtaine de fontaines historiques.</p><p>La commune se trouve près de la Thielle et du lac de Bienne. Son territoire monte de 428 m à 1 055 m d'altitude et compte 4 685 habitants.</p><p>Dans un site ancien, un arbre fait partie du décor au même titre que les murs. Nous cherchons d'abord à le conserver : taille douce, retrait du bois mort, <a href=\"/haubanage\">haubanage</a> d'une fourche fragile.</p>",
+ "faits": [["Habitants", "4 685 (2025)"], ["Altitude", "428 à 1 055 m"], ["Superficie", "10,31 km²"], ["Depuis Courgenay", "env. 40 km"]],
+ "reglement": "<strong>Le Landeron : autorisation d'abattage.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "SHIELD", "titre": "Vieux arbres, vieux murs", "texte": "Près d'un mur ancien ou d'une fontaine, rien ne doit tomber. Chaque branche est retenue à la corde et descendue à la main, sans machine lourde au pied des façades."},
+  {"icone": "CABLE", "titre": "Un hauban plutôt qu'une coupe", "texte": "Quand une fourche s'ouvre ou qu'une charpentière est trop longue, un hauban souple reprend une partie de l'effort. L'arbre garde son port et le risque de rupture diminue."},
+  {"icone": "SEARCH", "titre": "Un diagnostic avant de décider", "texte": "Champignon au pied, cavité, écorce décollée : nous examinons l'arbre du sol et depuis la couronne. Vous recevez un avis écrit avec plusieurs options, de la surveillance à l'abattage."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille douce et retrait du bois mort, pour entretenir un arbre ancien sans modifier sa silhouette.",
+  "haubanage": "Haubans souples posés en hauteur pour soulager une fourche, avec contrôle périodique du dispositif.",
+  "diagnostic-expertise-arbre": "Examen complet d'un arbre qui inquiète, avis écrit et recommandations argumentées.",
+  "abattage-demontage": "Si l'abattage s'impose, démontage pièce par pièce à la corde, sans dégât pour le bâti voisin.",
+  "collectivites-entreprises": "Arbres d'espaces publics et de sites privés : devis par arbre, planification et compte rendu."
+ },
+ "faq": [
+  {"q": "Le Landeron fait-il partie de votre zone d'intervention ?", "a": "Oui. Le Landeron se trouve à une quarantaine de kilomètres de Courgenay à vol d'oiseau. Nous nous y déplaçons pour une visite gratuite, puis nous vous envoyons un devis écrit, sans engagement."},
+  {"q": "Le Landeron : faut-il une autorisation pour abattre un arbre ?", "a": "Les haies et bosquets sont protégés par la loi neuchâteloise sur tout le territoire. Pour un arbre isolé, c'est le règlement communal qui s'applique. Nous vérifions la règle auprès de la commune avant toute coupe."},
+  {"q": "Peut-on garder un vieil arbre dont une branche menace ?", "a": "Souvent, oui. Nous pouvons raccourcir la branche, l'alléger ou la retenir par un hauban. Si le défaut touche le tronc ou les racines, un diagnostic précise le niveau de risque avant toute décision."},
+  {"q": "Travaillez-vous aussi à La Neuveville, juste à côté ?", "a": "Oui. <a href=\"/arboriste-la-neuveville\">La Neuveville</a> est voisine, mais elle se trouve dans le canton de Berne, où la règle sur les haies et les arbres n'est pas la même. Nous vérifions donc chaque fois le droit applicable."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre ancien à soigner ou à sécuriser ?",
+ "cta_lead": "Nous venons le voir avec vous. Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

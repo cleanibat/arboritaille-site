@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Sauge (BE) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Plagne, Vauffelin et Frinvillier, commune de Sauge (BE), par un arboriste-grimpeur de Courgenay. Devis gratuit.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Sauge · Plagne, Vauffelin, Frinvillier",
+ "h1": "Arboriste-grimpeur à <em>Sauge</em> : taille, abattage et soins aux arbres",
+ "lead": "Sauge réunit depuis 2014 les villages de Plagne, Vauffelin et Frinvillier, voisins de Bienne. Depuis Courgenay, à environ vingt-cinq kilomètres, nous taillons, démontons et plantons vos arbres dans les trois localités. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits dans les trois villages", "Taille adaptée aux jardins et aux anciennes fermes", "Haies entretenues en hiver", "Démontage à la corde, chantier propre"],
+ "intro_eyebrow": "Vos arbres à Sauge",
+ "intro_h2": "Trois villages réunis sous le nom d'un chemin",
+ "intro": "<p>Sauge est une commune jeune : elle est née le 1er janvier 2014 de la fusion de Plagne et de Vauffelin, cette dernière comprenant déjà Frinvillier. Son nom vient du chemin des Sauges, qui relie Plagne à Vauffelin.</p><p>Elle compte 829 habitants à 709 m, sur 13,44 km², et touche Bienne et Orvin. Dans des villages de cette taille, les arbres se trouvent en général dans les jardins, près des anciennes fermes et en haie de limite.</p><p>La fusion n'efface pas la question du règlement : nous vérifions auprès de l'administration de Sauge quelles dispositions s'appliquent aux arbres isolés avant de proposer un abattage.</p>",
+ "faits": [["Habitants", "829 (2025)"], ["Altitude", "709 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 25 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Sauge.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Sauge avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Plagne, Vauffelin, Frinvillier", "texte": "Trois localités, trois accès différents. Nous indiquons dans le devis le village concerné et la façon dont le bois sera sorti, pour que rien ne soit laissé au hasard."},
+  {"icone": "HOME", "titre": "Fermes et maisons", "texte": "Dans un village, on rencontre en général d'anciennes fermes avec leurs arbres de cour et des maisons plus récentes avec des arbres d'ornement. La taille s'adapte à l'âge de l'arbre et à sa place."},
+  {"icone": "LEAF", "titre": "Haies et bosquets", "texte": "Entre les parcelles et le long des chemins, les haies sont protégées dans leur état actuel par le canton de Berne. Nous les entretenons en hiver et signalons quand une dérogation serait nécessaire."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et de dégagement pour les arbres de Plagne, Vauffelin et Frinvillier, coupes sur branches secondaires.",
+  "abattage-demontage": "Démontage contrôlé près des maisons, abattage direct en terrain libre, bois débité ou évacué.",
+  "rognage-souche": "Rognage de la souche après abattage pour replanter ou engazonner.",
+  "plantation-arbres": "Plantation d'un arbre adapté à 709 m d'altitude, tuteurage et conseils d'arrosage."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans les trois villages de Sauge ?", "a": "Oui, à Plagne, à Vauffelin et à Frinvillier. La commune de Sauge regroupe les trois depuis 2014. La visite est gratuite et le devis précise la localité et l'accès."},
+  {"q": "Le règlement sur les arbres a-t-il changé à Sauge avec la fusion ?", "a": "C'est la question que nous posons à l'administration de Sauge avant chaque abattage. Les dispositions sur les arbres isolés dépendent de la commune ; la protection cantonale des haies et bosquets, elle, s'applique partout."},
+  {"q": "Quelle distance depuis Courgenay ?", "a": "Environ vingt-cinq kilomètres à vol d'oiseau. Quand c'est possible, nous groupons les rendez-vous avec les communes voisines. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Puis-je faire tailler une haie en bordure de chemin ?", "a": "Oui, l'entretien d'une haie est permis dans le canton de Berne : taille, éclaircissage, recépage partiel. Nous le faisons entre octobre et mars, hors nidification. Sa suppression demanderait une dérogation."},
+  {"q": "Que faites-vous des branches et du bois ?", "a": "Selon le devis, les branches sont broyées sur place ou évacuées, et le tronc débité en bûches pour votre chauffage ou emporté. Le terrain est nettoyé avant notre départ."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Sauge ?",
+ "cta_lead": "Visite et devis gratuits à Plagne, Vauffelin et Frinvillier."
+}

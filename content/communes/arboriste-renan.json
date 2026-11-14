@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Renan (BE) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Renan, La Cibourg et Les Convers (BE), à 907 m, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Renan · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Renan</em> : taille, abattage et soins aux arbres",
+ "lead": "Renan, 935 habitants à 907 m, est la voisine bernoise de La Chaux-de-Fonds. Nous y taillons, démontons et plantons des arbres de montagne depuis Courgenay, à environ trente-cinq kilomètres. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Arbres de montagne : neige et vent pris en compte", "Règle bernoise appliquée, pas la neuchâteloise", "Les Convers et La Cibourg desservis"],
+ "intro_eyebrow": "Vos arbres à Renan",
+ "intro_h2": "À 907 m, à la limite du canton de Neuchâtel",
+ "intro": "<p>Renan se trouve à 907 m d'altitude, dans le district de Courtelary, et touche La Chaux-de-Fonds. La commune compte 935 habitants sur 12,64 km², avec Les Convers et une partie de La Cibourg.</p><p>À cette altitude, la saison de végétation est courte et l'hiver enneigé. Les arbres poussent lentement et portent des charges importantes ; les branches des conifères et des érables, fréquents en montagne jurassienne, cèdent parfois à la fonte.</p><p>La limite cantonale a une conséquence pratique : un arbre à Renan relève du droit bernois, celui d'en face à La Chaux-de-Fonds du droit neuchâtelois. Nous appliquons la règle du bon côté de la frontière.</p><p>Le village a brûlé deux fois, en 1375 et en 1639, et s'est relevé. L'autorisation de construire un temple date de 1630.</p>",
+ "faits": [["Habitants", "935 (2025)"], ["Altitude", "907 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 35 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Renan.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Renan avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "907 m d'altitude", "texte": "Les arbres de Renan vivent avec des hivers longs. Croissance lente, bois dense, mais branches lourdes sous la neige : nous allégeons les parties exposées et supprimons le bois mort chaque automne si besoin."},
+  {"icone": "DOC", "titre": "Deux cantons, deux règles", "texte": "Renan touche La Chaux-de-Fonds, dans le canton de Neuchâtel. Côté Renan, le droit bernois s'applique : haies protégées, arbres de valeur selon le règlement communal. Nous vérifions de quel côté se trouve votre arbre."},
+  {"icone": "PIN", "titre": "Les Convers et La Cibourg", "texte": "Les Convers font partie de la commune. Le nom de La Cibourg figure dans les adresses de Renan comme dans celles de La Ferrière : nous vérifions la commune de votre parcelle dès la visite."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des branches exposées à la neige, dégagement des toits et des accès pour les maisons de Renan, des Convers et de La Cibourg.",
+  "abattage-demontage": "Démontage à la corde près des bâtiments, abattage direct en terrain ouvert. Bois laissé en bûches ou évacué.",
+  "haubanage": "Haubans souples pour conserver un grand arbre dont une fourche a souffert de la neige.",
+  "urgence-tempete-arbre-dangereux": "Branche cassée sur un toit, arbre déraciné par le vent : sécurisation puis remise en état."
+ },
+ "faq": [
+  {"q": "Ma maison est à La Cibourg, quelle commune est compétente pour mon arbre ?", "a": "Le nom de La Cibourg figure dans les adresses de Renan et de La Ferrière. La commune compétente est celle où se trouve votre parcelle. Si c'est Renan, son règlement s'applique. Nous vérifions ce point avant toute démarche."},
+  {"q": "Quels arbres poussent bien à 907 m à Renan ?", "a": "En montagne jurassienne, les conifères et les érables sont fréquents parce qu'ils supportent le froid et la neige. Pour une plantation, nous choisissons une essence adaptée à l'altitude et au sol, et nous la tuteurons."},
+  {"q": "Quand tailler à cette altitude ?", "a": "En hiver hors gel sévère ou en été après la pousse. Nous évitons le printemps, période de montée de sève et de nidification. Les haies se taillent de préférence entre octobre et mars."},
+  {"q": "Vous venez à Renan pour un seul arbre ?", "a": "Oui. Renan est à environ trente-cinq kilomètres de Courgenay et, quand c'est possible, nous groupons les visites avec les communes voisines. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Que faire d'une branche cassée par la neige encore accrochée dans l'arbre ?", "a": "Ne pas la tirer depuis le sol. Nous montons dans l'arbre, la retenons à la corde, la coupons proprement et la descendons. La plaie est nettoyée pour que l'arbre la referme."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à alléger ou à abattre à Renan ?",
+ "cta_lead": "Visite et devis gratuits. Nous appliquons la règle bernoise en vigueur à Renan."
+}

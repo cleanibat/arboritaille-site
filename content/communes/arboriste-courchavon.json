@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Courchavon (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille raisonnée, abattage, rognage de souche et plantation à Courchavon et Mormont (JU), par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Courchavon · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Courchavon</em> : taille, abattage et plantation",
+ "lead": "Courchavon touche Porrentruy et se trouve à moins de dix kilomètres de Courgenay. Taille, abattage, rognage de souche ou plantation : nous passons voir l'arbre, puis vous recevez un devis écrit et gratuit.",
+ "points": ["À moins de dix kilomètres de Courgenay", "Visite et devis gratuits", "Courchavon et Mormont", "Jamais d'étêtage"],
+ "intro_eyebrow": "Vos arbres à Courchavon",
+ "intro_h2": "Courchavon et Mormont, aux portes de Porrentruy",
+ "intro": "<p>Deux localités, Courchavon et Mormont, forment la commune : 332 habitants à 407 m d'altitude. Elle est voisine de <a href=\"/arboriste-porrentruy\">Porrentruy</a>, à environ cinq kilomètres de Courgenay à vol d'oiseau.</p><p>Son nom vient du roman « corte », qui désigne un domaine agricole ou un hameau. Il est attesté dès 1279. L'ancien nom allemand, Vogtsburg, signifie « château du bailli ».</p><p>Avec 54 habitants au kilomètre carré, la commune reste peu bâtie. Dans un village de ce type, les arbres plantés près des maisons pour l'ombre ou les fruits ont souvent dépassé le gabarit prévu.</p><p>Une <a href=\"/elagage-taille-arbres\">taille raisonnée</a> les ramène à une dimension compatible avec la maison, sans les étêter.</p>",
+ "faits": [["Habitants", "332 (2025)"], ["Altitude", "407 m"], ["Superficie", "6,19 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Courchavon.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Courchavon avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Cinq kilomètres à vol d'oiseau", "texte": "La proximité simplifie le suivi : une visite vite organisée, un retour facile pour un contrôle, un chantier calé sur une fenêtre de beau temps."},
+  {"icone": "SCISS", "titre": "Réduire sans étêter", "texte": "Couper la tête d'un arbre provoque des rejets fragiles et des plaies qui pourrissent. Nous réduisons la couronne sur des branches latérales, pour garder une forme stable."},
+  {"icone": "SPROUT", "titre": "Remplacer un vieux fruitier", "texte": "Quand un fruitier arrive en fin de vie, nous l'abattons, rognons la souche et plantons un jeune arbre à proximité, maintenu par un tuteurage tripode."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne sur tire-sève, retrait du bois mort, dégagement de toiture. L'arbre garde sa silhouette.",
+  "abattage-demontage": "Démontage à la corde près des maisons de Courchavon et de Mormont, abattage direct en terrain libre.",
+  "rognage-souche": "Rognage de la souche après abattage, pour replanter ou remettre en herbe sans terrassement.",
+  "plantation-arbres": "Jeune fruitier ou arbre d'ombrage planté dans les règles, avec tuteurage tripode et suivi de reprise."
+ },
+ "faq": [
+  {"q": "Intervenez-vous aussi à Mormont ?", "a": "Oui. Mormont fait partie de la commune de Courchavon, à moins de dix kilomètres de Courgenay. Nous nous y déplaçons dans les mêmes conditions : visite gratuite, devis écrit, sans engagement de votre part."},
+  {"q": "Combien coûte la taille d'un arbre à Courchavon ?", "a": "Le prix dépend de la hauteur, de l'accès, du volume de branches et de leur évacuation. Nous ne donnons pas de tarif sans avoir vu l'arbre. La visite à Courchavon est gratuite et le devis écrit ne vous engage pas."},
+  {"q": "Faut-il une autorisation pour abattre un arbre ?", "a": "Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale. En zone à bâtir, c'est le règlement communal qui précise les cas soumis à autorisation. Nous vérifions auprès de la commune avant toute coupe."},
+  {"q": "Pourquoi refusez-vous d'étêter un arbre ?", "a": "L'étêtage ouvre de grandes plaies que l'arbre ne referme pas. Il réagit par des rejets nombreux, mal ancrés, qui cassent quelques années plus tard. Une réduction progressive donne un résultat plus durable et moins coûteux à entretenir."},
+  {"q": "Que faites-vous des branches ?", "a": "Elles sont broyées sur place ou évacuées, selon ce que prévoit le devis. Les copeaux peuvent rester chez vous pour pailler un massif. Le bois de gros diamètre peut être débité en bûches."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre devenu trop grand à Courchavon ?",
+ "cta_lead": "Nous sommes à quelques kilomètres. Visite et devis gratuits, sans engagement."
+}

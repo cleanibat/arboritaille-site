@@ -1,0 +1,177 @@
+{
+ "synthese": "Dossier vérifié le 11.11.2026 (sources rouvertes une à une ; Google Maps, Facebook, Instagram et Kompass via le navigateur, les autres via fetch/curl). L'essentiel tient : Arboritaille est une raison individuelle inscrite au RC du Jura le 13.06.2024 (FOSC HR01-1006060543 du 18.06.2024) sous la raison sociale exacte « Arboritaille, Humbert Robin », IDE CHE-424.403.827, RC CH-670.1.009.977-2, siège Derrière-Metthiez 13, 2950 Courgenay, but « Gestion du patrimoine arboré ». Titulaire avec signature individuelle : Robin Philippe Jacques Humbert, ressortissant français, domicilié à Neuchâtel-Urtière (Doubs). Assujetti TVA depuis le 01.01.2026 (CHE-424.403.827 TVA). Zefix ne renvoie qu'une seule entité pour ce nom.\nFiche Google Business Profile confirmée : « Arboritaille », catégorie « Service d'élagage », 5,0 sur 12 avis, 63 photos, « Ouvert · Ferme à 18:00 », site arboritaille.ch, tél. +41 78 306 53 04, plus code C42F+4X, le propriétaire répond aux avis. Trois avis ont été relus mot pour mot (Luscher Camille, M N, Florian Jaquet) ; les neuf autres, leur langue (répartition 9 FR / 3 DE) et le lien de réservation vers /prise-de-rendez-vous n'ont pas pu être rouverts dans l'affichage limité de Maps : à considérer comme non vérifiés. Le lien « Vous êtes le propriétaire de cet établissement ? » n'est pas réapparu dans la recherche Google (aucun panneau local affiché) : affirmation invérifiable, et contradictoire avec les réponses du propriétaire ; à trancher dans le tableau de bord GBP.\nAnnuaires confirmés : search.ch (Arboriculture / DE « Obstbau », Lu-Ve 08:00-12:00 / 13:30-17:00, « ne souhaite pas de publicité », 0 avis, source DataAgent), local.ch (mêmes horaires, 0 avis, mention exacte « Entreprise non revendiquée » et non « non vérifiée », source Swisscom Directories), courgenay.ch, yellowpages.swiss (AMC Bois, Arnaud Biaggi, à la même adresse), moneyhouse, pappers (MAJ Zefix 11.11.2026), uid.admin.ch, Kompass (fondée 2024, raison de commerce individuelle, classé à tort « Panneaux et avertisseurs lumineux » ; la mention « accessoires d'armes » et le but statutaire n'y figurent pas). Horaires divergents Google (fermeture 18:00) vs search.ch/local.ch (17:00) : à harmoniser.\nRéseaux : page Facebook « Arboritaille » confirmée (Page · Service local, 6 abonnés, 0 avis, intro « ARBORITAILLE | Robin Humbert – Arboriste Grimpeur… JU | BE | BL | NE », couverture changée le mercredi 16.09.2026 à 11:16). Instagram @arboritaille : « Profile n'est pas disponible » confirmé. TikTok @arboritaille : « Couldn't find this account » confirmé. LinkedIn : la page entreprise renvoie 403 ; l'absence n'est pas démontrée (confiance abaissée).\nSite actuel arboritaille.ch (Hostinger Website Builder) : 3 URL dans le sitemap (lastmod 2026-05-06), titre, slogan, services et cibles confirmés, pas d'adresse sur l'accueil, pas de mentions légales, pas de liens sociaux. CORRECTION : il existe bien une donnée structurée, un JSON-LD de type « WebSite » (nom, url, description, image sur assets.zyrosite.com, mots-clés) ; en revanche aucun LocalBusiness/Organization. Article de blog du 22.05.2025 (7 min, sans auteur, cite Christophe Drénou) et page /prise-de-rendez-vous (adresse, formulaire de devis « gratuit et sans engagement », clause de confidentialité, pas d'horaires ni de forme juridique) confirmés. Landing pages page.arboritaille.ch confirmées (arboriste-grimpeur, Courgenay en Ajoie, réponse sous 48 h ouvrées, grimpe sur corde, nacelle/grue, hélicoptère exceptionnel, aucune certification, aucun JSON-LD ni mentions légales ; le dépôt local n'en contient pas non plus).\nNon trouvé et toujours valable : aucune certification ou formation publiée, aucune ancienneté antérieure à 2024, aucun avis hors Google. SIRENE : 0 résultat pour Robin Humbert à Neuchâtel-Urtière ; profil AlloVoisins introuvable (404). Pour la page « à propos » : indépendant, arboriste-grimpeur, entreprise fondée en 2024 à Courgenay, 12 avis Google 5/5 ; toute certification doit être validée par le client.",
+ "points": [
+  {
+   "fait": "Zefix (API, vérifié le 11.11.2026) : une seule entrée « Arboritaille, Humbert Robin », uid CHE-424.403.827, chid CH-670-1009977-2, siège Courgenay, legalFormId 1 (raison individuelle), statut EXISTIEREND, shabDate 2024-06-18, aucune autre entité portant ce nom",
+   "source": "https://www.zefix.ch/ZefixREST/api/v1/firm/search.json (POST name=arboritaille)",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Moneyhouse : inscription au RC le 13.06.2024, forme « Raison individuelle », but « Gestion du patrimoine arboré », Derrière-Metthiez 13, 2950 Courgenay, titulaire Robin Philippe Jacques Humbert, ressortissant français, à Neuchâtel-Urtière (FR), signature individuelle, publication FOSC HR01-1006060543 du 18.06.2024 (Nouvelle inscription), statut actif",
+   "source": "https://www.moneyhouse.ch/fr/company/arboritaille-humbert-robin-10355887001",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Publication SHAB/FOSC du 18.06.2024 (Nouvelle inscription, Office du registre du commerce du canton du Jura) confirmant raison sociale, siège, adresse, but et titulaire ; identifiant HLP-9064-SHAB-JU-4853019",
+   "source": "https://shab.help.ch/publ.cfm?key=4853019",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Registre IDE : forme 0101 Einzelunternehmen, IDE actif, TVA active depuis le 01.01.2026 sans date de fin, n° TVA CHE-424.403.827 MWST/TVA, RC actif réf. CH-670.1.009.977-2, commune Courgenay (OFS 6784)",
+   "source": "https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-424.403.827",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Pappers.ch : statut actif, « Situation normale », titulaire depuis le 13.06.2024, aucune donnée de chiffre d'affaires, d'effectifs ni de comptes, dernière mise à jour Zefix 11.11.2026",
+   "source": "https://www.pappers.ch/fr/company/arboritaille-humbert-robin-424403827",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Fiche Google Maps (vérifiée dans le navigateur) : « Arboritaille », catégorie « Service d'élagage », note 5,0, 12 avis, 63 photos, « Ouvert · Ferme à 18:00 », Derrière Metthiez 13, 2950 Courgenay, site arboritaille.ch, tél. +41 78 306 53 04, plus code C42F+4X, CID 15461798967485162516 / KG /g/11w3m1prtf ; le propriétaire répond aux avis",
+   "source": "https://www.google.com/maps/place/Arboritaille/@47.4003057,7.1249111,17z/data=!3m1!4b1!4m6!3m5!1s0x886ef14ef321989f:0xd693583da5746414!8m2!3d47.4003057!4d7.1249111!16s%2Fg%2F11w3m1prtf?hl=fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Horaires Google complets « lun-ven 08:00-18:00, sam-dim fermé » et lien de réservation vers arboritaille.ch/prise-de-rendez-vous : seule la fermeture à 18:00 a été revue ; la fiche affiche deux liens arboritaille.ch mais l'URL exacte du lien de réservation et l'heure d'ouverture n'ont pas pu être confirmées dans l'affichage limité de Maps",
+   "source": "https://www.google.com/maps/place/Arboritaille/@47.4003057,7.1249111,17z/data=!3m1!4b1!4m6!3m5!1s0x886ef14ef321989f:0xd693583da5746414!8m2!3d47.4003057!4d7.1249111!16s%2Fg%2F11w3m1prtf?hl=fr",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Avis Google relus mot pour mot (11.11.2026) : Luscher Camille, 1 avis, il y a 3 mois (« Élagage d'un vieux tilleul : travail bien fait, respect de la forme de l'arbre… Nettoyage après travaux impeccable ») ; M N, Local Guide, il y a un an (« Un professionnel de confiance, passionné et rigoureux ! Robin Humbert est intervenu pour la sécurisation d'un grand frêne dans notre parc ») ; Florian Jaquet, il y a 3 mois (« Contact chaleureux, devis rapide et intervention dans les 4 semaines… prix absolument concurrentiel »). Chacun a reçu une réponse du propriétaire",
+   "source": "https://www.google.com/maps/place/Arboritaille/@47.4003057,7.1249111,17z/data=!3m1!4b1!4m6!3m5!1s0x886ef14ef321989f:0xd693583da5746414!8m2!3d47.4003057!4d7.1249111!16s%2Fg%2F11w3m1prtf?hl=fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Les 9 autres avis cités dans le dossier initial (Quentin Kundert, Jacqueline Voillat, Chatellard Ghislaine, martha jones, Marie-Noëlle Gander, V W, Franz Schiesser, Silvia Habisch Eggenschwiler, Guillaume Cuenin) et la répartition 9 FR / 3 DE n'ont pas pu être rouverts (« Plus d'avis (9) » ne s'est pas déplié dans l'affichage limité) : à ne citer sur le site qu'après relecture directe sur la fiche",
+   "source": "https://www.google.com/maps/place/Arboritaille/@47.4003057,7.1249111,17z/data=!3m1!4b1!4m6!3m5!1s0x886ef14ef321989f:0xd693583da5746414!8m2!3d47.4003057!4d7.1249111!16s%2Fg%2F11w3m1prtf?hl=fr",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Lien « Vous êtes le propriétaire de cet établissement ? » : non reproduit (la recherche Google ouverte dans le navigateur n'affiche aucun panneau local, et le propriétaire répond aux avis, ce qui suppose une fiche gérée). Affirmation invérifiable ; vérifier directement dans le tableau de bord Google Business Profile",
+   "source": "https://www.google.com/search?q=Arboritaille+Courgenay&hl=fr",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Page Facebook « Arboritaille » (vérifiée dans le navigateur) : « Page · Service local », 6 abonnés, 0 suivi, « Pas encore évalué (0 avis) », intro « 🌳 ARBORITAILLE | Robin Humbert – Arboriste Grimpeur. Taille, soins, abattage, sécurisation, plantation & rognage de souches. 🌿 Un entretien raisonné et un travail soigné… 📍 JU | BE | BL | NE », Derrière Metthiez 13, +41 78 306 53 04, contact@arboritaille.ch, arboritaille.ch ; photo de couverture changée le mercredi 16.09.2026 à 11:16 (l'extrait Google indique encore « 4 followers », donnée en retard)",
+   "source": "https://www.facebook.com/p/Arboritaille-61594020257295/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Instagram : https://www.instagram.com/arboritaille/ affiche « Profile n'est pas disponible – Le lien est peut-être brisé ou le profil peut avoir été supprimé » (vérifié dans le navigateur)",
+   "source": "https://www.instagram.com/arboritaille/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "TikTok : https://www.tiktok.com/@arboritaille renvoie « Couldn't find this account » (statusCode 10221)",
+   "source": "https://www.tiktok.com/@arboritaille",
+   "confiance": "haute"
+  },
+  {
+   "fait": "LinkedIn : linkedin.com/company/arboritaille renvoie HTTP 403 (page protégée), ce qui ne prouve ni l'existence ni l'absence d'une page entreprise ou d'un profil Robin Humbert ; non vérifiable sans compte connecté",
+   "source": "https://www.linkedin.com/company/arboritaille",
+   "confiance": "faible"
+  },
+  {
+   "fait": "search.ch : « Arboritaille », catégorie Arboriculture (version DE « Obstbau » confirmée par l'extrait Google), Derrière-Metthiez 13, 2950 Courgenay JU, portable 078 306 53 04 « Ne souhaite pas de publicité », site http://arboritaille.ch/, horaires Lu-Ve 08:00-12:00 / 13:30-17:00, description « Gestion et entretien du patrimoine arboré » (conseils et analyse de l'arbre, taille raisonnée, sécurisation, plantation, abattage), 0 avis, « Source des données : DataAgent »",
+   "source": "https://search.ch/tel/courgenay/derriere-metthiez-13/arboritaille.fr.html",
+   "confiance": "haute"
+  },
+  {
+   "fait": "local.ch : « Arboritaille », Arboriculture, Derrière-Metthiez 13, 2950 Courgenay, 078 306 53 04, contact@arboritaille.ch, Arboritaille.ch, lun-ven 08:00-12:00 / 13:30-17:00, sam-dim fermé, « Pas encore d'avis », mention exacte « Entreprise non revendiquée » (et non « Entreprise non vérifiée »), source Swisscom Directories SA",
+   "source": "https://www.local.ch/fr/d/courgenay/2950/arboriculture/arboritaille-gMcNk4YQmHDsPArWfadE1A",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Annuaire des entreprises de la commune de Courgenay : « Arboritaille », contact Humbert Robin, Derrière-Metthiez 13, 2950 Courgenay, 078 306 53 04, contact@arboritaille.ch, https://arboritaille.ch/",
+   "source": "https://www.courgenay.ch/firmenverzeichnis/295450",
+   "confiance": "haute"
+  },
+  {
+   "fait": "yellowpages.swiss : Arboritaille, Humbert Robin, RC actif CH-670.1.009.977-2, inscription 13.06.2024, UID CHE-424.403.827, coordonnées 47.4003057 / 7.1249111 ; autre entreprise à la même adresse : AMC Bois, Arnaud Biaggi (CHE-483.405.796)",
+   "source": "https://yellowpages.swiss/company/CHE-424.403.827/arboritaille-humbert-robin-courgenay",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Kompass (vérifié dans le navigateur) : « ARBORITAILLE, HUMBERT ROBIN », 2950 Courgenay, « Fondé en 2024 », nature Siège, forme juridique « Raison de commerce individuelle », Registration No. CHE-424.403.827, site http://www.arboritaille.ch, effectifs non renseignés ; classification sectorielle erronée « Panneaux et avertisseurs lumineux ». CORRECTION : ni la mention « accessoires d'armes » ni le but « Gestion du patrimoine arboré » n'apparaissent sur la fiche",
+   "source": "https://fr.kompass.com/c/arboritaille-humbert-robin/chd19265/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Site actuel arboritaille.ch (généré par Hostinger Website Builder) : titre « Arboriste Jura, Neuchâtel & Berne – Élagage & soins aux arbres | Arboritaille », slogan « La passion d'un métier, le respect du vivant, la sagesse des arbres. », services (analyse/expertise, taille, rehaussement, réduction, haubanage, plantation avec tuteurage tripode, abattage, démontage, rétention, grue, rognage de souches), cibles entreprises/collectivités/particuliers, tél. +41 (0)78 306 53 04, contact@arboritaille.ch ; pas d'adresse sur l'accueil, pas de mentions légales, pas de liens vers des réseaux sociaux",
+   "source": "https://arboritaille.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "CORRECTION : le site actuel contient bien une donnée structurée, un JSON-LD @type « WebSite » (name « Arboriste Jura, Neuchâtel & Berne – Élagage & soins aux arbres », url https://arboritaille.ch, description, image logo sur assets.zyrosite.com, inLanguage fr, keywords élagage / tailler un arbre / tailler). Il n'y a en revanche aucun balisage LocalBusiness, Organization ou Service",
+   "source": "https://arboritaille.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Sitemap du site actuel : 3 URL (https://arboritaille.ch, /prise-de-rendez-vous, /elagage-quand-et-pourquoi), lastmod 2026-05-06T11:31:54.000Z pour chacune",
+   "source": "https://arboritaille.ch/sitemap.xml",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Article « Élagage : Quand et pourquoi faut-il tailler les arbres ? » publié le 22.05.2025, 7 min de lecture, sans auteur nommé, citant Christophe Drénou et « La Taille des arbres d'ornement » ; le pied de page décrit Robin Humbert comme « Arboriste-grimpeur, élagueur, soins aux arbres, plantation, abattage, démontage » (Jura, Neuchâtel, Berne), sans formation ni ancienneté",
+   "source": "https://arboritaille.ch/elagage-quand-et-pourquoi",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Page /prise-de-rendez-vous : adresse Derrière-Metthiez 13, 2950 Courgenay JU, « Besoin d'un devis ? C'est gratuit et sans engagement ! », formulaire (nom/prénom ou collectivité*, e-mail*, téléphone, adresse, disponibilités, message*), clause de confidentialité (données « strictement confidentielles », droits d'accès/rectification/suppression via contact@arboritaille.ch) ; pas d'horaires, pas de forme juridique",
+   "source": "https://arboritaille.ch/prise-de-rendez-vous",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Landing pages Google Ads page.arboritaille.ch (site en ligne + dépôt local arboritaille-lp) : « Robin Humbert, arboriste-grimpeur », Courgenay en Ajoie, « Réponse sous 48 h ouvrées », « Devis gratuit et sans engagement », « Devis écrit et détaillé », grimpe sur corde par défaut, nacelle/grue/machines au besoin, hélicoptère dans les cas exceptionnels ; aucune certification, aucune ancienneté, aucune mention légale, aucun JSON-LD (grep du dépôt : 0 occurrence de ld+json)",
+   "source": "https://page.arboritaille.ch",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Aucun article de presse trouvé : la première page de résultats Google « Arboritaille Courgenay » ne renvoie que le site, local.ch, search.ch, moneyhouse, Kompass, courgenay.ch et Facebook ; aucune occurrence lqj.ch, rfj.ch, arcinfo.ch, canalalpha.ch ou rts.ch. Absence non prouvée au-delà de ces recherches",
+   "source": "https://www.google.com/search?q=Arboritaille+Courgenay&hl=fr",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Aucune formation ni certification (CFC forestier-bûcheron, arboriste-grimpeur ES, brevet fédéral de spécialiste des soins aux arbres, CS arboriste-élagueur) mentionnée sur arboritaille.ch, page.arboritaille.ch, Facebook, Google ou les annuaires ; ne rien affirmer sur le site sans confirmation écrite du client",
+   "source": "https://arboritaille.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Traces antérieures à 2024 : aucune entreprise au nom de Robin Humbert à Neuchâtel-Urtière dans la base SIRENE (total_results 0) ; le profil AlloVoisins allovoisins.com/p/robinhumbert renvoie 404 ; les extraits de recherche AlloVoisins ne sont pas vérifiables",
+   "source": "https://recherche-entreprises.api.gouv.fr/search?q=Robin%20Humbert%20Neuch%C3%A2tel-Urti%C3%A8re",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Le profil Facebook personnel facebook.com/robin.humbert.39 n'a pas été vérifié et rien ne le relie à l'arboriste ; ne pas l'utiliser en sameAs",
+   "source": "https://www.facebook.com/robin.humbert.39/",
+   "confiance": "faible"
+  }
+ ],
+ "sources": [
+  "https://www.zefix.ch/ZefixREST/api/v1/firm/search.json",
+  "https://www.moneyhouse.ch/fr/company/arboritaille-humbert-robin-10355887001",
+  "https://shab.help.ch/publ.cfm?key=4853019",
+  "https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-424.403.827",
+  "https://www.pappers.ch/fr/company/arboritaille-humbert-robin-424403827",
+  "https://www.google.com/maps/place/Arboritaille/@47.4003057,7.1249111,17z/data=!3m1!4b1!4m6!3m5!1s0x886ef14ef321989f:0xd693583da5746414!8m2!3d47.4003057!4d7.1249111!16s%2Fg%2F11w3m1prtf?hl=fr",
+  "https://www.google.com/search?q=Arboritaille+Courgenay&hl=fr",
+  "https://www.facebook.com/p/Arboritaille-61594020257295/",
+  "https://www.instagram.com/arboritaille/",
+  "https://www.tiktok.com/@arboritaille",
+  "https://www.linkedin.com/company/arboritaille",
+  "https://search.ch/tel/courgenay/derriere-metthiez-13/arboritaille.fr.html",
+  "https://search.ch/tel/courgenay/derriere-metthiez-13/arboritaille-humbert-robin.fr.html",
+  "https://www.local.ch/fr/d/courgenay/2950/arboriculture/arboritaille-gMcNk4YQmHDsPArWfadE1A",
+  "https://www.courgenay.ch/firmenverzeichnis/295450",
+  "https://yellowpages.swiss/company/CHE-424.403.827/arboritaille-humbert-robin-courgenay",
+  "https://fr.kompass.com/c/arboritaille-humbert-robin/chd19265/",
+  "https://arboritaille.ch/",
+  "https://arboritaille.ch/sitemap.xml",
+  "https://arboritaille.ch/elagage-quand-et-pourquoi",
+  "https://arboritaille.ch/prise-de-rendez-vous",
+  "https://page.arboritaille.ch",
+  "https://github.com/cleanibat/arboritaille-lp",
+  "https://recherche-entreprises.api.gouv.fr/search?q=Robin%20Humbert%20Neuch%C3%A2tel-Urti%C3%A8re",
+  "https://www.allovoisins.com/p/robinhumbert"
+ ]
+}

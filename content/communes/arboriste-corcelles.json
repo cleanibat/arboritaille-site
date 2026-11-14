@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Corcelles (BE) : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur pour Corcelles (BE), sur la ligne Moutier–Soleure : taille, élagage, abattage, plantation. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Corcelles · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Corcelles</em> : taille, abattage et plantation",
+ "lead": "Corcelles, 189 habitants à 655 m, se trouve sur la ligne ferroviaire de Moutier à Soleure, à une trentaine de kilomètres de Courgenay. Nous y taillons, abattons et plantons des arbres, après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Une trentaine de kilomètres depuis Courgenay", "Visites groupées avec Crémines et Elay", "Taille raisonnée, silhouette conservée"],
+ "intro_eyebrow": "Vos arbres à Corcelles",
+ "intro_h2": "Sur la ligne de Moutier à Soleure, à une trentaine de kilomètres",
+ "intro": "<p>Corcelles est une commune bernoise de 189 habitants, à 655 m d'altitude, sur 6,77 km². La commune se trouve sur la ligne ferroviaire de Moutier à Soleure. Sa voisine Elay est germanophone.</p><p>Depuis Courgenay, cela représente une trentaine de kilomètres à vol d'oiseau. Nous proposons de grouper les visites : un rendez-vous à Corcelles peut être couplé à un autre à Crémines ou à Elay, pour limiter les trajets.</p><p>À cette altitude, l'hiver est plus marqué qu'en plaine et la végétation repart plus tard. Les tailles de réduction se font de novembre à mars ; les plantations, en automne ou au tout début du printemps, dans un sol ressuyé.</p>",
+ "faits": [["Habitants", "189 (2025)"], ["Altitude", "655 m"], ["Superficie", "6,77 km²"], ["Depuis Courgenay", "env. 30 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Corcelles.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle de Corcelles avant d'intervenir.",
+ "contexte": [
+  {"icone": "CLOCK", "titre": "Tournées planifiées", "texte": "Trente kilomètres, cela s'organise. Nous regroupons les chantiers du même secteur sur une même journée. Pour un arbre dangereux, nous venons dès que possible, quitte à revenir pour le reste."},
+  {"icone": "SPROUT", "titre": "Planter à 655 m", "texte": "Un jeune arbre planté ici doit supporter le froid et la neige. Nous choisissons une essence adaptée au climat du Jura, plantons avec tuteurage tripode et vous expliquons l'arrosage des deux premières années."},
+  {"icone": "SCISS", "titre": "Taille sans étêtage", "texte": "Couper la cime fait repartir l'arbre en balais fragiles. Nous réduisons la couronne branche par branche, sur des tire-sève, pour garder une silhouette solide et naturelle."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne sur tire-sève, allègement et suppression du bois mort pour les arbres de Corcelles.",
+  "abattage-demontage": "Abattage direct ou démontage à la corde selon la place, bois débité et branches broyées.",
+  "plantation-arbres": "Choix d'une essence rustique, plantation avec tuteurage tripode, conseils d'arrosage.",
+  "haubanage": "Hauban souple pour retenir une branche lourde ou une fourche fendue et éviter la coupe."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous jusqu'à Corcelles pour un seul arbre ?", "a": "Oui. Corcelles est à une trentaine de kilomètres de Courgenay. La visite reste gratuite. Si plusieurs voisins ont des travaux, nous les planifions le même jour pour limiter les trajets depuis Courgenay."},
+  {"q": "Faut-il une autorisation pour abattre à Corcelles ?", "a": "Dans le canton de Berne, haies et bosquets sont protégés ; leur suppression passe par la préfecture. Pour un arbre isolé, le règlement communal de Corcelles décide. Nous vérifions avant d'intervenir."},
+  {"q": "Quelle essence planter à Corcelles ?", "a": "Cela dépend du sol, de la place et de l'usage : ombre, fruits, écran. À cette altitude, nous privilégions des essences rustiques, feuillus indigènes ou fruitiers adaptés au froid, et évitons les arbres de climat doux."},
+  {"q": "Pouvez-vous réduire un arbre devenu trop haut sans l'étêter ?", "a": "Oui. Une réduction de couronne raccourcit chaque branche sur une ramification plus basse. L'arbre garde sa forme, cicatrise mieux et ne produit pas les rejets cassants d'un étêtage."},
+  {"q": "Travaillez-vous aussi pour la commune ou une entreprise à Corcelles ?", "a": "Oui. Collectivités, entreprises et gérances reçoivent un devis par arbre ou par lot, un planning et, si besoin, un rapport écrit après chantier. La visite préalable est gratuite."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, à abattre ou à planter à Corcelles ?",
+ "cta_lead": "Visite et devis gratuits, déplacement groupé avec le secteur."
+}

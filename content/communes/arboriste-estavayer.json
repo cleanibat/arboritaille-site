@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Estavayer (FR) : taille, abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Estavayer, d'Estavayer-le-Lac à Vuissens (FR). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-3", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Estavayer · Broye",
+ "h1": "Arboriste-grimpeur à <em>Estavayer</em> : taille, abattage et soins aux arbres",
+ "lead": "Estavayer réunit depuis 2017 sept anciennes communes, d'Estavayer-le-Lac à Vuissens, sur plus de 40 km². Nous y venons pour tailler, abattre, planter ou expertiser vos arbres, pour les particuliers comme pour les gérances et la commune.",
+ "points": ["Visite et devis gratuits", "Dix villages et localités couverts", "Gérances, entreprises et collectivité", "Planning groupé par secteur"],
+ "intro_eyebrow": "Vos arbres à Estavayer",
+ "intro_h2": "Sept anciennes communes, dix localités, 40 km²",
+ "intro": "<p>Estavayer est née le 1er janvier 2017 de la fusion de Bussy, Estavayer-le-Lac, Morens, Murist, Rueyres-les-Prés, Vernay et Vuissens. Elle compte 10 812 habitants et s'étend sur 40,36 km², à 448 m d'altitude.</p><p>Dix localités postales composent la commune, de 1470 Estavayer-le-Lac à 1542 Rueyres-les-Prés, en passant par Font, Autavaux, Forel et Montbrelloz. Les situations peuvent donc varier d'un village à l'autre : jardin de bourg, cour de ferme ou immeuble locatif.</p><p>Une commune de 10 812 habitants compte en général des immeubles en gérance, des entreprises et des espaces publics, en plus des villas. Nous établissons un devis par arbre ou par lot, avec planning et rapport si vous le souhaitez.</p><p>Courgenay est à environ 65 km à vol d'oiseau. Nous groupons les visites de la Broye sur une même journée ; la visite reste gratuite et la réponse arrive sous 48 h ouvrées.</p>",
+ "faits": [["Habitants", "10 812 (2025)"], ["Altitude", "448 m"], ["Superficie", "40,36 km²"], ["Depuis Courgenay", "env. 65 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Estavayer.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Estavayer avant d'intervenir.",
+ "contexte": [
+  {"icone": "USERS", "titre": "Gérances et collectivité", "texte": "Immeubles, écoles, cimetières, places : nous intervenons sur un parc d'arbres avec un devis par sujet, un calendrier et un rapport écrit. La visite préalable est gratuite."},
+  {"icone": "HOME", "titre": "Villages réunis", "texte": "De Font à Vuissens, chaque village garde ses arbres de cour et de jardin. Nous venons voir chacun sur place : la taille se décide devant l'arbre, pas sur plan."},
+  {"icone": "SPROUT", "titre": "Planter à 448 m", "texte": "À cette altitude, le climat est plus doux qu'en montagne jurassienne et le choix d'essences est large. Nous l'orientons selon le sol, la place et l'ombre souhaitée, avec tuteurage tripode."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction et rehaussement de couronne pour les jardins, cours et immeubles d'Estavayer.",
+  "abattage-demontage": "Démontage à la corde en zone bâtie, abattage dirigé en terrain libre, évacuation du bois et des branches.",
+  "plantation-arbres": "Plantation d'arbres d'ombrage ou fruitiers adaptés au climat de la Broye, avec tuteurage tripode.",
+  "diagnostic-expertise-arbre": "Avis écrit sur l'état d'un arbre avant toute décision, pour un particulier, une PPE ou la commune.",
+  "collectivites-entreprises": "Devis par lot, planning et rapport pour les gérances, entreprises et services communaux."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans tous les villages d'Estavayer ?", "a": "Oui : Estavayer-le-Lac, Font, Autavaux, Forel, Montbrelloz, Vuissens, Murist, Bussy, Morens et Rueyres-les-Prés. La visite est gratuite et nous regroupons les rendez-vous d'un même secteur."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Estavayer ?", "a": "Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager hors zone à bâtir sont protégés ; leur suppression demande une dérogation communale. En zone à bâtir, le règlement communal d'urbanisme s'applique. Nous vérifions pour vous."},
+  {"q": "Soixante-cinq kilomètres, comment organisez-vous les déplacements ?", "a": "Nous planifions les visites et chantiers de la Broye par journées groupées. La visite reste gratuite ; le devis écrit tient compte de l'organisation retenue. Pour une urgence, nous fixons un délai au téléphone."},
+  {"q": "Travaillez-vous pour une gérance ou une PPE ?", "a": "Oui. Nous fournissons un devis par arbre ou par lot, un planning compatible avec les locataires et un rapport après intervention, utile pour l'assemblée ou le propriétaire."},
+  {"q": "Faites-vous un diagnostic avant d'abattre ?", "a": "Oui, lorsque l'état de l'arbre est en question. Nous examinons tronc, collet, fourches et couronne, et remettons un avis écrit. Souvent, une taille ou un haubanage suffit à conserver l'arbre."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Des arbres à entretenir à Estavayer ?",
+ "cta_lead": "Visite et devis gratuits, pour un arbre ou pour un parc entier."
+}

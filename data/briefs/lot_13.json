@@ -1,0 +1,864 @@
+[
+ {
+  "slug": "arboriste-avenches",
+  "nom": "Avenches",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 4945,
+  "tier": 2,
+  "npa": "1580 Avenches  1580 Donatyre",
+  "altitude": "480 m",
+  "superficie": "17,56 km2",
+  "densite": "282 hab./km2",
+  "gentile": "Avenchois ou Aventiciens",
+  "langue": "Français",
+  "localites": "Donatyre, Oleyres",
+  "population_detail": null,
+  "distance_courgenay_km": 60,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Avenches",
+  "intro": "Cet article ne cite pas suffisamment ses sources (février 2022). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». (A remplacé Gaetan Aeby en cours de mandat) Avenches est une localité et une commune suisse du district de la Broye-Vully dans le canton de Vaud. À l'époque du Haut-Empire romain, Avenches, alors appelée Aventicum, est le chef-lieu de la cité des Helvètes. Mais elle est victime dès le milieu du IIIe siècle d'une irruption d'Alamans dans l'empire, prélude aux grandes invasions du Ve siècle. On y trouve cependant un évêque au VIe siècle, saint Marius.",
+  "sections": {
+   "Toponymie": "Le nom de la commune est issu de celui d'un ancien ruisseau, Aventĭa, d'origine peut-être pré-celtique, et du suffixe celtique -ĭko, devenu -ĭcum en latin. Son ancien nom allemand est Wifflisburg. Son nom officiel sous l'Empire romain était Colonia Pia Flavia Constans Emerita Helvetiorum Fœderata.",
+   "Histoire": "À l'époque romaine, Aventicum est la capitale de la cité gallo-romaine des Helvètes, située dans la province de Gaule belgique (chef-lieu : Reims/Durocortorum) à partir du règne d'Auguste (début du Ier siècle), puis dans la province de Germanie supérieure (chef-lieu : Mayence/Mogontiacum) à partir de la fin du Ier siècle, c'est-à-dire qu'elle fait partie du limes, zone de défense de l'empire contre les Germains transrhénans. Durant la période du Haut-Empire, elle compte plus de 20 000 habitants. Son amphithéâtre (aujourd'hui très bien conservé) sert à divers spectacles au cours de l'année. Les restes d'un orgue hydraulique sur le site d'une riche demeure romaine d'Avenches constituent une découverte archéologique importante. Aventicum est dévastée par les Alamans en 258. La ville est officiellement un siège épiscopal, détenu au VIe siècle par Marius d'Avenches (saint Marius). En pratique, il est possible que cet évêque ait résidé ailleurs, notamment à Vindonissa ou à Lausanne. Il est possible que le siège épiscopal d'Avenches ait été transféré à Lausanne dès la fin du VIe siècle, durant le mandat de Marius. La commune d'Avenches a fusionné le 1er juillet 2006 avec sa voisine Donatyre, à la suite de l'acceptation du projet par les habitants des deux communes le 5 juin 2005. On y trouve une belle église romane dédiée à Sainte Thècle. Le 1er juillet 2011, la commune d'Oleyres a fu",
+   "Culture et patrimoine": "La commune d'Avenches compte plusieurs monuments protégés et inscrits comme biens culturel suisse d'importance nationale, à savoir : la ville romaine d'Aventicum, la Tour de l'évêque et l'amphithéâtre, le musée romain, la cure, l'église réformée Sainte-Madeleine, le château ainsi que, sur le territoire de l'ancienne commune de Donatyre, une chapelle romane dédiée autrefois à Sainte Thècle. L'hôtel de ville, reconstruit en 1753 par l'architecte bernois Nicolas Hebler, est un imposant édifice à arcades, avec avant-corps surmonté d'un fronton sculpté par Johann Friedrich Funk I. Avenches fait partie depuis 2017 de l'association Les plus beaux villages de Suisse. La commune borde le lac de Morat et comprend une plage, un port et l'un des plus grands campings de Suisse. Aventicum est l'un des plus importants sites archéologiques de Suisse, au point qu'elle est parfois surnommée aujourd'hu ; La muraille romaine entourant Aventicum était constituée de 73 tours de garde ; il n'en reste maintenant plus qu'une ; Le musée romain d'Avenches abrite une précieuse collection d'antiquités gallo-romaines, dont la copie du buste en or de ; L'IENA (Institut équestre national d'Avenches) a ouvert ses portes en 1999 et accueille chaque année les Swiss Equidays. ; L'hippodrome d'Avenches, qui se trouve sur le terrain de l'IENA. ; Le haras national, situé à côté de l'IENA et fondé en 1899, est le dép"
+  },
+  "voisins": [
+   {
+    "nom": "Faoug",
+    "slug": null
+   },
+   {
+    "nom": "Vully-les-Lacs  Belmont-Broye",
+    "slug": null
+   },
+   {
+    "nom": "Courtepin",
+    "slug": "arboriste-courtepin"
+   },
+   {
+    "nom": "Misery-Courtion",
+    "slug": "arboriste-misery-courtion"
+   },
+   {
+    "nom": "Saint-Aubin",
+    "slug": "arboriste-saint-aubin"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-lucens",
+  "nom": "Lucens",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 4879,
+  "tier": 2,
+  "npa": "1522",
+  "altitude": "496 m",
+  "superficie": "17,7 km2",
+  "densite": "276 hab./km2",
+  "gentile": "Lucensois",
+  "langue": "Français",
+  "localites": "Brenles, Chesalles-sur-Moudon, Cremin, Forel, Lucens, Oulens, Sarzens",
+  "population_detail": "4 879 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 80,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lucens",
+  "intro": "Lucens est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully.",
+  "sections": {
+   "Toponymie": "Le toponyme Lucens semble dériver d'un nom d'origine burgonde. Il serait un dérivé du primitif Lausingos, « chez les Lausingi », lui-même dérivant d'un patronyme Lauso associé au radical laus, voulant dire « libre ».",
+   "Histoire": "Le village de Lucens est cité pour la première fois en 964-65 (in villa Losingus). Son nom est formé à l'origine d'un nom de personne germanique *Lobizo et du suffixe germanique -ingōs signifiant « chez les gens de, chez ceux du clan de ». Ce type de formation est adopté dans l'espace gallo-roman à partir du VIe siècle. Le film C'était hier évoque l'histoire ouvrière du village, prenant prétexte du passage du tour de Suisse à Lucens en 1937. En 1969, un accident survient à la centrale nucléaire expérimentale, ne faisant aucun blessé. Lors des référendums du 15 juin 2010, les communes de Lucens et Oulens-sur-Lucens valident une fusion pour former une nouvelle commune en juillet 2011. Le 30 novembre 2014, les communes de Brenles, Chesalles-sur-Moudon, Cremin, Forel-sur-Lucens, Lucens et Sarzens décident de fusionner. Le tableau suivant présente les résultats du vote dans chaque commune : La nouvelle commune, qui prend le nom de Lucens, est officiellement créée le 1er janvier 2017.",
+   "Culture et patrimoine": "Le château de Lucens sert de résidence aux évêques de Lausanne dès la fin du XIIIe siècle. L'évêque Guillaume de Menthonay y est assassiné en 1406, et son barbier, accusé du meurtre, est supplicié dans la cour du château avec des tenailles ardentes. Les campagnes menées par le duc de Bourgogne en 1475 et 1476 endommagent le château. Durant la période bernoise qui commence en 1536 et se termine en 1798, le château sert pour les baillis qui sont également installés à Moudon. Il est vendu en 1801 à des privés. L'ancienne chapelle Saint-Agnès est citée pour la première fois en 1365. Elle comporte une large nef à travée couverte d'une voûte d'ogives reposant sur des culots sculptés, et un chœur voûté de même et ajouré d'une baie à remplages, ainsi que des vestiges de décors peints sur les murs et les voûtes, du milieu du XVe siècle (œuvre de Pierre Maggenberg ?) et 1588 (œuvre de Andreas Stoss ?). L'école (datant de 1842) est conçue par les architectes lausannois Henri Perregaux et Achille de La Harpe. La Cure (datant de 1837) est conçue par l'architecte Henri Perregaux. Adrian Conan Doyle, le plus jeune fils de Sir Arthur Conan Doyle s'installe au château de Lucens en 1965 et y crée le musée Sherlock Holmes consacré à l'œuvre de son père. En 2001, ce musée est réaménagé dans la « Maison Rouge » de Lucens. Outre des livres et des objets relatifs à Sherlock Holmes, le célèbre détecti"
+  },
+  "voisins": [
+   {
+    "nom": "Bussy-sur-Moudon",
+    "slug": null
+   },
+   {
+    "nom": "Chavannes-sur-Moudon",
+    "slug": null
+   },
+   {
+    "nom": "Curtilles",
+    "slug": null
+   },
+   {
+    "nom": "Lovatens",
+    "slug": null
+   },
+   {
+    "nom": "Montanaire",
+    "slug": "arboriste-montanaire"
+   },
+   {
+    "nom": "Moudon",
+    "slug": "arboriste-moudon"
+   },
+   {
+    "nom": "Valbroye",
+    "slug": "arboriste-valbroye"
+   },
+   {
+    "nom": "Villars-le-Comte  Billens-Hennens",
+    "slug": null
+   },
+   {
+    "nom": "Prévondavaux",
+    "slug": null
+   },
+   {
+    "nom": "Siviriez",
+    "slug": "arboriste-siviriez"
+   },
+   {
+    "nom": "Surpierre",
+    "slug": null
+   },
+   {
+    "nom": "Ursy",
+    "slug": "arboriste-ursy"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-vully-les-lacs",
+  "nom": "Vully-les-Lacs",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 3689,
+  "tier": 2,
+  "npa": "1584–1587, 1589",
+  "altitude": "420 m",
+  "superficie": "22,13 km2",
+  "densite": "167 hab./km2",
+  "gentile": "Vuillerain",
+  "langue": "français",
+  "localites": "Bellerive, Chabrey, Constantine, Cotterd, Montmagny, Mur, Salavaux, Vallamand-Dessous, Vallamand, Villars-le-Grand",
+  "population_detail": null,
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Vully-les-Lacs",
+  "intro": "Vully-les-Lacs est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully.",
+  "sections": {
+   "Histoire": "Lors des référendums du 29 novembre 2009, les communes de Bellerive, Chabrey, Constantine, Montmagny, Mur, Vallamand et Villars-le-Grand ont validé une fusion pour former la nouvelle commune qui a vu le jour le 1er juillet 2011.",
+   "Transports": "La sortie de l'autoroute A1 à Avenches se situe à moins de 5 km. Les gares les plus proches sont celles d’Avenches et d'Anet. Un service de bateaux relie Vallamand-Dessous à Morat. Depuis le 14 décembre 2014, le nombre des lignes du car postal et la cadence de ses horaires ont été augmentés. Le service du PubliCar est en revanche supprimé."
+  },
+  "voisins": [
+   {
+    "nom": "Avenches",
+    "slug": "arboriste-avenches"
+   },
+   {
+    "nom": "Cudrefin  Delley-Portalban",
+    "slug": null
+   },
+   {
+    "nom": "Mont-Vully",
+    "slug": "arboriste-mont-vully"
+   },
+   {
+    "nom": "Saint-Aubin",
+    "slug": "arboriste-saint-aubin"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-valbroye",
+  "nom": "Valbroye",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 3409,
+  "tier": 2,
+  "npa": "1523–1525, 1534–1536, 1682",
+  "altitude": "473 m",
+  "superficie": "33,57 km2",
+  "densite": "102 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux, Villars-Bramard",
+  "population_detail": "3 409 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 75,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Valbroye",
+  "intro": "Valbroye est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully. Elle est le résultat de la fusion des communes de Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard le 1er juillet 2011. La commune est peuplée de 3 409 habitants. Son territoire, d'une surface de 3 350 hectares, s'étend sur les deux côtés de la vallée de la Broye.",
+  "sections": {
+   "Histoire": "Le projet prévoyait initialement la fusion de 12 communes : Cerniaz, Champtauroz, Combremont-le-Grand, Combremont-le-Petit, Dompierre, Granges-près-Marnand, Henniez, Marnand, Sassel, Seigneux, Treytorrens et Villars-Bramard. Avec une superficie de 4 540 hectares et 3 300 habitants, Valbroye serait ainsi devenue la plus vaste commune de son district et la troisième plus peuplée après Payerne et Moudon. Le 8 février 2009, la convention de fusion est soumise à votation populaire. Trois communes, Henniez, Dompierre et Treytorrens refusent la convention,. Le projet de fusion à 12 ne verra donc pas le jour. Cependant, le projet n'est pas totalement abandonné et les neuf communes ayant accepté la convention acceptent de relancer le processus de fusion. La municipalité de la commune de Champtauroz, qui a accepté la fusion à douze par 38 voix contre 35, décide de se retirer du projet le 2 avril 2009 afin de ne pas réduire les chances d'une grande fusion. Dans son état de mai 2009, Valbroye représenterait donc une commune de 2 600 habitants. Lors des référendums du 15 juin 2010, les communes de Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard ont validé une fusion pour former une nouvelle commune, Valbroye, qui voit le jour le 1er juillet 2011. Communes ayant accepté la fusion. ; Communes ayant refusé la fusion lors du ",
+   "Monuments": "Les villages de Granges-près-Marnand, Combremont-le-Petit et Sassel sont inscrits comme site ISOS. De plus, le château de Combremont-le-Grand, le temple, la cure et le château (ainsi que ses dépendances) de Granges-près-Marnand sont inscrits comme biens culturels d'importance régionale dans la liste cantonale dressée en 2009.",
+   "Transports": "La route principale 1, qui relie la commune à Lausanne et Payerne, traverse le village de Marnand. Concernant les transports en commun, les Combremonts, Granges-près-Marnand et Sassel font partie de la communauté tarifaire vaudoise Mobilis et Villard-Bramard fait partie de la communauté tarifaire fribourgeoise Frimobil. La gare de Granges-Marnand, des Chemins de fer fédéraux se trouve à Granges-près-Marnand. Elle est sur la ligne qui relie Lausanne à Payerne faisant partie du Réseau express régional vaudois et de la ligne Palézieux – Lyss. Un bus de CarPostal relie Granges-près-Marnand à Lucens et Cheiry. Le bus CarPostal reliant Payerne à Thierrens s'arrête à Sassel, Combremont-le-Grand et Combremont-le-Petit. Le bus des Transports publics fribourgeois faisant le parcours Estavayer-le-Lac-Vuissens-Estavayer-le-Lac s'arrête aussi à Combremont-le-Petit et Combremont-le-Grand. Le village de Villars-Bramard est quant à lui sur la ligne de bus CarPostal reliant Payerne à Romont. Les huit localités de la commune sont desservies par les bus sur appel Publicar, qui sont un service de CarPostal."
+  },
+  "voisins": [
+   {
+    "nom": "Champtauroz",
+    "slug": null
+   },
+   {
+    "nom": "Dompierre",
+    "slug": null
+   },
+   {
+    "nom": "Henniez",
+    "slug": null
+   },
+   {
+    "nom": "Lucens",
+    "slug": "arboriste-lucens"
+   },
+   {
+    "nom": "Montanaire",
+    "slug": "arboriste-montanaire"
+   },
+   {
+    "nom": "Trey",
+    "slug": null
+   },
+   {
+    "nom": "Treytorrens",
+    "slug": null
+   },
+   {
+    "nom": "Villarzel  Châtonnaye",
+    "slug": null
+   },
+   {
+    "nom": "Estavayer",
+    "slug": "arboriste-estavayer"
+   },
+   {
+    "nom": "Fétigny-Ménières",
+    "slug": "arboriste-fetigny-menieres"
+   },
+   {
+    "nom": "Les Montets",
+    "slug": "arboriste-les-montets"
+   },
+   {
+    "nom": "Nuvilly",
+    "slug": null
+   },
+   {
+    "nom": "Prévondavaux",
+    "slug": null
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   },
+   {
+    "nom": "Surpierre",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-corcelles-pres-payerne",
+  "nom": "Corcelles-près-Payerne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 3110,
+  "tier": 2,
+  "npa": "1562",
+  "altitude": "457 m",
+  "superficie": "12,13 km2",
+  "densite": "256 hab./km2",
+  "gentile": "Corçallin ou Corsalin",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "3 110 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Corcelles-près-Payerne",
+  "intro": "Corcelles-près-Payerne est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully.",
+  "sections": {
+   "Histoire": "Corcelles, dont le nom apparaît au Moyen Âge sous plusieurs formes dont Corsales ou encore Corsalis au XIIe siècle et qui signifie petit domaine. Il apparaît pour la première fois par écrit en 1148, lorsque le pape Eugène III confirme le rattachement de l'église Saint Nicolas de la commune au monastère de Payerne. En 1542, le village subit un grand incendie brûlant une grande partie des constructions. À la suite de la révolution vaudoise de 1798, le 27 mai 1801, les habitants de Corcelles s'adressent au Petit Conseil du canton du Léman pour obtenir leur indépendance de Payerne. Un décret accorde cette demande le 23 septembre 1801. Toutefois, ce n'est que le 2 juillet 1808 que la séparation prend acte. Sous l'occupation bernoise, leurs excellences y apportent le tabac en 1719. Cette plante y est toujours cultivée intensément dans la commune jusqu'au XXIe siècle. L'élevage chevalin est aussi une activité importante dans le village au XVIIIe siècle. Au début du XXe siècle, la Broye est endiguée. Cela permet l'exploitation agricole de la plaine.",
+   "Monuments": "Dans le village de Corcelles, deux greniers et le temple sont inscrits comme biens culturels d'importance régionale dans la liste cantonale dressée en 2009.",
+   "Transports": "Au niveau des transports en commun, Corcelles-près-Payerne fait partie des communautés tarifaires vaudoise (Mobilis) et fribourgeoise (Frimobil). Deux gares des Chemins de fer fédéraux se trouvent dans la commune. Celle de Corcelles-Sud est sur la ligne du train régional Fribourg-Yverdon-les-Bains et la gare de Corcelles-Nord est sur la ligne du train régional Lausanne-Kerzers. La commune est aussi desservie par les bus sur appel Publicar, qui sont un service de CarPostal."
+  },
+  "voisins": [
+   {
+    "nom": "Grandcour",
+    "slug": null
+   },
+   {
+    "nom": "Missy",
+    "slug": null
+   },
+   {
+    "nom": "Payerne  Belmont-Broye",
+    "slug": null
+   },
+   {
+    "nom": "Montagny",
+    "slug": "arboriste-montagny"
+   },
+   {
+    "nom": "Vallon",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cudrefin",
+  "nom": "Cudrefin",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 1915,
+  "tier": 2,
+  "npa": "1588",
+  "altitude": "434 m",
+  "superficie": "15,82 km2",
+  "densite": "121 hab./km2",
+  "gentile": "Cudrefinois",
+  "langue": "Français",
+  "localites": "Champmartin, La Sauge, Montet (Cudrefin)",
+  "population_detail": "1 915 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cudrefin",
+  "intro": "Cet article ne cite pas suffisamment ses sources (novembre 2010). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Cudrefin est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully.",
+  "sections": {
+   "Histoire": "Le littoral de Cudrefin recèle au moins trois sites archéologiques. Au lieu-dit Le Brolliet se trouvent deux stations du Bronze final. La commune de Cudrefin a fusionné le 1er janvier 2002 avec sa voisine de Champmartin.",
+   "Transports": "La sortie de l'autoroute A1 à Avenches se situe à moins de 15 km, celle de l’autoroute A5 à Thièle à moins de 10 km. La gare ferroviaire la plus proche se trouve à Anet. Un service de bateaux relie Cudrefin à Neuchâtel. Un second débarcadère se situe à La Sauge, sur la ligne de bateau reliant Neuchâtel à Morat. Le service PubliCar est également disponible, comme dans tout le reste de l'ancien district d'Avenches. Depuis 2014, un nouvel horaire de bus de ligne a été mis en place avec une plus grande fréquence de transports permettant de se rendre à Avenches et Anet."
+  },
+  "voisins": [
+   {
+    "nom": "Vully-les-Lacs  Anet  Mont-Vully",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-echallens",
+  "nom": "Échallens",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 6817,
+  "tier": 2,
+  "npa": "1040",
+  "altitude": "617 m",
+  "superficie": "6,66 km2",
+  "densite": "1 024 hab./km2",
+  "gentile": "Challensois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "6 817 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Échallens",
+  "intro": "Échallens ou Echallens (/eʃalã/ ou /ɛʃalã/) est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud dont elle est le chef-lieu.",
+  "sections": {
+   "Toponymie": "Le toponyme de la commune, qui se prononce /eʃalã/ ou /ɛʃalã/, est formé à l'origine du nom de personne germanique masculin Scarilo et du suffixe toponymique germanique -ingos. Ce type de nom est adopté dans l'espace galloroman à partir du VIe siècle. La forme actuelle est attestée depuis le XIIIe siècle. Parmi les plus anciennes occurrences de ce toponyme, on trouve en 1141 capella de Charlens ; en 1177, Uldricus miles de Escharlens ; en 1228, Eschallens ; en 1279, Eschalleins ; en 1315, Echallens. À l'époque bernoise, une forme allemande était également utilisée, Tscherlitz. La commune se nomme Ètsalyin en patois vaudois. Son ancien nom allemand est Tscherlitz.",
+   "Histoire": "À l'origine les plateaux du Jorat et du Gros-de-Vaud appartiennent à plusieurs seigneurs ecclésiastiques et séculiers tels que l'évêque de Lausanne, les sires de Grandson, de Belmont, de Montfaucon, d'Aubonne et de Cossonay. C'est dans cette région que sera formée la seigneurie d’Échallens, sur le versant occidental du Jorat, par une concession de Rodolphe III, dernier roi de Bourgogne, et d'Henri IV, empereur du Saint-Empire romain germanique, à l'intention de l'évêque de Lausanne au XIe siècle. Dès le XIIe siècle des conflits se créent entre les partisans des comtes de Bourgogne, possesseurs des terres d'Orbe et d'Yverdon, et ceux des ducs de Zähringen, recteur impériaux de la transjurane tenant Moudon et la vallée de la Broye. Pour mettre un terme à ces conflits Frédéric Barberousse impose une séparation en deux zones de la région : l'une orientale et l'autre occidentale. Dès lors naissent le Jorat de l'évêque et le Jorat d'Échallens. La région est alors principalement occupée par de grandes forêts : celle de Dommartin (qui de cette commune s'étend jusqu'à Sugnens, Fey et Rueyres), celle de Vuarrens et d'Essertines, celle de Buron (qui occupait les terres de Goumoëns-la-Ville et de Penthéréaz) et celle d'Orjulaz (couvrant les communes d'Oulens, de Bretigny, de Bioley et d'Étagnières). Les deux premières appartiennent au domaine de l'évêque de Lausanne et les deux autres sont",
+   "Culture et patrimoine": "Depuis l'introduction de la réforme par les Bernois en 1536 jusqu'à la création du canton de Vaud, Échallens est un bailliage commun entre Leurs Excellences de Berne — protestantes — et les autorités de Fribourg — catholiques. Ce territoire a donc un statut d'exception où le protestantisme n'est pas rendu obligatoire, mais où les deux confessions cohabitent, se partageant longtemps les lieux de culte. Ainsi subsiste un patrimoine religieux exceptionnel sur territoire vaudois. Il existe une Confrérie réformée d'Échallens au moins depuis 1676. Dans les premiers temps, les six membres de la Confrérie Réformée d'Échallens sont chargés en outre de visiter les écoles de trois mois en trois mois, afin que \"les enfants soient bien instruits en la piété et crainte du Seigneur, catéchisés, et bien enseignés à lire et à escrire\". Pour devenir membre de la Confrérie, on payait un \"entrage\". Cette finance s'ajoutait aux biens de la Confrérie, que l'assemblée misait pour les faire valoir ; c'était une méthode de placements des capitaux. Les membres de la Confrérie devaient être bourgeois d'Échallens jusqu'en 1864, date à laquelle on décida que pouvaient être reçus au nombre des confrères \"tous les citoyens légalement domiciliés dans la commune d'Échallens, professant la religion protestante réformée et qui s'y font agréer\". Elle fonctionne comme autorité de l'Église jusqu'en 1863, date de la"
+  },
+  "voisins": [
+   {
+    "nom": "Assens",
+    "slug": "arboriste-assens"
+   },
+   {
+    "nom": "Bottens",
+    "slug": null
+   },
+   {
+    "nom": "Goumoëns",
+    "slug": null
+   },
+   {
+    "nom": "Montilliez",
+    "slug": "arboriste-montilliez"
+   },
+   {
+    "nom": "Saint-Barthélemy",
+    "slug": null
+   },
+   {
+    "nom": "Villars-le-Terroir",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-penthalaz",
+  "nom": "Penthalaz",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 3197,
+  "tier": 2,
+  "npa": "1305",
+  "altitude": "Min. 422 mMax. 525 m",
+  "superficie": "3,87 km2",
+  "densite": "826 hab./km2",
+  "gentile": "Cancaniers - Cancanières",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Penthalaz",
+  "intro": "Penthalaz est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. Citée dès 1182, la commune fait partie du district de Cossonay entre 1798 et 2007. Elle est peuplée de 3 197 habitants (2025). Son territoire, d'une surface de 387 ha (3,87 km2), se situe dans la région du Gros-de-Vaud. La commune fait partie du district de Cossonay jusqu'à ce qu'il soit dissout le 1er septembre 2008 et du nouveau district du Gros-de-Vaud depuis. Elle a des frontières communes avec Lussery-Villars, Daillens, Penthaz, Gollion et Cossonay.",
+  "sections": {
+   "Histoire": "Les découvertes de nécropoles romaines et du haut Moyen Âge témoignent que la région est occupée depuis l'Antiquité. Toutefois, c'est en 1182 qu'on la trouve mentionnée pour la première fois sous le nom de Pentala, dans une bulle du pape Lucius III en faveur du chapitre de Lausanne. Propriété de la famille de Cossonay jusqu'à l'invasion bernoise de 1536, le village est ensuite rattaché au bailliage de Morges ; pendant la période bernoise, le village connait trois épisodes de peste en 1565, 1566 et 1613. En 1839, un incendie détruit les deux tiers du village. Lors de la révolution vaudoise de 1798, la commune envoie Benjamin Épars comme député au premier Grand Conseil vaudois.",
+   "Monuments": "Le temple du village de Penthalaz est inscrit comme bien culturel d'importance régionale dans la liste cantonale dressée en 2009. L'ancienne école attenante (1838-1841), dessinée par les architectes lausannois Henri Perregaux et Achille de La Harpe, est également recensée. Le quartier de Praz-Gérémoz forme un ensemble architectural particulier. Entièrement piéton, il a été pensé en 1968 comme un quartier de logements sociaux construit par les Câbleries et Tréfileries de Cossonay pour loger leurs employés. Le quartier de la gare est situé sur la rive droite de la Venoge. Au XIXe siècle, le lieudit était nommé Sur le Cours de la Venoge. Après l'inauguration de la gare en 1855, alors nommée Penthalaz-Cossonay, le quartier est renommé Cossonay-Gare, la première mention attestée de ce nom datant de 1862. Depuis lors, le nom de Cossonay-Gare est utilisé de manière officielle et courante. La signalisation routière indique Cossonay-Gare au lieu de Penthalaz à l'entrée du quartier. Au niveau administratif, le quartier dispose de sa propre poste et de son propre nunéro postal (1304) jusqu'en 1982 et de sa propre section dans l'annuaire téléphonique. Le nom est également utilisé par les industries qui y sont établies, les anciens Grands Moulins et anciennes Câbleries ayant pris le nom de Cossonay. En juillet 2008, la Municipalité de Penthalaz décide de ne plus utiliser la dénomination Cos",
+   "Transports": "Penthalaz fait partie de la communauté tarifaire vaudoise Mobilis. Le village est desservi par plusieurs lignes du RER Vaud, depuis la gare de Cossonay-Penthalaz située en bas du village. Par ailleurs, plusieurs lignes de bus de CarPostal, de MBC, et des TL desservent le village. Finalement, un funiculaire relie la gare de Penthalaz au village de Cossonay. En outre, en semaine, le village est desservi gratuitement par les bus communaux PPDLV, exploités conjointement avec les communes voisines."
+  },
+  "voisins": [
+   {
+    "nom": "Lussery-Villars",
+    "slug": null
+   },
+   {
+    "nom": "Daillens",
+    "slug": null
+   },
+   {
+    "nom": "Penthaz",
+    "slug": "arboriste-penthaz"
+   },
+   {
+    "nom": "Gollion",
+    "slug": null
+   },
+   {
+    "nom": "Cossonay",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-montanaire",
+  "nom": "Montanaire",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 2857,
+  "tier": 2,
+  "npa": "1410",
+  "altitude": "766 m",
+  "superficie": "33,48 km2",
+  "densite": "85 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges et Thierrens",
+  "population_detail": "2 857 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 85,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Montanaire",
+  "intro": "Montanaire est une commune suisse du canton de Vaud située dans le district du Gros-de-Vaud. Elle est créée le 1er janvier 2013 après la fusion de neuf communes. La localité de Thierrens abrite le siège administratif de la commune.",
+  "sections": {
+   "Histoire": "Lors des référendums du 29 janvier 2012, les communes de Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges et Thierrens ont validé leur fusion pour former une nouvelle commune qui a vu le jour le 1er janvier 2013. Son nom est celui d'un lieu-dit situé entre Saint-Cierges et Thierrens, qui signifie petite montagne ou colline. Les neuf communes ont approuvé la fusion par référendum. Le tableau ci-dessous donne les résultats par commune, qui deviennent des localités."
+  },
+  "voisins": [
+   {
+    "nom": "Bercher",
+    "slug": null
+   },
+   {
+    "nom": "Bioley-Magnoux",
+    "slug": null
+   },
+   {
+    "nom": "Boulens",
+    "slug": null
+   },
+   {
+    "nom": "Bussy-sur-Moudon",
+    "slug": null
+   },
+   {
+    "nom": "Démoret",
+    "slug": null
+   },
+   {
+    "nom": "Donneloye",
+    "slug": null
+   },
+   {
+    "nom": "Fey",
+    "slug": null
+   },
+   {
+    "nom": "Jorat-Menthue",
+    "slug": "arboriste-jorat-menthue"
+   },
+   {
+    "nom": "Lucens",
+    "slug": "arboriste-lucens"
+   },
+   {
+    "nom": "Montilliez",
+    "slug": "arboriste-montilliez"
+   },
+   {
+    "nom": "Moudon",
+    "slug": "arboriste-moudon"
+   },
+   {
+    "nom": "Ogens",
+    "slug": null
+   },
+   {
+    "nom": "Valbroye",
+    "slug": "arboriste-valbroye"
+   },
+   {
+    "nom": "Villars-le-Comte",
+    "slug": null
+   },
+   {
+    "nom": "Estavayer",
+    "slug": "arboriste-estavayer"
+   },
+   {
+    "nom": "Prévondavaux",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cugy-vd",
+  "nom": "Cugy (VD)",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 2814,
+  "tier": 2,
+  "npa": "1053",
+  "altitude": "710 m",
+  "superficie": "2,9 km2",
+  "densite": "970 hab./km2",
+  "gentile": "Cugiéran",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "2 814 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cugy_(Vaud)",
+  "intro": "Cugy est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. Citée dès 968, elle fait partie du district d'Échallens entre 1798 et 2007. La commune est peuplée par 2 814 habitants en 2025. Son territoire, d'une surface de 290 hectares, se situe dans la région du Gros-de-Vaud.",
+  "sections": {
+   "Histoire": "Cugy est connu sous le nom de in villa Cuzziaco en 968, puis de Cusi en 1147. Une chapelle Saint-Jean-l'Evangéliste est mentionnée en 1394. L'abbé de Montheron possède la dîme en 1444. Elle passe à la ville de Lausanne en 1545. À l'époque bernoise, Cugy fait partie du bailliage de Lausanne. Le village fait ensuite partie du district d'Échallens entre 1798 et 2007, puis du district du Gros-de-Vaud depuis 2008. La seconde moitié du vingtième siècle a été marqué par la construction de plusieurs bâtiments communaux: maison communale en 1962, station d'épuration en 1972, maison de commune en 1974 et collège en 1976. Un centre œcuménique a été inauguré en 1986. Le 30 novembre 2014, la population de Cugy approuve un projet de fusion avec les communes de Bretigny-sur-Morrens, Froideville et Morrens pour former la nouvelle commune de Haut-Talent. La fusion n'a toutefois pas lieu en raison du vote négatif de Froideville et de Morrens. Les armes de la commune de Cugy se blasonnent ainsi :De gueules à deux fasces ondées d'argent, au chef du second chargé d'une aigle du premier. Le rouge et le blanc sont les couleurs de l'évêché de Lausanne dont dépendait le village. L'aigle est une référence à Saint-Jean-l'Evangéliste, patron de la commune. Les deux bandes blanches symbolisent les deux rivières - la Mèbre et le Talent - qui délimitent le territoire communal.",
+   "Transports": "Cugy fait partie de la Communauté tarifaire Mobilis Vaud et est desservi par deux lignes d'autobus des Transports publics de la région lausannoise : Ces deux lignes sont principalement exploitées par des autobus à deux étages du constructeur écossais Alexander Dennis. Ligne 54: Renens VD, gare nord - Cheseaux-sur-Lausanne, gare - Morrens VD, Grande Salle - Le Mont-sur-L., Grand-Mont - É ; Ligne 60: Lausanne, Riponne-M. Béjart - Le Mont-sur-Lausanne, Grand-Mont - Cugy, VD, village - Bottens VD, croisée - Fro"
+  },
+  "voisins": [
+   {
+    "nom": "Bretigny-sur-Morrens",
+    "slug": null
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Le Mont-sur-Lausanne",
+    "slug": "arboriste-le-mont-sur-lausanne"
+   },
+   {
+    "nom": "Morrens",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-froideville",
+  "nom": "Froideville",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 2712,
+  "tier": 2,
+  "npa": "1055",
+  "altitude": "819 m",
+  "superficie": "7,08 km2",
+  "densite": "383 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "2 712 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Froideville_(Gros-de-Vaud)",
+  "intro": "Froideville est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. Citée dès 1284, elle fait partie du district d'Échallens entre 1798 et 2007. La commune est peuplée de 2 712 habitants en 2025. Son territoire, d'une surface de 707 hectares, se situe dans la région du Gros-de-Vaud.",
+  "sections": {
+   "Histoire": "Froideville est connu sous le nom de Frigida Villa en 1284. Des moines cultivent la région au XIIIe siècle, puis par des laïcs. Le village dépend de la juridiction de la ville de Lausanne, puis du bailliage de Lausanne à l'époque bernoise, puis du district d'Échallens dès la révolution vaudoise, de 1798 à 2007, et du district du Gros-de-Vaud depuis 2008. Le village ne possède pas de lieu de culte jusqu'à la construction d'un centre œcuménique en 1985. Les armes de la commune de Froideville se blasonnent ainsi :Coupé d'azur à la croix ancrée d'or, et de gueules à la charrue d'argent.",
+   "Transports": "Au niveau des transports en commun, Froideville fait partie de la communauté tarifaire vaudoise Mobilis. C'est le terminus du bus no 60 des Transports publics de la région lausannoise faisant le parcours Lausanne-Cugy-Montheron-Bottens-Froideville. La localité est également desservie par les bus sur appel Publicar, qui sont un service de CarPostal."
+  },
+  "voisins": [
+   {
+    "nom": "Poliez-Pittet",
+    "slug": null
+   },
+   {
+    "nom": "Jorat-Menthue",
+    "slug": "arboriste-jorat-menthue"
+   },
+   {
+    "nom": "Corcelles-le-Jorat",
+    "slug": null
+   },
+   {
+    "nom": "Montpreveyres",
+    "slug": null
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Bottens",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-penthaz",
+  "nom": "Penthaz",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 1911,
+  "tier": 2,
+  "npa": "1303",
+  "altitude": "487 m",
+  "superficie": "3,83 km2",
+  "densite": "499 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "1 911 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Penthaz",
+  "intro": "Penthaz est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. Citée dès 1011, la commune fait partie du district de Cossonay entre 1798 et 2007. Elle est peuplée de 1911 habitants en 2025. Son territoire, d'une surface de 383 hectares, se situe dans la région du Gros-de-Vaud, au bord de la Venoge.",
+  "sections": {
+   "Histoire": "La commune de Penthaz fait figurer sur ses armoiries une borne milliaire, en souvenir de la pierre marquant la route romaine menant de Vidy à Orbe, retrouvée lors de fouilles menées dans le village et dont les restes se trouvent de nos jours sous le porche de l'église Saint-Maurice. Au Moyen Âge, le village est érigé en seigneurie et appartient à la famille de Cossonay ainsi qu'au prieuré de Romainmôtier. Propriété de la famille de Charrière de 1589 à 1798, Penthaz fait partie du bailliage de Morges après l'invasion bernoise de 1536, puis du district de Cossonay après la révolution vaudoise en 1798.",
+   "Monuments": "Le village de Penthaz accueille depuis 1992 le centre d'archivage de la cinémathèque suisse, inscrite comme bien culturel d'importance nationale ; depuis 2011, des nouveaux locaux sont en construction afin de réunir l'ensemble des films et des collections iconographiques sur le site de Penthaz qui doit être terminé en 2015. En outre, le château datant de la fin du XVIIIe siècle (classé monument historique en 1965) ainsi que le temple et sa cure sont inscrits comme biens culturels d'importance régionale dans la liste cantonale dressée en 2009. Temple réformé. Ancienne église Saint-Maurice, attestée en 1228. Agrandissement de l'arc triomphal en 1676. Un clocher-porche massif est relié en 1816 au reste de l'édifice par un corps de bâtiment intégré à la nef en 1973. Classé monument historique en 1900. École (1833-1838) (rue du Vieux-Collège) avec double entrée, pour filles et garçons, par l'architecte lausannois Henri Perregaux.",
+   "Transports": "Penthaz fait partie de la communauté tarifaire vaudoise Mobilis. Le bus CarPostal reliant Cossonay-Gare à Cheseaux-sur-Lausanne s'arrête dans la commune. Elle est également desservie par les bus sur appel Publicar, qui sont aussi un service de CarPostal."
+  },
+  "voisins": [
+   {
+    "nom": "Penthalaz",
+    "slug": "arboriste-penthalaz"
+   },
+   {
+    "nom": "Daillens",
+    "slug": null
+   },
+   {
+    "nom": "Bournens",
+    "slug": null
+   },
+   {
+    "nom": "Sullens",
+    "slug": null
+   },
+   {
+    "nom": "Vufflens-la-Ville",
+    "slug": null
+   },
+   {
+    "nom": "Gollion",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-montilliez",
+  "nom": "Montilliez",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 1856,
+  "tier": 2,
+  "npa": "1041",
+  "altitude": "695 m",
+  "superficie": "11,87 km2",
+  "densite": "156 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Dommartin, Naz, Poliez-le-Grand, Sugnens",
+  "population_detail": "1 856 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Montilliez",
+  "intro": "Ne doit pas être confondu avec Montillier ou Montilier. Montilliez est commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. Créée en 2011, c'est le résultat de la fusion de Dommartin, Naz, Poliez-le-Grand et Sugnens. La commune est peuplée de 1 856 habitants. Son territoire, d'une surface de 1 181 hectares, se situe dans la région du Gros-de-Vaud.",
+  "sections": {
+   "Histoire": "Lors des référendums organisés simultanément le 5 mars 2010, les communes de Dommartin, Naz, Poliez-le-Grand et Sugnens ont approuvé leur fusion au sein de la nouvelle commune qui a vu le jour le 1er juillet 2011.",
+   "Monuments": "L'auberge communale de Poliez-le-Grand est inscrite comme bien culturel d'importance régionale dans la liste cantonale dressée en 2009.",
+   "Transports": "Au niveau des transports en commun, la commune se trouve intégralement dans l'espace couvert par la communauté tarifaire Mobilis. Elle se trouve dans les zones 51 et 58. La commune est desservie principalement par la route, via le service CarPostal ainsi que par le rail. La ligne de bus reliant Échallens à Poliez-Pittet passe par les quatre localités de la commune, celle reliant Échallens à Thierrens passe par Poliez-le-Grand et Naz et celle reliant Échallens à Moudon passe par Poliez-le-Grand. Le Chemin de fer Lausanne-Échallens-Bercher dessert la commune par la gare de Sugnens. Les quatre localités sont également desservies par les bus sur appel PubliCar, qui sont un service de CarPostal."
+  },
+  "voisins": [
+   {
+    "nom": "Bottens",
+    "slug": null
+   },
+   {
+    "nom": "Échallens",
+    "slug": "arboriste-echallens"
+   },
+   {
+    "nom": "Fey",
+    "slug": null
+   },
+   {
+    "nom": "Jorat-Menthue",
+    "slug": "arboriste-jorat-menthue"
+   },
+   {
+    "nom": "Montanaire",
+    "slug": "arboriste-montanaire"
+   },
+   {
+    "nom": "Poliez-Pittet",
+    "slug": null
+   },
+   {
+    "nom": "Villars-le-Terroir",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-assens",
+  "nom": "Assens",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 1749,
+  "tier": 2,
+  "npa": "1042",
+  "altitude": "630 m",
+  "superficie": "5,35 km2",
+  "densite": "327 hab./km2",
+  "gentile": "Assenien",
+  "langue": "Français",
+  "localites": "AssensBioley-OrjulazMalapalud",
+  "population_detail": "1 749 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Assens_(Vaud)",
+  "intro": "Assens est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. Elle regroupe les localités de Bioley-Orjulaz, Malapalud et Assens.",
+  "sections": {
+   "Toponymie": "Le nom d'Assens serait d'origine romaine. On trouve le nom d’Astlegus en 1002. le nom changea a maintes reprises : Ascens (en 1228), Astyens (en 1238), Astiens (en 1291) et pour finir Assens.",
+   "Histoire": "Un tumulus datant de La Tène et une nécropole du Haut Moyen Âge détruite en 1881 se trouvaient sur le territoire de la commune. Le site a livré des objets métalliques remarquables, illustrés en 1901 par un photographe anonyme. Moyen Âge : Assens appartenait à plusieurs seigneurs ; ; De 1476 à 1798 : Assens fait partie du bailliage d'Orbe-Échallens ; ; De 1798 à 2007 : Assens fait partie du district d'Échallens ; ; Depuis le 1er janvier 2008 : Assens fait partie du district du Gros-de-Vaud. ; XVIIIe siècle : Le village d'Assens est régi par un conseil composé de six catholiques et six protestants ; ; 1228 : création d'une paroisse catholique (de la collation de l'abbaye d'Abondance (dès 1453 au moins)) et construction ; 1585 : établissement du premier pasteur protestant (la Réforme s'installa difficilement à Assens), la paroisse devint mi ; 1845 : construction d'une deuxième église pour les catholiques, la première église devient protestante ; ; 1874 : ouverture de la ligne de chemin de fer Lausanne-Echallens-Bercher ; ; Le 1er janvier 2009, la commune d'Assens absorbe la commune de Malapalud (0,83 km2, 93 habitants). ; Le 1er juillet 2021, la commune d'Assens fusionne avec la commune de Bioley-Orjulaz (3,11 km2, 516 habitants). ; Tumulus situé dans le bois des Allemands. (biens culturels d'importance régionale) .",
+   "Culture et patrimoine": "Les armes de la commune d'Assens se blasonnent ainsi :De sinople à la gerbe d'or accompagnée en chef de deux croix tréflées du même . Adoptées en 1930, ces armoiries symbolisent par les deux croix l’instauration d’un régime religieux mixte avec une seule église pour les deux confessions. La gerbe de blé évoque quant à elle les travaux des champs. L'église Saint Germain (actuel temple) a été bâtie à la fin du XIIe siècle/début du XIIIe siècle. Elle est agrandie en 1 ; L'église catholique, dédiée à Saint Germain, est un majestueux édifice néoclassique élevé en 1842-1845 par l'architecte ; Les croix dites « de rogations ». Réparties aux alentours du village. Dans les siècles passés, on y implorait Dieu de fa"
+  },
+  "voisins": [
+   {
+    "nom": "Bettens BottensBretigny-sur-MorrensBoussensÉchallensÉtagnièresMorrensSaint-Barthélemy",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-jorat-menthue",
+  "nom": "Jorat-Menthue",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Gros-de-Vaud",
+  "population": 1566,
+  "tier": 2,
+  "npa": "1041 Montaubion-Chardonney  1058 Villars-Tiercelin  1059 Peney-le-Jorat  1061 Villars-Mendraz  1062 Sottens",
+  "altitude": null,
+  "superficie": "17,65 km2",
+  "densite": "89 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Montaubion-Chardonney, Peney-le-Jorat, Sottens, Villars-Mendraz, Villars-Tiercelin",
+  "population_detail": "1 566 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 90,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Jorat-Menthue",
+  "intro": "Jorat-Menthue est une commune suisse du canton de Vaud, située dans le district du Gros-de-Vaud. C'est le résultat de la fusion de Montaubion-Chardonney, Peney-le-Jorat, Sottens, Villars-Mendraz et Villars-Tiercelin en 2011. La commune est peuplée de 1 566 habitants en 2025. Son territoire, d'une surface de 1 765 hectares, se situe entre les régions du Jorat et du Gros-de-Vaud.",
+  "sections": {
+   "Histoire": "La commune de Jorat-Menthue a vu le jour le 1er juillet 2011, à la suite de la fusion des communes de Montaubion-Chardonney, Peney-le-Jorat, Sottens, Villars-Mendraz et Villars-Tiercelin. Elle fait partie dès sa création du district du Gros-de-Vaud.",
+   "Monuments": "Outre l'émetteur de Sottens, classé comme bien culturel d'importance nationale, la commune compte également plusieurs objets inscrits comme biens culturels d'importance régionale dans la liste cantonale dressée en 2009 : la ferme de La Cassine, à Villars-Tiercelin ainsi que deux greniers à Sottens.",
+   "Transports": "Les cinq localités de la commune font partie de la communauté tarifaire vaudoise Mobilis. Le bus CarPostal reliant Thierrens à Épalinges s'arrête à Sottens, Villars-Mendraz, Peney-le-Jorat et Villars-Tiercelin, celui reliant Échallens à Moudon s'arrête à Villars-Tiercelin, Peney-le-Jorat et Villars-Mendraz et celui reliant Échallens à Poliez-Pittet s'arrête à Montaubion, Chardonney et Villars-Tiercelin. Ces localités sont également desservies par les bus sur appel Publicar, qui sont aussi un service de CarPostal,."
+  },
+  "voisins": [
+   {
+    "nom": "Hermenches",
+    "slug": null
+   },
+   {
+    "nom": "Moudon",
+    "slug": "arboriste-moudon"
+   },
+   {
+    "nom": "Montanaire",
+    "slug": "arboriste-montanaire"
+   },
+   {
+    "nom": "Montilliez",
+    "slug": "arboriste-montilliez"
+   },
+   {
+    "nom": "Poliez-Pittet",
+    "slug": null
+   },
+   {
+    "nom": "Froideville",
+    "slug": "arboriste-froideville"
+   },
+   {
+    "nom": "Corcelles-le-Jorat",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-yverdon-les-bains",
+  "nom": "Yverdon-les-Bains",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 30590,
+  "tier": 2,
+  "npa": "1400 Yverdon-les-Bains1401 Yverdon-les-Bains1432 Gressy",
+  "altitude": "433 m",
+  "superficie": "11,28 km2",
+  "densite": "2 712 hab./km2",
+  "gentile": "Yverdonnois, Yverdonnoise",
+  "langue": "Français",
+  "localites": "Gressy, Sermuz",
+  "population_detail": "30 590 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 80,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Yverdon-les-Bains",
+  "intro": "Yverdon-les-Bains est une ville et une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois, dont elle est le chef-lieu.",
+  "sections": {
+   "Toponymie": "L'étymologie d’« Yverdon » (/i.vɛʁ.dɔ̃/ Écoutezⓘ) est peu claire. En l'état actuel de la recherche, il semble impossible de déterminer de manière certaine si le nom a été formé avec le nom d'une personne ou avec le nom commun homonyme. En effet, ce toponyme, attesté sous la forme latinisée « Eburodunum » provient du celtique « eburo », c'est-à-dire « Eburos » (nom de personne celtique) ou du nom commun « ibar », if, suivi de l'élément « dūno- », fort, forteresse, oppidum. Parmi les plus anciennes mentions, on trouve vers l'an 300 « Eburoduno », vers 325, « castrum Ebredunense », en 971 « in pago Everdunense », en 1177 « in valle de Euerdun », en 1324, « Stephanus de Yverdun ». Par la suite, on trouve régulièrement « Yverdon » (en francoprovençal « Invèrdon »), mais sous l'Ancien Régime, l'administration bernoise utilise aussi la forme allemande « Ifferten ». Lancée en 1977 par le syndic Pierre Duvoisin, l'évolution du nom en Yverdon-les-Bains n'a été validée par le canton que le 27 novembre 1981. Elle accompagne la rénovation des bains thermaux et rappelle que la ville est depuis longtemps un centre thermal de réputation. Cette appellation avait d'ailleurs déjà été utilisée au XVIIIe siècle pour la promotion touristique. Toutefois, les CFF et les PTT attendront l'an 2000 et de nombreuses relances de la commune avant de modifier le nom de la ville, notamment sur les panneaux de ",
+   "Histoire": "Yverdon-les-Bains compte parmi les plus anciennes villes de Suisse. Elle possède un riche patrimoine témoignant d’un passé de plus de 6 000 ans. Les origines de la ville remontent à l’âge du Néolithique et peuvent être situées aux alentours de 4000 avant notre ère. Au cours du IIe siècle av. J.-C., les Helvètes s’installent sur le Plateau suisse et la région d’Yverdon-les-Bains fait dès lors partie de leur territoire. Sous domination romaine dès la fin du Ier siècle av. J.-C., Eburodunum connaît un développement et un essor dus essentiellement à sa situation géographique aux abords d’un carrefour routier et fluvial d’importance européenne. Les Burgondes s’y installent au Ve siècle et l’occupation du site se poursuit sans discontinuité. Au cours du XIIIe siècle se développe un nouveau noyau urbain entre le lac et la cité gallo-romaine. Le futur comte Pierre II de Savoie décide d’y construire un château et une ville neuve. Après plus de trois siècles de régime savoyard, la cité est conquise en 1536 par les troupes bernoises. Haut lieu de l’imprimerie et de l’édition, Yverdon-les-Bains resplendit au XVIIIe siècle d’un faste que reflète l’architecture de ses édifices publics et de ses plus riches demeures. Sa source thermale suscite de nouvelles constructions, attire une clientèle cosmopolite et participe au rayonnement de la cité qui devient vaudoise après la révolution de 1798. L",
+   "Culture et patrimoine": "La construction du château d'Yverdon date du XIIIe siècle. Il a été bâti en 1757 d'après des plans de l'architecte Jean-Michel Billon, de Genève, à la place de l'ancienne chapelle Notre-Dame dont il a gardé le clocher qui avait été reconstruit en 1608 d'après un original du XIVe siècle. Les quatorze stalles proviennent de l'ancienne chapelle, tandis que les orgues ont été construites en 1766. Il a été classé monument historique en 1900. Il a été construit entre 1768 et 1773 sur le modèle de l'Hôtel de musique de la ville de Berne. Il a été classé monument historique en 1959. Actuellement Maison d'Ailleurs, musée de la science-fiction, elle a été bâtie selon les plans de l'architecte lausannois Alexandre Perregaux (1805). Elle a été classée monument historique en 1954. Ces quatre bâtiments bordent la place Pestalozzi, qui constitue le centre de la ville d'Yverdon-les-Bains. Bâtie en 1838, de type basilical, néoclassique, elle est l’œuvre de l’architecte lausannois Henri Perregaux. Elle a été classée monument historique en 1993. Yverdon-les-Bains, ville (qualités de situation, spatiales, historico-architecturales) Les sites préhistoriques palafittiques autour des Alpes fond partie du Patrimoine mondial de l'UNESCO : baie de Clendy. La Ville d'Yverdon-les-Bains a reçu en 2009 le Prix Wakker de Patrimoine suisse pour « la manière dont elle gère son espace public, la collaboration e"
+  },
+  "voisins": [
+   {
+    "nom": "Montagny-près-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Cheseaux-Noréaz",
+    "slug": null
+   },
+   {
+    "nom": "Cuarny",
+    "slug": null
+   },
+   {
+    "nom": "Pomy",
+    "slug": null
+   },
+   {
+    "nom": "Belmont-sur-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Épendes",
+    "slug": null
+   },
+   {
+    "nom": "Treycovagnes",
+    "slug": null
+   },
+   {
+    "nom": "Essertines-sur-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Valeyres-sous-Ursins",
+    "slug": null
+   }
+  ]
+ }
+]

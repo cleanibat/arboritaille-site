@@ -1,0 +1,35 @@
+{
+ "title": "Les Ponts-de-Martel (NE) : arboriste-grimpeur | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres, Les Ponts-de-Martel (NE), village au nom de tourbière, à 1 084 m. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Les Ponts-de-Martel · Montagnes neuchâteloises",
+ "h1": "<em>Les Ponts-de-Martel</em> : arboriste-grimpeur, de la taille à l'abattage",
+ "lead": "Le nom Les Ponts-de-Martel vient de « martel », le marais tourbeux du Jura neuchâtelois. Dans ce village de 1 234 habitants, à 1 084 m, nous taillons, haubanons et démontons vos arbres, sur devis gratuit.",
+ "points": ["Visite sur place et devis gratuits", "Ancrage et tronc examinés avant tout", "Haubanage plutôt qu'abattage si possible", "À environ 55 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres aux Ponts-de-Martel",
+ "intro_h2": "Un village qui doit son nom à la tourbière",
+ "intro": "<p>Le marteau du blason est trompeur. « Martel » était le nom générique des marais tourbeux du Jura neuchâtelois. C'est à la tourbière que Les Ponts-de-Martel doivent leur nom.</p><p>Ce détail compte pour les arbres. Dans un sol tourbeux, gorgé d'eau, les racines restent en général proches de la surface. Un arbre haut et bien feuillé offre alors une forte prise au vent.</p><p>Un nom ne dit pas ce qu'il y a sous votre jardin : seule la visite permet d'en juger. Elle porte d'abord sur le pied de l'arbre : collet, racines visibles, inclinaison.</p><p>Le village réunit 1 234 habitants sur 18,23 km², entre 987 et 1 330 m. L'hôtel du Cerf était encore, en 1814, une maison paysanne avec grange et écurie : un indice du passé rural du bâti ancien.</p>",
+ "faits": [["Habitants", "1 234 (2025)"], ["Altitude", "1 084 m"], ["Superficie", "18,23 km²"], ["Depuis Courgenay", "env. 55 km"]],
+ "reglement": "<strong>Autorisation d'abattage aux Ponts-de-Martel.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "SEARCH", "titre": "L'ancrage d'abord", "texte": "En terrain humide, un sol qui se soulève ou se fissure au pied de l'arbre en dit plus que sa hauteur. Nous cherchons ces signes avant de proposer quoi que ce soit."},
+  {"icone": "CABLE", "titre": "Soulager plutôt que couper", "texte": "Une réduction légère de la couronne diminue le bras de levier. Un hauban souple relie deux charpentières qui s'écartent. L'arbre reste, la charge sur les racines baisse."},
+  {"icone": "HOME", "titre": "Anciennes maisons paysannes", "texte": "Logement, grange et écurie sous un même toit : ces bâtiments ont de grands pans de toiture. Les branches qui les surplombent sont démontées par sections, retenues à la corde."}
+ ],
+ "services": {
+  "diagnostic-expertise-arbre": "Examen visuel du collet, du tronc et de la couronne pour savoir si l'arbre peut être conservé.",
+  "haubanage": "Pose de haubans souples dans la couronne pour retenir une fourche ou une charpentière fragile.",
+  "elagage-taille-arbres": "Réduction mesurée et suppression du bois mort, sans étêtage, pour diminuer la prise au vent.",
+  "abattage-demontage": "Démontage à la corde près des maisons paysannes, abattage direct en terrain dégagé. Bois débité ou évacué."
+ },
+ "faq": [
+  {"q": "Les Ponts-de-Martel : un sol humide rend-il un arbre dangereux ?", "a": "Pas forcément. Un arbre adapté peut vivre longtemps en terrain humide. Le risque augmente quand il penche davantage, quand le sol se soulève à son pied ou après des travaux près des racines. La visite permet d'en juger."},
+  {"q": "Les Ponts-de-Martel exigent-ils une autorisation d'abattage ?", "a": "Dans le canton de Neuchâtel, haies et bosquets sont protégés partout. Pour les arbres isolés, le règlement communal fait foi. Nous vérifions ce qu'il prévoit avant de fixer la date du chantier."},
+  {"q": "Peut-on conserver un arbre qui penche ?", "a": "Souvent oui, si l'inclinaison est ancienne et stable. Une réduction de couronne ou un haubanage soulage l'ancrage. Si le sol se fissure ou se soulève, le démontage devient la solution prudente."},
+  {"q": "Les Ponts-de-Martel sont-ils trop loin de Courgenay ?", "a": "Non. Le village est à environ 55 km de Courgenay à vol d'oiseau. La visite et le devis restent gratuits. Nous répondons à votre demande sous 48 h ouvrées et convenons ensemble d'un rendez-vous."},
+  {"q": "Quelle période pour tailler à 1 084 m ?", "a": "De la chute des feuilles au débourrement, hors grand froid. À cette altitude, le printemps arrive tard : la taille des feuillus reste possible plus longtemps qu'en plaine. Le bois mort se retire en toute saison."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un doute sur la tenue d'un arbre aux Ponts-de-Martel ?",
+ "cta_lead": "Nous venons le voir. Visite et devis gratuits, sans engagement."
+}

@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Belmont-Broye : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Belmont-Broye : Domdidier, Dompierre, Léchelles et Russy (FR). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Belmont-Broye · Broye",
+ "h1": "Arboriste-grimpeur à <em>Belmont-Broye</em> : taille, abattage et plantation",
+ "lead": "Belmont-Broye regroupe Domdidier, Dompierre, Léchelles et Russy, 6 287 habitants à 443 m d'altitude dans la Broye fribourgeoise. Nous y taillons, abattons et plantons des arbres, pour particuliers, gérances et commune, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Quatre villages, une seule commune", "Démontage à la corde entre les maisons", "Une soixantaine de kilomètres depuis Courgenay"],
+ "intro_eyebrow": "Vos arbres à Belmont-Broye",
+ "intro_h2": "Quatre villages, une administration à Domdidier",
+ "intro": "<p>Belmont-Broye existe depuis le 1er janvier 2016. Elle réunit Domdidier, Dompierre, Léchelles et Russy ; l'administration communale siège à Domdidier. La commune compte 6 287 habitants sur 25,81 km².</p><p>À 443 m, l'altitude est bien plus basse que dans les villages de la montagne jurassienne. À cette altitude, la saison de végétation est longue : un arbre de jardin atteint des dimensions gênantes plus tôt qu'en montagne.</p><p>Une commune de 244 habitants au km² mêle en général quartiers de villas, centres de village et immeubles. La méthode s'adapte : démontage à la corde entre les maisons, abattage direct quand la place le permet.</p><p>Belmont-Broye est à une soixantaine de kilomètres de Courgenay à vol d'oiseau. Nous groupons les visites de la Broye ; le devis reste gratuit et écrit.</p>",
+ "faits": [["Habitants", "6 287 (2025)"], ["Altitude", "443 m"], ["Superficie", "25,81 km²"], ["Depuis Courgenay", "env. 60 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Belmont-Broye.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de Belmont-Broye avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Quartiers de villas", "texte": "Dans les quartiers de villas, les parcelles sont étroites et les branches passent vite chez le voisin. Nous dégageons façades, toits et limites sans déséquilibrer la couronne."},
+  {"icone": "USERS", "titre": "Gérances et commune", "texte": "Immeubles locatifs, écoles, cimetières : nous établissons un devis par arbre, un planning et un rapport après intervention, et coordonnons l'accès avec les locataires ou les services."},
+  {"icone": "LEAF", "titre": "Boisements hors forêt", "texte": "Hors zone à bâtir, haies, bosquets, cordons boisés et grands arbres isolés d'intérêt écologique sont protégés dans le canton de Fribourg. Nous vérifions avant toute suppression et proposons un entretien conforme."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction mesurée et dégagement des façades pour les arbres de quartier de Belmont-Broye, sans étêtage.",
+  "abattage-demontage": "Démontage à la corde entre les maisons, abattage dirigé en terrain libre, bois et branches évacués.",
+  "plantation-arbres": "Remplacement par une essence adaptée à la place disponible, tuteurage tripode et consignes d'arrosage.",
+  "rognage-souche": "Rognage de souche sous le niveau du sol, machine compacte passant par un portail.",
+  "collectivites-entreprises": "Devis par lot, planning et rapport pour les gérances, PPE et services communaux."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Dompierre, Léchelles et Russy comme à Domdidier ?", "a": "Oui, les quatre villages forment la commune de Belmont-Broye. La visite est gratuite dans chacun. Nous planifions les rendez-vous par journée pour limiter les déplacements depuis Courgenay."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Belmont-Broye ?", "a": "En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune, avec compensation. Nous nous renseignons pour vous."},
+  {"q": "Un arbre pousse-t-il plus vite à 443 m qu'en montagne ?", "a": "Oui, la saison de végétation est plus longue et le climat plus doux. Un arbre de jardin planté il y a trente ans peut déjà dépasser le toit. Une taille régulière évite d'en arriver à l'abattage."},
+  {"q": "Que faites-vous d'une souche après abattage ?", "a": "Nous la rognons sous le niveau du sol avec une machine qui passe par un portail. Les copeaux restent sur place ou sont évacués. Vous pouvez ensuite replanter ou engazonner."},
+  {"q": "Combien de temps pour obtenir un devis ?", "a": "Nous répondons sous 48 h ouvrées et fixons une visite gratuite. Le devis écrit suit, avec le détail de la coupe, de l'évacuation et du nettoyage. Il reste sans engagement."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, à abattre ou à remplacer à Belmont-Broye ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

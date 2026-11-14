@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Grandfontaine : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Grandfontaine, dans le canton du Jura : taille douce, élagage, abattage et rognage de souche. Visite sur place et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Grandfontaine · District de Porrentruy",
+ "h1": "Arboriste-grimpeur à <em>Grandfontaine</em> : taille, abattage et soins aux arbres",
+ "lead": "Grandfontaine se trouve à 529 m d'altitude, à une quinzaine de kilomètres de Courgenay. Nous venons voir votre arbre, nous vous expliquons les options, puis vous recevez un devis écrit et gratuit.",
+ "points": ["Visite gratuite, en votre présence", "Devis écrit, arbre par arbre", "Taille raisonnée, sans étêtage", "Branches broyées ou évacuées"],
+ "intro_eyebrow": "Vos arbres à Grandfontaine",
+ "intro_h2": "Un village à 529 m, entre Fahy et la frontière française",
+ "intro": "<p>Grandfontaine appartient au district de Porrentruy. La commune compte 362 habitants sur près de neuf kilomètres carrés et touche la France par Abbévillers, comme sa voisine <a href=\"/arboriste-fahy\">Fahy</a>.</p><p>Le village est à une quinzaine de kilomètres de Courgenay. Pour un seul arbre comme pour un chantier de plusieurs jours, la visite reste gratuite et se fait avec vous, au pied de l'arbre.</p><p>À 529 m, la végétation démarre un peu plus tard qu'en plaine. La taille des fruitiers et des arbres d'ornement se cale donc sur l'état réel des bourgeons, pas sur une date fixe du calendrier.</p>",
+ "faits": [["Habitants", "362 (2025)"], ["Altitude", "529 m"], ["Superficie", "8,98 km²"], ["Depuis Courgenay", "env. 15 km"]],
+ "reglement": "<strong>Abattre un arbre à Grandfontaine.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Grandfontaine avant d'intervenir.",
+ "contexte": [
+  {"icone": "SEARCH", "titre": "La visite d'abord", "texte": "Nous regardons l'arbre avec vous : pied du tronc, charpentières, bois mort, ce qui se trouve dessous. Vous savez ensuite ce qui est nécessaire, ce qui est souhaitable et ce qui peut attendre."},
+  {"icone": "DOC", "titre": "Un devis lisible", "texte": "Chaque intervention est décrite arbre par arbre, avec le sort des branches et du bois. Le devis est gratuit et ne vous engage pas. Nous répondons à votre demande sous 48 h ouvrées."},
+  {"icone": "MOUNT", "titre": "Tenir compte de l'altitude", "texte": "Entre plaine et montagne, des gelées tardives restent possibles au printemps. Nous évitons les tailles sévères juste avant le débourrement et préférons des coupes de petit diamètre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, allègement ou rehaussement de couronne, avec des coupes de petit diamètre que l'arbre referme bien.",
+  "abattage-demontage": "Abattage direct si la place le permet, sinon démontage pièce par pièce à la corde. Terrain rendu propre.",
+  "rognage-souche": "La souche est rognée sous le niveau du sol. Vous récupérez une surface plane, prête à être semée ou replantée.",
+  "plantation-arbres": "Choix d'une essence adaptée à 529 m, plantation et tuteurage tripode, avec les consignes d'arrosage pour les premières années."
+ },
+ "faq": [
+  {"q": "Grandfontaine est-elle dans votre zone d'intervention ?", "a": "Oui. Grandfontaine est à une quinzaine de kilomètres de Courgenay, dans le district de Porrentruy. Nous nous déplaçons pour un arbre isolé comme pour plusieurs sujets. La visite et le devis sont gratuits."},
+  {"q": "Comment se passe la première visite ?", "a": "Nous convenons d'un rendez-vous, de préférence en votre présence. Nous examinons l'arbre, son environnement et l'accès. Vous nous dites ce qui vous gêne ou vous inquiète. Le devis écrit suit, avec une ou plusieurs options."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Grandfontaine ?", "a": "Cela dépend de l'emplacement. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne. En zone à bâtir, le règlement communal désigne les arbres protégés. Nous posons la question à la commune de Grandfontaine avant d'intervenir."},
+  {"q": "Peut-on tailler un arbre en été ?", "a": "Oui, pour certaines opérations. Le bois mort s'enlève toute l'année et une taille légère en feuilles convient à plusieurs essences. Les réductions importantes et l'entretien des haies se font plutôt pendant le repos de la végétation."},
+  {"q": "Rognez-vous la souche après l'abattage ?", "a": "Sur demande, oui. Le rognage figure sur le devis comme une ligne séparée. La souche est réduite en copeaux sous le niveau du sol, ce qui évite de terrasser et laisse le reste du jardin intact."}
+ ],
+ "cta_img": "abattage_sequoia",
+ "cta_h2": "Un arbre à faire examiner à Grandfontaine ?",
+ "cta_lead": "La visite est gratuite et le devis ne vous engage pas. Réponse sous 48 h ouvrées."
+}

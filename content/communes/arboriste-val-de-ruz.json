@@ -1,0 +1,37 @@
+{
+ "title": "Arboriste-grimpeur à Val-de-Ruz : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et rognage de souche à Val-de-Ruz (NE) : Cernier, Fontainemelon, Dombresson, Les Hauts-Geneveys. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Val-de-Ruz · Cernier, Dombresson, Fontainemelon",
+ "h1": "Arboriste-grimpeur à <em>Val-de-Ruz</em> : taille, abattage et soins aux arbres",
+ "lead": "Val-de-Ruz réunit quinze anciennes communes et 17 543 habitants entre Neuchâtel et La Chaux-de-Fonds. Jardins de villas, immeubles, espaces publics : nous taillons, abattons et plantons vos arbres, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Quinze villages, une seule commune", "Particuliers, gérances et collectivités", "À environ 45 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres à Val-de-Ruz",
+ "intro_h2": "Quinze anciennes communes, une seule administration",
+ "intro": "<p>Depuis le 1er janvier 2013, Val-de-Ruz réunit quinze anciennes communes, de Montmollin à Villiers. Avec 17 543 habitants, c'est la troisième commune du canton par sa population.</p><p>Pour vos arbres, la fusion a un effet pratique. Une seule administration répond aux questions d'autorisation, que vous habitiez Cernier, Dombresson ou Les Hauts-Geneveys.</p><p>Le territoire couvre 124,26 km² et comprend aussi La Vue des Alpes et Les Bugnenets. Dans les quartiers de villas, les arbres de jardin grandissent près des maisons et finissent par toucher toitures et limites de parcelle.</p><p>Deux gares, aux Geneveys-sur-Coffrane et aux Hauts-Geneveys, desservent la ligne Neuchâtel – La Chaux-de-Fonds. Près d'une voie ou d'une route, un arbre se démonte par sections, jamais d'une pièce.</p>",
+ "faits": [["Habitants", "17 543 (2025)"], ["Altitude", "760 m"], ["Superficie", "124,26 km²"], ["Depuis Courgenay", "env. 45 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Val-de-Ruz.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Val-de-Ruz avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Une commune, un interlocuteur", "texte": "Quinze villages, mais une seule commune à interroger. Nous nous renseignons sur la protection éventuelle de votre arbre avant de vous proposer une date."},
+  {"icone": "HOME", "titre": "Jardins de villas", "texte": "Un arbre planté à la construction de la maison occupe trente ans plus tard tout le jardin. Réduire sa couronne ou relever ses branches basses lui redonne une place acceptable."},
+  {"icone": "USERS", "titre": "Gérances et services communaux", "texte": "Pour une commune de cette taille, comme pour une gérance, nous chiffrons par arbre ou par lot et remettons un planning écrit des interventions."},
+  {"icone": "PIN", "titre": "De Montmollin aux Bugnenets", "texte": "Sur 124,26 km², les situations varient : village, hameau, hauteurs. Le repérage de l'accès et du lieu de dépôt du bois se fait lors de la visite gratuite."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne, relevage des branches basses et taille d'entretien pour les arbres de jardin de Val-de-Ruz.",
+  "abattage-demontage": "Démontage par sections entre les maisons, près des routes et des voies. Bois débité ou évacué.",
+  "rognage-souche": "Souche rognée sous le niveau du sol pour replanter, semer du gazon ou aménager.",
+  "collectivites-entreprises": "Devis par lot et planning écrit pour la commune, les gérances et les entreprises.",
+  "plantation-arbres": "Plantation d'un arbre proportionné au jardin, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "À qui s'adresser à Val-de-Ruz pour une autorisation d'abattage ?", "a": "À la commune de Val-de-Ruz, qui regroupe les quinze anciennes communes depuis 2013. Les haies et bosquets relèvent en plus de la loi cantonale. Nous vérifions la règle applicable à votre arbre avant d'intervenir."},
+  {"q": "Intervenez-vous dans tous les villages de Val-de-Ruz ?", "a": "Oui : Cernier, Fontainemelon, Chézard-Saint-Martin, Dombresson, Savagnier, Coffrane, Boudevilliers et les autres localités. La visite et le devis sont gratuits partout. Nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Mon arbre dépasse chez le voisin : que pouvez-vous faire ?", "a": "Nous réduisons les branches qui franchissent la limite, sur des fourches latérales, sans mutiler l'arbre. Si la couronne entière est trop large pour la parcelle, une réduction d'ensemble est plus durable qu'une coupe d'un seul côté."},
+  {"q": "Travaillez-vous pour les gérances et les collectivités ?", "a": "Oui. Vous recevez un devis par arbre ou par lot, avec un planning écrit. Les travaux près des immeubles, des écoles ou des routes sont programmés en dehors des heures de forte fréquentation."},
+  {"q": "Peut-on replanter après avoir rogné une souche ?", "a": "Oui. Le rognage réduit la souche en copeaux sous le niveau du sol. Nous évacuons l'excédent, apportons de la terre si nécessaire et plantons le nouvel arbre légèrement à côté de l'ancien emplacement."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Val-de-Ruz ?",
+ "cta_lead": "Visite et devis gratuits dans les quinze villages de la commune."
+}

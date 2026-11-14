@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur Le Bémont (JU) : taille et abattage | Arboritaille",
+ "desc": "Le Bémont (JU), 988 m : taille, abattage et soins aux arbres au village et aux Rouges-Terres, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Le Bémont · Franches-Montagnes",
+ "h1": "<em>Le Bémont</em> : arboriste-grimpeur pour la taille, l'abattage et les soins aux arbres",
+ "lead": "Le Bémont, 299 habitants à 988 m, était encore une commune essentiellement agricole en 1990. Du village aux Rouges-Terres, nous taillons, abattons et plantons vos arbres depuis Courgenay, après une visite et un devis gratuits.",
+ "points": ["Visite et devis gratuits", "À une vingtaine de kilomètres de Courgenay", "Arbres de ferme taillés à la corde", "Haies entretenues hors nidification"],
+ "intro_eyebrow": "Vos arbres au Bémont",
+ "intro_h2": "Des fermes, une chapelle et la réserve des Royes pour voisine",
+ "intro": "<p>Le Bémont apparaît en 1330 sous la forme Le Belmont. Son ancien nom allemand est Hübschenberg. Le village se tient à 988 m, dans le district des Franches-Montagnes.</p><p>En 1990, l'agriculture restait l'activité principale. La commune compte aujourd'hui 299 habitants sur 11,67 km², répartis entre le village et Les Rouges-Terres.</p><p>Autour d'une ferme, un arbre a d'ordinaire une fonction : ombrager la cour, couper le vent, marquer l'entrée du chemin. Ce constat général guide notre travail : garder l'arbre utile, l'alléger plutôt que l'abattre.</p><p>La route des Rouges-Terres donne accès à la réserve naturelle de l'Étang des Royes, créée en 1969. Près d'un milieu protégé, les travaux sur les haies se planifient en hiver, hors nidification.</p>",
+ "faits": [["Habitants", "299 (2025)"], ["Altitude", "988 m"], ["District", "Franches-Montagnes"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage au Bémont.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur dans votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Granges et toitures", "texte": "Un grand arbre contre une grange se travaille depuis sa couronne, à la corde. Nous dégageons le toit et les chéneaux, puis les branches sont broyées, évacuées ou débitées selon votre choix."},
+  {"icone": "LEAF", "titre": "Étang des Royes", "texte": "L'étang se trouve sur Saignelégier, l'ancienne scierie des Royes sur Le Bémont. À proximité d'une réserve, haies et bosquets s'entretiennent par tronçons, pendant le repos de la végétation."},
+  {"icone": "SEARCH", "titre": "Chapelle de La Bosse", "texte": "Érigée en 1719, reconstruite en 1897, elle est dédiée à Jeanne Froidevaux, sœur Marie-Hyacinthe. De manière générale, un arbre voisin d'un édifice ancien se taille avec retenue : dégager les murs sans dénuder le lieu."},
+  {"icone": "CLOCK", "titre": "Saison courte à 988 m", "texte": "Le débourrement est tardif, les premières gelées précoces. Nous limitons le diamètre des coupes pour que l'arbre puisse les recouvrir, et nous reportons le chantier en cas de gel marqué."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, bois mort et dégagement de toiture pour les arbres de ferme et de jardin, coupes de petit diamètre.",
+  "abattage-demontage": "Démontage à la corde près des granges et des habitations, abattage direct quand le pré voisin est libre.",
+  "plantation-arbres": "Remplacement d'un arbre de cour par une essence adaptée à 988 m, avec tuteurage tripode et conseils d'arrosage.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un vieil arbre : ancrage, cavités, bois mort. Vous recevez un avis écrit avant toute décision."
+ },
+ "faq": [
+  {"q": "Le Bémont : faut-il une autorisation pour abattre un arbre ?", "a": "Cela dépend de la zone. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne, et les supprimer demande une dérogation communale. En zone à bâtir, le règlement communal désigne les arbres protégés. Nous vérifions avant d'intervenir."},
+  {"q": "Le Bémont et Les Rouges-Terres : vous déplacez-vous dans les deux ?", "a": "Oui. Les deux localités forment une seule commune, à une vingtaine de kilomètres de Courgenay. La visite est gratuite dans l'une comme dans l'autre, et le devis écrit détaille chaque arbre."},
+  {"q": "Peut-on tailler une haie au printemps près de la réserve des Royes ?", "a": "Nous le déconseillons. Les oiseaux nichent dans les haies au printemps, et la loi jurassienne protège haies et bosquets hors zone à bâtir. Nous planifions cet entretien en hiver, par tronçons, pour laisser des refuges en place."},
+  {"q": "Un vieil arbre de ferme est-il forcément dangereux ?", "a": "Non. L'âge ne suffit pas à juger. Nous examinons l'ancrage, le tronc et les charpentières. Souvent, retirer le bois mort et alléger une branche suffit. Si le risque est réel, nous proposons un démontage."},
+  {"q": "Que devient le bois après l'abattage ?", "a": "Vous choisissez. Le tronc peut être débité en bûches et laissé sur place pour votre chauffage, ou évacué. Les branches sont broyées ou emportées. Le terrain est nettoyé avant notre départ."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre de ferme ou de jardin à faire examiner ?",
+ "cta_lead": "Visite et devis gratuits dans toute la commune, Le Bémont comme Les Rouges-Terres."
+}

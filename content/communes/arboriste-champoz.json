@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Champoz (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage et abattage d'arbres à Champoz et Petit-Champoz, à 849 m dans la vallée de Tavannes (BE). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Champoz · Vallée de Tavannes",
+ "h1": "Arboriste-grimpeur à <em>Champoz</em> : taille, abattage et arbres de pâturage",
+ "lead": "Champoz et Petit-Champoz sont perchés à 849 m, dans la vallée de Tavannes. Nous y taillons, abattons et sécurisons les arbres de jardin, de ferme et de pâturage, à une vingtaine de kilomètres de Courgenay, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Arbres de pâturage et de ferme", "Démontage à la corde en terrain ouvert", "Branches broyées, bois débité"],
+ "intro_eyebrow": "Vos arbres à Champoz",
+ "intro_h2": "Un nom de pâturage, un village à 849 m",
+ "intro": "<p>Le nom de Champoz vient du latin campōne, un pâturage. Le village occupe l'emplacement d'un poste d'observation romain qui surveillait la route de Moutier à Tavannes. Il compte 160 habitants, les Champions, répartis entre Champoz et Petit-Champoz.</p><p>À cette altitude, la neige tient et le vent travaille les arbres isolés. Un arbre seul dans un pré porte des charpentières lourdes et basses ; un résineux planté près d'une maison prend vite de la hauteur.</p><p>Depuis Courgenay, une vingtaine de kilomètres à vol d'oiseau. La gare de Malleray-Bévilard et la sortie Loveresse de l'A16 sont les accès indiqués pour la commune.</p>",
+ "faits": [["Habitants", "160"], ["Altitude", "849 m"], ["NPA", "2735"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Champoz.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et les allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Champoz avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Altitude et neige", "texte": "À cette altitude, les branches peuvent casser sous la neige lourde du printemps. Un allègement de la couronne, fait en automne, réduit ce risque sur les arbres proches des toits et des accès."},
+  {"icone": "TREE", "titre": "Arbres de pâturage", "texte": "Un arbre isolé en pré travaille au vent de tous côtés. Nous supprimons le bois mort, raccourcissons les branches trop longues et conservons la couronne large qui fait son intérêt."},
+  {"icone": "WIND", "titre": "Terrain ouvert", "texte": "En pente ou en pré, les machines ne vont pas partout. Nous grimpons, démontons par pièces et descendons le bois au sol à la corde, sans ornières dans le pâturage."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement de couronne, suppression du bois mort et dégagement des toits pour les arbres de Champoz et de Petit-Champoz.",
+  "abattage-demontage": "Démontage à la corde près des fermes, abattage dirigé en pré, bois débité en billons ou en bûches.",
+  "urgence-tempete-arbre-dangereux": "Arbre cassé par la neige ou le vent : sécurisation rapide, puis démontage.",
+  "diagnostic-expertise-arbre": "Examen d'un arbre creux ou penché et avis écrit sur sa conservation."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Petit-Champoz comme à Champoz ?", "a": "Oui, les deux localités font partie de la commune de Champoz. La visite est gratuite et nous la fixons à votre convenance. Le devis écrit précise les accès retenus pour le matériel et le bois."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Champoz ?", "a": "Haies et bosquets sont protégés dans le canton de Berne ; leur suppression demande une dérogation de la préfecture. Les arbres isolés dépendent du règlement communal de Champoz. Nous vérifions pour vous avant la coupe."},
+  {"q": "Quand tailler un arbre à 849 m d'altitude ?", "a": "Le repos de la végétation est plus long qu'en plaine : les tailles se font de la chute des feuilles au débourrement, hors gel marqué. Le bois mort et les branches dangereuses se retirent toute l'année."},
+  {"q": "Un arbre de pré peut-il rester en place s'il est creux ?", "a": "Souvent, s'il n'y a pas de cible dessous. Nous mesurons la part de bois sain, allégeons la couronne et proposons un suivi. Si la stabilité n'est plus suffisante, nous recommandons l'abattage."},
+  {"q": "Que faites-vous du bois dans un pâturage ?", "a": "Le bois est débité en billons ou en bûches, laissé à votre disposition ou évacué. Les branches sont broyées ou sorties du pré, pour que le bétail puisse revenir sans gêne."}
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à voir à Champoz ou à Petit-Champoz ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

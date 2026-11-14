@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Savigny (VD) : élagage et abattage | Arboritaille",
+ "desc": "Élagage, haubanage, mise en sécurité après tempête et abattage d'arbres à Savigny (VD), entre Lavaux et Jorat. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Savigny · Lavaux-Oron",
+ "h1": "Arboriste-grimpeur à <em>Savigny</em> : élagage, abattage et mise en sécurité",
+ "lead": "Savigny s'étend entre 715 et 906 m d'altitude, à la charnière de Lavaux et du Jorat. À cette hauteur, vent et neige mettent les arbres à l'épreuve. Nous les entretenons et les sécurisons.",
+ "points": ["Visite et devis gratuits", "Bois mort retiré avant l'hiver", "Mise en sécurité après un coup de vent", "Savigny, La Claie-aux-Moines, Mollie-Margot"],
+ "intro_eyebrow": "Vos arbres à Savigny",
+ "intro_h2": "Entre 715 et 906 mètres, des arbres exposés au vent et à la neige",
+ "intro": "<p>Le territoire de Savigny couvre 1 601 hectares sur le plateau supérieur du district de Lavaux-Oron. Il fait la charnière entre Lavaux et le Jorat, dont il a les traits principaux. Le village est à 799 m.</p><p>À cette altitude, l'hiver dure plus longtemps qu'en plaine. La neige lourde charge les branches et le vent rencontre peu d'obstacles sur un plateau. Les fourches fragiles et le bois mort cèdent en premier.</p><p>Un contrôle en automne limite les surprises : retrait du bois mort, allègement des branches trop longues, <a href=\"/haubanage\">haubanage</a> d'une fourche qui s'ouvre. Si un arbre tombe malgré tout, nous assurons sa <a href=\"/urgence-tempete-arbre-dangereux\">mise en sécurité</a>.</p><p>La commune compte 3 600 habitants, entre le village, La Claie-aux-Moines et Mollie-Margot. Depuis Courgenay, il faut compter une centaine de kilomètres à vol d'oiseau.</p>",
+ "faits": [["Habitants", "3 600 (2025)"], ["Altitude", "799 m"], ["Superficie", "16,02 km²"], ["Depuis Courgenay", "env. 100 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Savigny.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Savigny avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Prise au vent", "texte": "Un arbre isolé reçoit le vent de plein fouet. Un éclaircissage mesuré de la couronne diminue la prise au vent. Nous ne la vidons jamais : un arbre trop dégarni casse davantage."},
+  {"icone": "WARN", "titre": "Neige mouillée, branches longues", "texte": "Les charpentières horizontales portent mal une neige mouillée. Les raccourcir sur un relais vivant réduit le bras de levier, donc le risque de rupture au-dessus d'un toit ou d'un chemin."},
+  {"icone": "MOUNT", "titre": "Un calendrier décalé", "texte": "Vers 800 m, les arbres débourrent plus tard qu'en plaine. Les tailles d'hiver peuvent se prolonger un peu, et nous plantons de préférence en automne pour laisser l'arbre s'enraciner avant l'été."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Retrait du bois mort et allègement des branches longues avant l'hiver, pour les arbres de Savigny exposés au vent.",
+  "urgence-tempete-arbre-dangereux": "Arbre tombé, branche cassée restée accrochée : nous dégageons d'abord ce qui menace une maison ou un accès.",
+  "haubanage": "Un hauban souple relie les deux côtés d'une fourche fragile et limite son ouverture sous la neige ou le vent.",
+  "abattage-demontage": "Démontage à la corde près des bâtiments, abattage dirigé quand le terrain est libre."
+ },
+ "faq": [
+  {"q": "Un arbre est tombé chez moi à Savigny après un coup de vent : que faites-vous ?", "a": "Écartez-vous de l'arbre, puis appelez-nous. Nous vous disons au téléphone quand nous pouvons être sur place depuis Courgenay. Nous dégageons d'abord ce qui menace une maison ou un accès ; le reste du bois est débité ensuite, sur devis."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Savigny ?", "a": "Si l'arbre est protégé par le règlement communal, la Municipalité doit donner une autorisation écrite et demande une plantation compensatoire. En cas de danger imminent, elle peut autoriser l'abattage sans mise à l'enquête. Nous vérifions la règle avant d'agir."},
+  {"q": "Quand faire contrôler mes arbres ?", "a": "L'automne convient bien : les feuilles tombent, la structure se lit mieux et les travaux se font avant la neige. Un contrôle après une tempête est utile lui aussi, même si rien n'est tombé."},
+  {"q": "Intervenez-vous à La Claie-aux-Moines et à Mollie-Margot ?", "a": "Oui, comme au village de Savigny. La visite est gratuite dans toute la commune. Nous cherchons à grouper les rendez-vous du Jorat et de Lavaux sur une même journée, pour limiter les trajets."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à contrôler avant l'hiver à Savigny ?",
+ "cta_lead": "Visite et devis gratuits, au village comme à La Claie-aux-Moines et à Mollie-Margot."
+}

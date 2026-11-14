@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Roches (BE) : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur pour Roches, commune bernoise voisine de Moutier : taille, élagage, abattage, urgence tempête. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "demontage_d-arbre_retention", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Roches · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Roches</em> : taille, abattage et arbres dangereux",
+ "lead": "Roches réunit 204 habitants sur 9,06 km², à 491 m d'altitude, à une vingtaine de kilomètres de Courgenay. Taille, démontage, abattage ou sécurisation après tempête : nous venons voir l'arbre et chiffrons par écrit, gratuitement.",
+ "points": ["Visite gratuite, devis écrit", "Commune bernoise bordée par le canton du Jura", "Intervention rapide après tempête", "Bois débité ou évacué selon le devis"],
+ "intro_eyebrow": "Vos arbres à Roches",
+ "intro_h2": "Un grand territoire pour 204 habitants, à la limite du canton du Jura",
+ "intro": "<p>Roches s'étend sur 9,06 km² pour 204 habitants, soit 23 habitants au km². Le village est à 491 m, nettement plus bas que Champoz ou Rebévelier, sur les hauteurs du même district.</p><p>Courrendlin, voisine, est jurassienne, comme Moutier depuis peu. À Roches, c'est le droit bernois qui règle l'abattage : loi cantonale pour les haies et bosquets, règlement communal pour les arbres isolés.</p><p>Une densité aussi faible suppose des habitations espacées et des arbres en bordure de prés ou de chemins. L'accès se prépare à la visite : nous repérons où stationner et par où sortir le bois.</p>",
+ "faits": [["Habitants", "204 (2025)"], ["Altitude", "491 m"], ["Superficie", "9,06 km²"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Roches.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Roches avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Après un coup de vent", "texte": "Un arbre couché sur un chemin, une branche arrachée au-dessus d'un toit : nous sécurisons d'abord, puis démontons ce qui doit l'être. Appelez-nous, nous convenons du délai au téléphone."},
+  {"icone": "MOUNT", "titre": "Un territoire étendu", "texte": "Neuf kilomètres carrés pour 204 habitants : les arbres sont parfois loin d'une route. Nous travaillons avec du matériel portable et une rétention à la corde quand aucune machine ne peut approcher."},
+  {"icone": "DOC", "titre": "Règle bernoise", "texte": "Les haies et bosquets de Roches sont protégés par la loi bernoise. Un arbre isolé dépend du règlement communal. Nous vous indiquons si une demande est nécessaire et la préparons avec vous."}
+ ],
+ "services": {
+  "urgence-tempete-arbre-dangereux": "Sécurisation et démontage d'un arbre couché, fendu ou déraciné à Roches, avec délai convenu au téléphone.",
+  "abattage-demontage": "Abattage dirigé en terrain libre, démontage par sections près des bâtiments. Bois débité sur place ou évacué.",
+  "elagage-taille-arbres": "Taille d'entretien, allègement de couronne et dégagement des toitures, chemins et lignes.",
+  "diagnostic-expertise-arbre": "Examen d'un arbre douteux et avis écrit avant toute décision d'abattage."
+ },
+ "faq": [
+  {"q": "Roches est-elle dans le canton de Berne ou du Jura ?", "a": "Dans le canton de Berne, district de Moutier. Ses voisines Courrendlin et Châtillon, et Moutier depuis peu, sont jurassiennes. Pour un arbre à Roches, nous appliquons la loi bernoise et le règlement communal."},
+  {"q": "Que faire d'un arbre tombé sur mon terrain à Roches ?", "a": "Ne touchez pas aux branches sous tension ni à un tronc instable. Prenez une photo et appelez-nous. Nous évaluons l'urgence au téléphone et fixons l'intervention au plus vite."},
+  {"q": "Pouvez-vous accéder à un arbre loin de la route ?", "a": "Oui. Nous grimpons avec du matériel portable : scie, cordes, dispositif de rétention. Les grosses pièces sont descendues au sol en contrôle, puis débitées sur place si l'évacuation n'est pas possible."},
+  {"q": "Quelle est la distance entre Courgenay et Roches ?", "a": "Une vingtaine de kilomètres à vol d'oiseau. La visite est gratuite et le devis écrit, sans engagement. Nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Faites-vous le diagnostic d'un arbre douteux ?", "a": "Oui. Nous examinons le collet, le tronc, les fourches et la couronne, cherchons champignons et cavités, puis vous remettons un avis écrit : conserver, tailler, haubaner ou abattre."}
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à sécuriser ou à abattre à Roches ?",
+ "cta_lead": "Visite et devis gratuits. Pour un arbre dangereux, appelez-nous directement."
+}

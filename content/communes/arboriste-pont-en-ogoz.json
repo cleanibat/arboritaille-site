@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Pont-en-Ogoz (FR) : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur pour Avry-devant-Pont, Le Bry et Gumefens, à Pont-en-Ogoz (FR) : taille, abattage, plantation. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Pont-en-Ogoz · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>Pont-en-Ogoz</em> : taille, abattage et soins aux arbres",
+ "lead": "Pont-en-Ogoz réunit depuis 2003 les villages d'Avry-devant-Pont, du Bry et de Gumefens. Dans chacun d'eux, nous taillons, abattons et plantons vos arbres, après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Trois villages, un seul interlocuteur", "Taille douce des fruitiers et feuillus", "Chantier nettoyé, bois débité ou évacué"],
+ "intro_eyebrow": "Vos arbres à Pont-en-Ogoz",
+ "intro_h2": "Trois villages réunis sur dix kilomètres carrés",
+ "intro": "<p>Pont-en-Ogoz est née en 2003 de la fusion d'Avry-devant-Pont, du Bry et de Gumefens. Le nom vient d'une ancienne commune, Pont-en-Ogoz, unie en 1970 à Villars-d'Avry pour former Le Bry.</p><p>La commune compte 2 050 habitants sur 10 km², entre 677 et 1 182 m d'altitude. Dans des villages de cette taille, l'habitat se compose en général de maisons individuelles, d'anciennes fermes et de jardins arborés.</p><p>Dans ce type de village, les demandes portent souvent sur un arbre devenu trop grand pour sa parcelle. Avant de parler d'abattage, nous regardons si une réduction de couronne suffit.</p>",
+ "faits": [["Habitants", "2 050 (2025)"], ["Altitude", "816 m"], ["Superficie", "10,02 km²"], ["Depuis Courgenay", "env. 80 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Pont-en-Ogoz.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de la commune de Pont-en-Ogoz avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Villages et anciennes fermes", "texte": "Autour d'une ancienne ferme, les arbres plantés pour l'ombre ou le coupe-vent prennent de l'ampleur avec les décennies. Nous dégageons toitures et façades par une taille mesurée, sans étêter."},
+  {"icone": "MOUNT", "titre": "Entre 677 et 1 182 m", "texte": "Avec 500 m d'écart entre le point bas et le point haut, les conditions changent d'une parcelle à l'autre. L'essence à planter et la période de taille se choisissent en fonction de cette altitude."},
+  {"icone": "SPROUT", "titre": "Remplacer plutôt que subir", "texte": "Quand un arbre est mal placé ou malade, le remplacer par une essence adaptée au sol et à la place disponible évite de recommencer des tailles lourdes tous les trois ans."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne, dégagement de toiture, taille d'entretien des fruitiers dans les trois villages de Pont-en-Ogoz.",
+  "abattage-demontage": "Abattage direct quand la place le permet, démontage à la corde entre les bâtiments. Bois débité ou évacué.",
+  "plantation-arbres": "Choix d'une essence adaptée à l'altitude de votre parcelle, plantation et tuteurage tripode.",
+  "rognage-souche": "Souche rognée sous le niveau du sol pour replanter, engazonner ou construire sans attendre."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans les trois villages de Pont-en-Ogoz ?", "a": "Oui, à Avry-devant-Pont, au Bry comme à Gumefens. La visite est gratuite dans chaque localité. Nous venons de Courgenay, à une huitantaine de kilomètres, et fixons le rendez-vous avec vous."},
+  {"q": "Mon voisin se plaint des branches qui dépassent : que faire ?", "a": "Une taille de dégagement en limite de parcelle règle en général la question. Nous coupons au bon endroit pour que l'arbre cicatrise et reste équilibré. En cas d'arbre protégé, nous nous renseignons d'abord auprès de la commune."},
+  {"q": "Peut-on abattre librement un arbre à Pont-en-Ogoz ?", "a": "Non, pas toujours. Hors zone à bâtir, la loi fribourgeoise protège les boisements d'intérêt écologique ou paysager. En zone à bâtir, le règlement communal d'urbanisme s'applique. Nous vérifions la situation de votre arbre avant le devis."},
+  {"q": "Que faire de la souche après l'abattage ?", "a": "Nous la rognons à la fraise jusqu'en dessous du niveau du sol. Vous pouvez ensuite replanter, engazonner ou poser une terrasse. Le rognage est chiffré à part dans le devis."},
+  {"q": "Quelle essence planter dans un jardin de Pont-en-Ogoz ?", "a": "Cela dépend de la place, de l'exposition et de l'altitude de votre parcelle. Nous proposons des essences qui garderont une taille raisonnable et nous les plantons avec un tuteurage tripode."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un projet d'arbre à Pont-en-Ogoz ?",
+ "cta_lead": "Taille, abattage ou plantation : visite et devis gratuits."
+}

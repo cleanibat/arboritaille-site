@@ -1,0 +1,36 @@
+{
+ "title": "Le Chenit (VD) : arboriste-grimpeur, taille et abattage | Arboritaille",
+ "desc": "Le Chenit (VD) : taille, abattage, haubanage et plantation d'arbres au Sentier, au Brassus, à L'Orient et au Solliat. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Le Chenit · Vallée de Joux",
+ "h1": "<em>Le Chenit</em> : arboriste-grimpeur pour la taille, l'abattage et les soins aux arbres",
+ "lead": "Le Chenit couvre près de 100 km² dans la vallée de Joux, pour 4 787 habitants. Au Sentier, au Brassus, à L'Orient ou au Solliat, nous taillons, haubanons et abattons les arbres proches des habitations.",
+ "points": ["Visite et devis gratuits", "Le Sentier, Le Brassus, L'Orient, Le Solliat", "Statut forêt ou hors forêt vérifié", "Haubanage pour garder un arbre sain"],
+ "intro_eyebrow": "Vos arbres dans la vallée de Joux",
+ "intro_h2": "99 km², quatre villages et une longue histoire du bois",
+ "intro": "<p>Le Chenit apparaît dans un acte de 1513. L'abbé du lac de Joux y autorise une coupe de bois, et les arbres débités descendent le lac sur des radeaux. Le bois appartient à l'histoire du lieu.</p><p>La commune compte 4 787 habitants sur 99,25 km², à 1 010 m d'altitude. Avec 48 habitants au km², l'essentiel du territoire n'est pas bâti. Les habitants se répartissent entre quatre villages.</p><p>Nous nous occupons des arbres hors forêt : jardins, cours d'entreprise, bords de route. En forêt, tout abattage relève du service forestier. Nous vérifions le statut de l'arbre avant de chiffrer.</p><p>Le Sentier et le hameau de Chez-les-Aubert figurent à l'inventaire fédéral des sites construits à protéger. Près de ces ensembles, nous privilégions la <a href=\"/elagage-taille-arbres\">taille douce</a> et le démontage à la corde.</p>",
+ "faits": [["Habitants", "4 787 (2025)"], ["Altitude", "1 010 m"], ["Superficie", "99,25 km²"], ["Depuis Courgenay", "env. 110 km"]],
+ "reglement": "<strong>Abattage d'arbres : Le Chenit.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. En forêt, le service forestier décide. Nous vérifions la règle avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Forêt ou hors forêt", "texte": "Sur un territoire aussi peu bâti, un arbre de bord de parcelle relève parfois de la forêt. Nous posons la question à la commune ou au service forestier avant de vous remettre un prix."},
+  {"icone": "CABLE", "titre": "Garder plutôt qu'abattre", "texte": "À 1 010 m, un arbre met longtemps à pousser. Quand le tronc est sain, un hauban dans la fourche et un allègement de la couronne suffisent souvent à le conserver."},
+  {"icone": "USERS", "titre": "Sites d'entreprise", "texte": "L'horlogerie marque Le Brassus et Le Sentier. Pour un site d'entreprise, nous dressons un état des arbres, un devis par lot et un planning calé sur votre activité."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille douce, retrait du bois mort et dégagement des toitures pour les arbres des villages de la vallée de Joux.",
+  "abattage-demontage": "Démontage par sections près des maisons et des ateliers, abattage direct là où la place existe.",
+  "haubanage": "Hauban souple pour soutenir une fourche et conserver un arbre ancien près d'une habitation.",
+  "plantation-arbres": "Choix d'une essence qui supporte le gel et la neige, plantation hors gel avec tuteurage tripode.",
+  "collectivites-entreprises": "État des arbres, devis par lot et planning pour les entreprises, les gérances et la commune."
+ },
+ "faq": [
+  {"q": "Le Chenit est à plus de cent kilomètres de Courgenay : vous déplacez-vous ?", "a": "Oui. Nous groupons sur une même journée les visites de la vallée de Joux, au Sentier, au Brassus ou à <a href=\"/arboriste-l-abbaye\">L'Abbaye</a>. La visite est gratuite et le devis écrit vous parvient sous 48 h ouvrées."},
+  {"q": "Le Chenit : faut-il une autorisation pour abattre un arbre ?", "a": "Hors forêt, l'abattage d'un arbre protégé demande l'accord écrit de la Municipalité, avec plantation compensatoire. En forêt, c'est le service forestier qui décide. Nous clarifions le statut de votre arbre avant toute coupe."},
+  {"q": "Intervenez-vous au Brassus comme au Sentier ?", "a": "Oui, ainsi qu'à L'Orient et au Solliat. Un seul devis peut couvrir des arbres situés dans plusieurs villages, ce qui limite les déplacements et le temps de chantier."},
+  {"q": "Quelle essence planter à 1 000 m d'altitude ?", "a": "Nous retenons une essence qui supporte le gel tardif et le poids de la neige, selon le sol et la place disponible. La plantation se fait hors gel, avec un tuteurage tripode et des conseils d'arrosage."},
+  {"q": "Un arbre touche le toit de mon atelier, que proposez-vous ?", "a": "Nous commençons par une réduction ciblée des branches qui touchent le bâtiment. Si l'arbre est trop proche ou abîmé, nous le démontons par sections, retenues à la corde, sans rien poser sur la toiture."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à voir au Sentier, au Brassus ou à L'Orient ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement, pour un arbre ou pour un site entier."
+}

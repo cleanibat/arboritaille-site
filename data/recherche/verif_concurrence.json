@@ -1,0 +1,273 @@
+{
+ "synthese": "Vérification effectuée le 11.11.2026 : 44 sources ouvertes (WebFetch + curl), 7 pages local.ch bloquées par un mur anti-bot, 2 sources mortes (Terre & Nature 404, jobup 404), 2 sites injoignables (baumpflege-schweiz.ch, amgarden.ch en NXDOMAIN).\nCorrections majeures : (1) arboritaille.ch possède bien un H1 (« Arboriste-grimpeur, élagueur, soins aux arbres, plantation, abattage, démontage. »), contrairement au dossier ; le site affiche Robin Humbert, zone « Jura - Neuchâtel - Berne », tél. +41 78 306 53 04. (2) Les comptages local.ch (Delémont 4, Bienne 9, La Chaux-de-Fonds 10, Neuchâtel 12, Yverdon 15, Fribourg 18, Lausanne 33) sont invérifiables ; search.ch (même base Swisscom Directories) donne des chiffres bien plus bas : Delémont 3, La Chaux-de-Fonds 2, Bienne 1 à 2, Fribourg 1, Lausanne 6. (3) L'ASSA a été fondée en 1997, compte plus de 108 membres dont 22 entreprises signataires (liste au 28.01.2026) ; la répartition 9 VD / 6 GE / 4 VS / 1 FR / 1 JU / 1 TI, 0 NE, 0 BE est confirmée. (4) Le formulaire d'Yverdon renvoie aux art. 14, 15 et 16 de la LPrPNP (loi cantonale) et au règlement communal, pas aux « art. 14 et 15 du règlement communal ». (5) La fiche de Cheseaux ne donne pas la date du 01.01.2023 : elle indique « depuis 2022 » l'extension de la protection aux fruitiers haute tige et buissons. (6) La page jardin-helvetia.com/elagage-arbres-neuchatel/ n'existe plus (redirection vers un guide générique /elagage-abattage/ à 11 sections) ; le « formulaire en 6 étapes » n'est pas vérifiable. (7) SOS Jardin a aussi des pages par commune (jardinier-delemont, -porrentruy, -moutier, -les-bois, -saignelegier…), pas seulement par canton. (8) La CEP s'appelle désormais Chambre d'économie publique Grand Chasseral (800 membres, fondée 1980). (9) Le chiffre « ~1800 membres » de JardinSuisse et la zone « Berne/Fribourg/Neuchâtel » de Kümin ne figurent pas sur les pages citées : retirés. (10) L'adresse postale d'Alpes Vert et Dévers n'est pas sur son site (seul horticole-comparatif donne Pringy) ; la fondation en 2018 par Grégory Teichmann est confirmée sur la page À propos.\nLe reste tient : Arborigène, soinauxarbres, Arbro Service, Arbosphère, Swissforestry (H1, 14 H2, FAQ 5 questions, 4,8/13 avis), Jordan Flückiger, Mercier, Grand Arbre Heureux, Arbre Impec, Mémoires d'Arbres (5,0/9), Kümin (4,8/26, logo BSB), Hunziker, Leuba (Gollion, B Corp, charte ASSA), Arboristes Conseils (2002, Chesalles/Moudon, réf. Jura/Delémont/Porrentruy), Forestier Cortat (4,7, 4 témoignages, « arboriste » absent), 4 saisons SA (4,6/7 sur search.ch), Jurabitat (4 entreprises), ZEPP (placeholder « {ville, dans le {cp] » bien présent), TreeBreathe, orientation.ch (BF, 2 à 4 ans, modulaire en emploi), BSB via Kümin (1986, 84 entreprises, 274 brevetés), ISA (BSB = organisation associée Suisse), CCIJ (Rue de l'Avenir 23, 2800 Delémont, MyCCI), CNCI (>1000 membres, Rue de la Serre 4), UCI Bienne-Seeland/Jura bernois (~403 entreprises membres fin 2024), Lausanne (formulaire « Demande d'abattage-élagage »), Vevey (élagage drastique assimilé à un abattage, art. 3), Delémont (recommandations UETP, février 2021).\nVocabulaire confirmé : « arboriste-grimpeur » pivot (ASSA, TreeBreathe où « élagueur » est absent, Arbosphère, Alpes Vert, Mellier) ; « taille raisonnée » et « taille douce » coexistent ; « rognage de souches », « dessouchage », « fraisage de la souche » coexistent ; « Baumpflege » pour Bienne. Le point sur le classement « arboriste-grimpeur Jura Suisse » dépend du moteur utilisé et reste invérifiable.",
+ "points": [
+  {
+   "fait": "Arborigène (Les Grattes-de-Vent 11, 2019 Rochefort NE), fondée par Damien Fesselet, « arboriste grimpeur certifié » (plus de 10 ans d'expérience) ; title « Expertise en élagage et soins des arbres sur Neuchâtel – Arborigène » ; menus Accueil / Soins aux arbres / Paysages / Réalisations / Contact ; pas de pages villes, blog ni avis ; vocabulaire « arboriculture ornementale », « soins aux arbres », « haubans », abattage en « dernier recours » ; termes absents : élagueur, taille douce, démontage, dessouchage.",
+   "source": "https://arborigene.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "« soin aux arbres » (Sébastien Mellier), dépôt Chemin des Sauges 10, 2015 Areuse NE et bureau Crêt-de-la-Fin 24, 2024 St-Aubin-Sauges NE ; se présente comme « arboriste-grimpeur (élagueur), forestier-bûcheron » ; prestations Plantation, Taille (« taille douce »), Démontage, Abattage, plus Mécanique, Sauvetage, Sculptures ; pas de pages villes, blog, avis ni certifications.",
+   "source": "https://www.soinauxarbres.net/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Arbro Service Sàrl (La Petite Côte 35, 2336 Les Bois JU, adresse donnée par la liste ASSA), Laurent Cattin, arboriste grimpeur « depuis 1998 », CFC forestier-bûcheron, membre ASSA et signataire de la charte ; vocabulaire « taille raisonnée », haubans, « rognage de souches », tomographe ; réalisations à Delémont, Porrentruy, Courrendlin, Bienne, Saint-Imier, Sonvilier, Bellelay, La Chaux-de-Fonds, Neuchâtel, Rochefort, Le Noirmont, Sauges ; pages Accueil / Services / Laurent Cattin / Réalisations / Commandes / Contact ; aucun avis affiché.",
+   "source": "https://arbroservice.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Alpes Vert et Dévers : title « Alpes Vert et Dévers | Soins aux arbres | Taille | Fribourg, Vaud, Berne, … » ; fondée en 2018 par Grégory Teichmann, « arboriste-élagueur », raison individuelle inscrite au RC du canton de Fribourg (page À propos) ; zone FR, VD, BE, GE, NE ; menu Accueil / Services / À propos / Obtenir un devis / Avis Google / Galerie ; services « Taille d'arbres raisonnée », « Soins racinaires et nutrition », « Haubanage d'arbres », « Travaux forestiers », « Abattage et démontage d'arbres », « Expertise d'arbres » ; bandeau « Arboriste-grimpeur, élagueur, soins aux arbres, abattage, démontage et travaux forestiers » ; tél. +41 78 628 79 82 ; pas de pages villes. L'adresse postale (Impasse de la Clairière 7, 1663 Pringy) n'apparaît pas sur le site, seulement « Pringy » sur horticole-comparatif.ch.",
+   "source": "https://www.alpesvert-etdevers.com/%C3%A0-propos",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Fiche horticole-comparatif.ch d'Alpes Vert et Dévers : note 5 sur 3 avis, dont 2 provenant de local.ch datés juin 2019 ; basée à Pringy (FR), intervient « partout sur la Gruyère, la Veveyse, la Glâne et le Pays-d'Enhaut ».",
+   "source": "https://www.horticole-comparatif.ch/d/horticultures/alpes-vert-et-devers-d:Ojh2SgqyE",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Arbosphère Sàrl (Chemin de Bulande 10c, 1321 Arnex-sur-Orbe VD), Nicolas Knoepfel (École d'horticulture de Lullier), active depuis 2009 ; title « Élagueur, arboriste grimpeur sur le Canton de Vaud | Arbosphère », H1 « Soin aux arbres, taille et abattage » ; zone VD, FR, NE avec Lausanne, Yverdon-les-Bains, Montreux, Nyon, Renens, Vevey, Fribourg, Bulle, Villars-sur-Glâne, Neuchâtel, La Chaux-de-Fonds, Val-de-Ruz ; services « taille raisonnée », « élagage de sécurité », protection en cas de chantier, abattage, plantation, pyrale du buis, BRF ; pages Réalisations et Actualités ; aucun avis ni association affichés.",
+   "source": "https://www.arbosphere.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Swissforestry (Le Trési 6D, 1028 Préverenges VD) : title « Arboriste élagage Lausanne et Suisse romande — Swissforestry | Abattage, diagnostic, soins aux arbres », H1 « Élagage, abattage et diagnostic d'arbres à Lausanne et en Suisse romande » ; one-page (Services, Diagnostic, Avant/Après, Galerie, À propos, Avis clients, FAQ, Urgence, Contact) + pages locales /arboriste-lausanne/, /arboriste-vaud/, /arboriste-geneve/ ; 4,8/5 sur 13 avis Google affichés ; rapport arboricole « dès CHF 150.– » ; devis gratuit, réponse sous 24 h ; tél. 076 463 15 78 (lu-ve 7h-18h).",
+   "source": "https://swissforestry.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "swissforestry.ch/arboriste-vaud/ : H1 « Arboriste dans le canton de Vaud — élagage, abattage et diagnostic de Morges à Montreux », 14 H2 (quatre micro-régions La Côte / Lavaux / Riviera / Nord vaudois, risque « avéré » exigé par la loi vaudoise, réglementation, galerie, avant/après, avis, urgence, FAQ de 5 questions, devis, navigation locale) ; une vingtaine de localités citées (Morges, Nyon, Rolle, Gland, Aubonne, Lutry, Chexbres, Vevey, Montreux, La Tour-de-Peilz, Yverdon-les-Bains, Orbe, Payerne, Pully, Prilly, Renens, Ecublens…) ; liens vers /arboriste-lausanne/ et /arboriste-geneve/.",
+   "source": "https://swissforestry.ch/arboriste-vaud/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Jordan Flückiger Arboriste Grimpeur : title « Jordan Flückiger | Arboriste grimpeur | Soins aux arbres », « basée dans le Chablais », zone « toute la Suisse romande » ; adresse Chemin de Raccot 12, 1870 Monthey et statut de signataire de la charte ASSA confirmés par la liste ASSA (pas par son propre site) ; sections Élagage/taille (haubanage, paratonnerres, chenilles processionnaires), Démontage/abattage (« démontage sur corde avec système de rétention », grue ou hélicoptère), Soins biologiques, Travaux sur corde (SRT/DRT, secours), Suivi & conseils (VTA), Expertises ; « tailles douces et raisonnées » ; tél. +41 79 551 94 82 ; pas de pages villes ni avis.",
+   "source": "https://www.jordanfluckiger.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Mercier Arboristes-Grimpeurs (Genève), H1 « Entreprise Arboristes – Grimpeurs à Genève » ; menu Services en deux sous-menus : « Nos interventions » (soins aux arbres/haubanage, élagage/taille, abattage, abattage d'arbres dangereux, travaux forestiers, rognage de souches, chenilles processionnaires et ravageurs) et « Nos prestations pour » (entreprises, régies/architectes, administrations/communes, particuliers) ; pages Présentation, Autorisation, Tarifs, Contact, Demande de devis ; réalisations datées (acacia 16 m à la grue à Vernier 17.02.2025, cèdre 150 ans à Lancy 20.09.2024, chêne sécurisé 28.08.2024) ; vocabulaire « taille douce », « abattage délicat », « démontage », « rognage de souches » (aussi appelé « dessouchage »), « grignoteuse » ; pas de pages villes ni avis.",
+   "source": "https://arboristes-grimpeurs.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Grand Arbre Heureux (zone Lausanne, Aigle, Montreux, Vevey, Bulle, Fribourg ; tél. 079 606 25 07) : sous-pages Prestations « Taille des arbres », « Renforcement de branches » (haubanage), « Abattage-démontage-dessouchage », « Analyse VTA » ; deux personnes titulaires du brevet fédéral de spécialiste en soin des arbres (Institut agricole de Grangeneuve) ; « Analyse VTA offerte » (pop-up, sans engagement) ; vocabulaire « taille et élagage raisonnés », « haubanage » ; « arboriste-grimpeur » et « élagueur » absents (le mot « arboriste » seul apparaît une fois) ; aucun avis Google affiché.",
+   "source": "https://grandarbreheureux.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Arbre Impec (abattage-dangereux.ch, tél. +41 21 588 12 00) publie des pages par canton/ville : /abattage-arbre-vaud/, /abattage-arbre-fribourg/ (H1 « Abattage arbre Fribourg »), /abattage-arbre-lausanne/, /abattage-arbre-yverdon/, /autorisation-abattage-arbre-lausanne/, /autorisation-abattage-arbre-geneve/, plus /arboriste-grimpeur/, /elagage-arbre/, /elagage-arbre-fruitier/, /bucheron-elagueur/, /abattage-arbre-tarif/, /prix-abattage-arbre-suisse/, /entreprise-abattage-arbre/, /entreprise-delagage/ ; 3 témoignages clients ; vocabulaire abattage, élagage, démontage, grutage, auto-rétention, arboriste-grimpeur.",
+   "source": "https://www.abattage-dangereux.ch/abattage-arbre-fribourg/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Mémoires d'Arbres (Avenches), zone « de la Broye au Seeland » (VD, FR, BE), site FR/DE ; H1 « Mémoires d'Arbres : Votre paysagiste pour la création de jardins & le soin aux arbres. » ; pages par cible (Gérances immobilières, Propriétaires & Particuliers) ; réalisations Taille & Soins aux arbres, Création & Aménagement, Entretien de jardin, Transformations ; « abattage par rétention », « taille de formation » ; note Google 5,0 sur 9 avis (widget Trustindex) ; pas de pages villes.",
+   "source": "https://memoiresdarbres.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Kümin Baumpflege GmbH (Gerbegasse 7, 3210 Kerzers), site DE/FR ; 4,8/5 sur 26 avis Google affichés ; logo BSB lié à baumpflege-schweiz.ch ; menus FR « Plantation » (plantation de jeunes arbres, transplantation), « Taille et entretien d'arbres », « Réduction et formation », « Abattage : sans engin de levage / à l'aide d'une grue / à l'aide d'un hélicoptère / Dessoucheuse », « Expertise des arbres et diagnostic », « Sécurisation et préservation », « Protection racines », « Technique de grimpe », FAQ ; pas de pages villes. Aucune zone d'intervention (Berne/Fribourg/Neuchâtel) n'est indiquée sur les pages consultées.",
+   "source": "https://www.kuemin-baumpflege.ch/fr/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "F. Hunziker Sàrl Soins aux arbres (Rue du Village 10A, 1053 Bretigny-sur-Morrens) : zone canton de Vaud et Romandie (Lausanne, Echallens, Cossonay, Vevey, Montreux, Nyon, Morges) ; services « Taille d'arbres d'ornements », « Abattage par démontage », « Plantation », « Travaux à la corde (certification IRATA, L3) » ; brevet fédéral de spécialiste en soins aux arbres, membre ASSA et BSB, signataire de la charte de qualité ; aucune note affichée sur le site (la note local.ch 5/3 avis n'a pu être vérifiée, local.ch étant bloqué).",
+   "source": "https://hunziker-soins-aux-arbres.digitalone.site/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Arborisme Leuba SA (Rue du Village 21A, 1124 Gollion VD, tél. 021 697 01 02), H1 « Depuis 1991, nous prenons soin de vos arbres », title « Arborisme Leuba SA | Soins aux arbres, analyses et diagnostic » ; pages Bureau d'étude (analyse et diagnostic sanitaire, tomographies, test de traction, résistographe, inventaire et plan de gestion du patrimoine arboré, impact de chantiers), Soins aux arbres (plantation, taille, soin racinaire, protection de l'arbre, haubanage et consolidation, abattage, dessouchage, biochar, produits à la vente), La pépinière, Blog, version EN ; liens vers B Corp et la charte de qualité ASSA ; aucun avis affiché, pas de pages villes.",
+   "source": "https://arborisme-leuba.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Arboristes Conseils Sàrl (Nicolas Béguin ; Route de Moudon 2, 1683 Chesalles/Moudon sur son site ; Case postale 68, 1110 Morges dans la liste ASSA), cabinet d'expertise créé en 2002, signataire de la charte ASSA ; références collectivités incluant « Canton du Jura, Villes de Delémont, Porrentruy », « Canton de Neuchâtel : Villes de Neuchâtel, de la Chaux de Fonds », ainsi que GE, VD, VS, FR, BS, et des villes françaises (Besançon, Belfort, Montbéliard…).",
+   "source": "https://arboristes.ch/references",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Forestier Cortat (Loris Cortat, Jura et Jura bernois, tél. 079 824 74 40) : title « Forestier Cortat – Expert forestier Jura & Jura bernois », H1 « Expert forestier dans le Jura et le Jura bernois » ; services « Abattage sécurisé », « Débardage technique », « Élagage en propriétés privées » (« taille douce »), « Bois de chauffage local », « Travaux forestiers spécialisés » (hélicoptère), « Entretien de chemins forestiers » ; note « 4.7 » affichée avec 4 témoignages ; le mot « arboriste » n'apparaît pas ; aucune certification affichée.",
+   "source": "https://forestier-cortat.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "4 saisons SA (Chemin Mettlen 7, 2504 Biel/Bienne, tél. 032 342 55 52), paysagiste bilingue FR/DE ; fiche search.ch notée 4,6 sur 7 évaluations, catégories Paysagistes, Architecte-paysagiste, Entretien de jardin, Soins aux arbres, Systèmes d'arrosage ; prestations « Taille et soins aux arbres, arbustes d'ornement et rosiers », « Elagage des grands arbres », « Abattage, démontage des grands arbres ».",
+   "source": "https://search.ch/tel/biel-bienne/chemin-mettlen-7/4-saisons-sa.fr.html",
+   "confiance": "haute"
+  },
+  {
+   "fait": "search.ch rubrique « Baumpflege » à Biel/Bienne : 2 inscriptions seulement (4 saisons SA et la Burgergemeinde Bözingen, sylviculture) ; la version FR « Soins aux arbres à Biel Bienne » n'en liste qu'une (4 saisons SA).",
+   "source": "https://search.ch/tel/biel-bienne/baumpflege",
+   "confiance": "haute"
+  },
+  {
+   "fait": "search.ch rubrique « Soins aux arbres » : Delémont 3 inscriptions (FTS – Forêts Travaux Spéciaux Sàrl, Rue Saint-Randoald 12 ; Jérôme Stäheli Paysagiste ; Amex4D Sàrl) ; La Chaux-de-Fonds 2 inscriptions (Lesquereux Christian, forestier paysagiste ; Arbo Perret, Rue des Vieux-Patriotes 60) avec en annonces voisines Arbro Service Sàrl, Sauser Jean-Denis, Brunner Paysagiste ; Fribourg 1 inscription (Claude Limat SA, 5 évaluations) ; Lausanne 6 inscriptions (Nicolas Moduli, Abt Jardins et Paysages, Helvétique Élagage, Helvetique Jardin, Mon Jardinier Suisse, Jardins Suspendus). Les comptages local.ch du dossier (Delémont 4, Bienne 9, La Chaux-de-Fonds 10, Neuchâtel 12, Yverdon 15, Fribourg 18, Lausanne 33) n'ont pas pu être vérifiés : local.ch renvoie une page « Making sure you're not a bot ».",
+   "source": "https://search.ch/tel/Delemont/Soins-aux-arbres.fr.html",
+   "confiance": "haute"
+  },
+  {
+   "fait": "AM Garden (Route de Reuchenette 13, 2502 Biel/Bienne), référencé comme paysagiste / Baumpflege / Kletterer : le domaine amgarden.ch ne résout plus (NXDOMAIN) ; information non vérifiable.",
+   "source": "http://www.amgarden.ch/",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Jurabitat.ch (annuaire de l'habitat, « Made with … by » cybermarchands.ch), title « Jurabitat.ch - Elagage, Jura, Jura bernois, Delémont, Moutier, Porrentruy », régions Vallée de Delémont, Ajoie, Franches-Montagnes, St-Ursanne et Clos du Doubs, Moutier et Vallée, Tramelan et environs, Vallon de St-Imier ; 4 entreprises en rubrique Élagage : CréAlentours Sàrl (2843 Châtillon), Yann Rossé Paysagiste (2830 Courrendlin), Hamel et Kaech SA (2822 Courroux), Mathieu Gerber SA (2605 Sonceboz).",
+   "source": "https://www.jurabitat.ch/elagage",
+   "confiance": "haute"
+  },
+  {
+   "fait": "SOS Jardin (sos-jardin.ch) est une plateforme de mise en relation (GE, VD, VS, FR, NE, JU) avec pages par service, pages par canton (/jardinier-paysagiste-jura/, /jardinier-paysagiste-neuchatel/…) ET pages par commune (/jardinier-delemont/, /jardinier-porrentruy/, /jardinier-moutier/, /jardinier-les-bois/, /jardinier-saignelegier/, /jardinier-courrendlin/, /jardinier-alle/, /jardinier-val-terbi/…), FAQ, calendrier saisonnier ; H1 « Élagage et abattage d'arbres en Suisse romande » ; vocabulaire « élagueurs-grimpeurs », « dessouchage », « fraisage de la souche », « étêtage », « houppier », « permis d'abattage » ; section « Ce qui fait varier le prix » sans aucun montant en CHF.",
+   "source": "https://www.sos-jardin.ch/elagage-abattage-arbres/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "elagueur-paysagiste-suisse.ch (« ZEPP Kinder Elagage Suisse », tél. 076.289.07.73 dans le title) génère des pages par commune avec NPA (H1 « Artisans élagueur Yverdon-les-bains 1400 », URLs …-yverdon-les-bains-1400 pour abattage, taille de haie, paysagiste, jardinier, tonte, clôture, gazon), texte dupliqué contenant le placeholder non rempli « {ville, dans le {cp] », sans tarif ni avis ; bouton téléphone affiché « indisponible ».",
+   "source": "https://www.elagueur-paysagiste-suisse.ch/entreprise-elagage-elagueur-yverdon-les-bains-1400",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Jardin Helvetia (jardin-helvetia.com) est un média/mise en relation orienté France (crédit d'impôt, PLU, pages « paysagiste à Angers/Lyon/Marseille… ») ; la page /elagage-arbres-neuchatel/ n'existe plus et redirige vers le guide générique /elagage-abattage/ (publié 22.09.2026, 11 sections dont « 8. Volet Suisse romande — règles distinctes », FAQ) ; le « formulaire de devis en 6 étapes » n'a pas pu être vérifié.",
+   "source": "https://jardin-helvetia.com/elagage-abattage/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "ASSA = Association Suisse des Soins aux Arbres (Paudex en pied de page), « fondée en 1997 », « plus de 108 membres composés de 22 entreprises signataires » (liste de la Charte de Qualité au 28.01.2026) ; menus Accueil / Activité / Formations / Entreprises certifiées / Statuts ASSA / Charte de Qualité + « Devenir membre » ; répartition des 22 signataires par NPA : 9 VD, 6 GE, 4 VS, 1 FR (Semsales), 1 JU (Arbro Service Sàrl, Les Bois), 1 TI (Pregassona), aucune NE ni BE.",
+   "source": "https://assa.ch/entreprises-signataires/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Article TreeBreathe « Arboriste grimpeur : un métier dédié au soin des arbres » : « Il y a 20 ans, les arboristes grimpeurs de Suisse romande se sont regroupés et ont créé l'ASSA » ; l'ASSA a établi une charte de qualité (taille raisonnée, « refus des mandats d'élagage drastique ») et lancé la formation au brevet fédéral ; pas de CFC dédié, formation sur le tas ou via CFC forestier-bûcheron / horticulteur ; le mot « élagueur » n'y apparaît pas.",
+   "source": "https://www.treebreathe.ch/blogs/treebreathe/arboriste-grimpeur-un-metier-dedie-au-soin-des-arbres",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Titre officiel orientation.ch : « Spécialiste en soins aux arbres BF » ; « Brevet fédéral de spécialiste en soins aux arbres » ; formation « généralement modulaire » acquise « en emploi », durée « 2 à 4 ans » ; professions voisines : Contremaître forestier BF, Horticulteur BF.",
+   "source": "https://www.orientation.ch/fr/professions/specialiste-en-soins-aux-arbres-bf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "BSB (Bund Schweizer Baumpflege, présenté en FR par Kümin comme « Association suisse des soins aux arbres »), fondé en 1986 : 84 entreprises de soins aux arbres, 3 bureaux d'études, 41 membres individuels titulaires du brevet fédéral, 8 services espaces verts ; environ 274 brevetés en Suisse. Le site baumpflege-schweiz.ch est toujours injoignable (connexion refusée le 11.11.2026).",
+   "source": "https://www.kuemin-baumpflege.ch/fr/association-suisse-des-soins-aux-arbres",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "L'ISA (International Society of Arboriculture) liste le « Bund Schweizer Baumpflege » comme organisation associée pour la Suisse (page « Our Network » ; l'ancienne URL /membership/localChapters/index redirige) ; aucun chapitre ISA suisse distinct ni organisation « FSU » liée aux arbres identifiés.",
+   "source": "https://www.isa-arbor.com/Who-We-Are/Our-Network",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "JardinSuisse (Bahnhofstrasse 94, 5000 Aarau) édite le moteur « Votre jardinier près de chez vous » (votre-jardinier.ch/fr/votre-jardinier-pres-de-chez-vous/) listant « les spécialistes JardinSuisse compétents dans votre région » ; le chiffre « ~1800 membres » ne figure sur aucune des pages consultées.",
+   "source": "https://www.votre-jardinier.ch/fr/votre-jardinier-pres-de-chez-vous/",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "CCIJ = Chambre de commerce et d'industrie du Jura, Rue de l'Avenir 23, 2800 Delémont ; pas d'annuaire public des membres sur la page d'accueil, seulement le portail membres MyCCI et une page « Adhérer ».",
+   "source": "https://www.ccij.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "CNCI (Chambre neuchâteloise du commerce et de l'industrie, Rue de la Serre 4, 2001 Neuchâtel) : « association patronale privée et indépendante de l'Etat qui regroupe plus de 1000 entreprises membres » ; rubrique « Un réseau, nos membres », pas d'annuaire public identifié.",
+   "source": "https://www.cnci.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "La CEP s'appelle désormais « Chambre d'économie publique Grand Chasseral (CEP) », fondée en 1980, « compte 800 membres » et réunit l'économie francophone bernoise ; la section UCI Bienne-Seeland / Jura bernois indique dans son rapport annuel 2024 un effectif « d'environ 403 entreprises membres » fin 2024.",
+   "source": "https://www.bern-cci.ch/files/sektion-biel-jura/jahresberichte/2025-01-01_-Jahresbericht-2024_f.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Ville de Lausanne, page « Demande d'abattage d'un arbre » : formulaire « Demande d'abattage-élagage » à télécharger, imprimer, signer et envoyer ; la signature autorise la visite d'une personne assermentée ; « Tout élagage abusif et écimage sera dénoncé ».",
+   "source": "https://www.lausanne.ch/prestations/parcs-et-domaines/demande-abattage-arbres.html",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Yverdon-les-Bains publie un « Formulaire de demande d'abattage/élagage » (Avenue des Sports 14, CH-1401 Yverdon-les-Bains, tél. +41 24 423 63 01, pdc@ylb.ch) fondé sur « les art. 14, 15 et 16 LPrPNP et le Règlement communal de protection des arbres » (et non les art. 14-15 du règlement communal) ; motifs à cocher : risques sécuritaires ou phytosanitaires avérés, entrave avérée à l'exploitation agricole ; plantations compensatoires (art. 16 LPrPNP) ; affichage au pilier public.",
+   "source": "https://www.yverdon-les-bains.ch/fileadmin/documents/ylb/Urbanisme/pdf/FormulaireDemandeAbattageElagageArbre.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Ville de Vevey, « Fiche-conseil pour un entretien respectueux des arbres » (version 20180625, Travaux publics, espaces verts et entretien) : « Un élagage drastique est prohibé et assimilé à un abattage sans autorisation (art. 3 du Règlement de protection des arbres) » ; taille limitée aux branches < 7 cm, périodes mi-novembre à mi-mars / mi-juin à fin août.",
+   "source": "https://www.vevey.ch/sites/default/files/2023-02/Recommandations_Taille_des_arbres_20180625.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Fiche d'information de Cheseaux-sur-Lausanne sur la LPrPNP et son règlement RLPrPNP (loi vaudoise) : « Depuis 2022 », la protection a été étendue aux fruitiers haute tige et buissons en zone agricole ; arbres protégés dès 40 cm de circonférence à 1 m ; dérogations art. 15 LPrPNP (risques avérés, entrave agricole, impératifs de construction) ; tailles d'entretien courant non soumises à autorisation si branches < 25 cm ; demande au Bureau technique puis affichage 30 jours. La date « en vigueur depuis le 01.01.2023 » n'apparaît pas dans le document.",
+   "source": "https://cheseaux.ch/data/documents/InformationnouvelleLoiLPrPNPv3.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Ville de Delémont, Service UETP : « Recommandations pour la plantation et la protection des arbres en milieu urbain » (actualisé février 2021), avec distances de plantation, choix des espèces, fosses de plantation, protection des arbres, annexes du plan directeur « Nature en Ville » et liste d'espèces indigènes.",
+   "source": "https://www.delemont.ch/Htdocs/Files/v/18783.pdf/05DeveloppementDurableEconomie/Environnement/recommandation_plantation_protection.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Site actuel arboritaille.ch : title « Arboriste Jura, Neuchâtel & Berne – Élagage & soins aux arbres | Arboritaille » ; il possède bien un H1 : « Arboriste-grimpeur, élagueur, soins aux arbres, plantation, abattage, démontage. » (le dossier initial affirmait à tort l'absence de H1) ; H2 unique « Nos services » ; pages Accueil / Prise de rendez-vous (title « Devis élagage & abattage arbre – Prise de rendez-vous | Arboritaille », H1 « Besoin d'un devis ? C'est gratuit et sans engagement ! », formulaire Nom / Email / Téléphone / Adresse / Disponibilités / Message) / Blog (« Élagage : Blog | Arboritaille », aucun article) ; 4 blocs services (Analyse et expertise, Taille et soins aux arbres avec « taille raisonnée » et haubans, Plantation, Abattage / Démontage avec démontage par rétention et grue) ; signature « Robin Humbert, Jura - Neuchâtel - Berne », contact@arboritaille.ch, +41 (0)78 306 53 04 ; cibles entreprises, collectivités, particuliers ; aucune note Google affichée ; logo servi depuis zyrosite.com.",
+   "source": "https://arboritaille.ch/",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Le classement de arboritaille.ch en premier résultat organique sur « arboriste-grimpeur Jura Suisse » dépend du moteur utilisé par le dossier initial et n'a pas pu être reproduit ni vérifié de façon indépendante.",
+   "source": "https://arboritaille.ch/prise-de-rendez-vous",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Points retirés car invérifiables ou obsolètes : le reportage Terre & Nature « Rencontre au sommet avec les arboristes grimpeurs de Neuchâtel » renvoie une 404 et la recherche interne du site donne 0 résultat ; l'offre jobup.ch « Elagueur-Grimpeur 100% » (IDEAS emplois SA) renvoie une 404 en EN et en FR ; le communiqué BCN/CNCI (PDF) téléchargé est vide (0 page), remplacé par cnci.ch.",
+   "source": "https://www.terrenature.ch/?s=arboristes+grimpeurs+neuch%C3%A2tel",
+   "confiance": "faible"
+  }
+ ],
+ "sources": [
+  "https://arborigene.ch/",
+  "https://www.soinauxarbres.net/",
+  "https://arbroservice.ch/",
+  "https://www.alpesvert-etdevers.com/",
+  "https://www.alpesvert-etdevers.com/%C3%A0-propos",
+  "https://www.horticole-comparatif.ch/d/horticultures/alpes-vert-et-devers-d:Ojh2SgqyE",
+  "https://www.arbosphere.ch/",
+  "https://swissforestry.ch/",
+  "https://swissforestry.ch/arboriste-vaud/",
+  "https://www.jordanfluckiger.ch/",
+  "https://arboristes-grimpeurs.ch/",
+  "https://grandarbreheureux.ch/",
+  "https://www.abattage-dangereux.ch/abattage-arbre-fribourg/",
+  "https://memoiresdarbres.ch/",
+  "https://www.kuemin-baumpflege.ch/fr/",
+  "https://www.kuemin-baumpflege.ch/fr/association-suisse-des-soins-aux-arbres",
+  "https://hunziker-soins-aux-arbres.digitalone.site/",
+  "https://arborisme-leuba.ch/",
+  "https://arboristes.ch/references",
+  "https://forestier-cortat.ch/",
+  "https://search.ch/tel/biel-bienne/chemin-mettlen-7/4-saisons-sa.fr.html",
+  "https://search.ch/tel/biel-bienne/baumpflege",
+  "https://search.ch/tel/Biel-Bienne/Soins-aux-arbres.fr.html",
+  "https://search.ch/tel/Delemont/Soins-aux-arbres.fr.html",
+  "https://search.ch/tel/La-Chaux-de-Fonds/Soins-aux-arbres.fr.html",
+  "https://search.ch/tel/Fribourg/Soins-aux-arbres.fr.html",
+  "https://search.ch/tel/Lausanne/Soins-aux-arbres.fr.html",
+  "https://www.4saisons.ch/",
+  "https://www.jurabitat.ch/elagage",
+  "https://www.sos-jardin.ch/elagage-abattage-arbres/",
+  "https://www.sos-jardin.ch/jardinier-paysagiste-jura/",
+  "https://www.elagueur-paysagiste-suisse.ch/entreprise-elagage-elagueur-yverdon-les-bains-1400",
+  "https://jardin-helvetia.com/elagage-abattage/",
+  "https://assa.ch/entreprises-signataires/",
+  "https://www.treebreathe.ch/blogs/treebreathe/arboriste-grimpeur-un-metier-dedie-au-soin-des-arbres",
+  "https://www.orientation.ch/fr/professions/specialiste-en-soins-aux-arbres-bf",
+  "https://www.isa-arbor.com/Who-We-Are/Our-Network",
+  "https://www.votre-jardinier.ch/fr/votre-jardinier-pres-de-chez-vous/",
+  "https://www.jardinsuisse.ch/fr/homepage/",
+  "https://www.ccij.ch/",
+  "https://www.cnci.ch/",
+  "https://www.cep.ch/",
+  "https://www.bern-cci.ch/files/sektion-biel-jura/jahresberichte/2025-01-01_-Jahresbericht-2024_f.pdf",
+  "https://www.lausanne.ch/prestations/parcs-et-domaines/demande-abattage-arbres.html",
+  "https://www.yverdon-les-bains.ch/fileadmin/documents/ylb/Urbanisme/pdf/FormulaireDemandeAbattageElagageArbre.pdf",
+  "https://www.vevey.ch/sites/default/files/2023-02/Recommandations_Taille_des_arbres_20180625.pdf",
+  "https://cheseaux.ch/data/documents/InformationnouvelleLoiLPrPNPv3.pdf",
+  "https://www.delemont.ch/Htdocs/Files/v/18783.pdf/05DeveloppementDurableEconomie/Environnement/recommandation_plantation_protection.pdf",
+  "https://arboritaille.ch/",
+  "https://arboritaille.ch/elagage-blog",
+  "https://arboritaille.ch/prise-de-rendez-vous"
+ ]
+}

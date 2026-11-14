@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Broc (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Broc, en Gruyère, du village aux parcelles de montagne. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Broc · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>Broc</em> : taille, abattage et soins aux arbres",
+ "lead": "Broc, en Gruyère, s'étend de 728 m à 1 783 m d'altitude. Arbres de jardin au village, grands conifères près des maisons, sujets dangereux : nous venons les voir depuis Courgenay et vous remettons un devis gratuit.",
+ "points": [
+  "Démontage des grands conifères près des maisons",
+  "Visite et devis gratuits",
+  "Allègement des couronnes avant la neige",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Broc",
+ "intro_h2": "De 728 à 1 783 m : plus de mille mètres de dénivelé",
+ "intro": "<p>Broc compte 2 957 habitants sur un peu plus de 10 km². Son point le plus bas est à 728 m, le plus haut à 1 783 m : plus de mille mètres de dénivelé sur un territoire restreint.</p><p>L'altitude de référence de la commune est de 983 m. À cette altitude, les épicéas sont en général fréquents, près des maisons comme en lisière. Hauts et denses, ils font de l'ombre et portent lourd sous la neige.</p><p>En juillet 1890, un incendie a détruit deux tiers des habitations de Broc ; la ligne de train Bulle–Broc date de 1911. Près de ces bâtiments et de ces voies, nous démontons les arbres par sections pour ne rien toucher.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 957 (2025)"
+  ],
+  [
+   "Altitude",
+   "728 à 1 783 m"
+  ],
+  [
+   "NPA",
+   "1636"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 90 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Broc.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. En forêt, l'abattage relève du service forestier. Nous vérifions la règle en vigueur à Broc avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Conifères de montagne",
+   "texte": "Un épicéa planté trop près d'une maison finit par toucher le toit et assombrir les pièces. Nous le dégageons de la façade ou le démontons par sections, selon son état et vos souhaits."
+  },
+  {
+   "icone": "WARN",
+   "titre": "Neige et vent",
+   "texte": "Vers 1 000 m, la neige lourde casse les branches longues et le vent couche les arbres déracinés. Un allègement en automne et un contrôle du collet limitent les mauvaises surprises."
+  },
+  {
+   "icone": "SCISS",
+   "titre": "Réduire sans étêter",
+   "texte": "Étêter un conifère le condamne à pourrir par la cime. Nous préférons une réduction latérale ou un démontage complet. La décision se prend sur place, après examen de l'arbre."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Dégagement de façade, allègement de couronne et retrait du bois mort pour les arbres de jardin de Broc.",
+  "abattage-demontage": "Démontage par sections des grands conifères près des maisons, abattage direct en terrain dégagé. Bois débité ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Arbre couché, fendu ou déraciné après la neige ou le vent : mise en sécurité rapide, puis démontage.",
+  "plantation-arbres": "Essence adaptée à l'altitude, plantée à bonne distance des bâtiments, avec tuteurage tripode."
+ },
+ "faq": [
+  {
+   "q": "Pouvez-vous démonter un grand épicéa près d'une maison à Broc ?",
+   "a": "Oui. Nous grimpons dans l'arbre, coupons les branches puis le tronc par sections, chaque pièce étant descendue à la corde. Le toit, la terrasse et les plantations restent intacts. Le bois est débité ou évacué."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Broc ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Hors zone à bâtir, les boisements d'intérêt paysager demandent une dérogation de la commune. En forêt, le service forestier décide. Nous vérifions avant d'intervenir."
+  },
+  {
+   "q": "Quand intervenir sur un arbre de montagne ?",
+   "a": "Pour les tailles, en automne ou en fin d'hiver, hors neige au sol épaisse. Les démontages se font toute l'année si l'accès est praticable. Les urgences après tempête sont traitées dès que possible."
+  },
+  {
+   "q": "Un conifère peut-il être raccourci ?",
+   "a": "Pas par étêtage : la cime coupée pourrit et l'arbre devient dangereux. Nous proposons une réduction latérale pour dégager la maison ou, si l'arbre est vraiment trop grand, un démontage complet suivi d'une nouvelle plantation."
+  },
+  {
+   "q": "À quelle distance de Broc êtes-vous ?",
+   "a": "Arboritaille est installée à Courgenay, dans le canton du Jura, à une nonantaine de kilomètres. Nous regroupons les visites en Gruyère. La visite et le devis sont gratuits et sans engagement."
+  }
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à tailler ou à abattre à Broc ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

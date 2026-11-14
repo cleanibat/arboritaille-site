@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Val-de-Charmey (FR) : élagage | Arboritaille",
+ "desc": "Taille, haubanage, abattage et plantation d'arbres à Charmey et Cerniat, commune de Val-de-Charmey (FR). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Val-de-Charmey · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>Val-de-Charmey</em> : taille, abattage et soins aux arbres",
+ "lead": "Val-de-Charmey, née en 2014 de la fusion de Charmey et de Cerniat, couvre 112 km² de Gruyère pour 2 725 habitants. Arbres de chalet, de ferme ou de bord de route : visite et devis gratuits depuis Courgenay.",
+ "points": [
+  "Visite et devis gratuits à Charmey et à Cerniat",
+  "Haubanage pour conserver un arbre fragile",
+  "Distinction forêt / hors forêt vérifiée avant toute coupe",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Val-de-Charmey",
+ "intro_h2": "112 km² pour 2 700 habitants : une commune très étendue",
+ "intro": "<p>Val-de-Charmey couvre 112,15 km², pour une densité de 24 habitants au kilomètre carré. La commune est née le 1er janvier 2014 de la fusion de Cerniat et de Charmey, codes postaux 1654 et 1637.</p><p>Avec si peu d'habitants pour tant de surface, l'habitat n'occupe qu'une petite part du territoire. Le musée de Charmey occupe un chalet du XVIIe siècle ; la chartreuse de La Valsainte a été fondée en 1295.</p><p>En forêt, tout abattage passe par le service forestier. Hors forêt, autour des chalets et des fermes, nous taillons, haubanons ou démontons les arbres isolés, en accord avec la commune pour les sujets protégés.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 725 (2025)"
+  ],
+  [
+   "Superficie",
+   "112,15 km²"
+  ],
+  [
+   "District",
+   "Gruyère"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 85 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Val-de-Charmey.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. En forêt, l'abattage relève du service forestier. Nous vérifions la règle en vigueur à Val-de-Charmey avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Un territoire vaste, peu bâti",
+   "texte": "Sur un territoire aussi vaste et peu peuplé, les arbres qui nous concernent sont ceux qui entourent les habitations : grands sujets isolés près des chalets, alignements le long des accès, arbres de ferme."
+  },
+  {
+   "icone": "DOC",
+   "titre": "Forêt ou hors forêt ?",
+   "texte": "Un arbre en lisière relève parfois de la forêt, où seul le service forestier autorise l'abattage. Nous clarifions ce point avec la commune avant de vous remettre le devis."
+  },
+  {
+   "icone": "CABLE",
+   "titre": "Haubanage",
+   "texte": "Un vieux feuillu près d'un chalet, à la fourche fendue, ne doit pas forcément être abattu. Un haubanage dynamique soutient la charpente et conserve l'arbre pour des années."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement, retrait du bois mort et dégagement de façade pour les arbres de chalet et de ferme de Val-de-Charmey.",
+  "haubanage": "Pose de haubans dynamiques sur une fourche fragile pour conserver un arbre ancien près d'une habitation.",
+  "abattage-demontage": "Démontage par sections près des chalets, abattage direct en terrain dégagé. Bois débité pour votre chauffage ou évacué.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un arbre douteux et avis écrit sur son état, avant de décider entre taille, haubanage et abattage."
+ },
+ "faq": [
+  {
+   "q": "Intervenez-vous à Cerniat comme à Charmey ?",
+   "a": "Oui, sur l'ensemble du territoire de Val-de-Charmey. Nous venons depuis Courgenay, à quelque huitante-cinq kilomètres, et regroupons les visites en Gruyère. La visite et le devis écrit sont gratuits."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Val-de-Charmey ?",
+   "a": "En forêt, toujours : le service forestier décide. Hors forêt et hors zone à bâtir, les boisements d'intérêt paysager demandent une dérogation de la commune. En zone à bâtir, le règlement communal d'urbanisme s'applique. Nous vérifions pour vous."
+  },
+  {
+   "q": "Comment savoir si mon arbre est en forêt ?",
+   "a": "La limite forestière ne suit pas toujours la clôture. Un arbre isolé dans un pré n'est pas une forêt ; un groupe en lisière peut l'être. Nous posons la question à la commune ou au service forestier avant d'intervenir."
+  },
+  {
+   "q": "Un arbre ancien près de mon chalet peut-il être conservé ?",
+   "a": "Souvent, oui. Si le tronc est sain, un allègement de la couronne et un haubanage de la fourche réduisent le risque. Nous examinons l'arbre sur place et vous donnons un avis écrit avant toute décision."
+  },
+  {
+   "q": "Que faites-vous du bois ?",
+   "a": "Selon le devis, le bois est débité en bûches pour votre chauffage ou évacué. Les branches sont broyées ou laissées en tas. Le terrain est remis en ordre avant notre départ."
+  }
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à voir à Val-de-Charmey ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

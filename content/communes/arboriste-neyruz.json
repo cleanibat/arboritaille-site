@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Neyruz (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Neyruz, commune résidentielle de la Sarine (FR), par un arboriste-grimpeur. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Neyruz · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Neyruz</em> : taille, abattage et soins aux arbres",
+ "lead": "Neyruz, sur la rive gauche de la Glâne, est passée d'un village agricole à une commune résidentielle de 2 874 habitants. Les arbres de ses quartiers ont grandi avec elle. Nous les taillons, les soignons ou les remplaçons.",
+ "points": ["Visite et devis gratuits", "Arbres de jardin près des villas", "Taille douce, silhouette respectée", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Neyruz",
+ "intro_h2": "Quand un village agricole devient résidentiel, ses arbres changent",
+ "intro": "<p>Neyruz vivait autrefois d'élevage et de cultures fourragères. L'autoroute A12 a accéléré sa transformation en commune résidentielle. Aujourd'hui, 2 874 habitants se partagent 5,54 km², soit 519 habitants au km².</p><p>Dans les quartiers de villas, on plante en général des haies de conifères en brise-vue, des arbres d'ornement, des fruitiers de jardin. Trente ou quarante ans plus tard, ils dépassent souvent ce qu'on attendait d'eux.</p><p>Neyruz est située sur la rive gauche de la Glâne. Au bord d'une rivière, les questions changent en général : tenue des berges, arbres penchés sur l'eau, bois mort. Nous intervenons en grimpe et à la corde.</p>",
+ "faits": [["Habitants", "2 874 (2025)"], ["Altitude", "674 m"], ["Superficie", "5,54 km²"], ["Depuis Courgenay", "env. 70 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Neyruz.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Neyruz avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Villas et brise-vue", "texte": "Les haies de conifères plantées en brise-vue vieillissent mal quand on les laisse monter. Nous les rabattons par étapes ou proposons un remplacement par une haie mixte, plus solide et plus accueillante pour les oiseaux."},
+  {"icone": "TREE", "titre": "Arbres d'ornement devenus grands", "texte": "Un arbre de jardin choisi pour sa taille modeste atteint parfois 15 ou 20 mètres. Plutôt que de l'étêter, nous réduisons sa couronne par étapes, en gardant sa forme naturelle."},
+  {"icone": "LEAF", "titre": "Un ancien village d'élevage", "texte": "Neyruz vivait d'élevage et de cultures fourragères. Dans un ancien village agricole, il reste en général de vieux fruitiers et des arbres de ferme. Nous les taillons avec mesure, sans chercher à les rajeunir d'un coup."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction progressive des arbres d'ornement devenus trop grands, rabattage par étapes des haies de conifères.",
+  "abattage-demontage": "Démontage à la corde entre les villas, abattage des haies épuisées, évacuation des branches.",
+  "plantation-arbres": "Remplacement d'une haie ou d'un arbre par une essence dimensionnée pour la parcelle, tuteurage tripode.",
+  "rognage-souche": "Rognage des souches de haie ou d'arbre sous le niveau du sol, pour replanter aussitôt."
+ },
+ "faq": [
+  {"q": "Vous venez jusqu'à Neyruz pour un seul arbre ?", "a": "Oui. La visite est gratuite, quelle que soit la taille du chantier. Neyruz est à une septantaine de kilomètres de Courgenay, dans notre zone d'intervention. Nous répondons par écrit sous 48 h ouvrées."},
+  {"q": "Ma haie de conifères fait six mètres : peut-on la réduire ?", "a": "Oui, mais avec prudence : la plupart des conifères ne repercent pas sur le vieux bois. Nous réduisons la hauteur et les côtés sans dégarnir la haie, ou nous vous conseillons un remplacement si elle est trop dégradée."},
+  {"q": "Quelles règles à Neyruz pour abattre un arbre ?", "a": "Le règlement communal d'urbanisme de Neyruz définit les arbres protégés en zone à bâtir. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation communale avec compensation. Nous vérifions avant toute intervention."},
+  {"q": "Un arbre penche vers la Glâne : est-ce un problème ?", "a": "Pas toujours. Les arbres de berge poussent souvent inclinés vers l'eau. Nous examinons l'ancrage et les signes de faiblesse. Si une intervention s'impose, elle se fait à la corde, sans machine sur la berge."},
+  {"q": "Faites-vous aussi les plantations ?", "a": "Oui. Nous choisissons avec vous une essence adaptée à la taille de la parcelle, plantons avec un tuteurage tripode et vous conseillons sur l'arrosage. C'est aussi la solution pour remplacer une haie de conifères épuisée."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre ou une haie à reprendre à Neyruz ?",
+ "cta_lead": "Visite et devis gratuits, réponse écrite sous 48 h ouvrées."
+}

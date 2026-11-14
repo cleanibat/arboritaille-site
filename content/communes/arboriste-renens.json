@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Renens (VD) : élagage et abattage | Arboritaille",
+ "desc": "Élagage, abattage par démontage et suivi d'arbres pour particuliers, PPE et gérances à Renens (VD), chef-lieu de l'Ouest lausannois. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Renens · Ouest lausannois",
+ "h1": "Arboriste-grimpeur à <em>Renens</em> : élagage, abattage et suivi des arbres",
+ "lead": "Renens loge près de 22 000 habitants sur moins de 3 km². Dans une ville aussi dense, les arbres poussent en cour d'immeuble, en bord de rue, dans de petits jardins. Nous les taillons et les démontons en espace réduit.",
+ "points": ["Visite et devis gratuits", "Particuliers, gérances et PPE", "Démontage à la corde en cour d'immeuble", "Zone balisée, branches évacuées le jour même"],
+ "intro_eyebrow": "Vos arbres à Renens",
+ "intro_h2": "Une ville née du rail, où chaque arbre partage sa place",
+ "intro": "<p>Renens était un village agricole de 433 habitants en 1860. La gare, inaugurée en 1876, puis l'industrie ont façonné la ville. Elle est aujourd'hui le chef-lieu du district de l'Ouest lausannois, avec 21 793 habitants.</p><p>La densité atteint 7 363 habitants au km². À ce niveau, un arbre partage toujours son espace avec autre chose : une façade, des places de parc, un trottoir, les fenêtres des voisins.</p><p>Renens garde aussi des maisons en rangée de 1907 au chemin des Clos et, à l'avenue de Longemalle, des prototypes de cité-jardin. Un jardin de maison en rangée est étroit par nature : la taille s'y fait par petites coupes.</p><p>Nous venons de Courgenay, à une centaine de kilomètres à vol d'oiseau, et cherchons à grouper les rendez-vous de l'Ouest lausannois. Pour les immeubles, voyez notre page <a href=\"/collectivites-entreprises\">entreprises et gérances</a>.</p>",
+ "faits": [["Habitants", "21 793 (2025)"], ["Altitude", "440 m"], ["Superficie", "2,96 km²"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Renens.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Renens avant d'intervenir.",
+ "contexte": [
+  {"icone": "USERS", "titre": "Gérances et copropriétés", "texte": "Un devis par arbre ou par lot, un planning annoncé aux locataires, un compte rendu après l'intervention. La gérance conserve une trace écrite de ce qui a été fait, et pourquoi."},
+  {"icone": "WARN", "titre": "Au-dessus d'un trottoir ou d'un parking", "texte": "Une branche sèche au-dessus d'un passage ne prévient pas. Nous l'enlevons, contrôlons les fourches voisines et tenons les passants à distance pendant le travail."},
+  {"icone": "HOME", "titre": "Cours intérieures", "texte": "Dans une cour fermée, les branches sortent à la main par le passage de l'immeuble et le broyeur reste dans la rue. Sols et revêtements sont protégés."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Rehaussement, éclaircissage et réduction de couronne pour les arbres de cour, de rue privée et de petit jardin à Renens.",
+  "abattage-demontage": "Démontage à la corde en cour d'immeuble ou entre deux bâtiments, pièce par pièce, zone balisée.",
+  "collectivites-entreprises": "Devis par lot, planning et compte rendu pour les gérances, les PPE, les entreprises et la commune.",
+  "diagnostic-expertise-arbre": "Contrôle visuel des arbres proches d'un passage ou d'un parking, avec un avis écrit si vous le souhaitez."
+ },
+ "faq": [
+  {"q": "Travaillez-vous pour les gérances à Renens ?", "a": "Oui. Nous établissons un devis par arbre ou par lot, proposons un planning compatible avec la vie de l'immeuble et remettons un compte rendu après le chantier. La visite préalable est gratuite."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Renens ?", "a": "Pour un arbre protégé, oui. La loi vaudoise confie l'autorisation à la Municipalité, par écrit, et impose une plantation compensatoire. Le seuil de protection figure dans le règlement communal. Nous le consultons avant de planifier le chantier."},
+  {"q": "Comment protégez-vous les voitures et les passants ?", "a": "La zone est balisée avant le premier coup de scie. Les places de parc sous l'arbre sont libérées à l'avance, avec l'aide de la gérance ou des habitants. Chaque branche est retenue à la corde, puis déposée."},
+  {"q": "Peut-on tailler un arbre qui assombrit des appartements ?", "a": "Oui, jusqu'à un certain point. Un éclaircissage et un rehaussement de couronne laissent passer plus de lumière sans mutiler l'arbre. Une coupe trop forte, elle, est assimilée dans le canton de Vaud à un abattage sans autorisation."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à élaguer ou à démonter à Renens ?",
+ "cta_lead": "Visite et devis gratuits pour les particuliers, les PPE et les gérances."
+}

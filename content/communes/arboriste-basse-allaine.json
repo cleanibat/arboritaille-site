@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Basse-Allaine (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Basse-Allaine (Buix, Courtemaîche, Montignez), à une dizaine de kilomètres de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Basse-Allaine · Buix, Courtemaîche, Montignez",
+ "h1": "Arboriste-grimpeur à <em>Basse-Allaine</em> : taille, abattage et soins aux arbres",
+ "lead": "Basse-Allaine se trouve à 398 m d'altitude, plus bas que Porrentruy et Courgenay. Buix, Courtemaîche, Montignez ou Le Mairâ : nous venons tailler, abattre ou planter vos arbres depuis Courgenay, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Buix, Courtemaîche, Montignez, Le Mairâ", "Altitude basse, saison de croissance longue", "Prieuré de Grandgourt : site inventorié"],
+ "intro_eyebrow": "Vos arbres à Basse-Allaine",
+ "intro_h2": "Trois villages réunis en 2009, à 398 m d'altitude",
+ "intro": "<p>Basse-Allaine existe depuis le 1er janvier 2009, par la fusion de Buix, Courtemaîche et Montignez. Elle compte 1 182 habitants sur 23,05 km², dans le district de Porrentruy, à une dizaine de kilomètres de Courgenay.</p><p>À 398 m, la commune se trouve plus bas que Porrentruy (443 m) et Courgenay (488 m). En règle générale, une altitude plus basse signifie un printemps plus précoce et des arbres qui poussent vite : les tailles d'entretien reviennent plus souvent.</p><p>Le Prieuré de Grandgourt, sur le territoire communal, figure à l'inventaire fédéral des sites construits à protéger. Près d'un ensemble de cette valeur, nous travaillons à la corde, sans chute libre, et consultons la commune avant toute coupe.</p><p>Dans les trois villages, les arbres qui nous occupent sont ceux des jardins, des fermes et des bords de parcelles : dégagement d'une toiture, bois mort, haie à reprendre, fruitier à remplacer.</p>",
+ "faits": [["Habitants", "1 182 (2025)"], ["Altitude", "398 m"], ["Superficie", "23,05 km²"], ["Depuis Courgenay", "env. 10 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Basse-Allaine.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Basse-Allaine avant d'intervenir.",
+ "contexte": [
+  {"icone": "CLOCK", "titre": "Une saison de croissance longue", "texte": "À 398 m, le débourrement est plus précoce et la pousse plus longue qu'en altitude. Un arbre de jardin dépasse vite la place prévue : une taille d'entretien tous les quelques années évite les coupes brutales."},
+  {"icone": "DOC", "titre": "Un site à l'inventaire fédéral", "texte": "Le Prieuré de Grandgourt est inscrit à l'inventaire fédéral des sites construits à protéger. Autour d'un tel ensemble, nous dialoguons avec la commune avant d'intervenir et travaillons sans chute libre."},
+  {"icone": "HOME", "titre": "Jardins des trois villages", "texte": "Dans les jardins et les cours de ferme de Buix, Courtemaîche et Montignez, un arbre planté il y a longtemps finit par toucher toiture ou ligne. Une taille ciblée règle le plus souvent le problème."},
+  {"icone": "LEAF", "titre": "Haies hors zone à bâtir", "texte": "Sur 23 km² pour 1 182 habitants, beaucoup de haies et de bosquets se trouvent en général hors zone à bâtir, donc protégés par la loi jurassienne. Nous les entretenons en hiver, par tronçons, sans les supprimer."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin et de ferme de Buix, Courtemaîche et Montignez.",
+  "abattage-demontage": "Démontage à la corde près des bâtiments, abattage direct quand la place le permet. Bois débité ou évacué, terrain nettoyé.",
+  "plantation-arbres": "Remplacement d'un fruitier ou plantation d'un arbre adapté au sol et à la place disponible, avec tuteurage tripode.",
+  "rognage-souche": "Après l'abattage, la souche est rognée sous le niveau du sol pour replanter ou engazonner la place libérée."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans les trois villages de Basse-Allaine ?", "a": "Oui : Buix, Courtemaîche et Montignez, ainsi que Le Mairâ. La commune est à une dizaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite dans chaque localité."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Basse-Allaine ?", "a": "Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation communale. En zone à bâtir, le règlement de Basse-Allaine désigne les arbres protégés. Nous nous renseignons auprès de la commune avant de couper."},
+  {"q": "Pourquoi mon arbre pousse-t-il si vite ?", "a": "À 398 m, la saison de végétation est en général plus longue qu'en altitude. Un arbre y gagne vite en volume. Une taille d'entretien régulière, douce, vaut mieux qu'une réduction sévère tous les quinze ans."},
+  {"q": "Pouvez-vous intervenir près du Prieuré de Grandgourt ?", "a": "Oui, avec précaution. Le site figure à l'inventaire fédéral des sites construits à protéger. Nous consultons la commune avant toute coupe et démontons les arbres pièce par pièce, à la corde, sans rien laisser tomber sur les bâtiments."},
+  {"q": "À quelle période entretenir une haie à Basse-Allaine ?", "a": "Durant le repos de la végétation, d'octobre à mars, comme le recommande le canton du Jura. Nous rajeunissons la haie par tronçons et vérifions l'absence de nids. La supprimer hors zone à bâtir demande une dérogation."}
+ ],
+ "cta_img": "arboriste_grimpeur-15",
+ "cta_h2": "Un arbre à tailler ou à abattre à Basse-Allaine ?",
+ "cta_lead": "Visite et devis gratuits à Buix, Courtemaîche et Montignez."
+}

@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Villars-sur-Glâne : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Villars-sur-Glâne (FR), commune dense du district de la Sarine. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Villars-sur-Glâne · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Villars-sur-Glâne</em> : taille, abattage et soins aux arbres",
+ "lead": "Villars-sur-Glâne loge 12 644 habitants sur moins de 6 km². Dans ces quartiers serrés, nous taillons et démontons les arbres au plus près des immeubles et des villas. Visite et devis gratuits depuis Courgenay.",
+ "points": ["Visite et devis gratuits", "Démontage à la corde entre les bâtiments", "Plans d'entretien pour copropriétés", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Villars-sur-Glâne",
+ "intro_h2": "Plus de 2 300 habitants au kilomètre carré : des arbres sous contrainte",
+ "intro": "<p>Villars-sur-Glâne compte 2 303 habitants au kilomètre carré. À cette densité, immeubles, villas et voies de circulation se partagent en général l'espace : 5,49 km² ici, entre 554 et 720 m d'altitude.</p><p>Dans un tissu aussi dense, un arbre a rarement la place de grandir librement. Il touche une façade, ombrage un balcon, soulève un trottoir. La taille doit être précise et régulière, jamais brutale.</p><p>Le site est occupé depuis l'époque de Hallstatt : le tumulus de Moncor compte parmi les plus grands de Suisse. Achetée par Fribourg en 1442, la commune fait partie des Anciennes Terres.</p><p>Dans une commune aussi bâtie, les arbres de copropriété appartiennent à tous et à personne. Nous proposons aux gérances un état des arbres et un calendrier d'entretien, pour éviter les coupes d'urgence coûteuses.</p>",
+ "faits": [["Habitants", "12 644 (2025)"], ["Altitude", "659 m"], ["Densité", "2 303 hab./km²"], ["Depuis Courgenay", "env. 70 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Villars-sur-Glâne.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de Villars-sur-Glâne avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Façades et balcons", "texte": "Une branche qui frotte une façade abîme le crépi et l'arbre. Nous dégageons les bâtiments de 1 à 2 m par des coupes au bon endroit, sans déséquilibrer la couronne."},
+  {"icone": "USERS", "titre": "Copropriétés et gérances", "texte": "Un seul interlocuteur pour l'état des lieux, les priorités, les devis et le rapport final. Les travaux sont annoncés aux habitants et le chantier est laissé propre."},
+  {"icone": "WARN", "titre": "Sécurité en zone habitée", "texte": "Près des parkings, des trottoirs et des aires de jeux, nous balisons la zone et retenons chaque pièce à la corde. Aucune branche ne tombe librement."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Dégagement de façade, réduction de couronne et taille d'entretien des arbres d'immeuble et de villa à Villars-sur-Glâne.",
+  "abattage-demontage": "Démontage par sections entre les bâtiments, pièces retenues à la corde, façades et véhicules protégés.",
+  "collectivites-entreprises": "État des arbres, calendrier d'entretien et devis distincts pour copropriétés, gérances et entreprises.",
+  "diagnostic-expertise-arbre": "Avis écrit sur un arbre âgé ou douteux avant de décider d'une coupe.",
+  "plantation-arbres": "Essences à développement modéré pour les petits jardins et les abords d'immeubles, plantées et tuteurées."
+ },
+ "faq": [
+  {"q": "Intervenez-vous pour les immeubles de Villars-sur-Glâne ?", "a": "Oui, pour les copropriétés, les gérances et les propriétaires privés. Nous établissons un état des arbres, puis un devis par intervention. La visite est gratuite et la réponse arrive sous 48 h ouvrées."},
+  {"q": "Comment abattre un arbre coincé entre deux immeubles ?", "a": "Par démontage en grimpe : l'arbre est coupé par sections depuis le haut, chaque pièce retenue à la corde et déposée au sol à l'endroit prévu. Les façades, voitures et plantations voisines sont protégées."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Villars-sur-Glâne ?", "a": "En zone à bâtir, le règlement communal d'urbanisme désigne les arbres protégés. Le détail dépend de ce texte : nous le consultons auprès de la commune avant tout devis d'abattage, et nous vous aidons à préparer la demande si elle est nécessaire."},
+  {"q": "Mon arbre fait trop d'ombre au voisin, peut-on le réduire ?", "a": "Oui, par une réduction de couronne raisonnée : nous raccourcissons les branches sur des tire-sève pour que l'arbre garde sa forme et sa santé. Nous ne pratiquons pas l'étêtage, qui affaiblit l'arbre et crée des rejets dangereux."},
+  {"q": "Quelle essence planter dans un petit jardin de Villars-sur-Glâne ?", "a": "Une essence à développement modéré, adaptée à la place disponible et à l'exposition. Nous vous conseillons lors de la visite et plantons l'arbre avec un tuteurage tripode."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à démonter à Villars-sur-Glâne ?",
+ "cta_lead": "Visite et devis gratuits pour particuliers, copropriétés et gérances."
+}

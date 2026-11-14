@@ -1,0 +1,33 @@
+{
+ "title": "Arboriste-grimpeur à La Chaux-du-Milieu (NE) | Arboritaille",
+ "desc": "Élagage, dégagement de façade et abattage d'arbres à La Chaux-du-Milieu (NE), commune située entièrement au-dessus de 1 000 m. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · La Chaux-du-Milieu · Montagnes neuchâteloises",
+ "h1": "Arboriste-grimpeur à <em>La Chaux-du-Milieu</em> : élagage, dégagement de façade, abattage",
+ "lead": "À La Chaux-du-Milieu, 494 habitants vivent entre 1 039 et 1 290 m. Résineux trop proches d'une façade, branches chargées de neige, arbre à démonter : nous venons voir, puis vous recevez un devis écrit et gratuit.",
+ "points": ["Visite sur place et devis gratuits", "Résineux dégagés ou démontés par tronçons", "Bois débité sur place ou évacué", "À environ 55 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres à La Chaux-du-Milieu",
+ "intro_h2": "Aucun point de la commune sous 1 039 m",
+ "intro": "<p>À La Chaux-du-Milieu, le point le plus bas du territoire est à 1 039 m, le plus haut à 1 290 m. Aucun jardin, aucune ferme n'échappe donc au climat de montagne.</p><p>À cette altitude dans le Jura, l'épicéa et l'érable sont des essences fréquentes. Un résineux proche d'une maison grandit vite, fait de l'ombre et inquiète quand le vent se lève.</p><p>La commune réunit 494 habitants sur 17,28 km². Elle est voisine du Locle et de <a href=\"/arboriste-la-brevine\">La Brévine</a>. Nous y venons depuis Courgenay, à environ 55 km à vol d'oiseau.</p>",
+ "faits": [["Habitants", "494 (2025)"], ["Altitude", "1 132 m"], ["Superficie", "17,28 km²"], ["Depuis Courgenay", "env. 55 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Chaux-du-Milieu.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Résineux contre la façade", "texte": "Un épicéa planté à quelques mètres d'un mur finit par dépasser le toit. Selon son état, nous supprimons les branches basses, dégageons la façade ou le démontons par tronçons."},
+  {"icone": "MOUNT", "titre": "La neige qui dure", "texte": "Au-dessus de 1 000 m partout, la neige tient longtemps et pèse sur les branches horizontales. Nous repérons les charpentières fissurées avant qu'elles ne cèdent."},
+  {"icone": "PIN", "titre": "Accès et évacuation", "texte": "Ferme en bout de chemin ou maison au village : la visite sert à voir où poser les machines, par où sortir le bois, ou comment le débiter sur place."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Suppression des branches basses, dégagement de façade et retrait du bois mort sur résineux et feuillus.",
+  "abattage-demontage": "Démontage par tronçons quand l'arbre touche presque la maison, abattage direct s'il y a la place.",
+  "rognage-souche": "Souche rognée sous le niveau du sol après l'abattage, pour retrouver un terrain plat."
+ },
+ "faq": [
+  {"q": "Mon épicéa dépasse le toit : faut-il l'abattre ?", "a": "Pas toujours. Si l'arbre est sain et bien ancré, dégager la façade et retirer le bois mort peut suffire. S'il penche, sèche en cime ou soulève le sol, le démontage par tronçons est plus prudent."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Chaux-du-Milieu ?", "a": "Les haies et bosquets sont protégés dans tout le canton de Neuchâtel. Pour un arbre isolé, tout dépend du règlement communal. Nous vérifions ce que prévoit La Chaux-du-Milieu avant de programmer le chantier."},
+  {"q": "Venez-vous à La Chaux-du-Milieu pour un seul arbre ?", "a": "Oui. Un seul arbre justifie une visite, gratuite et sans engagement. Nous répondons à votre demande sous 48 h ouvrées, puis nous convenons d'un rendez-vous sur place pour établir le devis écrit."},
+  {"q": "Que faites-vous du bois et des branches ?", "a": "Selon votre souhait, précisé dans le devis : le bois est débité en bûches et laissé sur place, ou évacué. Les branches sont broyées ou emportées. Le terrain est nettoyé en fin de chantier."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un résineux trop proche de la maison à La Chaux-du-Milieu ?",
+ "cta_lead": "Nous venons le voir et vous remettons un devis écrit, gratuit."
+}

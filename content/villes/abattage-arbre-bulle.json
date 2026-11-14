@@ -1,0 +1,66 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-bulle",
+ "h1_plain": "Abattage et démontage d'arbres à Bulle",
+ "title": "Abattage et démontage d'arbres à Bulle (FR) | Arboritaille",
+ "desc": "Abattage et démontage d'arbres à Bulle et La Tour-de-Trême : arbres près des immeubles et des chantiers, autorisation communale vérifiée. Devis gratuit.",
+ "eyebrow": "Abattage · Bulle",
+ "h1": "Abattage et démontage d'arbres à <em>Bulle</em>",
+ "lead": "À Bulle, deuxième ville du canton de Fribourg, les arbres se retrouvent souvent au contact des bâtiments. Nous les démontons pièce par pièce quand ils ne peuvent plus être conservés. Visite et devis gratuits.",
+ "points": [
+  "Démontage à la corde près des façades",
+  "Autorisation communale vérifiée",
+  "Grands résineux démontés depuis la cime",
+  "Souche rognée sur demande"
+ ],
+ "intro_eyebrow": "Bulle",
+ "intro_h2": "Quand le bâti se rapproche de l'arbre",
+ "intro": "<p>L'agglomération de Bulle réunit environ 40 000 habitants depuis 2024. Là où une ville se densifie, un arbre planté en pleine pelouse se retrouve en général près d'une façade, d'un parking ou d'une limite de parcelle.</p><p>Avant d'abattre, nous regardons si une réduction ou un haubanage suffit. Si l'arbre est dangereux ou dépérissant, nous le démontons à la corde, tronçon par tronçon.</p><p>Dans le centre ancien, autour de la Grand-Rue et du château, les cours sont en général étroites. À La Tour-de-Trême comme en ville, la visite fixe l'accès des machines.</p>",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Autorisation de la commune",
+   "texte": "À Bulle, l'abattage d'un boisement hors-forêt nécessite une autorisation de la commune. Haie, bosquet, grand arbre isolé : nous vérifions le statut avant de fixer une date."
+  },
+  {
+   "icone": "CRANE",
+   "titre": "Parcelles enclavées",
+   "texte": "Entre deux immeubles, le tronc ne peut pas être couché. Nous le coupons en tronçons courts, retenus à la corde. Une grue les lève si aucun passage ne permet de les sortir."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Grands résineux",
+   "texte": "Un grand résineux de jardin, haut et exposé au vent, se démonte depuis la cime, branche après branche. Entre 730 et 1 170 m d'altitude, neige et vent sollicitent davantage ces arbres."
+  },
+  {
+   "icone": "STUMP",
+   "titre": "Souche et terrain",
+   "texte": "La souche est coupée au ras du sol. Pour replanter, engazonner ou construire, nous la rognons sous le niveau du terrain. Voir <a href=\"/rognage-souche\">rognage de souche</a>."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Bulle.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés.<br>La <a href=\"https://www.bulle.ch/lesarbresenmilieuurbain\">Ville de Bulle</a> indique que les boisements hors-forêt sont protégés hors zone à bâtir et partiellement en zone à bâtir, et que leur abattage nécessite une autorisation de la commune. Nous vérifions la règle en vigueur à Bulle avant d'intervenir.",
+ "faq": [
+  {
+   "q": "À qui demander l'autorisation d'abattre un arbre à Bulle ?",
+   "a": "À la commune. La Ville de Bulle indique que l'abattage d'un boisement hors-forêt nécessite son autorisation. Hors zone à bâtir, la dérogation est délivrée sur préavis du Service des forêts et de la nature, avec compensation."
+  },
+  {
+   "q": "Un arbre gêne un projet de construction : que faire ?",
+   "a": "Faites-le examiner avant de déposer le dossier. Nous indiquons si l'arbre peut être conservé avec une protection de chantier, ou s'il doit être démonté. La commune décide ensuite selon son règlement d'urbanisme."
+  },
+  {
+   "q": "Comment abattez-vous un grand sapin près d'une villa ?",
+   "a": "Nous grimpons, ébranchons en montant, puis descendons le tronc par tronçons courts depuis la cime. Chaque pièce est retenue à la corde. La pelouse, la terrasse et la haie voisine restent dégagées de toute chute libre."
+  },
+  {
+   "q": "Le déplacement depuis Courgenay est-il facturé pour la visite ?",
+   "a": "Non. Bulle est à une nonantaine de kilomètres de Courgenay, mais la visite et le devis restent gratuits. Nous regroupons les rendez-vous en Gruyère et répondons à votre demande sous 48 h ouvrées."
+  },
+  {
+   "q": "Faut-il replanter après l'abattage ?",
+   "a": "Hors zone à bâtir, la dérogation est liée à une compensation. En zone à bâtir, la commune fixe ses conditions. Nous pouvons planter un arbre de remplacement adapté à l'altitude ; voir <a href=\"/plantation-arbres\">plantation d'arbres</a>."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Bulle ou à La Tour-de-Trême ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à La Côte-aux-Fées (NE) | Arboritaille",
+ "desc": "Diagnostic, taille, haubanage et plantation d'arbres à La Côte-aux-Fées (NE), dans le Val-de-Travers, entre 928 et 1 335 m. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · La Côte-aux-Fées · Val-de-Travers",
+ "h1": "Arboriste-grimpeur à <em>La Côte-aux-Fées</em> : diagnostic, taille et plantation",
+ "lead": "La Côte-aux-Fées compte 467 habitants dans le Val-de-Travers, à la limite du canton de Vaud. Avant de couper, nous examinons l'arbre : une taille ou un hauban suffisent souvent. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Diagnostic avant toute coupe", "Loi neuchâteloise vérifiée pour vous", "À environ 75 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres à La Côte-aux-Fées",
+ "intro_h2": "Entre 928 et 1 335 m, à la limite du canton de Vaud",
+ "intro": "<p>La Côte-aux-Fées réunit 467 habitants sur 12,85 km². Les altitudes relevées pour la commune vont de 928 à 1 335 m : le climat y est celui de la montagne jurassienne.</p><p>La commune touche <a href=\"/arboriste-sainte-croix\">Sainte-Croix</a>, qui est vaudoise. La limite cantonale est aussi une limite de droit. Ici s'applique la loi neuchâteloise ; de l'autre côté, l'autorisation relève de la Municipalité.</p><p>En altitude, un arbre met longtemps à atteindre sa taille adulte. Le remplacer prend des décennies. Avant de l'abattre, il vaut la peine de savoir ce qu'il a encore devant lui.</p><p>C'est l'objet d'un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a> : état du tronc, des racines, de la couronne. Vous savez ensuite si une taille suffit, si un hauban est utile ou si le démontage s'impose.</p>",
+ "faits": [["Habitants", "467 (2025)"], ["Altitude", "928 à 1 335 m"], ["Superficie", "12,85 km²"], ["Depuis Courgenay", "env. 75 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Côte-aux-Fées.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à La Côte-aux-Fées avant d'intervenir.",
+ "contexte": [
+  {"icone": "SEARCH", "titre": "Ce que nous regardons", "texte": "Champignons au pied, cavités, écorce incluse dans une fourche, branches sèches en cime : ces indices renseignent sur la solidité de l'arbre et orientent la décision."},
+  {"icone": "SPROUT", "titre": "Planter pour la génération suivante", "texte": "Puisque la croissance est lente là-haut, mieux vaut planter le successeur avant que le vieil arbre ne disparaisse. Les deux cohabitent quelques années."},
+  {"icone": "DOC", "titre": "Une commune de limite", "texte": "Neuchâtel d'un côté, Vaud de l'autre : les règles sur les arbres diffèrent. Nous appliquons celles du canton et de la commune où l'arbre est enraciné."}
+ ],
+ "services": {
+  "diagnostic-expertise-arbre": "Examen visuel complet et avis écrit sur l'état de l'arbre et les options possibles.",
+  "elagage-taille-arbres": "Taille légère, retrait du bois mort et allègement, pour prolonger la vie d'un arbre adulte.",
+  "haubanage": "Haubans souples pour sécuriser une fourche à écorce incluse ou une charpentière lourde.",
+  "plantation-arbres": "Plantation d'une essence adaptée à l'altitude de La Côte-aux-Fées, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "À quoi sert un diagnostic avant d'abattre ?", "a": "À éviter un abattage inutile, ou au contraire à ne pas garder un arbre dangereux. Nous examinons le pied, le tronc et la couronne, puis nous vous expliquons les options : taille, haubanage, surveillance ou démontage."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Côte-aux-Fées ?", "a": "Haies et bosquets sont protégés par la loi neuchâteloise. Pour un arbre isolé, le règlement communal fait foi. Nous vérifions la règle en vigueur à La Côte-aux-Fées avant de fixer une date."},
+  {"q": "Quelle essence planter en altitude ?", "a": "Une essence de montagne, choisie selon le sol, l'exposition et la place disponible à l'âge adulte. Nous vous proposons quelques options après avoir vu le terrain. La plantation se fait de préférence à l'automne ou au dégel."},
+  {"q": "Venez-vous jusqu'à La Côte-aux-Fées depuis Courgenay ?", "a": "Oui. La distance est d'environ 75 km à vol d'oiseau, et le Val-de-Travers fait partie de notre zone d'intervention. La visite est gratuite. Nous répondons à votre demande sous 48 h ouvrées."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à faire examiner à La Côte-aux-Fées ?",
+ "cta_lead": "Visite et devis gratuits. Vous décidez ensuite, en connaissance de cause."
+}

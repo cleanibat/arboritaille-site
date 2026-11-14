@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Brillaz (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à La Brillaz (FR), Lentigny, Lovens et Onnens, à près de 800 m d'altitude. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "40% 30%",
+ "eyebrow": "Arboriste-grimpeur · La Brillaz · Sarine",
+ "h1": "Arboriste-grimpeur à <em>La Brillaz</em> : taille, abattage et soins aux arbres",
+ "lead": "La Brillaz rassemble Lentigny, Lovens et Onnens, trois villages à près de 800 m d'altitude. Nous y taillons et abattons les arbres exposés au vent et à la neige, après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Arbres exposés au vent", "Démontage à la corde", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à La Brillaz",
+ "intro_h2": "Un relief régulier autour de 776 m, habité depuis les Celtes",
+ "intro": "<p>Entre 720 m et 821 m, le territoire de La Brillaz varie à peine d'une centaine de mètres. La commune compte 2 239 habitants. Elle réunit depuis 2001 trois anciennes communes : Lentigny, Lovens et Onnens.</p><p>Lentigny est occupé depuis l'époque celtique. Sépultures de la Tène, monnaies romaines, vestiges d'une route entre Avenches et Romont : le sol a une longue mémoire. Un arbre ancien près d'une ferme en fait aussi partie.</p><p>Sur un relief aussi régulier, le vent rencontre en général peu d'obstacles. Les arbres isolés et les haies de limite en subissent alors les effets : branches cassées, couronnes déséquilibrées. Nous rééquilibrons par la taille plutôt que d'abattre.</p>",
+ "faits": [["Habitants", "2 239"], ["Altitude", "776 m"], ["Superficie", "10,29 km²"], ["Depuis Courgenay", "env. 70 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Brillaz.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à La Brillaz avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Prise au vent", "texte": "Un arbre de terrain dégagé développe une couronne large et basse s'il a de la place, ou se déséquilibre s'il est serré. Nous allégeons le côté lourd et retirons les branches fendues avant qu'elles ne tombent."},
+  {"icone": "SPROUT", "titre": "Planter contre le vent", "texte": "Pour un nouvel arbre à La Brillaz, nous conseillons une essence à bois solide, un tuteurage tripode et une taille de formation les premières années. L'arbre s'ancre mieux et vieillit droit."},
+  {"icone": "HOME", "titre": "Trois anciens villages", "texte": "Lentigny, Lovens et Onnens formaient trois communes jusqu'en 2001. Dans un noyau villageois ancien, les arbres sont en général grands et proches des toits. Nous les allégeons par étapes plutôt que de les rabattre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Rééquilibrage des couronnes déformées par le vent, suppression des branches fendues, taille d'entretien des arbres de ferme.",
+  "abattage-demontage": "Abattage direct en terrain dégagé ou démontage à la corde entre les maisons, bois débité en bûches ou évacué.",
+  "plantation-arbres": "Choix d'une essence à bois solide, plantation avec tuteurage tripode et taille de formation les premières années.",
+  "haubanage": "Haubans dans la couronne d'un arbre isolé dont une fourche s'ouvre sous l'effet du vent."
+ },
+ "faq": [
+  {"q": "Vous intervenez à Lentigny, Lovens et Onnens ?", "a": "Oui, dans les trois villages de La Brillaz. Nous nous déplaçons depuis Courgenay, à une septantaine de kilomètres. La visite est gratuite et le devis écrit vous parvient sous 48 h ouvrées."},
+  {"q": "Le vent a cassé une grosse branche : que faire ?", "a": "Ne la laissez pas pendre : elle peut tomber au prochain coup de vent. Nous la retirons, nettoyons la plaie et vérifions le reste de la couronne. Une réduction du côté opposé rééquilibre souvent l'arbre."},
+  {"q": "Faut-il une autorisation pour abattre à La Brillaz ?", "a": "En zone à bâtir, le règlement communal d'urbanisme désigne les arbres protégés. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune, avec compensation. Nous nous en assurons avant le chantier."},
+  {"q": "Quelle essence planter à La Brillaz sur un terrain exposé au vent ?", "a": "Les essences à bois dense et à enracinement profond tiennent mieux que les arbres à croissance rapide. Nous tenons compte du sol, de l'espace et de l'usage souhaité, ombre ou brise-vent, et vous proposons deux ou trois options."},
+  {"q": "Que devient le bois après l'abattage ?", "a": "Il est débité en bûches pour votre chauffage, laissé en longueurs ou évacué, selon le devis. Les branches sont broyées sur place. Le terrain est remis en ordre avant notre départ."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre malmené par le vent à La Brillaz ?",
+ "cta_lead": "Visite et devis gratuits, réponse écrite sous 48 h ouvrées."
+}

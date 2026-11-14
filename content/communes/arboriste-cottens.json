@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Cottens (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, réduction, abattage et remplacement des arbres plantés dans les quartiers de Cottens (FR) depuis les années 1970. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Cottens · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Cottens</em> : taille, abattage et soins aux arbres",
+ "lead": "Cottens est devenue une commune résidentielle dans les années 1970. Un arbre planté alors a une cinquantaine d'années et sa taille adulte. Nous les taillons, les sécurisons ou les remplaçons, après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Arbres de lotissement arrivés à maturité", "Réduction de couronne sans étêtage", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Cottens",
+ "intro_h2": "Les arbres des années 1970 ont cinquante ans",
+ "intro": "<p>Village rural, Cottens est devenue une commune résidentielle dans les années 1970. Sa gare, sur la ligne Lausanne-Berne, date de 1862. Elle compte aujourd'hui 1 605 habitants à 760 m d'altitude, sur 4,97 km².</p><p>Un arbre planté avec une maison des années 1970 a aujourd'hui une cinquantaine d'années. Pour beaucoup d'essences, c'est l'âge où la couronne atteint sa pleine ampleur, là où le jardin, lui, n'a pas grandi.</p><p>Il reste des solutions avant l'abattage : rehausser la couronne pour rendre la lumière, la réduire par étapes, supprimer le bois mort. Quand le remplacement s'impose, nous plantons une essence mieux dimensionnée pour la parcelle.</p>",
+ "faits": [["Habitants", "1 605 (2025)"], ["Altitude", "760 m"], ["Superficie", "4,97 km²"], ["Depuis Courgenay", "env. 75 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Cottens.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Cottens avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Un arbre, une maison, une génération", "texte": "Les propriétaires qui reprennent une maison des années 1970 reprennent aussi ses arbres. Nous faisons le point : lesquels garder, lesquels alléger, lesquels remplacer, et dans quel ordre selon votre budget."},
+  {"icone": "SCISS", "titre": "Réduire sans étêter", "texte": "Couper un arbre à mi-hauteur crée des rejets fragiles et des pourritures. Nous réduisons la couronne branche par branche, en gardant des tire-sève, pour une silhouette naturelle et durable."},
+  {"icone": "CLOCK", "titre": "Un entretien espacé", "texte": "Un arbre adulte de jardin se contente d'une intervention tous les trois à cinq ans. Nous proposons un suivi léger plutôt que de grosses coupes rares, moins traumatisantes pour l'arbre et plus faciles à budgéter."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Rehaussement et réduction progressive de couronne, suppression du bois mort, pour les arbres de lotissement devenus trop grands.",
+  "abattage-demontage": "Démontage à la corde d'un arbre trop grand ou dépérissant, entre les maisons, sans dégât sur les aménagements.",
+  "plantation-arbres": "Remplacement par une essence dimensionnée pour la parcelle, plantation et tuteurage après rognage de la souche.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol pour replanter au même endroit.",
+  "diagnostic-expertise-arbre": "État des lieux des arbres d'une propriété : garder, alléger ou remplacer, avec un ordre de priorité."
+ },
+ "faq": [
+  {"q": "Mon arbre fait de l'ombre à toute la maison à Cottens : abattre ou tailler ?", "a": "Souvent, un rehaussement de couronne et un éclaircissage suffisent à rendre la lumière. Si l'arbre est trop grand pour la parcelle et en mauvais état, le remplacement par une essence plus petite est une solution raisonnable. Nous jugeons sur place."},
+  {"q": "Pourquoi ne pas simplement étêter ?", "a": "L'étêtage affaiblit l'arbre : il produit des rejets mal ancrés, laisse de grosses plaies et favorise les pourritures. Dans quelques années, le problème revient en pire. Une réduction progressive respecte la structure et dure plus longtemps."},
+  {"q": "Quelles règles pour abattre un arbre à Cottens ?", "a": "En zone à bâtir, le règlement communal d'urbanisme de Cottens précise les arbres protégés. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune, avec compensation. Nous vérifions avant d'intervenir."},
+  {"q": "Vous déplacez-vous depuis Courgenay pour un devis ?", "a": "Oui. Cottens se trouve à environ septante-cinq kilomètres de Courgenay, dans notre zone d'intervention. La visite est gratuite et sans engagement. Vous recevez un devis écrit sous 48 h ouvrées."},
+  {"q": "Peut-on replanter au même endroit après un abattage ?", "a": "Oui, à condition de rogner la souche sous le niveau du sol et d'apporter de la terre fraîche. Nous enchaînons rognage et plantation, avec tuteurage, et vous conseillons une essence adaptée à la taille du jardin."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre devenu trop grand à Cottens ?",
+ "cta_lead": "Visite et devis gratuits, solutions avant l'abattage."
+}

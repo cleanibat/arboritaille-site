@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Mettembert (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Mettembert (JU), petite commune de 2,32 km² à 660 m près de Delémont. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Mettembert · district de Delémont",
+ "h1": "Arboriste-grimpeur à <em>Mettembert</em> : taille, abattage et soins aux arbres",
+ "lead": "Mettembert, 109 habitants sur 2,32 km², est à une dizaine de minutes de Delémont en bus, par Soyhières. À 660 m, ses arbres de jardin et de ferme demandent un entretien régulier. Visite et devis gratuits depuis Courgenay.",
+ "points": ["Visite et devis gratuits", "À une quinzaine de kilomètres de Courgenay", "Accès par l'A16, sortie Delémont-Est", "Garder l'arbre quand c'est possible"],
+ "intro_eyebrow": "Vos arbres à Mettembert",
+ "intro_h2": "Un petit territoire à 660 m, à dix minutes de Delémont",
+ "intro": "<p>Mettembert tient sur 2,32 km², avec 109 habitants. En 1984, les citoyens ont choisi de franciser le nom de la commune, Mettemberg devenant Mettembert. Le village dépend du district de Delémont.</p><p>Un bus relie chaque heure Mettembert à Soyhières et Pleigne, et Delémont est à une dizaine de minutes. L'A16 se rejoint par la sortie Delémont-Est. Pour nous, l'accès avec le matériel est simple.</p><p>À 660 m, les arbres de jardin et de cour de ferme poussent bien. Près des bâtiments, ils finissent souvent par toucher un toit ou une ligne.</p><p>Dans une commune de cette taille, chaque arbre compte dans le paysage. Nous privilégions la taille raisonnée et ne proposons l'abattage que lorsque l'arbre est dangereux ou condamné.</p>",
+ "faits": [["Habitants", "109"], ["Altitude", "660 m"], ["Superficie", "2,32 km²"], ["Depuis Courgenay", "env. 15 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Mettembert.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle de Mettembert avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Accès par l'A16", "texte": "L'A16 est accessible par la sortie Delémont-Est, et un bus relie le village à Soyhières et Pleigne. Depuis Courgenay, Mettembert est à une quinzaine de kilomètres à vol d'oiseau."},
+  {"icone": "HOME", "titre": "Arbres de jardin et de ferme", "texte": "Dans un village de 109 habitants, l'arbre à soigner est presque toujours à quelques mètres d'une maison. Nous dégageons toits, façades et lignes par une taille ciblée."},
+  {"icone": "TREE", "titre": "Garder plutôt qu'abattre", "texte": "Un arbre sain qui gêne se réduit ou se rehausse. Nous ne proposons l'abattage que si le tronc est atteint ou si l'arbre menace réellement. Le devis explique le choix."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille ciblée pour dégager toits, façades et lignes à Mettembert, sans rabattre l'arbre.",
+  "abattage-demontage": "Démontage en sections courtes entre deux maisons, chaque pièce descendue à la corde.",
+  "diagnostic-expertise-arbre": "Examen du tronc, du collet et des charpentières, avis écrit et options proposées.",
+  "plantation-arbres": "Remplacement par une essence adaptée à 660 m, tuteurage tripode, consignes d'arrosage."
+ },
+ "faq": [
+  {"q": "Mettembert est-elle loin de Courgenay pour une simple taille ?", "a": "Non. Une quinzaine de kilomètres à vol d'oiseau, avec un accès par l'A16 et la sortie Delémont-Est. La visite est gratuite et le devis écrit, sans engagement, même pour un seul arbre."},
+  {"q": "Quelles règles s'appliquent aux arbres à Mettembert ?", "a": "Celles du canton du Jura : haies, bosquets et arbres isolés protégés par la loi cantonale, dérogation communale hors zone à bâtir, règlement communal en zone à bâtir. Nous vérifions auprès de la commune de Mettembert avant d'intervenir."},
+  {"q": "Mon arbre est-il malade ou simplement vieux ?", "a": "Nous l'examinons sur place : état du tronc, du collet, des charpentières, présence de champignons ou de bois mort. Vous recevez un avis écrit et, si besoin, une proposition de taille, de haubanage ou d'abattage."},
+  {"q": "Comment abattez-vous un arbre entre deux maisons ?", "a": "Par démontage. Nous montons dans l'arbre, coupons les branches puis le tronc en sections courtes et descendons chaque pièce à la corde. Rien ne tombe sur les toits ni dans le jardin voisin."},
+  {"q": "Pouvez-vous replanter après un abattage ?", "a": "Oui. Nous proposons une essence adaptée à l'emplacement et à l'altitude de 660 m, plantons avec tuteurage tripode et vous laissons des consignes d'arrosage pour les deux premières années."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à voir à Mettembert ?",
+ "cta_lead": "Visite et devis gratuits, à une quinzaine de kilomètres de Courgenay."
+}

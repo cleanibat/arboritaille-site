@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Cornol (JU) : taille et abattage | Arboritaille",
+ "desc": "Élagage, abattage, rognage de souche et plantation à Cornol (JU), commune voisine de Courgenay où Arboritaille a son siège. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Cornol · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Cornol</em> : élagage, abattage et rognage de souche",
+ "lead": "Cornol touche Courgenay, où Arboritaille a son siège. Pour une taille, un abattage, une souche à rogner ou un arbre à planter, nous passons voir sur place et vous remettons un devis écrit et gratuit.",
+ "points": ["Commune voisine de Courgenay", "Visite gratuite, devis écrit", "Démontage à la corde près des maisons", "Bois débité ou évacué"],
+ "intro_eyebrow": "Vos arbres à Cornol",
+ "intro_h2": "Le village voisin de Courgenay, un peu plus haut, à 520 m",
+ "intro": "<p>Cornol et Courgenay ont une limite commune. Le village se trouve à 520 m d'altitude, une trentaine de mètres au-dessus de Courgenay, et compte 1 082 habitants sur 10,44 km².</p><p>Son histoire est longue. Le nom apparaît par écrit en 1136, et le Mont-Terri a livré des traces d'occupation depuis le Néolithique. Aux XVIIIe et XIXe siècles, la faïence et l'horlogerie s'y installent.</p><p>Un village aussi ancien porte en général de vieux arbres près des maisons et des chapelles. À maturité, ces sujets demandent surtout du bois mort à retirer et une couronne à alléger.</p><p>Quand un arbre doit vraiment partir, nous le démontons pièce par pièce, puis la <a href=\"/rognage-souche\">souche est rognée</a> si vous voulez replanter ou engazonner.</p>",
+ "faits": [["Habitants", "1 082 (2025)"], ["Altitude", "520 m"], ["Superficie", "10,44 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Cornol.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Cornol avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "À côté de Courgenay", "texte": "Les deux communes se touchent. Un second passage pour préciser un détail, montrer une coupe ou revoir l'arbre en feuilles ne pose aucune difficulté."},
+  {"icone": "MOUNT", "titre": "520 m d'altitude", "texte": "À cette altitude, le printemps démarre en général un peu plus tard qu'en plaine. La taille d'hiver reste possible tant que les bourgeons n'ont pas gonflé."},
+  {"icone": "HOME", "titre": "Près de l'église et des chapelles", "texte": "L'église abrite des vitraux de Roger Bissière datés de 1958. À proximité d'un tel bâtiment, chaque branche descend au bout d'une corde, jamais en chute libre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Suppression du bois mort, allègement et réduction de couronne sur les arbres de jardin de Cornol. Coupes nettes, sans étêtage.",
+  "abattage-demontage": "Démontage par tronçons quand l'arbre est proche d'une maison ou d'une ligne. Bois laissé en bûches ou évacué, selon le devis.",
+  "rognage-souche": "La souche est rognée sous le niveau du sol. Vous pouvez ensuite replanter, semer du gazon ou poser un revêtement.",
+  "plantation-arbres": "Choix d'une essence adaptée à la place disponible, plantation et tuteurage. Un bon départ évite des tailles lourdes plus tard."
+ },
+ "faq": [
+  {"q": "Combien de temps faut-il pour obtenir une visite à Cornol ?", "a": "Cornol est la commune voisine de Courgenay. Nous répondons à votre demande sous 48 h ouvrées et fixons la visite selon vos disponibilités. Elle est gratuite, comme le devis écrit qui la suit."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Cornol ?", "a": "En zone à bâtir, le règlement communal désigne les arbres protégés et les cas soumis à autorisation. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne. Nous vérifions auprès de la commune avant toute coupe."},
+  {"q": "L'altitude change-t-elle la période de taille ?", "a": "Un peu. À 520 m, la végétation démarre en général plus tard qu'en plaine. La taille d'hiver se pratique hors gel, avant le débourrement. Les fruitiers à noyau et certaines essences se taillent plutôt en été."},
+  {"q": "Mon arbre touche la toiture : faut-il l'abattre ?", "a": "Pas forcément. Une réduction de couronne ou un rehaussement suffisent souvent à dégager une toiture ou une façade. Nous le constatons sur place et proposons d'abord la solution qui conserve l'arbre."},
+  {"q": "Que devient la souche après un abattage ?", "a": "Elle peut rester en place, coupée au ras du sol, ou être rognée. Le <a href=\"/rognage-souche\">rognage</a> la réduit en copeaux sous le niveau du terrain. Le devis indique les deux options et leur prix."}
+ ],
+ "cta_img": "demontage_arbre_porrentruy",
+ "cta_h2": "Un arbre à tailler ou une souche à rogner à Cornol ?",
+ "cta_lead": "Nous sommes installés dans la commune voisine. Visite et devis gratuits, sans engagement."
+}

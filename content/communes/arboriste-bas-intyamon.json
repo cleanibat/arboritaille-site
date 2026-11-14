@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur en Bas-Intyamon (FR) : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Enney, Estavannens et Villars-sous-Mont (Bas-Intyamon, FR) : taille, abattage, haubanage. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Bas-Intyamon · Gruyère",
+ "h1": "Arboriste-grimpeur en <em>Bas-Intyamon</em> : taille, abattage et soins aux arbres",
+ "lead": "Enney, Estavannens et Villars-sous-Mont forment depuis 2004 la commune de Bas-Intyamon, dans la vallée du même nom. Nous taillons, haubanons et abattons vos arbres après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Trois villages de vallée desservis", "Haubanage des arbres fragilisés", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres en Bas-Intyamon",
+ "intro_h2": "Dans la vallée de l'Intyamon, des arbres exposés au vent et à la neige",
+ "intro": "<p>Bas-Intyamon regroupe 1 759 habitants sur 33 km², répartis entre Enney, Estavannens et Villars-sous-Mont. Les trois anciennes communes ont fusionné le 1er janvier 2004.</p><p>Dans une vallée, le vent se canalise et la neige peut s'accumuler. Les arbres de jardin exposés risquent d'y perdre des branches plus souvent qu'en plaine. Un haubanage ou une taille d'allègement réduit ce risque près des maisons.</p><p>Dans des villages de cette taille, les demandes concernent en général des arbres de ferme, des fruitiers et des haies. Chaque cas est vu sur place, gratuitement, avant le devis.</p>",
+ "faits": [["Habitants", "1 759 (2025)"], ["Superficie", "33,31 km²"], ["District", "Gruyère"], ["Depuis Courgenay", "env. 95 km"]],
+ "reglement": "<strong>Autorisation d'abattage en Bas-Intyamon.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22). Leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation ; l'entretien périodique reste libre. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Vent de vallée", "texte": "Les couloirs de vallée accentuent les rafales. Nous réduisons la prise au vent des grands arbres isolés en allégeant la couronne, sans la mutiler."},
+  {"icone": "CABLE", "titre": "Haubaner plutôt qu'abattre", "texte": "Une fourche fragile ou une grosse branche fendue ne condamne pas l'arbre. Un hauban dynamique posé en grimpe permet souvent de le conserver, avec un contrôle périodique."},
+  {"icone": "SPROUT", "titre": "Fruitiers et haies", "texte": "Vieux pommiers et poiriers se taillent en hiver, légèrement. Les haies s'entretiennent hors période de nidification, en respectant les règles fribourgeoises sur les boisements hors forêt."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des couronnes exposées au vent, taille d'entretien des fruitiers et des arbres de ferme en Bas-Intyamon.",
+  "haubanage": "Hauban dynamique posé en grimpe pour maintenir une fourche ou une charpentière fragilisée par la neige ou le vent.",
+  "abattage-demontage": "Abattage direct en terrain dégagé, démontage par sections près des maisons. Bois débité ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Sécurisation et dégagement d'un arbre tombé ou fendu après une tempête de vallée."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous en Bas-Intyamon pour un devis ?", "a": "Oui. La commune se situe à un peu moins de cent kilomètres de Courgenay. La visite et le devis sont gratuits. Nous convenons d'une date et regroupons si possible plusieurs visites en Gruyère."},
+  {"q": "Intervenez-vous de la même façon à Enney, Estavannens et Villars-sous-Mont ?", "a": "Oui, dans les trois villages de Bas-Intyamon, avec le même matériel de grimpe. Seuls l'accès à la parcelle et la place disponible changent la méthode : abattage direct ou démontage par sections."},
+  {"q": "Un hauban suffit-il pour un arbre fendu ?", "a": "Souvent, oui, si le bois est sain autour de la fente. Nous posons le hauban en hauteur et contrôlons l'ensemble. Si la pourriture est trop avancée, nous vous proposons plutôt une réduction ou un démontage."},
+  {"q": "Faut-il une autorisation pour couper une haie en Bas-Intyamon ?", "a": "L'entretien d'une haie reste libre dans le canton de Fribourg. Sa suppression hors zone à bâtir, si elle présente un intérêt écologique ou paysager, demande une dérogation de la commune avec compensation. Nous vérifions avant d'agir."},
+  {"q": "Que faire après une tempête si un arbre menace la route ?", "a": "Prévenez la commune si la route est publique, puis contactez-nous. Nous sécurisons l'arbre, le démontons par morceaux et dégageons le passage. Les pièces sont débitées ou évacuées selon le devis."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre à sécuriser en Bas-Intyamon ?",
+ "cta_lead": "Haubanage, taille ou abattage : visite et devis gratuits."
+}

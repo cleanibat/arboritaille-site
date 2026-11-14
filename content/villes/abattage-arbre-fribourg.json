@@ -1,0 +1,66 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-fribourg",
+ "h1_plain": "Abattage et démontage d'arbres à Fribourg",
+ "title": "Abattage et démontage d'arbres à Fribourg (FR) | Arboritaille",
+ "desc": "Abattage d'arbre à Fribourg : autorisation communale vérifiée, démontage à la corde en vieille ville, remplacement de l'arbre. Visite et devis gratuits.",
+ "eyebrow": "Abattage · Fribourg",
+ "h1": "Abattage et démontage d'arbres à <em>Fribourg</em>",
+ "lead": "À Fribourg, abattre un arbre en zone à bâtir suppose le plus souvent une autorisation et un remplacement. Nous préparons la demande avec vous, puis démontons l'arbre pièce par pièce. Visite et devis gratuits.",
+ "points": [
+  "Autorisation communale vérifiée",
+  "Démontage à la corde, sans machine lourde en ruelle",
+  "Avis écrit sur l'état de l'arbre",
+  "Replantation possible après l'abattage"
+ ],
+ "intro_eyebrow": "Fribourg",
+ "intro_h2": "D'abord la règle, ensuite la corde",
+ "intro": "<p>À Fribourg, une question vient avant la tronçonneuse : l'arbre est-il protégé ? Le règlement communal d'urbanisme fixe un seuil de circonférence et prévoit un remplacement. Nous mesurons le tronc lors de la visite.</p><p>La ville a été fondée sur une terrasse qui surplombe la Sarine. Ruelles en pente, cours fermées, murs anciens : le camion reste souvent à distance. Le tronc sort alors en tronçons portables.</p><p>Courgenay se trouve à quelque 65 kilomètres. La visite est gratuite. Le devis distingue l'abattage, l'évacuation du bois et, si vous le souhaitez, la replantation.</p>",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Un seuil de circonférence",
+   "texte": "En zone à bâtir, le règlement communal d'urbanisme, dans sa version publiée en 2023, vise les arbres de 65 cm de circonférence ou plus, mesurée à 1 m du sol. Nous prenons la mesure avec vous."
+  },
+  {
+   "icone": "SEARCH",
+   "titre": "Un motif à documenter",
+   "texte": "Le règlement parle de nécessité absolue : maladie de l'arbre ou mesure de sécurité. Un <a href=\"/diagnostic-expertise-arbre\">avis écrit</a> sur le collet, le tronc et la couronne appuie la demande."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Un remplacement à prévoir",
+   "texte": "L'abattage s'accompagne d'une replantation, en principe sur la parcelle. Nous pouvons planter l'arbre de remplacement et le tuteurer."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Cours et ruelles",
+   "texte": "Dans un quartier ancien, la machine reste en général hors de la cour. Nous coupons des tronçons courts, retenus à la corde, que l'on porte ensuite jusqu'au véhicule."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Fribourg.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation.<br>En zone à bâtir, le <a href=\"https://www.ville-fribourg.ch/reglements-tarifs/500-1\">règlement communal d'urbanisme de la Ville de Fribourg</a> (version publiée dans la Feuille officielle du 28 avril 2023, art. 297 et 305) prévoit qu'un arbre de 65 cm de circonférence ou plus, mesurée à 1 m du sol, ne peut être abattu sans autorisation. L'abattage peut être autorisé en cas de nécessité absolue (maladie de l'arbre, mesures de sécurité) et donne lieu à un remplacement. Nous vérifions la règle applicable à votre parcelle avant d'intervenir.",
+ "faq": [
+  {
+   "q": "À partir de quelle taille un arbre est-il protégé à Fribourg ?",
+   "a": "Selon le règlement d'urbanisme de la Ville (art. 297, version publiée en 2023), en zone à bâtir, dès 65 cm de circonférence mesurée à 1 m du sol. Les arbres remarquables portés au plan de protection le sont aussi."
+  },
+  {
+   "q": "Dans quels cas la Ville de Fribourg autorise-t-elle un abattage ?",
+   "a": "Le règlement cite la nécessité absolue, comme la maladie d'un arbre ou des mesures de sécurité, ainsi que certains projets de construction. La décision revient à l'autorité communale. Nous fournissons un avis écrit sur l'état de l'arbre."
+  },
+  {
+   "q": "Faut-il replanter après un abattage ?",
+   "a": "En principe, oui. Le règlement prévoit qu'un ou plusieurs arbres soient replantés, de préférence sur la parcelle. À défaut, la Commune peut accepter une autre compensation. Nous pouvons nous charger de la <a href=\"/plantation-arbres\">plantation</a>."
+  },
+  {
+   "q": "Mon arbre est mort : dois-je quand même demander une autorisation ?",
+   "a": "Posez la question à la Ville avant de couper. Le règlement demande aux propriétaires d'éliminer les arbres morts, mais l'abattage d'un arbre protégé reste soumis à autorisation. Nous décrivons l'état de l'arbre par écrit pour appuyer votre demande."
+  },
+  {
+   "q": "Comment se déroule un démontage près d'un mur ancien ou d'un talus ?",
+   "a": "Nous grimpons dans l'arbre et coupons des tronçons courts, retenus à la corde. Aucune pièce ne tombe librement sur un mur en molasse ou dans la pente vers la Sarine. Le bois est ensuite porté jusqu'au véhicule."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Fribourg ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

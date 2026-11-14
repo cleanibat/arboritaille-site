@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Valbroye (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Valbroye, de Granges-près-Marnand à Combremont (VD). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "demontage_d-arbre_retention", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Valbroye · Broye-Vully",
+ "h1": "Arboriste-grimpeur à <em>Valbroye</em> : taille, abattage et soins aux arbres",
+ "lead": "Valbroye s'étend sur 33,57 km², des deux côtés de la vallée de la Broye, avec huit villages de Granges-près-Marnand à Villars-Bramard. Nous y taillons, abattons et plantons vos arbres.",
+ "points": ["Visite et devis gratuits", "Huit villages des deux rives", "Villages ISOS : interventions soignées", "Devis groupé pour plusieurs arbres"],
+ "intro_eyebrow": "Vos arbres à Valbroye",
+ "intro_h2": "Huit villages de part et d'autre de la Broye",
+ "intro": "<p>Valbroye est née le 1er juillet 2011 de la réunion de Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard. Elle compte 3 409 habitants, à 473 m d'altitude.</p><p>Le territoire s'étend sur les deux côtés de la vallée de la Broye. Avec 102 habitants au km², la densité reste faible. Dans une campagne de ce type, on attend surtout des arbres de ferme, de verger, de haie et de bord de chemin.</p><p>Granges-près-Marnand, Combremont-le-Petit et Sassel sont inscrits comme sites ISOS. Près du château de Granges, du temple ou de la cure, nous <a href=\"/abattage-demontage\">démontons les arbres pièce par pièce</a> et protégeons sols et façades.</p><p>Courgenay est à environ 75 kilomètres à vol d'oiseau. La visite reste gratuite ; nous la groupons avec d'autres rendez-vous de la Broye, comme à Lucens, voisine.</p>",
+ "faits": [["Habitants", "3 409 (2025)"], ["Altitude", "473 m"], ["Superficie", "33,57 km²"], ["Depuis Courgenay", "env. 75 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Valbroye.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Valbroye avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Deux versants d'une vallée", "texte": "Sur les flancs d'une vallée, les terrains en pente sont fréquents et compliquent la chute d'un arbre entier. Nous démontons alors par sections, en retenant chaque pièce à la corde."},
+  {"icone": "SHIELD", "titre": "Sites ISOS et bâtiments protégés", "texte": "Autour du château de Combremont-le-Grand ou de la cure de Granges-près-Marnand, chaque branche est descendue sans toucher toits ni murs. Les coupes sont propres et la silhouette conservée."},
+  {"icone": "SPROUT", "titre": "Vergers et haies de campagne", "texte": "Dans une commune rurale, fruitiers haute-tige et haies vives sont en général nombreux. Le règlement-type vaudois les protège. Nous les taillons en hiver et conseillons leur remplacement quand ils déclinent."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de ferme, de jardin et de bord de chemin des huit villages.",
+  "abattage-demontage": "Démontage par sections sur les terrains en pente et près des bâtiments protégés, abattage dirigé en terrain libre.",
+  "plantation-arbres": "Remplacement d'un fruitier ou plantation d'un arbre d'ombrage adapté au sol et à la place disponible.",
+  "diagnostic-expertise-arbre": "Avis écrit sur l'état d'un arbre avant toute décision, pour un particulier, une ferme ou la commune."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans les huit villages de Valbroye ?", "a": "Oui : Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard. La visite est gratuite et nous groupons les rendez-vous d'un même secteur."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Valbroye ?", "a": "Dans le canton de Vaud, l'abattage d'un arbre protégé demande une autorisation écrite de la Municipalité, avec plantation compensatoire. Le seuil dépend du règlement communal du patrimoine arboré ; nous le vérifions pour vous."},
+  {"q": "Un arbre sur un terrain en pente, comment procédez-vous ?", "a": "Nous grimpons dans l'arbre et le démontons par sections. Chaque pièce est retenue par une corde et déposée à l'endroit choisi. Aucune machine lourde n'est nécessaire sur le talus."},
+  {"q": "Pouvez-vous grouper plusieurs arbres sur un seul devis ?", "a": "Oui. Pour une ferme, un domaine ou plusieurs propriétaires d'un même village, nous établissons un devis par arbre et un planning commun. Cela réduit les déplacements depuis Courgenay."},
+  {"q": "Quand faut-il replanter un vieux fruitier ?", "a": "Quand le tronc est creux, que les charpentières meurent ou que la récolte disparaît malgré la taille. Nous proposons alors une essence adaptée au sol et à la place, plantée avec tuteurage tripode."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Valbroye ?",
+ "cta_lead": "Visite et devis gratuits, pour un arbre ou pour toute une ferme."
+}

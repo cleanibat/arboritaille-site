@@ -1,0 +1,35 @@
+{
+ "title": "Les Planchettes (NE) : arboriste-grimpeur, abattage | Arboritaille",
+ "desc": "Démontage à la corde, abattage et taille d'arbres en terrain pentu, Les Planchettes (NE), entre 617 et 1 274 m. Visite et devis gratuits.",
+ "hero_img": "demontage_d-arbre_retention", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Les Planchettes · Montagnes neuchâteloises",
+ "h1": "<em>Les Planchettes</em> : arboriste-grimpeur pour les arbres en terrain pentu",
+ "lead": "Les Planchettes comptent 187 habitants sur un territoire qui va de 617 à 1 274 m. Dans la pente, nous taillons et démontons vos arbres encordés, en retenant chaque pièce. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Travail encordé, charges retenues", "Démontage par sections en pente", "À environ 45 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres aux Planchettes",
+ "intro_h2": "Plus de 650 mètres de dénivelé sur 11,73 km²",
+ "intro": "<p>Le territoire communal descend jusqu'à 617 m et monte à 1 274 m. Le village, lui, est à 999 m. Sur 11,73 km² seulement, Les Planchettes cumulent plus de 650 mètres de dénivelé.</p><p>Un tel écart suppose des versants marqués. Or, dans une pente, un arbre ne tombe pas où l'on veut : le tronc roule, les branches glissent vers l'aval.</p><p>Avec 187 habitants, la commune est petite. Elle touche La Chaux-de-Fonds et <a href=\"/arboriste-le-locle\">Le Locle</a>. Nous venons depuis Courgenay, à environ 45 km à vol d'oiseau.</p>",
+ "faits": [["Habitants", "187"], ["Altitude", "999 m"], ["Superficie", "11,73 km²"], ["Depuis Courgenay", "env. 45 km"]],
+ "reglement": "<strong>Autorisation d'abattage aux Planchettes.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Quand la machine ne passe pas", "texte": "Sur un terrain incliné, le grimpeur monte dans l'arbre, le découpe par sections et fait descendre le bois à la corde. Aucun véhicule lourd n'est nécessaire au pied."},
+  {"icone": "SHIELD", "titre": "Chaque tronçon est retenu", "texte": "La pièce est attachée avant la coupe, puis freinée jusqu'au sol. Cette technique de rétention protège la maison, le mur ou le chemin situés en contrebas."},
+  {"icone": "LEAF", "titre": "Deux saisons sur une même commune", "texte": "Entre 617 et 1 274 m, le printemps n'arrive pas le même jour. Nous calons la taille sur l'état de l'arbre lors de la visite, pas sur une date fixe."}
+ ],
+ "services": {
+  "abattage-demontage": "Démontage à la corde avec rétention des tronçons, adapté aux arbres en pente ou au-dessus d'un bâtiment.",
+  "elagage-taille-arbres": "Allègement des branches qui penchent vers l'aval et retrait du bois mort, sans étêtage.",
+  "haubanage": "Hauban souple pour retenir une charpentière ou une fourche fragile sur un arbre à conserver.",
+  "urgence-tempete-arbre-dangereux": "Arbre déraciné ou suspendu dans la pente : sécurisation encordée, puis devis pour la suite."
+ },
+ "faq": [
+  {"q": "Les Planchettes : pouvez-vous abattre un arbre sur un terrain très raide ?", "a": "Oui. Nous travaillons encordés et démontons l'arbre par sections, chacune retenue par une corde. Rien ne dévale la pente. La visite gratuite permet de choisir les points d'ancrage et l'endroit où déposer le bois."},
+  {"q": "Les Planchettes soumettent-elles l'abattage à autorisation ?", "a": "Dans le canton de Neuchâtel, haies et bosquets sont protégés partout. Pour les arbres isolés, le règlement communal fait foi. En forêt, rien ne s'abat sans le service forestier. Nous vérifions la situation de votre arbre avant d'intervenir."},
+  {"q": "Que devient le bois si aucun véhicule n'accède au terrain ?", "a": "Il peut rester sur place, débité et empilé à l'endroit convenu. Sinon, nous le sortons à la main jusqu'au chemin. Cette partie du travail est chiffrée séparément dans le devis."},
+  {"q": "Un arbre penche vers la maison en contrebas : est-ce urgent ?", "a": "Si l'inclinaison est récente, si le sol se soulève ou si des racines sont à nu, oui. Appelez-nous et évitez la zone. Si l'arbre penche depuis toujours, un contrôle suffit souvent."},
+  {"q": "Vous déplacez-vous pour un seul arbre ?", "a": "Oui. La commune est à environ 45 km de Courgenay à vol d'oiseau. La visite et le devis sont gratuits. Nous répondons à votre demande sous 48 h ouvrées pour convenir d'un rendez-vous."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre dans la pente aux Planchettes ?",
+ "cta_lead": "Nous venons voir le terrain. Visite et devis gratuits, sans engagement."
+}

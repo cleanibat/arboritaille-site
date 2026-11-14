@@ -1,0 +1,35 @@
+{
+ "title": "Le Mont-sur-Lausanne : arboriste-grimpeur, élagage | Arboritaille",
+ "desc": "Arboriste-grimpeur pour Le Mont-sur-Lausanne (VD) : taille, abattage, rognage de souche et plantation d'arbres. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Le Mont-sur-Lausanne · Jorat",
+ "h1": "<em>Le Mont-sur-Lausanne</em> : arboriste-grimpeur pour la taille et l'abattage de vos arbres",
+ "lead": "Le Mont-sur-Lausanne s'étend sur les pentes méridionales du Jorat, à 700 m. Petit Mont, Grand Mont, Planches : nous taillons, abattons et replantons vos arbres, après une visite gratuite et un devis écrit.",
+ "points": ["Visite et devis gratuits", "Réduction de couronne sans étêtage", "Rognage de souche et replantation", "Petit Mont, Grand Mont et Planches"],
+ "intro_eyebrow": "Vos arbres au Mont",
+ "intro_h2": "D'un village agricole à une ville de près de 10 000 habitants",
+ "intro": "<p>Le Mont-sur-Lausanne comptait environ 1 000 habitants vers 1900, longtemps tournés vers l'agriculture. La commune en compte 9 790 aujourd'hui. Elle s'est urbanisée peu à peu sur les pentes méridionales du Jorat.</p><p>Dans une commune qui a grandi ainsi, deux générations d'arbres cohabitent le plus souvent. Il y a les sujets anciens des fermes, et ceux plantés avec les quartiers récents, parfois trop près des maisons.</p><p>Le territoire couvre 9,82 km² à 700 m d'altitude, en trois parties : le Petit Mont, le Grand Mont et les Planches. Sur une pente orientée au sud, un arbre qui grandit masque vite la vue ou le soleil.</p><p>Courgenay est à une centaine de kilomètres à vol d'oiseau. Nous groupons les rendez-vous du nord lausannois, de <a href=\"/arboriste-cugy-vd\">Cugy</a> à <a href=\"/arboriste-romanel-sur-lausanne\">Romanel-sur-Lausanne</a>.</p>",
+ "faits": [["Habitants", "9 790 (2025)"], ["Altitude", "700 m"], ["District", "Lausanne"], ["Depuis Courgenay", "env. 100 km"]],
+ "reglement": "<strong>Abattage d'arbres : Le Mont-sur-Lausanne.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle communale avant d'intervenir.",
+ "contexte": [
+  {"icone": "SCISS", "titre": "Retrouver la vue sans étêter", "texte": "Couper la tête d'un arbre l'affaiblit et provoque des rejets vigoureux. Nous réduisons la couronne sur des branches latérales : la vue se dégage et l'arbre garde sa forme."},
+  {"icone": "HOME", "titre": "Plantés trop près", "texte": "Un arbre mis en terre à trois mètres d'une façade finit par toucher le toit. Selon son état, nous le contenons par une taille régulière ou nous le remplaçons."},
+  {"icone": "SPROUT", "titre": "Replanter à la bonne échelle", "texte": "Après l'abattage d'un arbre protégé, la Municipalité exige une plantation compensatoire. Nous proposons une essence dont la taille adulte convient à la parcelle."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne sur branches latérales, éclaircie et dégagement de façade, sans étêtage.",
+  "abattage-demontage": "Démontage à la corde dans les quartiers bâtis, abattage dirigé près des anciennes fermes quand la place existe.",
+  "rognage-souche": "Souche rognée sous le niveau du sol pour libérer l'emplacement de la future plantation.",
+  "plantation-arbres": "Plantation compensatoire avec une essence adaptée à la parcelle, tuteurage tripode et conseils d'arrosage."
+ },
+ "faq": [
+  {"q": "Le Mont-sur-Lausanne : faut-il une autorisation pour abattre un arbre ?", "a": "Oui si l'arbre est protégé par le règlement communal. La Municipalité statue par écrit et demande une plantation compensatoire. Nous vérifions le seuil en vigueur avant de vous remettre un devis d'abattage."},
+  {"q": "Peut-on rabattre un arbre qui cache la vue ?", "a": "Pas en lui coupant la tête : dans le canton de Vaud, un écimage inconsidéré est assimilé à un abattage sans autorisation. Une réduction mesurée, sur des branches latérales, dégage la vue tout en respectant l'arbre."},
+  {"q": "Le Mont-sur-Lausanne fait-il partie de votre zone d'intervention ?", "a": "Oui. Notre zone descend jusqu'à Lausanne et la Riviera. Nous venons de Courgenay, à une centaine de kilomètres à vol d'oiseau, et groupons les visites. Celles-ci restent gratuites."},
+  {"q": "Faut-il replanter après un abattage ?", "a": "Pour un arbre protégé, la plantation compensatoire est exigée par la Municipalité. Nous pouvons nous en charger : choix de l'essence, plantation à la bonne saison, tuteurage tripode."},
+  {"q": "Pouvez-vous enlever la souche en même temps ?", "a": "Oui. La souche est rognée sous le niveau du sol avec une machine compacte. Les copeaux sont évacués ou laissés en paillage, selon votre choix. L'emplacement est prêt pour un nouvel arbre."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à réduire ou à remplacer au Mont-sur-Lausanne ?",
+ "cta_lead": "Visite et devis gratuits. Réponse écrite sous 48 h ouvrées."
+}

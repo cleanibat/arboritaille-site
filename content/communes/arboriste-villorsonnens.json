@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Villorsonnens (FR) : élagage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Villorsonnens, commune rurale de la Glâne. Arboriste-grimpeur venu de Courgenay, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Villorsonnens · Glâne",
+ "h1": "Arboriste-grimpeur à <em>Villorsonnens</em> : taille, abattage et soins aux arbres",
+ "lead": "Villorsonnens, commune rurale de la Glâne de près de 1 600 habitants, est à environ septante-cinq kilomètres de Courgenay. Nous y taillons, abattons et plantons des arbres après une visite gratuite et un devis écrit.",
+ "points": [
+  "Visite et devis gratuits",
+  "Abattage direct ou démontage selon la place",
+  "Mise en sécurité prioritaire après tempête",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Villorsonnens",
+ "intro_h2": "Quinze kilomètres carrés de campagne dans la Glâne",
+ "intro": "<p>Villorsonnens compte 1 593 habitants sur 15,47 km², soit une centaine d'habitants au kilomètre carré. La commune porte le code postal 1694 et dépend du district de la Glâne.</p><p>Une densité aussi faible correspond en général à un territoire de prairies, de fermes et de petits villages. Les arbres qui demandent des soins y sont surtout les grands sujets isolés, les fruitiers et les haies qui bordent les parcelles.</p><p>Nous venons depuis Courgenay. La visite est gratuite et le devis écrit arrive sous 48 h ouvrées. Pour un arbre fendu ou penché après une tempête, dites-le nous dès l'appel : la mise en sécurité passe en premier.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 593 (2025)"
+  ],
+  [
+   "Superficie",
+   "15,47 km²"
+  ],
+  [
+   "NPA",
+   "1694"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 75 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Villorsonnens.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22). Leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Villorsonnens avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "LEAF",
+   "titre": "Haies et arbres isolés protégés",
+   "texte": "En campagne, les haies et les grands arbres isolés d'intérêt paysager sont protégés hors zone à bâtir. Nous les entretenons sans les supprimer et vous indiquons la démarche si une dérogation est nécessaire."
+  },
+  {
+   "icone": "AXE",
+   "titre": "Abattage en terrain dégagé",
+   "texte": "Quand la place le permet, l'arbre est abattu d'une pièce, puis débité sur place. Près d'une ferme, d'une route ou d'une ligne, nous passons au démontage par sections."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Période d'intervention",
+   "texte": "Tailles et recépages de haies se font en hiver, hors nidification. Les abattages d'arbres isolés sont possibles toute l'année, après vérification de l'absence de nids au printemps et en été."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, retrait du bois mort et allègement des grands arbres de ferme et de jardin de Villorsonnens.",
+  "abattage-demontage": "Abattage direct en terrain dégagé, démontage par sections près des bâtiments. Bois débité pour votre chauffage ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Arbre déraciné, fendu ou penché après un orage : mise en sécurité, puis démontage ou taille selon l'état."
+ },
+ "faq": [
+  {
+   "q": "Venez-vous à Villorsonnens pour un devis gratuit ?",
+   "a": "Oui. Villorsonnens est à environ septante-cinq kilomètres de Courgenay. Nous groupons les visites de la Glâne pour vous proposer une date rapidement. La visite et le devis écrit sont gratuits et sans engagement."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Villorsonnens ?",
+   "a": "Hors zone à bâtir, haies, bosquets et grands arbres isolés d'intérêt écologique ou paysager demandent une dérogation de la commune, avec compensation. En zone à bâtir, le règlement communal d'urbanisme s'applique. Nous vérifions pour vous."
+  },
+  {
+   "q": "Pouvez-vous abattre un grand arbre en plein champ ?",
+   "a": "Oui, le plus souvent d'une pièce, en dirigeant la chute. Le tronc est ensuite débité sur place et les branches broyées ou laissées en tas, selon votre souhait. L'autorisation éventuelle est vérifiée avant."
+  },
+  {
+   "q": "Un arbre penche après la tempête, que faire ?",
+   "a": "Éloignez-vous de la zone et appelez-nous. Nous évaluons le risque, sécurisons l'arbre ou le démontons dans les plus brefs délais possibles, puis nous convenons des suites avec vous et, si besoin, avec votre assurance."
+  },
+  {
+   "q": "Taillez-vous les haies champêtres ?",
+   "a": "Oui, en hiver et par tronçons. Une haie champêtre ne se rase pas : nous la recépons partiellement pour qu'elle reste dense et basse, en laissant toujours une partie intacte pour la faune."
+  }
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à tailler ou à abattre à Villorsonnens ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Nous venons depuis Courgenay."
+}

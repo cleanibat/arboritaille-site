@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Grandson (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, haubanage et plantation d'arbres à Grandson, Corcelettes et aux Tuileries (VD), au bord du lac de Neuchâtel. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-3", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Grandson · Lac de Neuchâtel",
+ "h1": "Arboriste-grimpeur à <em>Grandson</em> : taille, abattage et soins aux arbres",
+ "lead": "Grandson borde le lac de Neuchâtel, entre 435 et 535 m d'altitude, autour de son château. Arbres de rive, de bourg ou de jardin : nous les taillons, les soutenons ou les démontons, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Arbres de rive exposés au vent", "Chantier soigné près du bourg historique", "Haubanage des vieux sujets"],
+ "intro_eyebrow": "Vos arbres à Grandson",
+ "intro_h2": "Du bord du lac au haut de la commune, cent mètres de dénivelé",
+ "intro": "<p>Le territoire de Grandson monte de 435 à 535 m depuis le bord du lac de Neuchâtel. Sur 7,86 km², la commune compte 3 390 habitants et plusieurs lieux-dits, dont Corcelettes, Les Tuileries-de-Grandson et Péroset.</p><p>Le château, deuxième de Suisse par la taille, se dresse au centre du bourg. L'église Saint-Jean-Baptiste et la station lacustre de Corcelettes complètent ce patrimoine. Un chantier proche demande une méthode qui ne laisse aucune trace.</p><p>Au bord d'un lac, les arbres sont exposés au vent, sans abri. Les longues branches travaillent beaucoup. Un <a href=\"/haubanage\">haubanage</a> ou une réduction de couronne limite le risque de casse.</p><p>Courgenay est à quelque septante-cinq kilomètres à vol d'oiseau. Nous réunissons sur une journée les rendez-vous pris à Grandson et dans le reste du Jura-Nord vaudois.</p>",
+ "faits": [["Habitants", "3 390 (2025)"], ["Altitude", "435 à 535 m"], ["Superficie", "7,86 km²"], ["Depuis Courgenay", "env. 75 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Grandson.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Grandson avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Rive exposée", "texte": "Face au lac, rien n'arrête le vent. Nous raccourcissons les branches trop longues, retirons le bois mort et vérifions les fourches des arbres qui surplombent un chemin ou une terrasse."},
+  {"icone": "SHIELD", "titre": "Autour du château", "texte": "Dans un bourg historique, les murs sont anciens et les cours petites. Nous travaillons à la corde, sans machine lourde, et protégeons pavés, toitures et clôtures."},
+  {"icone": "CABLE", "titre": "Soutenir un vieil arbre", "texte": "Un grand sujet à la fourche fragile peut souvent rester en place. Un hauban souple relie les charpentières et limite leurs mouvements, sans blesser le bois."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction et allègement des couronnes exposées au vent du lac, retrait du bois mort au-dessus des passages.",
+  "haubanage": "Pose d'un hauban souple pour sécuriser une fourche et conserver un arbre ancien de Grandson.",
+  "abattage-demontage": "Démontage à la corde dans le bourg et près de la rive, abattage dirigé en terrain libre.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un arbre âgé ou penché, avec avis écrit sur son état et les mesures possibles."
+ },
+ "faq": [
+  {"q": "Pouvez-vous tailler un grand arbre au bord du lac à Grandson ?", "a": "Oui. Nous montons dans la couronne à la corde et réduisons les branches les plus exposées, sans étêter. Si l'arbre surplombe un chemin ou une terrasse, chaque pièce est retenue avant d'être descendue."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Grandson ?", "a": "Pour un arbre protégé, oui : accord écrit de la Municipalité et plantation compensatoire. Le règlement communal fixe le seuil à partir duquel un arbre est protégé. Nous le vérifions avant de vous proposer une date."},
+  {"q": "Intervenez-vous à Corcelettes et aux Tuileries-de-Grandson ?", "a": "Oui, comme à Péroset, La Poissine, Bru et La Perraudettaz. Nous venons de Courgenay, à quelque septante-cinq kilomètres. La visite est gratuite et le devis écrit suit sous 48 h ouvrées."},
+  {"q": "À quoi sert un haubanage ?", "a": "Il retient une branche ou une fourche qui risquerait de céder sous le vent. Le hauban est souple et se pose haut dans la couronne. Il ne remplace pas un examen de l'arbre, que nous faisons d'abord."},
+  {"q": "Le chantier abîme-t-il le jardin ?", "a": "Nous faisons en sorte que non. Le bois descend à la corde, nous protégeons le sol là où une machine doit passer, et le terrain est ratissé en fin de journée."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre exposé au vent à Grandson ?",
+ "cta_lead": "Nous l'examinons sur place. Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

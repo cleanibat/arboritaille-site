@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Courtelary : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Courtelary (BE), siège de la préfecture, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Courtelary · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Courtelary</em> : taille, abattage et soins aux arbres",
+ "lead": "Courtelary abrite la préfecture. Dans le canton de Berne, c'est elle qui accorde les dérogations pour les haies et bosquets. Nous y taillons, démontons et plantons vos arbres, à environ vingt-cinq kilomètres de Courgenay. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Démarche auprès de la préfecture expliquée", "Taille respectueuse du bâti ancien", "Réduction de hauteur sans étêtage"],
+ "intro_eyebrow": "Vos arbres à Courtelary",
+ "intro_h2": "Le village de la préfecture, là où se décident les dérogations",
+ "intro": "<p>Courtelary donne son nom au district et abrite la préfecture. Le village compte 1 432 habitants, à 695 m d'altitude, sur 22,17 km² ; le code postal 2608 couvre aussi la Montagne-de-Courtelary.</p><p>Dans le canton de Berne, c'est la préfecture qui accorde ou refuse la suppression d'une haie ou d'un bosquet protégé. Pour un propriétaire de Courtelary, cette autorité se trouve donc au village.</p><p>Le village a une longue histoire : première mention en 962, siège des baillis d'Erguël dès 1606. Les arbres plantés autour des bâtiments anciens méritent un diagnostic avant toute coupe importante.</p><p>Courtelary dispose aussi d'un aérodrome. Aux abords d'une piste, des arbres trop hauts peuvent gêner ; quand une réduction est demandée, nous la faisons par coupes sur branches secondaires, sans étêter.</p>",
+ "faits": [["Habitants", "1 432"], ["Altitude", "695 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 25 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Courtelary.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Courtelary avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "La préfecture au village", "texte": "La dérogation pour supprimer une haie ou un bosquet protégé s'obtient à la préfecture, installée à Courtelary. Nous préparons la description de la haie et la compensation proposée."},
+  {"icone": "HOME", "titre": "Bâti ancien", "texte": "Un village mentionné dès 962 conserve en général des bâtiments anciens. Les arbres qui les bordent se taillent avec soin : dégager toitures et façades sans ouvrir de grandes plaies."},
+  {"icone": "MOUNT", "titre": "Jusqu'à la Montagne-de-Courtelary", "texte": "La commune s'étend sur plus de 22 km², du village à la Montagne-de-Courtelary. Nous adaptons matériel et accès à chaque situation, au village comme sur les hauteurs."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction de hauteur et dégagement des bâtiments pour les arbres de Courtelary et de la Montagne-de-Courtelary.",
+  "abattage-demontage": "Démontage contrôlé près des constructions, abattage direct en terrain libre, souche rognée sur demande.",
+  "diagnostic-expertise-arbre": "Avis écrit sur l'état d'un arbre ancien, utile pour une demande de dérogation ou d'autorisation.",
+  "collectivites-entreprises": "Entretien planifié des arbres pour la commune, les gérances et les entreprises de Courtelary, avec devis par arbre."
+ },
+ "faq": [
+  {"q": "La préfecture étant à Courtelary, dois-je y déposer ma demande moi-même ?", "a": "La demande de dérogation est faite au nom du propriétaire. Nous préparons les éléments techniques : description de la haie ou du bosquet, motif, compensation proposée. Vous déposez le dossier, nous intervenons une fois la décision rendue."},
+  {"q": "Intervenez-vous à la Montagne-de-Courtelary ?", "a": "Oui. La Montagne-de-Courtelary fait partie de la commune et partage son code postal 2608. Nous tenons compte de l'accès et de la saison dans le devis, gratuit comme la visite."},
+  {"q": "Mes arbres sont trop hauts près de l'aérodrome, que proposez-vous ?", "a": "Une réduction de couronne par coupes sur branches secondaires, qui abaisse la hauteur en gardant une forme naturelle. L'étêtage est exclu : il affaiblit l'arbre et provoque des rejets fragiles qui repoussent vite."},
+  {"q": "Quand tailler une haie à Courtelary ?", "a": "Entre octobre et mars, pendant le repos de la végétation et hors période de nidification. L'entretien d'une haie est libre ; seule sa suppression passe par la préfecture."},
+  {"q": "Quel est le délai pour une visite ?", "a": "Nous répondons sous 48 h ouvrées et fixons la visite selon vos disponibilités. Courtelary est à environ vingt-cinq kilomètres de Courgenay ; le devis écrit suit la visite."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre à tailler ou une haie à entretenir à Courtelary ?",
+ "cta_lead": "Visite et devis gratuits. Nous vous expliquons la démarche auprès de la préfecture."
+}

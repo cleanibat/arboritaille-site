@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Crissier (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, haubanage, soins aux vieux arbres et abattage par démontage à Crissier (VD), dans l'Ouest lausannois. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Crissier · Ouest lausannois",
+ "h1": "Arboriste-grimpeur à <em>Crissier</em> : taille, abattage et soins aux arbres",
+ "lead": "Crissier est passée de 511 habitants en 1850 à plus de 11 000 aujourd'hui. Une commune qui a autant grandi a des arbres de tous les âges. Nous adaptons la taille à chacun.",
+ "points": ["Visite et devis gratuits", "Soins aux arbres âgés", "Taille adaptée à l'âge de l'arbre", "Travail encordé sur talus et terrains raides"],
+ "intro_eyebrow": "Vos arbres à Crissier",
+ "intro_h2": "De 511 à 11 000 habitants : des arbres de toutes les générations",
+ "intro": "<p>Crissier comptait 511 habitants en 1850 et 2 068 en 1950. Ils sont 11 101 aujourd'hui, à 485 m d'altitude. Au temps des Romains déjà, le lieu se trouvait à un croisement de routes importantes.</p><p>Le temple au chœur gothique, la cure de 1744 et le château, maison seigneuriale du XVIIe siècle transformée en demeure néogothique, témoignent du village d'avant. En 2011, Crissier a reçu le prix Wakker avec d'autres communes de l'Ouest lausannois.</p><p>Ce prix distingue la préservation et la mise en valeur du patrimoine. Les arbres âgés en font partie à nos yeux : mieux vaut les soigner par une <a href=\"/elagage-taille-arbres\">taille légère</a> ou un <a href=\"/haubanage\">haubanage</a> que les abattre.</p><p>Depuis Courgenay, Crissier est à une centaine de kilomètres à vol d'oiseau. Votre visite peut se grouper avec un rendez-vous à <a href=\"/arboriste-bussigny\">Bussigny</a> ou à <a href=\"/arboriste-renens\">Renens</a>, voisines.</p>",
+ "faits": [["Habitants", "11 101 (2025)"], ["Altitude", "485 m"], ["Superficie", "5,51 km²"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Crissier.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Crissier avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Arbres âgés", "texte": "Un vieil arbre supporte mal les grosses coupes. Nous enlevons les branches sèches, raccourcissons quelques charpentières lourdes et laissons le reste. Mieux vaut revenir plus souvent, à petite dose."},
+  {"icone": "CLOCK", "titre": "Arbres de cinquante ans", "texte": "Un arbre planté il y a un demi-siècle atteint son plein volume. C'est le moment où il rejoint façades et toitures. Une réduction de couronne par étapes le remet à l'échelle."},
+  {"icone": "MOUNT", "titre": "Talus et terrains raides", "texte": "Crissier a sa falaise de molasse, à Montassé, au pied de laquelle une villa romaine a été retrouvée. Sur un talus ou un terrain raide, nous travaillons encordés et sortons le bois à la main."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille légère des arbres âgés, réduction par étapes des arbres adultes proches des façades de Crissier.",
+  "haubanage": "Hauban souple pour retenir une charpentière lourde ou une fourche fragile et garder l'arbre en place.",
+  "diagnostic-expertise-arbre": "Examen du pied, du tronc et de la couronne d'un arbre âgé, avec un avis argumenté avant toute décision.",
+  "abattage-demontage": "Démontage par tronçons retenus à la corde, y compris sur talus, quand l'arbre ne peut plus être conservé."
+ },
+ "faq": [
+  {"q": "Peut-on garder un vieil arbre qui perd des branches à Crissier ?", "a": "Souvent, oui. Si le tronc et le pied sont sains, un retrait du bois mort, un allègement et parfois un hauban suffisent. Nous examinons l'arbre sur place et vous donnons un avis argumenté avant tout devis d'abattage."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Crissier ?", "a": "Dans le canton de Vaud, l'abattage d'un arbre protégé requiert une autorisation écrite de la Municipalité et une plantation compensatoire. Le seuil varie selon le règlement communal. Nous le vérifions auprès de la commune avant d'intervenir."},
+  {"q": "Travaillez-vous sur un talus ou un terrain en pente ?", "a": "Oui. Le grimpeur est encordé et l'arbre démonté par tronçons, chacun retenu par une corde. Le bois est remonté ou descendu selon l'accès. Le devis précise la méthode retenue pour votre terrain."},
+  {"q": "À quelle fréquence tailler un arbre adulte ?", "a": "Il n'existe pas de règle fixe. Beaucoup d'arbres adultes se contentent d'un passage de loin en loin pour le bois mort. Une taille plus rapprochée ne se justifie que près d'un bâtiment, d'une ligne ou d'un passage."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre âgé à soigner ou à sécuriser à Crissier ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement."
+}

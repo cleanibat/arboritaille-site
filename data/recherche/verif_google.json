@@ -1,0 +1,240 @@
+{
+ "synthese": "Dossier vérifié le 11/11/2026 : chaque source haute/moyenne a été rouverte (WebFetch) et le PDF des Search Quality Rater Guidelines du 11 septembre 2025 a été extrait en texte et interrogé. Le fond du dossier tient ; les corrections portent sur des attributions de source, des citations inexactes et deux extrapolations présentées comme des faits.\n1. Pages par commune : confirmé. La page spam-policies cite bien « multiple domain names or pages targeted at specific regions or cities that funnel users to one page » et « substantially similar pages that are closer to search results than a clearly defined, browseable hierarchy ». La date du 5 mars 2024 pour le scaled content abuse ne figure pas sur la page des politiques mais sur le billet du blog daté du 5 mars 2024 (source corrigée). Aucun nombre maximal de pages locales n'est publié : la fourchette « 20-40 pages » reste une inférence.\n2. Keyword stuffing : confirmé mot pour mot (« Blocks of text that list cities and regions that a web page is trying to rank for »). Côté liens, la formule exacte est « Don't chain up links next to each other », pas « clustering ».\n3. Rater Guidelines : 3.4 (« Trust is the most important member of the E-E-A-T family »), 3.3.5 (« small websites may have little or no reputation information. This is not indicative of high or low quality »), l'exemple « High: Small business 1 » (page À propos d'un restaurant, « go-to source for information about itself »), 2.5.2/2.5.3/4.5.1 et 4.6.5 sont confirmés. CORRECTION : le passage « find and replace » / « copied with minimal alteration » (4.6.6-4.6.7) décrit du contenu copié d'autres sources, pas des pages templatées d'un même site ; l'argument contre les pages communes clonées repose donc sur 4.6.5 (scaled content, « synonymizing ... or other obfuscation techniques », Lowest « after looking at several pages on the website ») et sur la politique doorway, pas sur 4.6.6. La phrase « don't directly influence ranking » vient du billet de blog de décembre 2022, pas du PDF.\n4. Contenu : confirmé ; libellés exacts : « Ask \"Who, How, and Why\" », « Of these aspects, trust is most important », « While E-E-A-T itself isn't a specific ranking factor », et pour le réseau de créateurs « mass-produced by or outsourced to a large number of creators, or spread across a large network of sites ». Contenu IA : « manually factcheck and review all AI-generated content ... before publishing » confirmé.\n5. Données structurées : LocalBusiness obligatoires name + address ; recommandés geo (« at least 5 decimal places »), telephone, openingHoursSpecification, priceRange, url — CORRECTION : image n'est pas dans le tableau des propriétés LocalBusiness (il apparaît seulement dans les exemples JSON-LD et dans le carrousel Restaurant). aggregateRating/review y figurent mais « only recommended for sites that capture reviews about other local businesses ». Types multiples (Electrician/Plumber/Locksmith) et absence d'areaServed confirmés. Organization : « We recommend placing this information on your home page, or a single page that describes your organization » confirmé. FAQPage : dépréciation du 8 mai 2026 (plus affiché depuis le 7 mai), documentation retirée le 15 juin 2026 (l'URL faqpage redirige désormais vers la page des mises à jour), restriction d'août 2023 confirmée par le billet du 8 août 2023. BreadcrumbList confirmé (≥ 2 ListItem, « available on desktop »).\n6. Technique : Core Web Vitals confirmés ; les seuils « needs improvement » (2,5-4 s ; 200-500 ms ; 0,1-0,25) viennent des articles web.dev/lcp, /inp, /cls (sur /vitals ils ne sont qu'en image) ; « INP will replace FID ... on March 12, 2024 » vient du billet de mai 2023 (mis à jour). Mobile-first : la date du 5 juillet 2024 et « it will no longer be indexable » viennent du billet du 3 juin 2024, pas de la page de doc (qui dit seulement « very strongly recommended »). Sitemap : « about 500 pages or fewer » et « in most cases, your site will benefit from having a sitemap » sont sur la page sitemaps/overview, pas sur build-sitemap (source corrigée). Canonical, hreflang, lazy-loading, title, meta (« There's no limit on how long a meta description can be »), URL, images confirmés.\n7. Local (GBP) : « hide your business address » et « about 2 hours of driving time » sont sur answer/3038177 ; « You can have up to 20 service areas » est sur answer/9157481 (source corrigée). Classement local « relevance, distance, and popularity » confirmé ; l'effet des pages communes sur le pack local reste une inférence.\nNon vérifié / retiré : section 3.2 « Effort » des Rater Guidelines non relue en détail ; type schema.org idéal pour un arboriste non tranché par Google ; la Suisse hors EEE est un fait géopolitique, pas une affirmation Google.",
+ "points": [
+  {
+   "fait": "Doorway abuse : exemples cités « Having multiple domain names or pages targeted at specific regions or cities that funnel users to one page » et « Creating substantially similar pages that are closer to search results than a clearly defined, browseable hierarchy ». Vérifié mot pour mot. Implication : pages communes dans une hiérarchie navigable, chacune utile en soi.",
+   "source": "https://developers.google.com/search/docs/essentials/spam-policies",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Scaled content abuse : « many pages are generated for the primary purpose of manipulating search rankings » ; exemples « Using generative AI tools or other similar tools to generate many pages without adding value for users » et « Creating many pages where the content makes little or no sense to a reader but contains search keywords ». Vérifié. La date d'annonce (5 mars 2024) n'est pas sur cette page mais sur le billet de blog daté du 5 mars 2024.",
+   "source": "https://developers.google.com/search/blog/2024/03/core-update-spam-policies",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Keyword stuffing : exemple cité « Blocks of text that list cities and regions that a web page is trying to rank for ». Vérifié mot pour mot. Implication : pas de pavé textuel de communes en pied de page.",
+   "source": "https://developers.google.com/search/docs/essentials/spam-policies",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Site reputation abuse : vise « third-party content is published on a host site mainly because of that host's already-established ranking signals » ; billet du 28 août 2026 : à partir du 30 août, les actions manuelles au titre de cette politique ne s'appliquent plus aux résultats affichés aux utilisateurs de l'EEE (ajustement après discussions avec la Commission européenne). Non applicable à un site vitrine sans contenu tiers. Note : la Suisse n'est pas membre de l'EEE (fait géopolitique, non tiré de Google).",
+   "source": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Rater Guidelines (11 sept. 2025) 4.6.5 : « Creating an abundance of content with little effort or originality with no editing or manual curation is often the defining attribute of spammy websites » ; exemples incluant « automated transformations like synonymizing, translating, or other obfuscation techniques » ; Lowest « when you strongly suspect scaled content abuse after looking at several pages on the website ». Vérifié dans le PDF extrait.",
+   "source": "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Rater Guidelines 4.6.6-4.6.7 : le « find and replace » (« one word is replaced with another throughout the text ») est défini comme du contenu « copied with minimal alteration », c'est-à-dire copié d'AUTRES sources et légèrement modifié ; le Lowest s'applique si « all or almost all of the MC on the page ... is copied, paraphrased ... with little to no effort ». CORRECTION : ce passage ne vise pas explicitement les pages templatées d'un même site ; l'argument contre des pages communes clonées repose sur 4.6.5 et sur la politique doorway, l'extension au templating intra-site est une inférence raisonnable mais pas une citation.",
+   "source": "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Rater Guidelines 3.4 : « Trust is the most important member of the E-E-A-T family because untrustworthy pages have low E-E-A-T no matter how Experienced, Expert, or Authoritative they may seem » ; l'évaluation E-E-A-T s'appuie sur « the \"About us\" page », sur « independent reviews, references, news » et sur le contenu visible. 3.3.5 : « small websites may have little or no reputation information. This is not indicative of high or low quality. Many small local businesses ... rely on word of mouth ». Exemple « High: Small business 1 » : page « about us » d'un restaurant fish & chips, autres pages avec « the address, menu, other contact information » ; « The website is the go-to source for information about itself ». Vérifié.",
+   "source": "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Rater Guidelines 2.5.2 : « it should be clear: Who ... is responsible for the website. Who ... created the content on the page » ; 2.5.3 : « Most websites have \"contact us\" or \"about us\" or \"about\" pages » ; 4.5.1 : « we expect most websites to have some information about who ... is responsible for the website and who created the MC and some contact information, unless there is a good reason for anonymity ». Vérifié. Implication : page À propos (Robin Humbert, parcours, certifications), mentions légales, téléphone, e-mail.",
+   "source": "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Le billet Search Central de décembre 2022 (« Double-E-A-T ») précise que les Rater Guidelines ne jouent pas directement sur le classement : les raters servent à évaluer les systèmes de classement, et les créateurs peuvent s'en servir pour auto-évaluer leur contenu. CORRECTION d'attribution : cette phrase n'est pas dans le PDF des guidelines. Le billet ne dit pas que la confiance est « la plus importante » (cette formule vient du PDF 3.4 et de la page creating-helpful-content).",
+   "source": "https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Contenu utile : questions d'auto-évaluation « Does the content provide original information, reporting, research, or analysis? », « Does the content provide a substantial, complete, or comprehensive description of the topic? », contenu « mass-produced by or outsourced to a large number of creators, or spread across a large network of sites » (formulation exacte, corrigée) ; section « Ask \"Who, How, and Why\" about your content » ; « Fabricating creator profiles (such as by using AI-generated headshots, made-up names, or false credentials ...) » = « a form of deception » ; « Of these aspects, trust is most important » ; « While E-E-A-T itself isn't a specific ranking factor » (formulation exacte, corrigée).",
+   "source": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Contenu IA : « focus on accuracy, quality, and relevance » ; « critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness before publishing », y compris titres, meta descriptions, données structurées et « alternate texts for images » ; générer « many pages without adding value for users may violate » la politique scaled content abuse. Vérifié.",
+   "source": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+   "confiance": "haute"
+  },
+  {
+   "fait": "SEO starter guide : « The length of the content alone doesn't matter for ranking purposes » ; titres Hn « it doesn't matter if you're using them out of order » ; Google n'utilise pas la balise meta keywords ; « Having duplicate content on your site is not a violation of our spam policies » ; « appropriate anchor text » ; « Try to include words in the URL that may be useful for users », avec la nuance que les mots-clés dans l'URL « alone have hardly any effect beyond appearing in breadcrumbs ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+   "confiance": "haute"
+  },
+  {
+   "fait": "LocalBusiness : obligatoires name et address ; recommandés geo (latitude/longitude, « The precision must be at least 5 decimal places »), telephone, openingHoursSpecification (opens, closes, dayOfWeek, validFrom, validThrough), priceRange, url, department, aggregateRating/review (ces deux « only recommended for sites that capture reviews about other local businesses »). CORRECTION : image n'est pas dans le tableau de propriétés LocalBusiness, il n'apparaît que dans les exemples JSON-LD (tableau 1x1/4x3/16x9) et dans le carrousel Restaurant. « You can add LocalBusiness structured data to any page on your site » mais « it may make more sense to put it on a page that contains information about your business ». Types multiples : « If you have multiple types, specify them as an array » avec l'exemple [\"Electrician\", \"Plumber\", \"Locksmith\"]. areaServed n'est pas mentionné.",
+   "source": "https://developers.google.com/search/docs/appearance/structured-data/local-business",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Avis/étoiles : type Local business supporté « only for sites that capture reviews about other local businesses » ; « If the entity that's being reviewed controls the reviews about itself » les pages LocalBusiness/Organization sont « ineligible for star review feature », y compris via « an embedded third-party widget » (exemples Google Business reviews, Facebook reviews) ; « Don't aggregate reviews or ratings from other websites ». Vérifié. Implication : aucune note auto-attribuée dans le JSON-LD.",
+   "source": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Règles générales données structurées : « Don't mark up content that is not visible to readers of the page » ; « Put the structured data on the page that it describes, unless specified otherwise by the documentation » ; « Try to use the most specific applicable type and property names defined by schema.org » ; « JSON-LD (recommended) » ; une action manuelle sur le balisage « doesn't affect how the page ranks in Google web search ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Organization : « There are no required properties » ; recommandées name, url, logo, address, telephone, email, sameAs, vatID (« important trust signal »), alternateName, description, contactPoint, iso6523Code… ; « We recommend placing this information on your home page, or a single page that describes your organization, for example the about us page » ; « You don't need to include it on every page of your site ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/structured-data/organization",
+   "confiance": "haute"
+  },
+  {
+   "fait": "FAQPage : billet du 8 août 2023, les résultats enrichis FAQ « will only be shown for well-known, authoritative government and health websites » ; changelog 8 mai 2026 « Deprecating the FAQ rich result feature ... will no longer appear in Google Search starting May 7, 2026 » ; 15 juin 2026 « Removed documentation for the FAQ rich result feature » (l'ancienne URL faqpage renvoie désormais vers la page des mises à jour). Vérifié. Implication : ne pas baliser les FAQ en FAQPage ; garder des FAQ visibles si utiles.",
+   "source": "https://developers.google.com/search/updates",
+   "confiance": "haute"
+  },
+  {
+   "fait": "BreadcrumbList : « define a BreadcrumbList that contains at least two ListItems » ; propriétés position, name, item ; « If item isn't included for the last item, Google uses the URL of the containing page » ; « We recommend providing breadcrumbs that represent a typical user path to a page, instead of mirroring the URL structure » ; « This feature is available on desktop in all regions and languages ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Core Web Vitals (Search Central) : « strive to have LCP occur within the first 2.5 seconds », « an INP of less than 200 milliseconds », « a CLS score of less than 0.1 » ; les CWV « along with other page experience aspects, aligns with what our core ranking systems seek to reward » ; « Check the Core Web Vitals report in Search Console ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/core-web-vitals",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Seuils web.dev : LCP « Good LCP values are 2.5 seconds or less, poor values are greater than 4.0 seconds, and anything in between needs improvement » (web.dev/articles/lcp) ; INP ≤ 200 ms bon, 200-500 ms à améliorer, > 500 ms mauvais (web.dev/articles/inp) ; CLS « Good CLS values are 0.1 or less ... Poor values are greater than 0.25 » (web.dev/articles/cls) ; mesure au « 75th percentile of page loads, segmented across mobile and desktop devices ». CORRECTION d'attribution : sur web.dev/articles/vitals, les paliers intermédiaires ne sont qu'en image ; ils sont en texte dans les trois articles par métrique. « INP became a stable Core Web Vital metric in 2024 ».",
+   "source": "https://web.dev/articles/lcp",
+   "confiance": "haute"
+  },
+  {
+   "fait": "INP a remplacé FID : « Interaction to Next Paint (INP) will replace FID as a part of Core Web Vitals on March 12, 2024 » (mise à jour du billet de mai 2023). Vérifié.",
+   "source": "https://developers.google.com/search/blog/2023/05/introducing-inp",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Page experience : « There is no single signal » ; « Core Web Vitals are used by our ranking systems » tandis que les autres aspects (HTTPS, mobile, absence d'interstitiels intrusifs, contenu principal distinguable) sont des questions d'auto-évaluation qui ne font pas directement monter le classement ; « Google Search always seeks to show the most relevant content, even if the page experience is sub-par ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/page-experience",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Mobile-first (doc) : « Google uses the mobile version of a site's content, crawled with the smartphone agent for indexing and ranking » ; « same content as your desktop site », « same structured data », « title element and the meta description are equivalent across both versions », « same alt text for images » ; « Don't lazy-load primary content upon user interaction » ; « Google recommends Responsive Web Design ». Nuance : cette page dit qu'une version mobile n'est pas requise pour figurer dans les résultats mais est « very strongly recommended ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Mobile-first (billet du 3 juin 2024) : « After July 5, 2024, we'll crawl and index these sites with only Googlebot Smartphone » ; « If your site's content is not accessible at all with a mobile device, it will no longer be indexable ». CORRECTION d'attribution : ces phrases ne sont pas sur la page de doc mobile-first mais dans ce billet.",
+   "source": "https://developers.google.com/search/blog/2024/06/mobile-indexing-vlast-final-final.doc",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Lazy loading : « make sure that your lazy-loading implementation loads all relevant content whenever it is visible in the viewport » ; les méthodes recommandées « don't rely on user actions, such as scrolling or clicking, to load content » ; « Don't add lazy-loading to content that is likely to be immediately visible when a user opens a page » ; « You can use the URL Inspection Tool in Search Console to see if all content was loaded ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/javascript/lazy-loading",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Sitemap – besoin : signes qu'un sitemap peut être inutile : site « small » (« about 500 pages or fewer »), « comprehensively linked internally », peu de fichiers média ; mais « in most cases, your site will benefit from having a sitemap ». CORRECTION d'attribution : ces passages sont sur la page sitemaps/overview, pas sur build-sitemap.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Sitemap – construction : « The <lastmod> value should reflect the date and time of the last significant update to the page » (changement de date de copyright = non significatif) ; « Google ignores <priority> and <changefreq> values » ; limite « 50MB (uncompressed) or 50,000 URLs » ; « Use fully-qualified, absolute URLs » ; « must be UTF-8 encoded » ; déclaration via Search Console ou ligne « Sitemap: » dans robots.txt ; « submitting a sitemap is merely a hint ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Canonical : redirections « A strong signal that the target of the redirect should become canonical » ; rel=canonical « A strong signal » ; sitemap « A weak signal » ; « Use absolute paths rather than relative paths » ; canonical auto-référent recommandé ; ne pas « specify different URLs as canonical for the same page using different canonicalization techniques » ; lier en interne vers l'URL canonique ; « Google prefers HTTPS pages over equivalent HTTP pages as canonical » ; « Don't use the robots.txt file for canonicalization purposes » ; « We don't recommend using noindex to prevent selection of a canonical page within a single site ». Vérifié. Implication (inférence) : 301 des anciennes URL Hostinger vers les nouvelles pages Ionos.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls",
+   "confiance": "haute"
+  },
+  {
+   "fait": "hreflang : « Each language version must list itself as well as all other language versions » ; « If two pages don't both point to each other, the tags will be ignored » ; « You can't specify the country code by itself ». Vérifié. Pour un site 100 % français, pas d'usage (Google ne traite pas explicitement le cas monolingue : inférence) ; pertinent seulement si une version de-CH est créée.",
+   "source": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Title : « every page on your site has a title specified in the <title> element » ; éviter le bourrage (« Foobar, foo bar, foobars, foo bars ») et le « repeated or boilerplate text in <title> elements » ; marque « at the beginning or end of each <title> element, separated from the rest of the text with a delimiter » ; titre principal « in the first visible <h1> element on the page » ; « Use the same language and writing system » que le contenu ; Google peut générer le title link depuis les « Heading elements, such as <h1> », « Content in og:title meta tags », « Anchor text on the page ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/title-link",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Meta description : « Identical or similar descriptions on every page of a site aren't helpful » ; inclure des faits utiles, exemple local « Open Monday-Friday 8-5pm, located in the Fashion District » ; « long strings of keywords don't give users a clear idea of the page's content » ; « There's no limit on how long a meta description can be » (Google tronque) ; Google utilise la meta description seulement si elle décrit mieux la page que le contenu. Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/snippet",
+   "confiance": "haute"
+  },
+  {
+   "fait": "URL : « use readable words rather than long ID numbers in your URLs » ; tirets car « hyphens clearly signal a word boundary » ; mots dans la langue de l'audience ; casse cohérente (URL sensibles à la casse) ; « characters in the non-ASCII range should be percent encoded » (préférer des slugs sans accents). Vérifié.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/url-structure",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Images : « Google doesn't index CSS images » ; indexation via le « src attribute of <img> element » ; <picture> ou srcset avec fallback src ; formats BMP, GIF, JPEG, PNG, WebP, SVG, AVIF ; « my-new-black-kitten.jpg is better than IMG00023.JPG » ; alt « useful, information-rich content that uses keywords appropriately », le bourrage « may cause your site to be seen as spam » ; « make sure images are placed near relevant text » ; même URL d'image sur toutes les pages pour le cache ; image représentative via og:image ou schema.org. Vérifié.",
+   "source": "https://developers.google.com/search/docs/appearance/google-images",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Liens : « Google can only crawl your link if it's an <a> HTML element » avec href ; ancre « descriptive, reasonably concise, and relevant to the page that it's on » (« Click here » donné en contre-exemple de code) ; « Every page you care about should have a link from at least one other page on your site » ; CORRECTION de citation : « Don't chain up links next to each other; it's harder for your readers to distinguish between links » (le mot « clustering » n'apparaît pas) ; nofollow « only when you don't trust the source ». Vérifié.",
+   "source": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Google Business Profile – règles : entreprise de zone « you should hide your business address from customers » ; zone « shouldn't extend farther than about 2 hours of driving time » ; « There should only be one profile per business » ; site web « that represents your individual business location » ; interdiction des numéros ou URL qui « redirect or refer users to landing pages » ; « Including unnecessary information in your business name isn't permitted ». Vérifié. CORRECTION : la limite de 20 zones n'est pas sur cette page (voir point suivant).",
+   "source": "https://support.google.com/business/answer/3038177",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Google Business Profile – zones desservies : « You can have up to 20 service areas based on the cities, postal codes, or other areas you serve » ; pas de rayon, « must specify your service-area by city, postal code, or another type of area » ; « The boundaries of your overall area shouldn't be more than about 2 hours of driving time from where your business is based » ; « Remove your address and only enter your service area ». Vérifié.",
+   "source": "https://support.google.com/business/answer/9157481",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Classement local : « Local results are mainly based on relevance, distance, and popularity » ; « Businesses with complete and accurate info are more likely to show up in local search results » ; la prominence tient notamment au nombre de sites qui renvoient vers l'entreprise ; « More reviews and positive ratings can help your business's local ranking » ; « There's no way to request or pay for a better local ranking on Google ». Vérifié. L'idée que des pages par commune n'agissent pas sur la « distance » du pack local reste une inférence.",
+   "source": "https://support.google.com/business/answer/7091",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Search Essentials – bonnes pratiques : « Create helpful, reliable, people-first content » ; « Use words that people would use to look for your content, and place those words in prominent locations on the page » (titre, en-tête principal, alt, textes de liens) ; « Make your links crawlable » ; « Tell people about your site » ; suivre les guides spécifiques images, vidéos, données structurées. Vérifié.",
+   "source": "https://developers.google.com/search/docs/essentials",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Nombre de pages communes acceptable : Google ne publie aucun chiffre ; la limite est qualitative (doorway, scaled content, keyword stuffing). La recommandation « quelques dizaines de pages réellement documentées plutôt que des centaines de clones » est une inférence du dossier, pas une règle officielle.",
+   "source": "https://developers.google.com/search/docs/essentials/spam-policies",
+   "confiance": "faible"
+  }
+ ],
+ "sources": [
+  "https://developers.google.com/search/docs/essentials/spam-policies",
+  "https://developers.google.com/search/blog/2024/03/core-update-spam-policies",
+  "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
+  "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+  "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+  "https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t",
+  "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+  "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+  "https://developers.google.com/search/docs/essentials",
+  "https://developers.google.com/search/docs/appearance/structured-data/local-business",
+  "https://developers.google.com/search/docs/appearance/structured-data/review-snippet",
+  "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+  "https://developers.google.com/search/docs/appearance/structured-data/organization",
+  "https://developers.google.com/search/blog/2023/08/howto-faq-changes",
+  "https://developers.google.com/search/updates",
+  "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb",
+  "https://developers.google.com/search/docs/appearance/core-web-vitals",
+  "https://developers.google.com/search/docs/appearance/page-experience",
+  "https://web.dev/articles/vitals",
+  "https://web.dev/articles/lcp",
+  "https://web.dev/articles/inp",
+  "https://web.dev/articles/cls",
+  "https://developers.google.com/search/blog/2023/05/introducing-inp",
+  "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+  "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+  "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls",
+  "https://developers.google.com/search/docs/specialty/international/localized-versions",
+  "https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing",
+  "https://developers.google.com/search/blog/2024/06/mobile-indexing-vlast-final-final.doc",
+  "https://developers.google.com/search/docs/crawling-indexing/javascript/lazy-loading",
+  "https://developers.google.com/search/docs/appearance/title-link",
+  "https://developers.google.com/search/docs/appearance/snippet",
+  "https://developers.google.com/search/docs/crawling-indexing/url-structure",
+  "https://developers.google.com/search/docs/appearance/google-images",
+  "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+  "https://support.google.com/business/answer/9157481",
+  "https://support.google.com/business/answer/3038177",
+  "https://support.google.com/business/answer/7091"
+ ]
+}

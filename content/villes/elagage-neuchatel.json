@@ -1,0 +1,68 @@
+{
+ "service": "elagage-taille-arbres",
+ "commune": "arboriste-neuchatel",
+ "h1_plain": "Élagage et taille d'arbres à Neuchâtel",
+ "title": "Élagage et taille d'arbres à Neuchâtel (NE) | Arboritaille",
+ "desc": "Élagage et taille d'arbres à Neuchâtel, du lac aux hauts de la ville : dégagement de vue sans étêtage, règle des 60 cm vérifiée. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-3",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Élagage · Neuchâtel",
+ "h1": "Élagage et taille d'arbres à <em>Neuchâtel</em>",
+ "lead": "À Neuchâtel, un élagage important sur un arbre de plus de 60 cm de circonférence demande une autorisation communale. Nous taillons en douceur, du bord du lac aux hauts de la ville, après avoir vérifié la règle.",
+ "points": [
+  "Visite et devis gratuits",
+  "Dégagement de vue sans étêtage",
+  "Circonférence mesurée lors de la visite",
+  "De Serrières à La Coudre, Peseux compris"
+ ],
+ "intro_eyebrow": "Neuchâtel",
+ "intro_h2": "Garder la vue sur le lac sans sacrifier l'arbre",
+ "intro": "<p>Neuchâtel s'étage sur le flanc sud du Jura, face au lac et aux Alpes. Sur un coteau, la demande revient souvent : l'arbre a grandi et la vue se ferme, chez soi ou chez le voisin du dessus.</p><p>La réponse n'est pas l'étêtage. Couper la tête d'un arbre le fragilise et provoque des rejets qui referment la vue en quelques années. Nous éclaircissons la couronne et ouvrons des fenêtres dans le feuillage.</p><p>Le cadre communal va dans le même sens. Au-delà de 60 cm de circonférence à 1 m du sol, un élagage important est soumis à autorisation, comme un abattage. Nous mesurons le tronc lors de la visite.</p><p>Nous avons taillé un cèdre en hauteur à Neuchâtel, lac en arrière-plan : c'est la photo en tête de cette page. Depuis Courgenay, la ville est à une cinquantaine de kilomètres.</p>",
+ "contexte": [
+  {
+   "icone": "LEAF",
+   "titre": "Vue et lumière",
+   "texte": "Éclaircir, relever, réduire par étapes : trois gestes qui rendent la lumière et la vue sans rabattre l'arbre. Le résultat tient plus longtemps qu'un étêtage."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Jardins de coteau",
+   "texte": "Sur une pente, un jardin se rejoint souvent par un escalier ou un chemin étroit. La taille se fait en grimpe et les branches sont sorties à la main, sans machine lourde."
+  },
+  {
+   "icone": "DOC",
+   "titre": "Élagage important : autorisation",
+   "texte": "Sur le territoire communal, Peseux, Corcelles-Cormondrèche et Valangin compris depuis 2024, un arbre de plus de 60 cm de circonférence ne se taille pas fortement sans autorisation. Le site de Chaumont fait exception."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Copropriétés et gérances",
+   "texte": "Dans une copropriété, la taille d'un arbre commun se décide à plusieurs. Nous remettons un devis écrit et détaillé, avec la période et le type de taille prévus, que chacun peut relire."
+  }
+ ],
+ "reglement": "<strong>Élagage et autorisation à Neuchâtel.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton.<br>Sur le territoire communal, le règlement d'aménagement (art. 148 et 151) protège les arbres hors forêt de plus de 60 cm de circonférence à 1 m du sol. Leur abattage ou un élagage important demande une autorisation de la Direction des travaux publics. Depuis 2024, la règle s'étend à Peseux, Corcelles-Cormondrèche et Valangin, sauf sur le site de Chaumont. Nous vérifions la situation de votre arbre avant de tailler.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour élaguer un arbre à Neuchâtel ?",
+   "a": "Oui, pour un élagage important sur un arbre hors forêt de plus de 60 cm de circonférence à 1 m du sol : la Direction des travaux publics doit l'autoriser. Nous mesurons le tronc lors de la visite."
+  },
+  {
+   "q": "Un voisin demande de couper mon arbre pour retrouver la vue sur le lac : que proposez-vous ?",
+   "a": "Une visite avec les deux parties, si vous le souhaitez. Nous montrons ce qu'un éclaircissage ou une réduction par étapes peut dégager, sans étêter. La solution retenue figure dans le devis, que chacun peut relire avant de décider."
+  },
+  {
+   "q": "Taillez-vous aussi à Peseux, Corcelles-Cormondrèche ou Valangin ?",
+   "a": "Oui. Ces localités font partie de la commune de Neuchâtel, et la protection des arbres de plus de 60 cm de circonférence s'y applique depuis 2024. Le site de Chaumont fait exception. Nous vérifions chaque situation avant de tailler."
+  },
+  {
+   "q": "Comment accédez-vous à un jardin sans chemin carrossable ?",
+   "a": "À pied, avec le matériel de grimpe. Les branches sont retenues à la corde, découpées au sol et portées jusqu'à la rue. Si un broyeur peut stationner à proximité, elles y sont broyées ; sinon elles sont évacuées."
+  },
+  {
+   "q": "Quand tailler un arbre à Neuchâtel ?",
+   "a": "Pour la plupart des feuillus, hors feuilles, de l'automne à la fin de l'hiver, hors période de nidification. Certaines tailles légères se font aussi en dehors de cette période. La date est fixée dans le devis, selon l'essence et l'objectif."
+  }
+ ],
+ "cta_h2": "Un arbre à tailler à Neuchâtel ?",
+ "cta_lead": "Visite et devis gratuits. Nous mesurons le tronc et vérifions la règle communale."
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Arboriste-grimpeur à Neuchâtel (NE) : taille, abattage | Arboritaille",
+ "desc": "Taille, élagage, démontage, haubanage et plantation d'arbres à Neuchâtel, de Serrières à Chaumont, par un arboriste-grimpeur. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-3", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Neuchâtel · Littoral",
+ "h1": "Arboriste-grimpeur à <em>Neuchâtel</em> : taille, démontage et soins aux arbres",
+ "lead": "Du bord du lac aux hauteurs de Chaumont, Neuchâtel s'étage sur le flanc sud du Jura. Nous y taillons, démontons et plantons des arbres pour des particuliers, des gérances et des collectivités. Visite et devis gratuits.",
+ "points": ["Visite sur place et devis gratuits", "Règlement communal vérifié avant tout abattage", "Démontage à la corde dans les jardins en pente", "Photos de nos chantiers à Neuchâtel plus bas"],
+ "intro_eyebrow": "Vos arbres à Neuchâtel",
+ "intro_h2": "Du lac à Chaumont, près de 750 mètres de dénivelé",
+ "intro": "<p>Capitale cantonale, Neuchâtel compte plus de 45 000 habitants. La ville s'étend au bord du lac, sur le flanc sud du Jura, face aux Alpes. Son territoire monte de 427 m à 1 174 m d'altitude.</p><p>La commune réunit aujourd'hui Peseux, Corcelles, Cormondrèche et Valangin, en plus de Serrières, Monruz, La Coudre et Chaumont. Chaque secteur a sa pente, son exposition et son type de jardins.</p><p>Sur un coteau, un arbre domine souvent la maison du dessous, une rue ou une ligne. Nous travaillons à la corde : chaque pièce est retenue puis descendue, sans rien laisser tomber en contrebas.</p><p>Nous avons taillé un cèdre en hauteur et planté un jeune arbre à Neuchâtel. Les photos de ces deux chantiers figurent plus bas sur cette page.</p>",
+ "faits": [["Habitants", "45 466 (2025)"], ["Altitude", "427 à 1 174 m"], ["Superficie", "30,08 km²"], ["Depuis Courgenay", "env. 50 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Neuchâtel.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton.<br>Sur le territoire communal, le règlement d'aménagement (art. 148 et 151) protège les arbres hors forêt de plus de 60 cm de circonférence à 1 m du sol. Leur abattage ou un élagage important demande une autorisation de la Direction des travaux publics. Depuis 2024, la règle s'étend à Peseux, Corcelles-Cormondrèche et Valangin, sauf sur le site de Chaumont. Nous vérifions la situation de votre arbre avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Arbres protégés dès 60 cm", "texte": "À Neuchâtel, un arbre hors forêt de plus de 60 cm de circonférence à 1 m du sol ne s'abat pas sans autorisation communale. Nous mesurons le tronc lors de la visite."},
+  {"icone": "MOUNT", "titre": "Jardins en pente", "texte": "Sur le flanc du Jura, une parcelle en dévers offre rarement un accès large. La grimpe et la rétention à la corde remplacent les machines lourdes là où elles ne passent pas."},
+  {"icone": "CABLE", "titre": "Conserver un grand arbre", "texte": "Une fourche qui s'ouvre ne condamne pas toujours l'arbre. Un haubanage souple, posé dans la couronne, limite le risque de rupture et évite parfois l'abattage."},
+  {"icone": "USERS", "titre": "Gérances et institutions", "texte": "Immeubles, écoles, sites d'entreprise : nous établissons un devis par arbre ou par site, avec un calendrier d'entretien et un compte rendu après chaque passage."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction de couronne et dégagement de façade ou de vue, sans étêtage, pour les arbres de jardin et de parc.",
+  "abattage-demontage": "Démontage à la corde sur les coteaux et entre les bâtiments. Demande d'autorisation préparée avec vous quand l'arbre est protégé.",
+  "haubanage": "Pose de haubans souples dans la couronne d'un grand arbre fragilisé, avec contrôle périodique.",
+  "diagnostic-expertise-arbre": "Examen du sol et depuis la couronne, avis écrit et options chiffrées, utile aussi pour motiver une demande d'abattage.",
+  "plantation-arbres": "Arbre de remplacement ou nouveau sujet : choix de l'essence, fosse, tuteurage tripode et suivi de reprise.",
+  "collectivites-entreprises": "Gérances, entreprises et collectivités : inventaire des arbres, planification annuelle, compte rendu par site."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Neuchâtel ?", "a": "Oui, dès que l'arbre, hors forêt, dépasse 60 cm de circonférence à 1 m du sol. L'abattage et l'élagage important sont soumis à autorisation de la Direction des travaux publics. Nous vérifions la situation de votre arbre et vous indiquons la démarche."},
+  {"q": "La règle vaut-elle aussi à Peseux, Corcelles-Cormondrèche et Valangin ?", "a": "Oui. Depuis 2024, la protection des arbres de la commune de Neuchâtel s'étend à Peseux, Corcelles-Cormondrèche et Valangin. Le site de Chaumont fait exception. Dans le doute, nous posons la question à la commune avant toute coupe."},
+  {"q": "Intervenez-vous dans tous les quartiers, jusqu'à Chaumont ?", "a": "Oui, de Serrières à Monruz et La Coudre, et jusqu'à Chaumont. Neuchâtel est à une cinquantaine de kilomètres de Courgenay à vol d'oiseau. La visite reste gratuite et le devis vous parvient par écrit."},
+  {"q": "Comment démontez-vous un arbre dans un jardin en pente ?", "a": "Nous grimpons dans l'arbre et coupons des pièces courtes. Chacune est retenue par une corde, puis descendue jusqu'à un point choisi à l'avance. Rien ne roule ni ne tombe vers la parcelle du dessous. Le bois est ensuite évacué à la main."},
+  {"q": "Travaillez-vous pour les gérances et les collectivités ?", "a": "Oui. Pour un immeuble, une copropriété ou un site public, nous visitons les lieux, listons les arbres à suivre et proposons un devis détaillé par intervention. Un compte rendu vous est remis après chaque passage."}
+ ],
+ "galerie": [
+  ["arboriste_grimpeur-3", "Arboriste-grimpeur au sommet d'un cèdre, lac de Neuchâtel en arrière-plan", "Taille en hauteur, Neuchâtel"],
+  ["plantation_arbre", "Jeune arbre planté avec tuteurage tripode à Neuchâtel", "Plantation et tuteurage tripode, Neuchâtel"]
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, à démonter ou à planter à Neuchâtel ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

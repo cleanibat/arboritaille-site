@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Belmont (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, haubanage, démontage et abattage d'arbres à Belmont (Bellmund), entre 434 et 620 m, district de Bienne, canton de Berne. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Belmont · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Belmont</em> : taille, abattage et soins aux arbres",
+ "lead": "Belmont, Bellmund en allemand, s'étage de 434 à 620 m d'altitude. Arbres penchés, jardins en pente, haies de limite : nous venons voir et vous remettons un devis gratuit.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Évaluation de l'ancrage des arbres penchés",
+  "Haubanage possible avant d'abattre",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Belmont",
+ "intro_h2": "Près de 190 m de dénivelé, avec le Jaïssberg à l'est",
+ "intro": "<p>Belmont compte 1 805 habitants sur 3,8 km2. Le territoire monte de 434 m à 620 m. À l'est de la localité, le Jaïssberg porte le refuge de Knebelburg, un plateau fortifié ceint d'un fossé.</p><p>Sur un terrain qui monte, les arbres s'inclinent vers la lumière et leurs racines travaillent de manière asymétrique. Un arbre penché au-dessus d'une maison située plus bas mérite un regard attentif.</p><p>Nous évaluons l'ancrage et l'état du bois avant de proposer un allègement, un haubanage ou, en dernier recours, un démontage. L'accès en pente ne nous arrête pas : nous travaillons depuis l'arbre.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 805 (2025)"
+  ],
+  [
+   "Altitude",
+   "434 à 620 m"
+  ],
+  [
+   "Superficie",
+   "3,8 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Belmont.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Belmont avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "CABLE",
+   "titre": "Haubaner plutôt qu'abattre",
+   "texte": "Une fourche fragile ou une charpentière lourde peut être retenue par un hauban souple posé dans la couronne. L'arbre reste entier et le risque de rupture diminue."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Racines en terrain incliné",
+   "texte": "Sur une pente, le plateau racinaire se développe surtout vers l'amont. Nous observons le sol, les fissures et les soulèvements avant de juger la stabilité d'un arbre penché."
+  },
+  {
+   "icone": "AXE",
+   "titre": "Démontage sans rien faire rouler",
+   "texte": "Quand l'arbre doit partir, chaque pièce est retenue à la corde et posée à l'endroit choisi. Rien ne dévale vers la maison du dessous ou la route."
+  }
+ ],
+ "services": {
+  "haubanage": "Pose de haubans souples dans la couronne des arbres fragiles de Belmont, pour les conserver en sécurité.",
+  "elagage-taille-arbres": "Taille d'allègement et de rééquilibrage pour les arbres penchés, réduction de couronne pour les arbres de jardin.",
+  "abattage-demontage": "Démontage à la corde adapté aux terrains et aux jardins en pente ; abattage direct quand l'espace le permet.",
+  "diagnostic-expertise-arbre": "Un arbre penché vous inquiète ? Nous l'examinons et vous remettons un avis écrit avec les options possibles."
+ },
+ "faq": [
+  {
+   "q": "Un arbre penché au-dessus de ma maison à Belmont, que faire ?",
+   "a": "Ne rien couper dans la précipitation. Nous venons observer l'ancrage, le tronc et la couronne. Beaucoup d'arbres de pente poussent inclinés sans danger ; d'autres demandent un allègement, un hauban ou un démontage."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Belmont ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Belmont. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
+  },
+  {
+   "q": "Qu'est-ce qu'un haubanage ?",
+   "a": "Un câble souple relie deux charpentières ou retient une branche lourde, haut dans la couronne. Il limite les mouvements sans bloquer l'arbre. Nous le contrôlons ensuite tous les quelques années."
+  },
+  {
+   "q": "Pouvez-vous travailler dans un jardin en pente, sans accès pour un véhicule ?",
+   "a": "Oui. Nous grimpons dans l'arbre et descendons les pièces à la corde. Seul un passage à pied est nécessaire pour sortir le bois, débité en morceaux faciles à porter."
+  },
+  {
+   "q": "Le devis peut-il être rédigé en allemand ?",
+   "a": "Oui. Belmont est germanophone : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur place, nous expliquons le travail en français. Vous pouvez nous écrire dans la langue qui vous convient."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à sécuriser, tailler ou abattre à Belmont ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

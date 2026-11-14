@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Orpond (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, démontage et abattage d'arbres à Orpond (Orpund), de 430 à 543 m aux portes de Bienne, canton de Berne. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Orpond · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Orpond</em> : taille, abattage et soins aux arbres",
+ "lead": "Orpond, Orpund en allemand, s'étage de 430 à 543 m d'altitude, aux portes de Bienne. En pente comme en terrain plat, nous taillons et démontons les arbres depuis la couronne. Visite et devis gratuits.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Démontage à la corde sur les terrains en pente",
+  "Aucune machine lourde sur votre terrain",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Orpond",
+ "intro_h2": "Orpund, Orpond, Orpondes : un village entre 430 et 543 m",
+ "intro": "<p>Orpond porte trois noms selon les époques et les langues : Orpund en allemand, Orpond ou autrefois Orpondes en français. La commune compte 3 375 habitants sur 3,96 km2 et touche directement Bienne et Brügg.</p><p>Le territoire monte de 430 à 543 m, soit plus de cent mètres de dénivelé. Avec un tel écart, une partie des jardins se trouve en général en pente, sur des terrains difficiles d'accès pour les machines.</p><p>En pente, le démontage à la corde prend tout son sens : nous grimpons, nous retenons chaque pièce et nous la posons là où elle ne roulera pas. Le terrain et les plantations restent intacts.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "3 375 (2025)"
+  ],
+  [
+   "Altitude",
+   "430 à 543 m"
+  ],
+  [
+   "Superficie",
+   "3,96 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Orpond.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). L'entretien est permis ; la suppression demande une dérogation de la préfecture, avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Orpond avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Travailler en pente",
+   "texte": "Sur un coteau, une pièce de bois qui roule peut finir dans une clôture ou sur une route. Nous retenons chaque tronçon à la corde et nous le posons à l'endroit prévu."
+  },
+  {
+   "icone": "TREE",
+   "titre": "Arbres penchés vers la lumière",
+   "texte": "Sur un terrain incliné, les arbres s'inclinent vers le vide et développent une couronne asymétrique. Une taille de rééquilibrage réduit la prise au vent du côté exposé."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Près des maisons",
+   "texte": "Dans les quartiers d'habitation, les arbres de jardin deviennent grands au fil des décennies. Réduction de couronne et dégagement de façade évitent bien des abattages."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de rééquilibrage pour les arbres en pente, réduction et dégagement de façade pour les arbres de jardin d'Orpond.",
+  "abattage-demontage": "Démontage à la corde adapté aux terrains en pente et aux jardins fermés ; abattage direct quand la place le permet.",
+  "haubanage": "Un arbre penché mais sain peut être maintenu par un hauban plutôt qu'abattu. Nous évaluons cette option sur place.",
+  "rognage-souche": "Souche rognée après l'abattage, même en pente, pour replanter ou reprendre le terrain."
+ },
+ "faq": [
+  {
+   "q": "Mon jardin à Orpond est en forte pente, pouvez-vous intervenir ?",
+   "a": "Oui. Nous travaillons depuis l'arbre, à la corde, et nous n'avons pas besoin de place pour une machine. Les pièces sont retenues et posées une à une, sans rouler dans la pente."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Orpond ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal d'Orpond. Nous vérifions si votre arbre est concerné et vous indiquons la démarche avant de fixer une date."
+  },
+  {
+   "q": "Un arbre penché au-dessus de ma maison est-il dangereux ?",
+   "a": "Pas forcément : beaucoup d'arbres de pente poussent inclinés depuis toujours. Nous regardons l'ancrage, le tronc et la couronne. Selon le cas, nous proposons un allègement, un hauban ou un démontage."
+  },
+  {
+   "q": "Vous déplacez-vous depuis Courgenay pour un devis ?",
+   "a": "Oui. Orpond est à une trentaine de kilomètres de Courgenay à vol d'oiseau. La visite et le devis sont gratuits, sans engagement de votre part."
+  },
+  {
+   "q": "Pouvons-nous correspondre en allemand ?",
+   "a": "Oui. Le devis, la confirmation et le compte rendu peuvent être rédigés en allemand. Sur place, nous expliquons le travail en français, en montrant ce qui sera coupé."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre à tailler ou à abattre à Orpond ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

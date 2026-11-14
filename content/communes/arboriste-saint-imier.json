@@ -1,0 +1,37 @@
+{
+ "title": "Arboriste-grimpeur à Saint-Imier : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, haubanage et plantation d'arbres à Saint-Imier (BE), à 820 m, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Saint-Imier · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Saint-Imier</em> : taille, abattage et soins aux arbres",
+ "lead": "Saint-Imier rassemble plus de 5 000 habitants à 820 m, à une trentaine de kilomètres de Courgenay. Taille, abattage, haubanage ou plantation : nous travaillons pour les particuliers, les gérances et les collectivités, en respectant le plan de protection des arbres.",
+ "points": ["Visite et devis gratuits", "Plan de protection communal vérifié", "Haubanage des arbres fatigués par la neige", "Chantiers en ville avec sécurisation du passage"],
+ "intro_eyebrow": "Vos arbres à Saint-Imier",
+ "intro_h2": "Une ville d'altitude, un patrimoine bâti et un plan de protection des arbres",
+ "intro": "<p>Saint-Imier est une ville de 5 144 habitants, à 820 m, dans le district de Courtelary. Ses 20,89 km² comprennent Les Pontins, Mont-Soleil et Le Cerneux-Veusil ; un funiculaire monte à Mont-Soleil, où se trouve un observatoire astronomique.</p><p>La ville réunit l'ancienne collégiale des XIe-XIIe siècles, la tour Saint-Martin, la basilique néo-gothique et l'hôpital de 1934. Autour d'un tel patrimoine, la taille d'un arbre se décide avec soin.</p><p>Le règlement de Saint-Imier est connu : un arbre porté au plan de protection ne s'abat qu'en cas de danger, avec compensation. Nous commençons donc par vérifier le statut de votre arbre avant de chiffrer un abattage.</p><p>À 820 m, la neige et le vent fatiguent les grands arbres. Un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a> avant l'hiver permet de décider entre taille, <a href=\"/haubanage\">haubanage</a> et démontage.</p>",
+ "faits": [["Habitants", "5 144 (2025)"], ["Altitude", "820 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 30 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Saint-Imier.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation.<br>À Saint-Imier, le règlement d'affectation du sol et de construction (2013, art. 72-73) maintient les haies, bosquets et arbres portés au plan de protection : la Municipalité n'autorise leur abattage qu'en cas de danger, avec compensation. Nous vérifions le statut de votre arbre auprès de la commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Plan de protection", "texte": "Saint-Imier porte certains arbres à un plan de protection. Pour ceux-là, seul un danger justifie l'abattage, autorisé par la Municipalité et compensé. Nous montons le dossier avec vous si c'est le cas."},
+  {"icone": "HOME", "titre": "Bâti ancien et arbres", "texte": "Collégiale, tour Saint-Martin, basilique : ce patrimoine a de la valeur. Les arbres voisins de ces bâtiments se taillent en douceur, pour dégager sans défigurer."},
+  {"icone": "WIND", "titre": "820 m : neige et vent", "texte": "À cette altitude, les branches portent des charges de neige importantes. Allègement des branches exposées et haubanage des fourches fragiles limitent les casses de fin d'hiver."},
+  {"icone": "USERS", "titre": "Gérances et commune", "texte": "Pour les immeubles et les espaces publics de Saint-Imier, nous pouvons établir un planning de taille par secteur et un devis par arbre, avec signalisation du chantier."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, allègement ou réduction de couronne pour les arbres de jardin, de cour et d'alignement de Saint-Imier.",
+  "abattage-demontage": "Démontage contrôlé en ville, abattage direct quand l'espace le permet. Pour un arbre protégé, intervention seulement après autorisation communale.",
+  "haubanage": "Pose de haubans souples sur les fourches affaiblies par la neige, pour conserver un grand arbre plutôt que l'abattre.",
+  "diagnostic-expertise-arbre": "Examen visuel et avis écrit sur la stabilité d'un arbre, utile pour une demande d'abattage auprès de la Municipalité.",
+  "collectivites-entreprises": "Entretien planifié du patrimoine arboré pour la commune, les gérances et les entreprises de Saint-Imier, avec devis par arbre."
+ },
+ "faq": [
+  {"q": "Mon arbre à Saint-Imier figure au plan de protection, puis-je l'abattre ?", "a": "Seulement en cas de danger, avec l'autorisation de la Municipalité et une compensation. Nous examinons l'arbre, rédigeons un avis écrit si nécessaire et vous accompagnons dans la demande. Sinon, une taille adaptée est souvent possible."},
+  {"q": "Intervenez-vous à Mont-Soleil et aux Pontins ?", "a": "Oui, ces localités font partie de la commune de Saint-Imier. Nous nous déplaçons depuis Courgenay, à une trentaine de kilomètres, pour la visite gratuite puis pour le chantier."},
+  {"q": "Que faire d'un arbre dont les branches cassent sous la neige ?", "a": "Après la fonte, nous supprimons les parties cassées avec des coupes propres, allégeons les branches trop longues et posons un haubanage si une fourche est fragile. L'arbre reste en place quand sa structure le permet."},
+  {"q": "Travaillez-vous pour les gérances d'immeubles à Saint-Imier ?", "a": "Oui. Nous proposons un passage de contrôle, un devis par arbre et un planning d'entretien. Les travaux sont annoncés aux locataires et la zone de chute est sécurisée pendant la taille."},
+  {"q": "Quand tailler les arbres à 820 m d'altitude ?", "a": "La taille d'entretien se fait en hiver, hors gel sévère, ou en été après la pousse. Nous évitons le débourrement au printemps et la période de nidification pour les haies."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à tailler, haubaner ou abattre à Saint-Imier ?",
+ "cta_lead": "Visite et devis gratuits. Nous vérifions le plan de protection avant toute coupe importante."
+}

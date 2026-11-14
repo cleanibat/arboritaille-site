@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste à Grolley-Ponthaux (FR) : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Grolley-Ponthaux (FR) : taille, abattage, plantation et entretien de haies dans les quatre villages de la commune. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Grolley-Ponthaux · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Grolley-Ponthaux</em> : taille, abattage et soins aux arbres",
+ "lead": "Grolley-Ponthaux existe depuis le 1er janvier 2025 et réunit quatre villages : Grolley, Ponthaux, Corsalettes et Nierlet-les-Bois. Nous y taillons, abattons et plantons vos arbres, après visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Quatre villages, une seule méthode", "Entretien des haies en hiver", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Grolley-Ponthaux",
+ "intro_h2": "Une commune née en 2025, quatre villages et leurs arbres",
+ "intro": "<p>Le 3 mars 2024, les habitants de Grolley et de Ponthaux ont voté la fusion de leurs communes. Grolley-Ponthaux est née le 1er janvier 2025, avec 2 898 habitants répartis entre Grolley, Ponthaux, Corsalettes et Nierlet-les-Bois.</p><p>Le territoire couvre 11,25 km² entre 576 m et 735 m d'altitude. Quatre villages, ce sont en général autant de noyaux bâtis, avec des fermes, des jardins et des limites de parcelle où poussent haies et arbres de bord de chemin.</p><p>Comme à <a href=\"/arboriste-belfaux\">Belfaux</a> ou à <a href=\"/arboriste-corminboeuf\">Corminboeuf</a>, voisines, le principe reste le même pour un arbre isolé ou une haie entière : visite sur place, devis écrit, puis intervention en grimpe.</p>",
+ "faits": [["Habitants", "2 898"], ["Altitude", "650 m"], ["Superficie", "11,25 km²"], ["Depuis Courgenay", "env. 65 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Grolley-Ponthaux.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Grolley-Ponthaux avant d'intervenir.",
+ "contexte": [
+  {"icone": "LEAF", "titre": "Haies de limite", "texte": "Entre champs et jardins, les haies marquent les parcelles. Hors zone à bâtir, elles ne se suppriment pas librement. Nous les taillons ou les recépons par tronçons, en hiver, et vous indiquons si une dérogation est nécessaire."},
+  {"icone": "USERS", "titre": "Une nouvelle commune à accompagner", "texte": "Les collectivités gèrent des arbres le long des routes, autour des écoles et des places. Nous proposons un état des lieux par village et un plan d'entretien pluriannuel, avec un devis pour chaque étape."},
+  {"icone": "SPROUT", "titre": "Planter pour les décennies à venir", "texte": "Un arbre planté en 2025 donnera de l'ombre vers 2050. Nous choisissons avec vous une essence adaptée à la place et au sol, puis assurons le tuteurage et les premières tailles de formation."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de ferme, de jardin et de bord de chemin des quatre villages.",
+  "abattage-demontage": "Abattage direct en terrain dégagé, démontage à la corde près des bâtiments. Bois et branches évacués ou laissés sur place.",
+  "plantation-arbres": "Plantation d'arbres d'ombrage ou de remplacement, tuteurage tripode et tailles de formation les premières années.",
+  "collectivites-entreprises": "État des lieux des arbres communaux par village, priorisation et plan d'entretien pluriannuel pour la nouvelle commune."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans tous les villages de Grolley-Ponthaux ?", "a": "Oui, à Grolley, Ponthaux, Corsalettes et Nierlet-les-Bois. Le canton de Fribourg fait partie de notre zone d'intervention depuis Courgenay. La visite est gratuite et le devis vous parvient par écrit sous 48 h ouvrées."},
+  {"q": "Puis-je supprimer une haie en bordure de mon terrain ?", "a": "En zone à bâtir, cela dépend du règlement communal d'urbanisme. Hors zone à bâtir, une haie d'intérêt écologique ou paysager est protégée : sa suppression demande une dérogation de la commune, avec compensation. Un entretien par tronçons reste possible."},
+  {"q": "Un arbre de bord de route menace la chaussée : qui intervient ?", "a": "Signalez-le d'abord au propriétaire de la parcelle ou à la commune de Grolley-Ponthaux. À la demande de l'un ou de l'autre, nous examinons l'arbre, puis le sécurisons par une réduction ou un démontage, après un devis écrit."},
+  {"q": "Quelle essence planter dans un jardin de la Sarine ?", "a": "Cela dépend de la place au sol, de la hauteur acceptable et de l'exposition. Nous privilégions des essences robustes, en évitant celles qui deviendront trop grandes pour la parcelle. Le conseil fait partie de la visite."},
+  {"q": "Que coûte une visite ?", "a": "Rien. Nous venons voir l'arbre ou la haie, discutons de vos attentes et des contraintes d'accès, puis vous envoyons un devis détaillé et gratuit. Vous décidez ensuite, sans engagement."}
+ ],
+ "cta_img": "demontage_arbre_porrentruy",
+ "cta_h2": "Un arbre ou une haie à entretenir à Grolley-Ponthaux ?",
+ "cta_lead": "Visite et devis gratuits dans les quatre villages de la commune."
+}

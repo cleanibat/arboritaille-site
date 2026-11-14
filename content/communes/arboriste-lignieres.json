@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Lignières (NE) : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Lignières (NE), sur le plateau à la limite du canton de Berne : taille, haies, abattage, plantation. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Lignières · Canton de Neuchâtel",
+ "h1": "Arboriste-grimpeur à <em>Lignières</em> : taille, haies, abattage et plantation",
+ "lead": "Lignières occupe un plateau jurassien à la limite du canton de Berne, à environ 35 kilomètres de Courgenay. Nous y taillons, abattons et plantons, selon la règle neuchâteloise. Visite et devis gratuits.",
+ "points": ["Visite sur place et devis gratuits", "Droit neuchâtelois vérifié avant la coupe", "Haies recépées par tiers", "Plantations adaptées à l'altitude"],
+ "intro_eyebrow": "Vos arbres à Lignières",
+ "intro_h2": "Un plateau jurassien à la limite du canton de Berne",
+ "intro": "<p>Lignières occupe un plateau jurassien situé vers 800 m d'altitude. Son nom rappelle un lieu où l'on cultivait le lin, et une villa romaine y était occupée dès le IIe siècle.</p><p>La commune compte 1 101 habitants sur 12,51 kilomètres carrés, entre 746 m et 1 440 m. Elle touche <a href=\"/arboriste-nods\">Nods</a> et <a href=\"/arboriste-la-neuveville\">La Neuveville</a>, deux communes du canton de Berne.</p><p>Cette limite compte pour vos arbres : à Lignières, c'est le droit neuchâtelois qui s'applique. Une haie s'y recèpe par tiers, après annonce au canton. De l'autre côté de la limite, la règle bernoise est différente.</p>",
+ "faits": [["Habitants", "1 101 (2025)"], ["Altitude", "746 à 1 440 m"], ["Superficie", "12,51 km²"], ["Depuis Courgenay", "env. 35 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Lignières.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Lignières avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Deux cantons, deux règles", "texte": "Votre parcelle est neuchâteloise, celle d'en face peut être bernoise. Avant d'intervenir sur une haie ou un arbre de limite, nous vérifions de quel canton et de quelle commune il dépend."},
+  {"icone": "MOUNT", "titre": "Un plateau exposé", "texte": "Sur un plateau d'altitude, le vent rencontre peu d'obstacles. Les arbres isolés et ceux de lisière sont les premiers touchés : nous contrôlons les fourches et retirons les branches fragiles."},
+  {"icone": "SPROUT", "titre": "Planter à 800 m et plus", "texte": "Le choix de l'essence tient compte du gel et de la neige. Nous plantons de jeunes sujets, qui reprennent mieux, avec un tuteurage tripode qui tient au vent."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et retrait des branches fragilisées par le vent ou la neige, sans étêtage.",
+  "abattage-demontage": "Abattage directionnel en terrain ouvert, démontage à la corde près des maisons et des ruraux.",
+  "plantation-arbres": "Essences de montagne choisies selon le sol et l'exposition, plantées jeunes et tuteurées.",
+  "urgence-tempete-arbre-dangereux": "Arbre renversé ou branche cassée après un coup de vent : sécurisation puis dégagement."
+ },
+ "faq": [
+  {"q": "Quelle loi s'applique à mes arbres à Lignières ?", "a": "La loi neuchâteloise. Lignières touche le canton de Berne, mais c'est l'emplacement de l'arbre qui compte. Haies et bosquets sont protégés par le canton, les arbres isolés par le règlement communal. Nous vérifions avant d'intervenir."},
+  {"q": "Venez-vous à Lignières depuis Courgenay ?", "a": "Oui. Lignières est à environ 35 kilomètres de Courgenay à vol d'oiseau. Nous nous déplaçons pour une visite gratuite, en votre présence, puis nous vous envoyons un devis écrit qui ne vous engage pas."},
+  {"q": "Comment recéper une haie dans les règles ?", "a": "Dans le canton de Neuchâtel, on ne recèpe ni n'abat plus d'un tiers d'une haie tous les trois ans, et l'intervention s'annonce d'abord à la section nature du canton. Nous travaillons par tronçons, en hiver, hors nidification."},
+  {"q": "Quels arbres planter à cette altitude ?", "a": "Des essences qui supportent le gel et la neige. Les érables, par exemple, sont fréquents en montagne jurassienne. Le choix final dépend du sol, de l'exposition et de la place disponible à l'âge adulte, que nous évaluons sur place."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Une haie ou un arbre à entretenir à Lignières ?",
+ "cta_lead": "Nous venons voir sur place et vérifions la règle applicable. Visite et devis gratuits."
+}

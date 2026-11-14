@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Fétigny-Ménières (FR) : élagage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Fétigny-Ménières, dans la Broye fribourgeoise. Arboriste-grimpeur venu de Courgenay, devis gratuit.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Fétigny-Ménières · Broye",
+ "h1": "Arboriste-grimpeur à <em>Fétigny-Ménières</em> : taille, abattage et soins aux arbres",
+ "lead": "Fétigny-Ménières réunit depuis le 1er janvier 2026 deux villages de la Broye fribourgeoise. Pour un arbre à tailler, à abattre ou à remplacer, nous nous déplaçons depuis Courgenay et vous remettons un devis écrit gratuit.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Réponse sous 48 h ouvrées",
+  "Démontage à la corde près des bâtiments",
+  "Branches broyées ou évacuées"
+ ],
+ "intro_eyebrow": "Vos arbres à Fétigny-Ménières",
+ "intro_h2": "Deux villages réunis en 2026, un seul interlocuteur pour vos arbres",
+ "intro": "<p>Fétigny-Ménières est née le 1er janvier 2026 de la fusion de Fétigny et de Ménières. La commune compte 1 738 habitants sur 8,46 km², dans le district de la Broye, à une septantaine de kilomètres de Courgenay.</p><p>Le territoire s'étage entre 499 et 687 m. À cette altitude modérée, les hivers restent cléments et la plupart des feuillus de jardin, fruitiers compris, poussent sans difficulté et prennent vite de l'ampleur.</p><p>Dans deux villages de cette taille, les demandes portent en général sur des arbres de jardin devenus trop grands, des fruitiers vieillissants et des haies en limite de parcelle. Nous taillons de manière raisonnée et n'abattons que lorsque c'est justifié.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 738 (2025)"
+  ],
+  [
+   "Altitude",
+   "499 à 687 m"
+  ],
+  [
+   "District",
+   "Broye"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 70 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Fétigny-Ménières.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Fétigny-Ménières avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "PIN",
+   "titre": "Une commune nouvelle",
+   "texte": "Fétigny et Ménières ont fusionné au 1er janvier 2026. Les dispositions sur les arbres peuvent encore relever de l'un ou l'autre ancien règlement communal. Nous demandons à l'administration laquelle s'applique à votre parcelle."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Arbres de jardin devenus grands",
+   "texte": "Un arbre planté à la construction d'une maison dépasse souvent le toit trente ans plus tard. Une réduction de couronne mesurée redonne de la lumière sans mutiler l'arbre ni compromettre sa santé."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Fruitiers et haies",
+   "texte": "Les vieux fruitiers se taillent en hiver, légèrement. Les haies champêtres hors zone à bâtir sont protégées dans le canton de Fribourg : nous les entretenons par tronçons, sans les supprimer."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien ou réduction de couronne pour les arbres de jardin de Fétigny-Ménières. Coupes propres, silhouette respectée.",
+  "abattage-demontage": "Démontage par sections près des maisons, abattage direct quand la place le permet. Bois débité ou évacué, terrain nettoyé.",
+  "plantation-arbres": "Choix d'une essence adaptée au sol et à la place disponible, plantation avec tuteurage tripode et conseils d'arrosage."
+ },
+ "faq": [
+  {
+   "q": "Venez-vous jusqu'à Fétigny-Ménières pour une visite gratuite ?",
+   "a": "Oui. Fétigny-Ménières se trouve à une septantaine de kilomètres de Courgenay. La visite et le devis restent gratuits. Quand c'est possible, nous regroupons plusieurs rendez-vous dans la Broye pour vous proposer une date rapidement."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Fétigny-Ménières ?",
+   "a": "Hors zone à bâtir, les boisements d'intérêt écologique ou paysager ne se suppriment pas sans dérogation communale. En zone à bâtir, c'est le règlement communal d'urbanisme qui s'applique. Nous nous renseignons auprès de la commune avant d'intervenir."
+  },
+  {
+   "q": "Un arbre menace ma toiture, que proposez-vous ?",
+   "a": "Nous commençons par une visite. Dans la plupart des cas, une réduction de couronne ou un dégagement de façade suffit. Si l'arbre est dépérissant ou fendu, nous vous proposons un démontage pièce par pièce, en sécurité."
+  },
+  {
+   "q": "Peut-on tailler une haie à n'importe quelle saison ?",
+   "a": "Nous programmons la taille des haies en hiver, hors période de nidification. Au printemps et en été, nous vérifions l'absence de nids avant toute coupe. Une haie champêtre hors zone à bâtir ne se rase pas : elle s'entretient par tronçons."
+  },
+  {
+   "q": "Faites-vous aussi des plantations ?",
+   "a": "Oui. Nous conseillons une essence adaptée au sol et à la place disponible, plantons l'arbre avec un tuteurage tripode et vous indiquons comment l'arroser pendant les deux premières années."
+  }
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à voir à Fétigny-Ménières ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées. Nous venons depuis Courgenay."
+}

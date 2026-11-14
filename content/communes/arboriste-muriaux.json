@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Muriaux (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Muriaux, aux Emibois, au Peuchapatte et au Cerneux-Veusil (JU), à 947 m. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Muriaux · Franches-Montagnes",
+ "h1": "Taille, abattage et soins aux arbres à <em>Muriaux</em>, par un arboriste-grimpeur",
+ "lead": "Muriaux, 513 habitants à 947 m, réunit six localités sur le plateau des Franches-Montagnes, des Emibois au Cerneux-Veusil. Nous venons voir vos arbres depuis Courgenay, puis vous recevez un devis écrit et gratuit.",
+ "points": ["Visite et devis gratuits", "À une vingtaine de kilomètres de Courgenay", "Six localités, une seule tournée", "Taille raisonnée, jamais d'étêtage"],
+ "intro_eyebrow": "Vos arbres à Muriaux",
+ "intro_h2": "Spiegelberg, le lieu d'où l'on regarde : six localités à 947 m",
+ "intro": "<p>L'ancien nom allemand de Muriaux, Spiegelberg, désigne un point de vue. Le nom français pourrait remonter au latin mirari, regarder. Sa première trace écrite, Murival, date de 1301.</p><p>Le territoire couvre 16,89 km² et regroupe Muriaux, Les Emibois, Le Roselet, Les Chenevières, Le Cerneux-Veusil et Le Peuchapatte, rattaché en 2009. On y compte 513 habitants, soit trente au kilomètre carré.</p><p>Avec une densité pareille, l'habitat est clairsemé. Un arbre à voir aux Emibois et un autre au Cerneux-Veusil se traitent dans la même tournée, avec un seul devis si vous le souhaitez.</p><p>Un lieu d'observation est aussi, par principe, un lieu exposé. Sur une hauteur, un arbre isolé prend le vent de face : nous contrôlons l'ancrage, les fourches et le bois mort avant de proposer une taille.</p>",
+ "faits": [["Habitants", "513 (2025)"], ["Altitude", "947 m"], ["Superficie", "16,89 km²"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Muriaux.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Muriaux avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Six localités, un interlocuteur", "texte": "Muriaux, Les Emibois, Le Roselet, Les Chenevières, Le Cerneux-Veusil, Le Peuchapatte : nous passons dans chacune. Précisez la localité au téléphone, cela nous aide à préparer l'accès et le matériel."},
+  {"icone": "WIND", "titre": "Arbres en situation dégagée", "texte": "Un sujet seul sur un replat reçoit toutes les rafales. Alléger les extrémités et retirer le bois mort réduit la prise au vent sans modifier la silhouette."},
+  {"icone": "CABLE", "titre": "Voie ferrée et lignes", "texte": "La ligne La Chaux-de-Fonds – Le Noirmont – Glovelier des Chemins de fer du Jura dessert la commune. Près d'une voie ou d'un câble, le démontage se fait par sections retenues à la corde, après accord de l'exploitant."},
+  {"icone": "DOC", "titre": "À la limite du canton de Berne", "texte": "Muriaux touche Saint-Imier et Villeret, communes bernoises. De ce côté de la limite, c'est la loi jurassienne sur la nature et le paysage qui s'applique à vos haies, bosquets et arbres isolés."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement, bois mort et taille d'entretien des arbres exposés au vent, à Muriaux et dans ses cinq autres localités.",
+  "abattage-demontage": "Abattage direct en terrain libre, démontage par sections retenues près d'un bâtiment, d'une voie ou d'une ligne.",
+  "urgence-tempete-arbre-dangereux": "Arbre couché, branche cassée ou fourche ouverte après un coup de vent : nous sécurisons puis nous évacuons.",
+  "rognage-souche": "La souche est rognée sous le niveau du sol pour remettre le terrain en herbe ou replanter."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Muriaux ?", "a": "Cela dépend de la zone. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation communale. En zone à bâtir, le règlement de Muriaux désigne les arbres protégés. Nous vérifions avant d'intervenir."},
+  {"q": "Venez-vous aussi au Peuchapatte, aux Emibois et au Cerneux-Veusil ?", "a": "Oui. Ces localités font partie de la commune de Muriaux, Le Peuchapatte depuis 2009. La visite y est gratuite, et nous groupons volontiers plusieurs arbres d'un même secteur dans un seul devis écrit."},
+  {"q": "À quelle période tailler un arbre à 947 m ?", "a": "Les feuillus se taillent de préférence entre la chute des feuilles et le débourrement, hors gel marqué. À cette altitude, le printemps arrive tard : la fenêtre se prolonge souvent jusqu'en avril. Le bois mort s'enlève toute l'année."},
+  {"q": "Mon arbre est proche de la voie ferrée : pouvez-vous intervenir ?", "a": "Oui, après avoir pris contact avec l'exploitant de la ligne. Nous démontons l'arbre par sections retenues à la corde, pour qu'aucune branche ne tombe du côté de la voie. La visite permet de définir la méthode."},
+  {"q": "Dans quel délai recevons-nous un devis ?", "a": "Nous répondons à votre demande sous 48 h ouvrées et fixons une visite sur place. Le devis écrit suit la visite. Il est gratuit, détaillé par arbre, et ne vous engage à rien."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à faire voir à Muriaux ou dans l'une de ses localités ?",
+ "cta_lead": "Visite et devis gratuits, à une vingtaine de kilomètres de Courgenay."
+}

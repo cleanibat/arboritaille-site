@@ -1,0 +1,66 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-le-locle",
+ "h1_plain": "Le Locle : abattage et démontage d'arbres",
+ "title": "Le Locle (NE) : abattage et démontage d'arbres | Arboritaille",
+ "desc": "Abattage et démontage d'arbres pour Le Locle, Les Brenets et Le Prévoux : arbres de lisière, résineux près des maisons, terrains en pente. Devis gratuit.",
+ "eyebrow": "Abattage · Le Locle",
+ "h1": "<em>Le Locle</em> : abattage et démontage d'arbres",
+ "lead": "Le Locle est une ville entourée de forêt, entre 907 et 1 312 m d'altitude. Nous y démontons, pièce par pièce, les arbres devenus dangereux ou trop proches des bâtiments. Visite et devis gratuits.",
+ "points": [
+  "Démontage à la corde près des maisons",
+  "Arbres de lisière et grands résineux",
+  "Autorisation vérifiée avant les travaux",
+  "Bois débité, évacué ou laissé sur place"
+ ],
+ "intro_eyebrow": "Le Locle",
+ "intro_h2": "Une ville entourée de forêt : de grands arbres près des toits",
+ "intro": "<p>Le Locle est entourée de forêt. Dans une ville de ce type, la lisière touche souvent les dernières maisons. Les arbres de bordure poussent haut et penchent vers la lumière, donc vers les toits et les routes.</p><p>À plus de 1 000 m, épicéas et érables sont fréquents en montagne jurassienne. Un grand résineux proche d'une maison ne s'abat pas d'un bloc : nous le démontons de la cime vers le pied.</p><p>La commune comprend aussi Les Brenets et Le Prévoux. Pente, chemin étroit, neige au sol : la visite sert à fixer l'accès des machines et le lieu de dépôt du bois.</p>",
+ "contexte": [
+  {
+   "icone": "TREE",
+   "titre": "Lisière ou jardin : deux régimes",
+   "texte": "Un arbre en forêt ne s'abat pas sans le service forestier. Un arbre de jardin dépend du règlement communal. Lors de la visite, nous clarifions de quel côté de la limite se trouve le vôtre."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Terrain en pente",
+   "texte": "Dans une pente, un tronçon lâché roule. Chaque pièce est donc retenue à la corde, puis déposée à plat. Le bois est débité sur place en longueurs faciles à sortir."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Cours d'immeubles et d'ateliers",
+   "texte": "Dans une cour fermée par des bâtiments, les tronçons courts sortent par le passage d'accès. Si la place manque, une grue les lève depuis la rue."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Après la neige ou le vent",
+   "texte": "Cime cassée, arbre couché sur une clôture, branche suspendue : ne restez pas dessous. Décrivez-nous la situation, nous indiquons la marche à suivre. Voir <a href=\"/urgence-tempete-arbre-dangereux\">arbre dangereux</a>."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage au Locle.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence.<br>En forêt, il est interdit d'abattre un arbre non martelé par le service forestier (LCFo art. 51). Pour les arbres isolés, nous n'avons pas trouvé de règle communale publiée : nous vérifions donc la règle en vigueur au Locle auprès de la Ville avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre de jardin au Locle ?",
+   "a": "Pour un arbre isolé, le règlement communal décide. Nous n'avons pas de texte communal vérifié pour Le Locle : nous posons la question à la Ville avant de fixer une date. Haies et bosquets, eux, sont protégés par la loi cantonale."
+  },
+  {
+   "q": "Mon arbre touche la forêt : qui décide de l'abattage ?",
+   "a": "En forêt, il est interdit d'abattre un arbre que le service forestier n'a pas martelé. Hors forêt, la règle communale s'applique. Le Locle étant entourée de forêt, nous vérifions d'abord le statut de la parcelle."
+  },
+  {
+   "q": "Comment démontez-vous un grand épicéa près d'une maison ?",
+   "a": "Nous grimpons et ébranchons en montant, puis nous coupons le tronc par tronçons courts depuis la cime. Chaque pièce est retenue à la corde, ou levée par une grue si la place manque. Rien ne tombe sur le toit."
+  },
+  {
+   "q": "Abattez-vous en hiver, avec de la neige au sol ?",
+   "a": "Oui, si l'accès est sûr. Un sol gelé porte bien les machines et le jardin souffre peu. En cas de forte neige ou de verglas, nous reportons le chantier et vous prévenons à l'avance."
+  },
+  {
+   "q": "Que devient le bois après l'abattage ?",
+   "a": "Selon le devis : débité en bûches et laissé sur place, ou évacué avec les branches. La souche est coupée au ras du sol ; elle peut ensuite être rognée. Voir <a href=\"/rognage-souche\">rognage de souche</a>."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre au Locle, aux Brenets ou au Prévoux ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

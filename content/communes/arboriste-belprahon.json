@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Belprahon (BE) : taille, abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et rognage de souche à Belprahon, aux portes de Moutier (BE). Arboriste-grimpeur depuis Courgenay, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Belprahon · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Belprahon</em> : taille, abattage et rognage de souche",
+ "lead": "Belprahon touche Moutier, mais reste une commune bernoise de 264 habitants, à 627 m d'altitude. Nous y intervenons depuis Courgenay pour la taille, l'abattage, le démontage et le rognage de souche, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Sortie A16 Moutier-Nord à proximité", "Démontage pièce par pièce en zone bâtie", "Rognage de souche après abattage"],
+ "intro_eyebrow": "Vos arbres à Belprahon",
+ "intro_h2": "Aux portes de Moutier, de l'autre côté de la limite cantonale",
+ "intro": "<p>Belprahon, autrefois Tiefenbach en allemand, est mentionnée dès le XIIe siècle. Le village a appartenu à l'abbaye de Moutier-Grandval jusqu'en 1797. En 2017, il a voté pour rester bernois, par 121 voix contre 114.</p><p>Depuis que Moutier a rejoint le canton du Jura, la limite cantonale passe entre les deux communes. Un arbre à Belprahon relève du droit bernois ; le même arbre à Moutier, du droit jurassien.</p><p>Le village est à 627 m, desservi par bus depuis Moutier et proche de la sortie Moutier-Nord de l'A16. Depuis Courgenay, nous comptons vingt-cinq kilomètres environ à vol d'oiseau.</p><p>Dans un village de cette taille, accolé à une ville, les arbres sont surtout ceux des jardins. Les tailles se planifient en hiver ; un démontage près d'une maison se fait toute l'année.</p>",
+ "faits": [["Habitants", "264"], ["Altitude", "627 m"], ["NPA", "2744"], ["Depuis Courgenay", "env. 25 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Belprahon.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Belprahon avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Deux cantons, deux règles", "texte": "Les liens de Belprahon avec Moutier sont étroits, mais les règles sur les arbres diffèrent. Nous appliquons la loi bernoise et le règlement de Belprahon ici, le droit jurassien à Moutier."},
+  {"icone": "HOME", "titre": "Un village de 264 habitants", "texte": "Les arbres de Belprahon sont ceux des jardins, des cours et des limites de parcelle. Nous les taillons en respectant leur forme et démontons à la corde ceux qui menacent un toit ou une ligne."},
+  {"icone": "STUMP", "titre": "Souche rognée, terrain rendu", "texte": "Après un abattage, la souche se rogne sous le niveau du sol. Vous pouvez ensuite replanter ou remettre du gazon sans trace de l'arbre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et de dégagement pour les arbres de jardin et de cour de Belprahon, coupes propres et silhouette conservée.",
+  "abattage-demontage": "Démontage à la corde entre les maisons, abattage dirigé quand la place le permet. Bois débité ou évacué.",
+  "rognage-souche": "Rognage de souche après abattage, copeaux laissés sur place ou évacués, pelouse voisine protégée.",
+  "plantation-arbres": "Plantation d'un arbre de remplacement adapté au sol et à la place, avec tuteurage tripode et consignes d'arrosage."
+ },
+ "faq": [
+  {"q": "Belprahon dépend-elle de Berne ou du Jura pour l'abattage d'un arbre ?", "a": "De Berne. Belprahon a choisi de rester bernoise en 2017, alors que Moutier a rejoint le canton du Jura. C'est donc la loi bernoise et le règlement communal de Belprahon qui s'appliquent à vos arbres."},
+  {"q": "Intervenez-vous le même jour à Belprahon et à Moutier ?", "a": "Oui, les deux communes se touchent. Nous regroupons volontiers les visites et les chantiers pour limiter les déplacements depuis Courgenay. Chaque commune garde sa propre règle d'abattage."},
+  {"q": "Peut-on rogner une souche sans abîmer le jardin ?", "a": "Notre rogneuse compacte passe par un portail de jardin standard et travaille sur place. Les copeaux restent dans le trou ou sont évacués. Les pelouses voisines sont protégées et le passage remis en état."},
+  {"q": "Quand faut-il tailler un arbre de jardin ?", "a": "Le bois mort et les branches dangereuses s'enlèvent en toute saison. Les tailles de réduction ou de formation se font de préférence en repos de végétation, de novembre à mars, hors fortes gelées."},
+  {"q": "Que coûte une visite à Belprahon ?", "a": "Rien. La visite et le devis sont gratuits et sans engagement. Nous regardons l'arbre, l'accès et les contraintes, puis vous recevez un devis écrit détaillé."}
+ ],
+ "cta_img": "abattage_sequoia",
+ "cta_h2": "Un arbre ou une souche à traiter à Belprahon ?",
+ "cta_lead": "Visite et devis gratuits. Nous venons de Courgenay, réponse sous 48 h ouvrées."
+}

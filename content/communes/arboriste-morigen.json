@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Mörigen (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Mörigen (Morenges), petit village du district de Bienne, canton de Berne. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Mörigen · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Mörigen</em> : taille, abattage et soins aux arbres",
+ "lead": "Mörigen, Morenges en français, compte 862 habitants entre 430 et 538 m d'altitude. Dans un petit village, chaque grand arbre compte : nous le soignons avant de penser à l'abattre. Visite et devis gratuits.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Soin des grands arbres qui font le paysage du village",
+  "Rendez-vous groupés dans le district de Bienne",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Mörigen",
+ "intro_h2": "Un village de 862 habitants où chaque grand arbre se remarque",
+ "intro": "<p>Mörigen, Morenges en français, compte 862 habitants sur 2,16 km2. La commune s'étage entre 430 et 538 m et touche Sutz-Lattrigen.</p><p>Dans un village de cette taille, un grand arbre se voit de loin et fait partie du paysage. Le supprimer change la rue ; le soigner la préserve. Avant tout abattage, nous cherchons donc une taille qui règle le problème.</p><p>Mörigen est à environ trente-cinq kilomètres de Courgenay à vol d'oiseau. La visite reste gratuite ; nous la regroupons volontiers avec d'autres rendez-vous du district de Bienne.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "862 (2025)"
+  ],
+  [
+   "Altitude",
+   "430 à 538 m"
+  ],
+  [
+   "Superficie",
+   "2,16 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Mörigen.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Mörigen avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "TREE",
+   "titre": "L'arbre qui fait le village",
+   "texte": "Un grand arbre adulte met un demi-siècle à pousser et une journée à disparaître. Quand son état le permet, une taille d'allègement ou un hauban le conserve pour longtemps."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Rendez-vous groupés",
+   "texte": "Pour un petit village éloigné de Courgenay, nous organisons les visites et les chantiers par journées, avec les communes voisines. Le délai peut être un peu plus long, le devis reste gratuit."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Replanter après un abattage",
+   "texte": "Quand un arbre doit partir, nous proposons de le remplacer par une essence adaptée au sol et à la place disponible, pour que le village garde ses arbres."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'allègement, éclaircie et réduction mesurée pour les grands arbres de jardin et de village de Mörigen.",
+  "abattage-demontage": "Démontage à la corde près des maisons, abattage direct quand la place le permet. Bois débité ou évacué.",
+  "plantation-arbres": "Plantation d'un jeune arbre adapté, avec tuteurage tripode et conseils d'arrosage pour les premières années.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol pour replanter ou retrouver une pelouse continue."
+ },
+ "faq": [
+  {
+   "q": "Vous déplacez-vous jusqu'à Mörigen pour un seul arbre ?",
+   "a": "Oui. Mörigen est à environ trente-cinq kilomètres de Courgenay à vol d'oiseau. La visite et le devis sont gratuits ; nous groupons si possible les rendez-vous du district de Bienne sur une même journée."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Mörigen ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Mörigen. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
+  },
+  {
+   "q": "Mon vieil arbre perd des branches, faut-il l'abattre ?",
+   "a": "Pas forcément. Du bois mort dans la couronne n'est pas toujours un signe de fin de vie. Nous examinons le tronc, les fourches et le pied, puis nous proposons une taille, un hauban ou, si nécessaire, un démontage."
+  },
+  {
+   "q": "Quelle essence replanter dans un petit jardin ?",
+   "a": "Une essence qui restera à l'échelle du terrain et de la maison, adaptée au sol et au climat du district de Bienne. Nous vous proposons deux ou trois options lors de la visite, avec leur taille adulte."
+  },
+  {
+   "q": "Le devis peut-il être rédigé en allemand ?",
+   "a": "Oui. Mörigen est germanophone : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur place, nous expliquons le travail en français. Vous pouvez nous écrire dans la langue qui vous convient."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre à tailler ou à abattre à Mörigen ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

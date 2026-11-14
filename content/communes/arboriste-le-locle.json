@@ -1,0 +1,37 @@
+{
+ "title": "Le Locle (NE) : arboriste-grimpeur, taille et abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et soins aux arbres, Le Locle (NE), ville horlogère à 1 047 m. Particuliers, gérances, entreprises. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Le Locle · Montagnes neuchâteloises",
+ "h1": "<em>Le Locle</em> : arboriste-grimpeur pour les arbres de la ville horlogère",
+ "lead": "Le Locle, 10 912 habitants à 1 047 m, est une ville horlogère entourée de forêt. Particuliers, gérances et entreprises : nous taillons, abattons et soignons vos arbres. La visite et le devis sont gratuits.",
+ "points": ["Visite et devis gratuits", "À une cinquantaine de kilomètres de Courgenay", "Devis par arbre ou par lot", "Le Locle, Les Brenets, Le Prévoux"],
+ "intro_eyebrow": "Vos arbres au Locle",
+ "intro_h2": "Une ville horlogère entourée de forêt, de 907 à 1 312 m",
+ "intro": "<p>Le Locle, surnommée la « Mère commune des Montagnes », partage avec La Chaux-de-Fonds une inscription au patrimoine mondial de l'UNESCO pour son urbanisme horloger. La ville compte 10 912 habitants.</p><p>Elle est entourée de forêt. Ses premiers colons ont défriché les pentes boisées du Jura pour s'y établir. Dans une ville entourée de forêt, la lisière n'est en général jamais loin des maisons et des routes.</p><p>La commune s'étend de 907 à 1 312 m et comprend aussi Les Brenets et Le Prévoux. À ces altitudes, neige lourde et gel éprouvent les couronnes. Un <a href=\"/elagage-taille-arbres\">allègement</a> avant l'hiver limite les casses.</p><p>Horlogerie, microtechnique, médical : la ville réunit quelque 8 000 emplois. Les entreprises et les gérances ont elles aussi des arbres à entretenir. Elles reçoivent un devis par arbre ou par lot.</p>",
+ "faits": [["Habitants", "10 912"], ["Altitude", "1 047 m"], ["Superficie", "34,66 km²"], ["Depuis Courgenay", "env. 50 km"]],
+ "reglement": "<strong>Autorisation d'abattage au Locle.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur au Locle avant d'intervenir.",
+ "contexte": [
+  {"icone": "SHIELD", "titre": "Un urbanisme inscrit à l'UNESCO", "texte": "Dans une ville reconnue pour son urbanisme, un arbre de rue ou de cour compte dans le paysage. Nous privilégions la taille douce et vérifions si l'abattage demande une autorisation."},
+  {"icone": "TREE", "titre": "La forêt aux portes de la ville", "texte": "Près d'une lisière, les arbres penchent vers la lumière, donc vers les maisons. Nous réduisons les branches qui surplombent toitures et routes. En forêt même, tout abattage relève du service forestier."},
+  {"icone": "USERS", "titre": "Entreprises et gérances", "texte": "Parc d'une fabrique, cour d'immeuble, abords d'un parking : chaque arbre est chiffré séparément. Le planning écrit tient compte de l'activité du site et des heures de passage."},
+  {"icone": "MOUNT", "titre": "Plus de 1 000 m d'altitude", "texte": "La neige charge les branches longues et horizontales. Supprimer le bois mort et raccourcir les charpentières trop étendues réduit le risque de rupture pendant l'hiver."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille douce, allègement et réduction de couronne pour les arbres de cour, de rue et de jardin du Locle. Jamais d'étêtage.",
+  "abattage-demontage": "Démontage à la corde entre les immeubles, abattage direct quand la place le permet. Bois débité ou évacué, sol nettoyé.",
+  "collectivites-entreprises": "Devis par lot et planning écrit pour les entreprises, les gérances et les services publics.",
+  "diagnostic-expertise-arbre": "Examen du tronc, de l'ancrage et de la couronne avant de décider entre taille, haubanage et abattage.",
+  "urgence-tempete-arbre-dangereux": "Arbre fendu ou couché par la neige : sécurisation depuis Courgenay, à une cinquantaine de kilomètres."
+ },
+ "faq": [
+  {"q": "Le Locle impose-t-il une autorisation pour abattre un arbre ?", "a": "La loi neuchâteloise protège haies et bosquets sur tout le canton. Pour un arbre isolé, le règlement communal décide. Nous ne disposons pas d'un texte communal vérifié pour Le Locle : nous nous renseignons auprès de la Ville avant chaque abattage."},
+  {"q": "Travaillez-vous pour les entreprises et les gérances ?", "a": "Oui. Le Locle réunit quelque 8 000 emplois, notamment dans l'horlogerie et la microtechnique. Pour un parc de fabrique ou une cour d'immeuble, vous recevez un devis par arbre ou par lot, avec un planning écrit."},
+  {"q": "Intervenez-vous aussi aux Brenets et au Prévoux ?", "a": "Oui. Ces deux localités font partie de la commune, comme la ville elle-même. La visite est gratuite partout. Elle nous permet de repérer l'accès pour les machines et la manière d'évacuer le bois."},
+  {"q": "Quand tailler un arbre à plus de 1 000 m ?", "a": "Les feuillus se taillent pendant le repos de la végétation, hors gel marqué. En altitude, cette période commence plus tôt et finit plus tard qu'en plaine. Le bois mort peut être retiré toute l'année."},
+  {"q": "Cinquante kilomètres depuis Courgenay, est-ce un obstacle ?", "a": "Non. Le Locle se trouve à une cinquantaine de kilomètres de Courgenay à vol d'oiseau. La visite reste gratuite et nous répondons à votre demande sous 48 h ouvrées pour fixer un rendez-vous."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à tailler ou à démonter au Locle ?",
+ "cta_lead": "Visite et devis gratuits pour particuliers, gérances et entreprises. Réponse sous 48 h ouvrées."
+}

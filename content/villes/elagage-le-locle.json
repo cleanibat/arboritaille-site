@@ -1,0 +1,66 @@
+{
+ "service": "elagage-taille-arbres",
+ "commune": "arboriste-le-locle",
+ "h1_plain": "Le Locle : élagage et taille d'arbres",
+ "title": "Le Locle (NE) : élagage et taille d'arbres en altitude | Arboritaille",
+ "desc": "Élagage et taille d'arbres pour Le Locle (NE), à plus de 1 000 m : allègement avant la neige, branches au-dessus des rues. Visite et devis gratuits.",
+ "eyebrow": "Élagage · Le Locle",
+ "h1": "<em>Le Locle</em> : élagage et taille d'arbres",
+ "lead": "Le Locle se trouve à 1 047 m d'altitude, dans les Montagnes neuchâteloises. Nous y taillons les arbres de jardin, de cour et d'entreprise en tenant compte de la neige et d'une saison courte. Visite et devis gratuits.",
+ "points": [
+  "Allègement des couronnes avant l'hiver",
+  "Branches dégagées au-dessus des rues et trottoirs",
+  "Taille douce, sans étêtage",
+  "Devis écrit par arbre, visite gratuite"
+ ],
+ "intro_eyebrow": "Le Locle",
+ "intro_h2": "Tailler à plus de 1 000 m : la neige fixe le calendrier",
+ "intro": "<p>Le Locle s'étend de 907 à 1 312 m d'altitude. À cette hauteur, l'hiver dure et la neige pèse sur les branches longues. Une taille d'allègement, faite avant les premières chutes, limite les ruptures.</p><p>La ville est inscrite au patrimoine mondial de l'UNESCO pour son urbanisme horloger. Dans une ville d'immeubles et d'ateliers, les arbres de cour poussent en général près des façades. Nous dégageons fenêtres, toitures et chéneaux sans déformer la couronne.</p><p>La période de taille est plus courte qu'en plaine. Nous regroupons les interventions en ville, aux Brenets et au Prévoux sur les semaines sans gel marqué.</p>",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Neige lourde, branches longues",
+   "texte": "En montagne jurassienne, les branches horizontales se chargent vite sous la neige mouillée. Nous raccourcissons les charpentières trop étendues et retirons le bois mort, sans changer la silhouette de l'arbre."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Arbres de cour et de façade",
+   "texte": "Entre deux immeubles, la lumière manque et les branches cherchent les fenêtres. Une réduction légère et régulière vaut mieux qu'une coupe forte, qui provoque des rejets."
+  },
+  {
+   "icone": "WARN",
+   "titre": "Rues et trottoirs",
+   "texte": "Les plantations ne doivent pas gêner la voie publique. Nous relevons les couronnes au-dessus des trottoirs et dégageons la visibilité aux carrefours et aux sorties de garage."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Une saison courte",
+   "texte": "À cette altitude, les jours sans gel marqué sont comptés. Annoncez votre demande dès la fin de l'été : la visite gratuite permet de réserver une date avant la neige."
+  }
+ ],
+ "reglement": "<strong>Règles de taille au Locle.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence.<br>Au Locle, le règlement de police (art. 19) demande aux propriétaires de veiller à ce que leurs plantations ne gênent pas la voie publique, comme le <a href=\"https://www.lelocle.ch/administration/lelagage-une-tache-essentielle-pour-une-commune-verte-et-sure/\">rappelle la Ville</a>. Arbres et haies en bordure de rue doivent être taillés pour ne limiter ni la circulation ni la visibilité. Nous vérifions la règle en vigueur au Locle avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Quelle est la bonne période pour tailler un arbre à plus de 1 000 m ?",
+   "a": "Le Locle se situe à 1 047 m : le repos de la végétation y est long, mais les jours sans gel marqué sont comptés. Nous taillons les feuillus hors gel fort. Le bois mort peut être retiré toute l'année."
+  },
+  {
+   "q": "La Ville du Locle me demande de tailler un arbre qui dépasse sur la rue : que faire ?",
+   "a": "La Ville indique accorder un délai d'une semaine après le constat pour effectuer les travaux. Écrivez-nous dès réception de la demande : nous répondons sous 48 h ouvrées et vous disons ce qui peut être fait dans ce délai."
+  },
+  {
+   "q": "Peut-on alléger un arbre avant l'hiver sans l'étêter ?",
+   "a": "Oui. Nous raccourcissons les branches les plus longues sur un rameau latéral et retirons le bois mort. L'arbre garde sa forme et offre moins de prise à la neige. L'étêtage, lui, provoque des rejets fragiles."
+  },
+  {
+   "q": "Une haie ou un bosquet se taille-t-il librement au Locle ?",
+   "a": "Non. Le canton de Neuchâtel protège haies et bosquets : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé tous les trois ans, après annonce à la section nature. Nous planifions ces tailles en hiver, hors nidification."
+  },
+  {
+   "q": "Intervenez-vous aussi aux Brenets et au Prévoux pour une taille ?",
+   "a": "Oui. La commune réunit Le Locle, Les Brenets et Le Prévoux. La visite est gratuite dans les trois localités. Nous venons depuis Courgenay, à une cinquantaine de kilomètres, et regroupons les rendez-vous des Montagnes neuchâteloises."
+  }
+ ],
+ "cta_h2": "Un arbre à alléger avant l'hiver au Locle ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

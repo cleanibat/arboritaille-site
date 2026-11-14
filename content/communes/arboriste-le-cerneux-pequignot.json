@@ -1,0 +1,34 @@
+{
+ "title": "Le Cerneux-Péquignot (NE) : arboriste-grimpeur | Arboritaille",
+ "desc": "Taille, haubanage et abattage d'arbres, Le Cerneux-Péquignot (NE), village au nom de pâturage, à 1 107 m, près de la frontière. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Le Cerneux-Péquignot · Montagnes neuchâteloises",
+ "h1": "<em>Le Cerneux-Péquignot</em> : arboriste-grimpeur pour les arbres de pâturage et de ferme",
+ "lead": "Le Cerneux-Péquignot, 313 habitants à 1 107 m, doit son nom à une clairière défrichée par la famille Péquignot. Arbres isolés, haies, arbres de ferme : nous les taillons, les haubanons ou les démontons, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Arbres isolés et haies de pâturage", "Haubanage des fourches fragiles", "À environ 55 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres au Cerneux-Péquignot",
+ "intro_h2": "Un nom qui parle d'arbres : la clairière des Péquignot",
+ "intro": "<p>« Cerneux » vient de cerner : enlever l'écorce des arbres. Le mot a fini par désigner un pâturage de montagne, entouré d'une clôture ou d'un mur.</p><p>Le Cerneux-Péquignot porte ainsi le nom de ses défricheurs, les Péquignot de Montlebon. Le village est resté français jusqu'en 1814, avant d'être cédé à la Principauté de Neuchâtel.</p><p>Aujourd'hui, 313 habitants vivent sur 15,67 km². En pâturage, les arbres sont en général isolés ou groupés près des fermes. Chacun compte, pour l'ombre du bétail comme pour l'abri.</p><p>Nous n'écorçons rien. Nous taillons, soignons et, si nécessaire, démontons. Un arbre isolé se juge sur son ancrage, son tronc et sa couronne avant toute décision.</p>",
+ "faits": [["Habitants", "313 (2025)"], ["Altitude", "1 107 m"], ["Superficie", "15,67 km²"], ["Depuis Courgenay", "env. 55 km"]],
+ "reglement": "<strong>Autorisation d'abattage au Cerneux-Péquignot.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "LEAF", "titre": "L'arbre seul au milieu du pré", "texte": "Il prend le vent de tous côtés et développe une couronne large. Nous supprimons le bois mort et raccourcissons les branches fragiles, sans toucher à la charpente."},
+  {"icone": "CABLE", "titre": "Haubaner une fourche", "texte": "Quand deux troncs jumeaux commencent à s'écarter, un hauban souple posé haut dans la couronne les retient. L'arbre reste debout et continue de donner de l'ombre."},
+  {"icone": "DOC", "titre": "Haies : la règle du tiers", "texte": "La loi neuchâteloise interdit d'essoucher ou de fragmenter une haie. Au plus un tiers peut être recépé ou abattu tous les trois ans, après annonce à la section nature du canton."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Bois mort retiré, branches fragiles raccourcies : une taille légère pour les arbres isolés et les arbres de ferme.",
+  "haubanage": "Hauban souple dans la couronne pour retenir une fourche qui s'ouvre et conserver l'arbre.",
+  "abattage-demontage": "Abattage direct en pâturage, démontage à la corde près des bâtiments. Bois débité ou évacué.",
+  "diagnostic-expertise-arbre": "Examen de l'ancrage, du tronc et de la couronne d'un arbre isolé avant de décider de son avenir."
+ },
+ "faq": [
+  {"q": "Le Cerneux-Péquignot protège-t-il les arbres isolés ?", "a": "Dans le canton de Neuchâtel, la protection des arbres isolés dépend du règlement de chaque commune. Les haies et bosquets, eux, sont protégés partout. Nous vérifions ce que prévoit Le Cerneux-Péquignot avant tout abattage."},
+  {"q": "Peut-on entretenir soi-même une haie de pâturage ?", "a": "L'entretien est permis dans les limites de la loi neuchâteloise : pas d'essouchage, pas de fragmentation, au plus un tiers recépé ou abattu tous les trois ans, après annonce au canton. Nous pouvons réaliser la coupe et vous indiquer la démarche."},
+  {"q": "Un arbre isolé a perdu une grosse branche : est-il condamné ?", "a": "Rarement. Nous reprenons la cassure par une coupe nette, contrôlons les autres charpentières et vérifions l'équilibre de la couronne. Si une fourche est fragilisée, un hauban peut la soulager."},
+  {"q": "Le Cerneux-Péquignot fait-il partie de votre zone d'intervention ?", "a": "Oui. Le village est à environ 55 km de Courgenay à vol d'oiseau, dans les Montagnes neuchâteloises. La visite et le devis sont gratuits. Nous répondons à votre demande sous 48 h ouvrées."}
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre isolé ou une haie à entretenir au Cerneux-Péquignot ?",
+ "cta_lead": "Visite sur place et devis écrit, gratuits et sans engagement."
+}

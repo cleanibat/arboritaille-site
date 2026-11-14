@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Valbirse (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et diagnostic d'arbres à Valbirse (Bévilard, Malleray, Pontenet), vallée de Tavannes, par un arboriste-grimpeur de Courgenay. Devis gratuit.",
+ "hero_img": "reduction_tilleul_porrentruy", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Valbirse · Bévilard, Malleray, Pontenet",
+ "h1": "Arboriste-grimpeur à <em>Valbirse</em> : taille, abattage et soins aux arbres",
+ "lead": "Valbirse, née en 2015 de la fusion de Malleray, Bévilard et Pontenet, compte plus de 4 000 habitants dans le bas de la vallée de Tavannes. Particuliers, gérances et entreprises : nous entretenons vos arbres depuis Courgenay.",
+ "points": ["Visite sur place et devis gratuits", "À une vingtaine de kilomètres de Courgenay", "Immeubles, villas et sites d'entreprise", "Planning adapté aux gérances"],
+ "intro_eyebrow": "Vos arbres à Valbirse",
+ "intro_h2": "Malleray, Bévilard et Pontenet : une seule commune depuis 2015",
+ "intro": "<p>Valbirse compte 4 043 habitants sur 18,67 km², à 699 m d'altitude. La fusion de Malleray, Bévilard et Pontenet a été acceptée le 18 mai 2014, et un Conseil général a remplacé les assemblées communales.</p><p>Une commune de cette taille mélange les situations : jardins de villas, arbres d'immeubles gérés par des régies, abords d'ateliers et d'entreprises. Chaque cas demande un devis distinct et une organisation différente.</p><p>Pour une gérance, nous établissons un état des arbres de l'immeuble et un plan d'entretien sur plusieurs années. Pour un particulier, nous réglons le problème d'un arbre devenu trop grand pour sa parcelle.</p>",
+ "faits": [["Habitants", "4 043 (2025)"], ["Altitude", "699 m"], ["Superficie", "18,67 km²"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Valbirse.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, mais leur suppression exige une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur relèvent des règlements communaux. Nous vérifions la règle en vigueur à Valbirse avant d'intervenir.",
+ "contexte": [
+  {"icone": "USERS", "titre": "Gérances et copropriétés", "texte": "Les arbres d'un immeuble engagent la responsabilité du propriétaire. Nous fournissons un rapport simple, un devis par bâtiment et des dates qui tiennent compte des locataires."},
+  {"icone": "HOME", "titre": "Trois localités, une visite", "texte": "Malleray, Bévilard et Pontenet sont les trois localités de la commune, dans le bas de la vallée de Tavannes. Nous passons dans les trois lors d'une même visite."},
+  {"icone": "CRANE", "titre": "Abords d'entreprises", "texte": "Un arbre qui surplombe un parking, une toiture d'atelier ou une entrée de livraison se démonte hors des heures d'activité, en pièces retenues, pour ne pas bloquer le site."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction ou rehaussement de couronne pour les jardins, immeubles et sites d'entreprise de Valbirse.",
+  "abattage-demontage": "Démontage à la corde près des bâtiments, abattage direct quand la place le permet. Évacuation complète si vous le souhaitez.",
+  "diagnostic-expertise-arbre": "État des arbres d'un immeuble ou d'un site, avec priorités d'intervention, pour les gérances et les entreprises de Valbirse.",
+  "collectivites-entreprises": "Entretien planifié des arbres d'alignement, de parkings et d'espaces communs, avec interventions groupées pour limiter les coûts.",
+  "rognage-souche": "Rognage de souche après abattage pour replanter, engazonner ou libérer une place de parc."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Malleray, Bévilard et Pontenet ?", "a": "Oui, les trois villages forment la commune de Valbirse. Nous venons de Courgenay, à une vingtaine de kilomètres à vol d'oiseau, et nous pouvons voir plusieurs arbres dans des villages différents lors de la même visite."},
+  {"q": "Travaillez-vous pour les gérances d'immeubles de Valbirse ?", "a": "Oui. Nous établissons un état des arbres de chaque immeuble, un devis par bâtiment et un calendrier d'entretien. Les locataires sont informés des dates et le chantier est nettoyé le jour même."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Valbirse ?", "a": "Pour les haies et bosquets, la loi bernoise impose une dérogation de la préfecture avant toute suppression. Pour un arbre isolé, nous vérifions avec la commune ce que prévoit son règlement. Nous préparons les documents utiles avec vous."},
+  {"q": "Un arbre surplombe le parking de notre entreprise, pouvez-vous intervenir sans bloquer l'activité ?", "a": "Oui. Nous planifions le démontage tôt le matin, le samedi ou pendant une fermeture, et nous balisons la zone. Chaque pièce est retenue à la corde pour qu'aucune branche ne tombe sur les véhicules."},
+  {"q": "Quelle est la bonne période pour tailler dans la vallée de Tavannes ?", "a": "À 700 m, la fin de l'hiver hors gel et le plein été conviennent aux feuillus. Les haies se taillent en hiver, hors période de nidification. Pour les gérances, nous étalons les interventions sur l'année selon les essences."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Valbirse ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées. Particuliers, gérances et entreprises."
+}

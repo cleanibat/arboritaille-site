@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Courtepin (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, rognage de souche et plantation à Courtepin, Barberêche, Villarepos et Wallenried (FR). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Courtepin · Lac",
+ "h1": "Arboriste-grimpeur à <em>Courtepin</em> : taille, abattage et soins aux arbres",
+ "lead": "Courtepin rassemble depuis 2017 Barberêche, Villarepos, Wallenried et l'ancienne Courtaman. Sur ces 22 km², nous taillons, abattons et plantons vos arbres, après une visite gratuite depuis Courgenay.",
+ "points": ["Visite et devis gratuits", "Cinq anciennes communes couvertes", "Taille des arbres de ferme et de jardin", "Souches rognées, terrain prêt à replanter"],
+ "intro_eyebrow": "Vos arbres à Courtepin",
+ "intro_h2": "Une commune élargie, des arbres de village et de campagne",
+ "intro": "<p>Courtepin a absorbé Courtaman en 2003, puis Barberêche, Villarepos et Wallenried le 1er janvier 2017. Le blason actuel, croix tréflée et sanglier, rappelle ces anciennes communes.</p><p>Avec 5 847 habitants sur près de 22 km², la commune réunit plusieurs villages sur un territoire étendu. Entre 608 et 717 m d'altitude, la plupart des feuillus de jardin et des fruitiers trouvent en général de bonnes conditions.</p><p>En campagne fribourgeoise, les haies, les bosquets et les grands arbres isolés hors zone à bâtir sont protégés. Nous en tenons compte dès la visite, avant de proposer une coupe.</p>",
+ "faits": [["Habitants", "5 847 (2025)"], ["Altitude", "653 m"], ["Superficie", "21,85 km²"], ["Depuis Courgenay", "env. 60 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Courtepin.</strong> Dans le canton de Fribourg, les haies, bosquets, cordons boisés, alignements et grands arbres isolés situés hors zone à bâtir et d'intérêt écologique ou paysager ne peuvent pas être supprimés sans dérogation (LPNat, RSF 721.0.1 art. 22). La dérogation est délivrée par la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de Courtepin avant d'intervenir.",
+ "contexte": [
+  {"icone": "LEAF", "titre": "Haies et bosquets de campagne", "texte": "Hors zone à bâtir, une haie d'intérêt écologique ne se supprime pas sans dérogation. Son entretien reste libre : nous le planifions en hiver, par tronçons, hors nidification."},
+  {"icone": "HOME", "titre": "Jardins des quartiers de villas", "texte": "Dans les quartiers de villas, les arbres de jardin sont souvent plantés près des maisons. Une taille de formation précoce évite les gros problèmes vingt ans plus tard."},
+  {"icone": "STUMP", "titre": "Souches et replantation", "texte": "Après un abattage, la souche rognée disparaît sous le niveau du sol. Le terrain peut recevoir un nouvel arbre, mieux placé, la saison suivante."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de formation des jeunes arbres, entretien et dégagement des arbres de ferme dans les localités de Courtepin.",
+  "abattage-demontage": "Abattage direct en terrain ouvert, démontage par sections près des bâtiments. Terrain nettoyé.",
+  "rognage-souche": "Rognage à la fraise sous le niveau du sol, copeaux laissés ou évacués, terrain prêt à replanter.",
+  "plantation-arbres": "Plantation d'un arbre adapté à la place et au sol, avec tuteurage tripode et conseils d'arrosage."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Barberêche et Villarepos comme à Courtepin ?", "a": "Oui, dans toutes les localités de la commune de Courtepin, Wallenried et Courtaman compris. La visite est gratuite partout. Nous venons de Courgenay, à une soixantaine de kilomètres."},
+  {"q": "Puis-je arracher une haie en bordure de champ ?", "a": "Pas sans vérification. Dans le canton de Fribourg, les haies hors zone à bâtir d'intérêt écologique ou paysager sont protégées : leur suppression demande une dérogation de la commune, avec compensation. Nous nous renseignons pour vous."},
+  {"q": "Quand faut-il tailler les arbres à Courtepin ?", "a": "La plupart des feuillus se taillent en hiver ou en fin d'été. Les fruitiers en hiver, hors gel. Les haies hors période de nidification. Nous vous proposons la date adaptée à chaque arbre lors de la visite."},
+  {"q": "Rognez-vous aussi les souches ?", "a": "Oui, à la fraise, jusqu'à quelques dizaines de centimètres sous la surface. Les copeaux restent sur place ou sont évacués. Cette prestation figure séparément dans le devis."},
+  {"q": "Un gros arbre près de ma maison à Courtepin : abattage ou taille ?", "a": "Nous regardons d'abord l'état de l'arbre et ce qui gêne : ombre, toiture, racines. Une réduction de couronne suffit souvent. L'abattage n'est proposé que si l'arbre est dangereux ou condamné."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à tailler ou à abattre à Courtepin ?",
+ "cta_lead": "Visite et devis gratuits dans toutes les localités de la commune."
+}

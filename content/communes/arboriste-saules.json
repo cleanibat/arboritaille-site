@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Saules (BE) : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur pour Saules, petite commune du district de Moutier (BE) : taille, élagage, abattage, plantation. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Saules · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Saules</em> : taille, abattage et plantation",
+ "lead": "Saules est une commune bernoise de 151 habitants, à 743 m d'altitude, voisine de Reconvilier et de Loveresse. Petite commune, même service : visite gratuite, devis écrit, taille ou abattage soignés.",
+ "points": ["Visite et devis gratuits", "Même soin pour un seul arbre", "Tailles d'hiver planifiées dès l'automne", "Déplacement groupé avec Loveresse ou Reconvilier"],
+ "intro_eyebrow": "Vos arbres à Saules",
+ "intro_h2": "Cent cinquante et un habitants, et des arbres qui comptent double",
+ "intro": "<p>Saules compte 151 habitants sur 4,28 km², à 743 m d'altitude. La commune partage le numéro postal 2732 avec Loveresse, sa voisine, et dépend du district de Moutier.</p><p>Dans un village de cette taille, un seul grand arbre marque la rue. Le supprimer change le paysage pour tout le monde. C'est pourquoi nous commençons toujours par chercher une taille qui le conserve.</p><p>Le nom de la commune évoque le saule. Nous n'en déduisons rien sur vos arbres : la visite gratuite sert justement à voir ce qui pousse chez vous, dans quel état, et avec quels accès.</p><p>Saules est à une vingtaine de kilomètres de Courgenay à vol d'oiseau. Nous groupons volontiers la visite avec un rendez-vous à Loveresse ou à Reconvilier.</p>",
+ "faits": [["Habitants", "151 (2025)"], ["Altitude", "743 m"], ["Superficie", "4,28 km²"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Saules.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle de Saules avant d'intervenir.",
+ "contexte": [
+  {"icone": "SHIELD", "titre": "Conserver avant de couper", "texte": "Réduction, allègement, haubanage : la plupart des problèmes d'un arbre se règlent sans l'abattre. Nous vous présentons les options et leur coût, et vous décidez."},
+  {"icone": "CLOCK", "titre": "Planifier l'hiver", "texte": "À 743 m, la saison de taille court de novembre à mars. Nous prenons les demandes dès l'automne pour caler les chantiers de Saules dans cette fenêtre."},
+  {"icone": "PIN", "titre": "Un seul arbre, un vrai devis", "texte": "Pour un arbre comme pour dix, vous recevez un devis écrit après visite, avec le détail de la coupe, de l'évacuation et du nettoyage."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de dégagement, allègement ou réduction pour conserver les grands arbres de Saules sans les étêter.",
+  "abattage-demontage": "Abattage ou démontage quand la taille ne suffit plus, bois débité et terrain nettoyé.",
+  "plantation-arbres": "Plantation de remplacement avec une essence adaptée à 743 m, tuteurage tripode et consignes d'arrosage."
+ },
+ "faq": [
+  {"q": "Venez-vous à Saules pour un seul arbre ?", "a": "Oui. Saules est à une vingtaine de kilomètres de Courgenay. La visite est gratuite. Quand c'est possible, nous l'associons à un rendez-vous dans une commune voisine pour réduire la part de déplacement."},
+  {"q": "Faut-il une autorisation pour abattre à Saules ?", "a": "Dans le canton de Berne, les haies et bosquets sont protégés par la loi cantonale. Pour un arbre isolé, c'est le règlement communal de Saules qui compte. Nous le consultons avant toute coupe."},
+  {"q": "Mon arbre touche la maison du voisin, que faire ?", "a": "Une taille de dégagement supprime les branches qui dépassent ou frottent, sans déséquilibrer l'arbre. Nous travaillons à la corde pour ne rien laisser tomber sur le toit voisin et évacuons les branches."},
+  {"q": "Quelle différence entre élagage et taille de réduction ?", "a": "L'élagage enlève des branches, mortes ou gênantes, sans changer la taille de l'arbre. La réduction raccourcit la couronne sur des ramifications plus basses pour diminuer son volume. Les deux évitent l'étêtage."},
+  {"q": "Remplacez-vous un arbre abattu ?", "a": "Oui. Nous proposons une essence adaptée au sol et à l'altitude, plantons avec tuteurage et vous donnons les consignes d'arrosage. Une plantation de remplacement est parfois demandée par la commune."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre à conserver, à tailler ou à abattre à Saules ?",
+ "cta_lead": "Visite et devis gratuits, pour un seul arbre comme pour plusieurs."
+}

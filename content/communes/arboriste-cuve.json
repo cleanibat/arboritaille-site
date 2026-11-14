@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Cœuve (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille de fruitiers, élagage et abattage d'arbres de ferme à Cœuve (JU), village agricole d'Ajoie voisin de Porrentruy. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Cœuve · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Cœuve</em> : arbres de ferme, fruitiers et haies",
+ "lead": "Cœuve est un village agricole d'Ajoie, voisin de Porrentruy et d'Alle. Arbres de ferme, vieux fruitiers, haies de bord de champ : nous venons depuis Courgenay, à moins de dix kilomètres, pour une visite gratuite.",
+ "points": ["Arbres de ferme et fruitiers", "Taille d'hiver planifiée à l'avance", "Travail à la corde en cour étroite", "Devis écrit et gratuit"],
+ "intro_eyebrow": "Vos arbres à Cœuve",
+ "intro_h2": "Un village resté agricole, avec son château et ses lavoirs",
+ "intro": "<p>Cœuve est restée une localité essentiellement agricole. Le village compte 720 habitants sur 11,63 km², à 432 m d'altitude, et touche Porrentruy.</p><p>Dès le XVIe siècle, il était le chef-lieu d'une des cinq grandes mairies d'Ajoie. Il a gardé un château, des lavoirs et une église dont la tour en pierre de taille remonte au XIIIe ou au XIVe siècle.</p><p>Dans un village agricole, les arbres sont d'abord ceux des exploitations : sujets d'ombrage près des ruraux, fruitiers, haies en limite de champ. Sans suivi, ils finissent par gêner un toit ou un passage de machines.</p><p>À 432 m, Cœuve se trouve plus bas que Courgenay (488 m). La végétation y repart en général un peu plus tôt : mieux vaut réserver la taille d'hiver sans attendre mars.</p>",
+ "faits": [["Habitants", "720 (2025)"], ["Altitude", "432 m"], ["Superficie", "11,63 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Cœuve.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Cœuve avant d'intervenir.",
+ "contexte": [
+  {"icone": "SPROUT", "titre": "Fruitiers haute-tige", "texte": "Un vieux pommier ou un vieux prunier se taille peu, mais régulièrement. Nous ôtons le bois mort, aérons le centre et laissons à l'arbre sa charpente."},
+  {"icone": "CLOCK", "titre": "Un printemps précoce", "texte": "Plus l'altitude est basse, plus le débourrement arrive tôt. Pour une taille au repos de la végétation, prenez contact dès l'automne : la date se fixe avant les gels."},
+  {"icone": "HOME", "titre": "Château, lavoirs, église", "texte": "À côté d'un ouvrage ancien en pierre, nous évitons tout choc. Les branches sont descendues une à une, guidées depuis le sol, puis évacuées."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des fruitiers et des arbres d'ombrage de Cœuve, rehaussement de couronne au-dessus des passages.",
+  "abattage-demontage": "Abattage direct en bord de champ, démontage à la corde dans les cours de ferme et près des bâtiments.",
+  "plantation-arbres": "Remplacement d'un fruitier en fin de vie par un jeune arbre haute-tige, planté et tuteuré en saison de repos."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous à Cœuve pour un seul arbre ?", "a": "Oui. Cœuve se trouve à moins de dix kilomètres de Courgenay. Un fruitier à reprendre ou une branche à retirer justifient une visite, qui reste gratuite. Le devis écrit vous est remis ensuite."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Cœuve ?", "a": "Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation. Dans le village, c'est le règlement communal qui s'applique. Nous vérifions auprès de la commune avant d'intervenir."},
+  {"q": "Un vieux fruitier vaut-il la peine d'être conservé ?", "a": "Très souvent. Un arbre creux ou en partie sec peut encore produire et tenir debout longtemps. Nous regardons la solidité de la charpente. Une taille légère suffit parfois, et un jeune arbre peut être planté à côté."},
+  {"q": "Pouvez-vous travailler dans une cour de ferme étroite ?", "a": "Oui. Nous grimpons dans l'arbre et descendons chaque tronçon à la corde, sans rien laisser tomber. La cour reste accessible pendant le chantier, et le bois est rangé à l'endroit que vous indiquez."},
+  {"q": "Quand réserver une taille d'hiver ?", "a": "Dès l'automne, si possible. La taille au repos de la végétation se fait hors gel, avant que les bourgeons ne s'ouvrent. À basse altitude, cette fenêtre se referme plus tôt qu'en montagne."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre de ferme ou un fruitier à reprendre à Cœuve ?",
+ "cta_lead": "Nous passons voir l'arbre et vous remettons un devis écrit. Visite gratuite, sans engagement."
+}

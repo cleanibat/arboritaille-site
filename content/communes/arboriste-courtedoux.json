@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Courtedoux (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille de réduction, démontage et plantation d'arbres dans les jardins de Courtedoux (JU), commune voisine de Porrentruy. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Courtedoux · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Courtedoux</em> : arbres de jardin, taille et démontage",
+ "lead": "Courtedoux est devenue une zone résidentielle de Porrentruy. Dans les jardins de villas, nous réduisons les arbres devenus trop grands, démontons ceux qui doivent partir et plantons leurs remplaçants. Visite et devis gratuits.",
+ "points": ["Arbres de jardin et de villa", "Démontage à la corde en espace réduit", "À moins de dix kilomètres de Courgenay", "Visite et devis gratuits"],
+ "intro_eyebrow": "Vos arbres à Courtedoux",
+ "intro_h2": "D'un village agricole à un quartier résidentiel de Porrentruy",
+ "intro": "<p>Au XIXe siècle, Courtedoux vivait surtout de l'agriculture. Depuis le remaniement parcellaire de 1974, la commune est devenue une zone résidentielle de Porrentruy, sa voisine.</p><p>Cette histoire récente concerne aussi les jardins. Un arbre planté avec une villa dans les années 1970 ou 1980 approche aujourd'hui de sa taille adulte. Il se retrouve souvent trop près d'une façade ou d'une limite.</p><p>Courtedoux compte 749 habitants à 470 m d'altitude, sur 8,22 km². L'aérodrome de Porrentruy-Courtedoux y a été construit en 1946.</p><p>Dans un quartier de villas, l'abattage direct est rarement possible. Nous démontons l'arbre par tronçons, à la corde, sans toucher aux clôtures ni aux plantations voisines.</p>",
+ "faits": [["Habitants", "749 (2025)"], ["Altitude", "470 m"], ["Superficie", "8,22 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Courtedoux.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Courtedoux avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Villas et jardins", "texte": "Un conifère ou un feuillu planté à trois mètres d'une maison finit par la dépasser. Une réduction de couronne redonne de la lumière et dégage façade et chéneaux."},
+  {"icone": "USERS", "titre": "Limites de parcelle", "texte": "Branches au-dessus de la clôture, ombre sur une terrasse, feuilles chez le voisin : nous cherchons d'abord une taille qui convient aux deux propriétaires."},
+  {"icone": "SPROUT", "titre": "Replanter à la bonne échelle", "texte": "Après un abattage, nous proposons une essence dont la taille adulte correspond à la place disponible. Plantation et tuteurage sont compris dans le devis."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction, éclaircie ou rehaussement de couronne pour les arbres de jardin de Courtedoux. Plus de lumière, sans mutiler l'arbre.",
+  "abattage-demontage": "Démontage par tronçons retenus à la corde dans les jardins sans accès pour un véhicule. Terrain rendu propre.",
+  "plantation-arbres": "Remplacement d'un arbre abattu par un sujet adapté à la taille de la parcelle, avec tuteurage et conseils d'arrosage."
+ },
+ "faq": [
+  {"q": "Mon arbre est devenu trop grand pour mon jardin de Courtedoux : faut-il l'abattre ?", "a": "Pas toujours. Une réduction de couronne suffit souvent à retrouver de la lumière et à éloigner les branches de la maison. Si l'essence ne supporte pas cette taille, nous proposons un démontage suivi d'une replantation."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Courtedoux ?", "a": "En zone à bâtir, c'est le règlement communal qui fixe les arbres protégés et les cas soumis à autorisation. Nous posons la question à l'administration de Courtedoux avant de planifier le chantier."},
+  {"q": "Les branches de l'arbre voisin dépassent chez moi : que faire ?", "a": "Le plus simple est d'en parler avec le propriétaire de l'arbre. Nous pouvons venir sur place en présence des deux parties et proposer une taille qui règle la gêne sans affaiblir l'arbre."},
+  {"q": "Pouvez-vous travailler dans un jardin sans accès pour un véhicule ?", "a": "Oui. Le démontage à la corde ne demande aucune machine au pied de l'arbre. Les branches descendent une à une, puis sont portées jusqu'à la rue pour être broyées ou évacuées."},
+  {"q": "Courtedoux est-elle loin de Courgenay ?", "a": "Non. La commune se trouve à moins de dix kilomètres de Courgenay et touche Porrentruy. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre trop grand dans votre jardin de Courtedoux ?",
+ "cta_lead": "Nous venons voir, mesurer et proposer une solution. Visite et devis gratuits."
+}

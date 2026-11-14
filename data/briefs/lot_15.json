@@ -1,0 +1,708 @@
+[
+ {
+  "slug": "arboriste-bourg-en-lavaux",
+  "nom": "Bourg-en-Lavaux",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 5561,
+  "tier": 2,
+  "npa": "1091, 1096–1098",
+  "altitude": null,
+  "superficie": "9,65 km2",
+  "densite": "576 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Aran, Cully, Épesses, Grandvaux, Riex, Villette",
+  "population_detail": "5 561 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bourg-en-Lavaux",
+  "intro": "Bourg-en-Lavaux est une commune suisse du canton de Vaud. Elle est le chef-lieu du district de Lavaux-Oron. Bourg-en-Lavaux participe au rayonnement régional d'un site, Lavaux, inscrit en 2007 au Patrimoine Mondial de l'UNESCO.",
+  "sections": {
+   "Histoire": "La commune de Bourg-en-Lavaux est née le 1er juillet 2011 de la fusion des communes de Cully, d'Épesses, de Grandvaux, de Riex, et de Villette décidée lors du vote populaire du 17 mai 2009,,. Une première tentative en 2005 avait échoué, les habitants de Grandvaux ayant refusé la fusion. Il a été décidé, pour le blason de Bourg-en-Lavaux, de conserver celui de Riex."
+  },
+  "voisins": [
+   {
+    "nom": "Forel",
+    "slug": "arboriste-forel"
+   },
+   {
+    "nom": "Lutry",
+    "slug": "arboriste-lutry"
+   },
+   {
+    "nom": "Puidoux",
+    "slug": "arboriste-puidoux"
+   },
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-belmont-sur-lausanne",
+  "nom": "Belmont-sur-Lausanne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 3890,
+  "tier": 2,
+  "npa": "1092",
+  "altitude": "640 m",
+  "superficie": "2,65 km2",
+  "densite": "1 468 hab./km2",
+  "gentile": "Belmontais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "3 890 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Belmont-sur-Lausanne",
+  "intro": "Belmont-sur-Lausanne est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron, à l'est de Lausanne et au nord de Pully.",
+  "sections": {
+   "Histoire": "La commune de Belmont faisait partie intégrante de la commune de Pully jusqu'à la scission. Belmont tire son nom de « beau mont ». La commune est dotée d'un petit centre commercial non loin de l'école. Celui-ci est notamment composé d'un magasin Denner, un restaurant italien et divers autres commerces. L'agence postale de Belmont est désormais assurée par la Pharmacie de Belmont."
+  },
+  "voisins": [
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   },
+   {
+    "nom": "Lutry",
+    "slug": "arboriste-lutry"
+   },
+   {
+    "nom": "Paudex",
+    "slug": null
+   },
+   {
+    "nom": "Pully",
+    "slug": "arboriste-pully"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-savigny",
+  "nom": "Savigny",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 3600,
+  "tier": 2,
+  "npa": "1073",
+  "altitude": "799 m",
+  "superficie": "16,02 km2",
+  "densite": "225 hab./km2",
+  "gentile": "Savignolan",
+  "langue": "Français",
+  "localites": "La Claie-aux-Moines, Mollie-Margot",
+  "population_detail": "3 600 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Savigny_(Vaud)",
+  "intro": "Cet article peut contenir un travail inédit ou des déclarations non vérifiées (avril 2015). Cet article ne cite pas suffisamment ses sources (septembre 2010). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Savigny est une commune suisse du canton de Vaud, se trouvant dans le district de Lavaux-Oron, située entre 715 à 906 mètres d'altitude entre Lavaux et le Jorat. Le territoire de la commune de Savigny, qui est de 1 601 hectares, occupe la partie occidentale du plateau supérieur du district. Il constitue en quelque sorte la charnière entre Lavaux et le Jorat, ce Jorat dont il a les traits principaux.",
+  "sections": {
+   "Toponymie": "Savigny « domaine (fundum) du clan de Sabinius » dérive du nom de personne latin Sabinius, avec le suffixe toponymique celtique -acum. Ce nom appartient à la grande famille de toponymes dérivés d’un nom latin qui se terminent soit en -y, soit en -ier. Parmi les plus anciennes mentions : Savignie (1224) ; Savinie (1228) ; Savigny (1453).",
+   "Histoire": "Selon le Dictionnaire historique du canton de Vaud, Savigny a été défrichée car en 1228 elle constituait déjà une paroisse. Au XIVe siècle, on ne trouve là qu'une chapelle qui dépendait à la fois du prieuré et de l'église paroissiale de Lutry. Par l'échange du 1er juillet 1346, le prieur Jean et le curé Bovon se partagèrent les revenus par moitié ou par tiers suivant qu'il s'agissait de recettes ou d'aumônes. Lors d'une visite paroissiale de Savigny en 1453, on voit par des actes qu'elle était dédiée à sainte Marie-Madeleine. Le 12 juillet 1494, Jaques, le fils de Nicod Montheux, notaire de Lutry, fit don d'une pièce de terre et bois au couvent des religieux du tiers-Ordre de Saint-François qui desservait la chapelle. Ce petit couvent de Savigny avait été fondé le 24 avril 1491 par Pierre de Roseto, du diocèse de Genève, moine et vicaire des tertiaires de saint François avec l'aval de l'évêque de Lausanne Benoit de Montferrand. On conserve aux archives de Lutry la procédure d'un conflit juridique entre son successeur l'évêque Sébastien de Montfalcon et les religieux du tiers-Ordre de Saint-François, en cours épiscopale de Bâle qui dura du 10 septembre 1498 au 20 mars 1500. Le 17 août 1531, Guillaume Sinexdis, gardien et procureur de cette maison religieuse, a cédé tous les biens à la confrérie du Saint-Esprit de Lutry et la communauté. Dès la reforme et jusqu'à la fin du XVIe s"
+  },
+  "voisins": [
+   {
+    "nom": "Montpreveyres",
+    "slug": null
+   },
+   {
+    "nom": "Servion",
+    "slug": "arboriste-servion"
+   },
+   {
+    "nom": "Forel",
+    "slug": "arboriste-forel"
+   },
+   {
+    "nom": "Bourg-en-Lavaux",
+    "slug": "arboriste-bourg-en-lavaux"
+   },
+   {
+    "nom": "Lutry",
+    "slug": "arboriste-lutry"
+   },
+   {
+    "nom": "Belmont-sur-Lausanne",
+    "slug": "arboriste-belmont-sur-lausanne"
+   },
+   {
+    "nom": "Pully",
+    "slug": "arboriste-pully"
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-jorat-mezieres",
+  "nom": "Jorat-Mézières",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 3210,
+  "tier": 2,
+  "npa": "1076 Ferlens  1083 Mézières  1084 Carrouge",
+  "altitude": "742 m",
+  "superficie": "11,07 km2",
+  "densite": "290 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Mézières, Carrouge, Ferlens, Le Borgeau, La Croix-d'Or et Écorche-Bœuf",
+  "population_detail": "3 210 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Jorat-Mézières",
+  "intro": "Jorat-Mézières est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron.",
+  "sections": {
+   "Histoire": "Le 30 novembre 2014, les communes de Mézières, Carrouge et Ferlens décident de fusionner sous le nom de Jorat-Mézières. Cette fusion est entrée en vigueur le 1er juillet 2016. Le tableau suivant présente les résultats du vote dans chaque commune : La commune voit officiellement le jour le 1er juillet 2016."
+  },
+  "voisins": [
+   {
+    "nom": "Servion",
+    "slug": "arboriste-servion"
+   },
+   {
+    "nom": "Montpreveyres",
+    "slug": null
+   },
+   {
+    "nom": "Vucherens",
+    "slug": null
+   },
+   {
+    "nom": "Vulliens",
+    "slug": null
+   },
+   {
+    "nom": "Ropraz",
+    "slug": null
+   },
+   {
+    "nom": "Rue",
+    "slug": "arboriste-rue"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-puidoux",
+  "nom": "Puidoux",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 3013,
+  "tier": 2,
+  "npa": "1070",
+  "altitude": "662 m",
+  "superficie": "22,89 km2",
+  "densite": "132 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Puidoux",
+  "intro": "Cet article ne cite pas suffisamment ses sources (septembre 2010). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Puidoux est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Oron",
+    "slug": "arboriste-oron"
+   },
+   {
+    "nom": "Granges",
+    "slug": null
+   },
+   {
+    "nom": "Chardonne",
+    "slug": "arboriste-chardonne"
+   },
+   {
+    "nom": "Saint-Saphorin",
+    "slug": null
+   },
+   {
+    "nom": "Chexbres",
+    "slug": "arboriste-chexbres"
+   },
+   {
+    "nom": "Rivaz",
+    "slug": null
+   },
+   {
+    "nom": "Bourg-en-Lavaux",
+    "slug": "arboriste-bourg-en-lavaux"
+   },
+   {
+    "nom": "Forel",
+    "slug": "arboriste-forel"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-chexbres",
+  "nom": "Chexbres",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 2270,
+  "tier": 2,
+  "npa": "1071",
+  "altitude": "589 m",
+  "superficie": "2,14 km2",
+  "densite": "1 061 hab./km2",
+  "gentile": "Chexbrisien ou Chexbrien",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Chexbres",
+  "intro": "Cet article ne cite pas suffisamment ses sources (septembre 2010). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Chexbres (prononcé ) est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron.",
+  "sections": {
+   "Histoire": "La commune de Chexbres était déjà habitée à l'époque romaine, en témoignent des restes de mur et des pièces de monnaie de l'époque. La première mention écrite du lieu apparaît en 1079 sous le nom de Carbarissa. Par la suite, on rencontre de nombreux autres graphies : Chibriacum (1100), Chabris (1134), Chabre (1142), Cabarissa (1145), Cerbre (1147), Chebra (1165), Chabrii (1179), Chabre (1221), Chaibri (1248), Chaibry (1368), Chebry (1453), Cheibri (1454) et, en 1562, on trouve à la fois Chaybres et Cheybres. L'origine du nom n'est pas claire : elle proviendrait du nom romain Cabrius, ou du gaulois Caebre (village sur une colline) ou même de Cabus (chanvre). La région de Chexbres était propriété de l'abbaye de Saint-Maurice depuis le VIe siècle, puis du royaume de Bourgogne à partir de 978. En 1079, le roi Henri IV du Saint-Empire donna le village et les terres à l'évêque de Lausanne. Les armoiries de Chexbres datent des mayors de Chexbres (XIIe et XIIIe siècles) : « d'azur à la croix d'or chargée de cinq roses de gueules ». Avec la conquête du Vaud par Berne en 1536, Chexbres passe sous l'administration du bailliage de Lausanne. Après l'effondrement de l'Ancien Régime, le village appartint de 1798 à 1803, sous la République helvétique, au canton du Léman, puis au canton de Vaud. En 1798, le village est affecté au district de Lavaux et jusqu'en 1810 faisait partie de la commune ",
+   "Monuments": "L'église de Chexbres fut construite en 1888 sur le site d'une ancienne chapelle. Elle comporte un clocher néo-gothique, un orgue de type romantique français (installé en 1905 par Charles Mutin), et de superbes vitraux sur des thèmes bibliques réalisés en 1988 par le peintre-verrier Jean Prahin. Le château de Crousaz, construit au XVe siècle, reconstruit en partie vers 1600, est l'édifice le plus ancien du village. On peut y admirer une cheminée d'ornementation Renaissance, ornée des armoiries de son ancien propriétaire, Claude de Crousaz. La Maison Wyttenbach (du nom d'une famille bernoise, les Wyttenbach) date du XVIIIe siècle, c'était l'ancienne « Auberge du Cœur d'Or ». La commune l'acquit en 1915 ; elle est devenue le siège de la Municipalité. On trouve au centre du village des maisons paysannes remontant du XVIIe au XIXe siècle. Le « caveau des vignerons » abrite, entre autres objets rustiques, un pressoir de 1719.",
+   "Transports": "La commune se trouve sur la route principale de Vevey à Moudon. L'autoroute A9, ouverte en 1974 et reliant Lausanne à Sion, traverse le territoire communal. La commune est bien desservie par le Réseau Express Vaudois. La ligne S7 (ex-train des vignes) dessert la gare de Chexbres-Village sur la ligne de Vevey à Puidoux. En dehors du territoire de la commune se trouve la gare de Puidoux sur la ligne principale de Lausanne à Berne (Réseau Express Vaudois, lignes S2, S4, S21). Un service de CarPostal, la ligne de Lavaux, dessert également la commune à partir de Cully."
+  },
+  "voisins": [
+   {
+    "nom": "Puidoux",
+    "slug": "arboriste-puidoux"
+   },
+   {
+    "nom": "Saint-Saphorin",
+    "slug": null
+   },
+   {
+    "nom": "Rivaz",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-servion",
+  "nom": "Servion",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 2234,
+  "tier": 2,
+  "npa": "1077",
+  "altitude": "774 m",
+  "superficie": "6,33 km2",
+  "densite": "353 hab./km2",
+  "gentile": "Servionnais",
+  "langue": "Français",
+  "localites": "Les Cullayes",
+  "population_detail": "2 234 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Servion",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Servion est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   },
+   {
+    "nom": "Forel",
+    "slug": "arboriste-forel"
+   },
+   {
+    "nom": "Jorat-Mézières",
+    "slug": "arboriste-jorat-mezieres"
+   },
+   {
+    "nom": "Oron",
+    "slug": "arboriste-oron"
+   },
+   {
+    "nom": "Rue",
+    "slug": "arboriste-rue"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-forel",
+  "nom": "Forel",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 2109,
+  "tier": 2,
+  "npa": "1072",
+  "altitude": "723 m",
+  "superficie": "18,51 km2",
+  "densite": "114 hab./km2",
+  "gentile": "Forellois",
+  "langue": "Français",
+  "localites": "En Forel, les monts de Villette, le Grenet, les Cornes de Cerf",
+  "population_detail": "2 109 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Forel_(Vaud)",
+  "intro": "Forel est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron.",
+  "sections": {
+   "Histoire": "Le plus ancien document citant la commune de Forel est daté de 1140. Il s'agit d'un acte de donation de Guy de Maligny, évêque de Lausanne, en faveur de l'abbaye du Lac de Joux. Le second document concerne les forêts de la commune et le suivant, celui-ci datant de 1274, se réfère à une transaction passée en septembre entre Hugues sire de Palézieux et les moines de l'Abbaye cistercienne de Haut-Crêt aux Tavernes ; elle concerne des pâturages. En 1298, Pierre et Garnier de Palézieux cèdent, moyennant finance, le hameau de Forel (connu de nos jours sous le nom de « En Forel » et qui donnera par la suite le nom à l'ensemble de la commune) et les forêts environnantes à Louis de Savoie. Deux ans plus tard, ce même baron de Vaud vend, pour 600 livres lausannoises, le territoire de Forel à l'évêque de Lausanne. Elle entre dans la circonscription de la « Grande Paroisse de Villette ». Après le départ de Lausanne du dernier prince-évêque, en 1536, et l'installation de l'administration bernoise, naît la Communauté ou Commune générale de Villette. Elle compte deux parties : les Monts (Forel) et le vignoble. Ce n'est qu'à partir de 1601 qu'un représentant des Monts participera aux réunions du « rière Conseil » (le conseil communal actuel), à Cully. L'occupation bernoise ne modifiera pas beaucoup la charge fiscale, d'origine féodale. Les Forellois payaient plusieurs impôts : les dîmes (sur l",
+   "Transports": "La commune est desservie par la ligne 365 (Servion-Poste - Sallaz) des Cars Postaux, ainsi que par le PubliCar."
+  },
+  "voisins": [
+   {
+    "nom": "Servion",
+    "slug": "arboriste-servion"
+   },
+   {
+    "nom": "Essertes",
+    "slug": null
+   },
+   {
+    "nom": "Oron",
+    "slug": "arboriste-oron"
+   },
+   {
+    "nom": "Puidoux",
+    "slug": "arboriste-puidoux"
+   },
+   {
+    "nom": "Bourg-en-Lavaux",
+    "slug": "arboriste-bourg-en-lavaux"
+   },
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-renens",
+  "nom": "Renens",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 21793,
+  "tier": 2,
+  "npa": "1020",
+  "altitude": "440 m",
+  "superficie": "2,96 km2",
+  "densite": "7 363 hab./km2",
+  "gentile": "Renanais ou Renannais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "21 793 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Renens",
+  "intro": "Pour l’article ayant un titre homophone, voir Renan. Renens (prononcé en français Écoutezⓘ) est une commune suisse du canton de Vaud, située dans le district de l'Ouest lausannois, dont elle est le chef-lieu.",
+  "sections": {
+   "Histoire": "Le nom de Rugnens apparaît pour la première fois en l'an 896, tour à tour Runens, Rugnens, Regnens puis finalement Renens. La Ville a pris son envol beaucoup plus tard ; au début du XXe siècle. Elle le doit à l'arrivée du chemin de fer, particulièrement à la construction de la ligne Morges - Yverdon-les-Bains. La gare de Renens est inaugurée en 1876 sous la coupelle de la Compagnie de Chemins de Fer de la Suisse Occidentale. Un rapide coup d'œil à l'évolution de la population le prouve : passant d'un petit village agricole de 433 habitants en 1860, elle passe à 1 279 en 1900 pour dépasser les 20 000 aujourd'hui. Dans la nuit du 11 au 12 juin 1940, la gare de Renens est bombardée par des bombardiers anglais de retour d'une mission sur les usines Fiat de Turin. L'attaque, qui fait deux morts et huit blessés, est due à une erreur de navigation des équipages (d'autres bombes tombent sur Genève). Le gouvernement britannique présentera ses regrets et versera un dédommagement de 1,2 million de francs de l'époque. Le proche passé de Renens, celui du XXe siècle, est intimement lié à l'industrie. C'est elle qui a façonné la ville, ses rues et ses places. Des grandes usines d'alors (Maillefer, Briquetterie, Fly, Thévenaz-Leduc, Iril), il ne reste aujourd'hui plus grand-chose. La ville a pris une autre direction, résolument tournée vers la culture, avec l'arrivée de l'École cantonale d’art",
+   "Culture et patrimoine": " Le château. ; La maison des Tilleuls, œuvre de l'architecte (1768-1772) Gabriel Delagrange, devenu un centre culturel « La Ferme d ; Le silo de l'architecte Jean Tschumi. ; La salle de spectacles, typique des années 1950. ; Les maisons en rangée du chemin des Clos, construites en 1907 par l'architecte Georges Épitaux. ; Le chemin de Villas-du-Mont. ; Les maisons de l'avenue de Longemalle, prototypes de cité-jardin. ; Le temple protestant de 1933-1935, par l'architecte Paul Lavenex. ; L'atelier de reliure Mayer&Soutter et les Imprimeries Réunies, construits entre 1963 et 1965 par l'architecte Jean-Marc ; Le bâtiment Eternit, construit entre 1961 et 1963 par l'architecte Frédéric Brugger. ; Festimixx, Festival de musique et fête interculturelle (2000, 2003, 2006, 2009, 2012, 2015, 2018, 2022, 2025). ; Saison culturelle de Renens."
+  },
+  "voisins": [
+   {
+    "nom": "Jouxtens-Mézery",
+    "slug": null
+   },
+   {
+    "nom": "Prilly",
+    "slug": "arboriste-prilly"
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Chavannes-près-Renens",
+    "slug": "arboriste-chavannes-pres-renens"
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens"
+   },
+   {
+    "nom": "Crissier",
+    "slug": "arboriste-crissier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-ecublens",
+  "nom": "Écublens",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 13747,
+  "tier": 2,
+  "npa": "1024",
+  "altitude": "Min. 376 mMax. 443 m",
+  "superficie": "5,71 km2",
+  "densite": "2 408 hab./km2",
+  "gentile": "Écublanais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "13 747 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Écublens_(Vaud)",
+  "intro": "Ecublens est une ville et une commune suisse du canton de Vaud, située dans le district de l'Ouest lausannois. Elle accueille en particulier les campus de l'École polytechnique fédérale de Lausanne et de l'Université de Lausanne.",
+  "sections": {
+   "Toponymie": "La plus ancienne mention remonte à 958-959 (in villa Escublens). Tiré d'un nom de personne germanique (prob. Scubilo) complété d'un suffixe toponymique lui aussi germanique –ingos. On trouve aussi la forme Scubilingis puis Scublens en 1147, Excublens (1177), Escublens en 1228, et Ecublens.",
+   "Histoire": "Cette période est dite aussi de Hallstatt (1300-400 av. J.-C.). Elle est représentée par des trouvailles archéologiques aujourd'hui exposées au Musée cantonal d'archéologie et d'histoire de Lausanne. La fouille de près de 2 000 sépultures a permis d'établir une chronologie précise de cette époque. La famille noble vaudoise remonte aux chevaliers Pierre Raymond et Uldry cités en 1142. Elle fournit aux XIIe siècle et XIIIe siècle des conseillers à l’évêque de Lausanne. Guillaume d'Écublens, fils de Pierre d'Écublens a été chanoine en 1199 puis trésorier en 1213 avant d'être élu évêque le 16 août 1221. Écublens a reçu Charles le Téméraire en 1476. Celui-ci préparait une expédition dont il espérait qu'elle lui permettrait de prendre sa revanche sur les Suisses qui l'avaient vaincu à Grandson. Ses troupes ont occupé les lieux durant deux mois. De 1536 à 1798, Écublens a vécu, tout comme l'ensemble du Pays de Vaud, sous la domination bernoise. Napoléon Bonaparte a, le 12 mai 1800, inspecté dans la région d'Écublens deux divisions, soit environ 7 000 hommes, qu'il a dirigés vers le Grand-Saint-Bernard. La place Bonaparte rappelle ce passage. Vladimir Ilitch Lénine a lui aussi séjourné à Écublens lors de son exil de 1910 à 1915, logé dans une maison vigneronne à La Cocarde. Jusqu'au milieu du XXe siècle la population d'Écublens pratique principalement une économie agricole et viticole.",
+   "Culture et patrimoine": "L'église du Motty, qui domine la localité, a des origines médiévales. En 1135, la chapelle d’Ecublens est rattachée au couvent de Saint-Sulpice. En 1228, cette chapelle, dédiée à Saint-Pierre, prend place au nombre des églises paroissiales. Nef rectangulaire et tour-porche. Elle possède encore une fenêtre datée de 1532. Vers 1907, les verriers lausannois Alexis Guignard et son associé d'origine néerlandaise Jean Schmit installent des vitraux. Plus tard, le fils de Schmit établit trois autres vitraux. Vitrail 1961 de Jean-Pierre Kaiser. Château de la Motte, rare vestige entouré d’une enceinte de terre et de fossés. Vers 1895, on y aurait trouvé quantité d’ossements d’animaux plus ou moins carbonisés, des cendres, quelques pierres taillées et des fragments de tuiles romaines. Des tombes en dalles ont été mises au jour à proximité, en 1896. Le château de la Motte figure parmi les 4 000 sites recensés par la Carte des châteaux de la Suisse, éditée en 2007. Aujourd’hui, on considère plutôt les mottes fortifiées comme des châteaux d’époque médiévale. Par ailleurs, la commune compte bon nombre d'autres édifices intéressants qui ont obtenu les notes 2 (intérêt régional) et 3 (intérêt local) au recensement cantonal du patrimoine. On peut ainsi mentionner : Au XXe siècle, il faut développer les hautes écoles. L'Université de Lausanne se déplace à Dorigny tandis que l'École polytechnique "
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-prilly",
+  "nom": "Prilly",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 13037,
+  "tier": 2,
+  "npa": "1008",
+  "altitude": "481 m",
+  "superficie": "2,19 km2",
+  "densite": "5 953 hab./km2",
+  "gentile": "Prilléran",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "13 037 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Prilly",
+  "intro": "Prilly ( Écoutezⓘ) est une commune suisse du canton de Vaud, située dans le district de l'Ouest lausannois. Au 31 décembre 2025, la Ville de Prilly compte 12 766 habitants.",
+  "sections": {
+   "Toponymie": "En 976, Prilly est mentionné sous le nom latin Presliacus. Ce toponyme est formé du nom de personne latin Praecilius et du suffixe toponymique celtique -akos/-acum. Par la suite on trouve Prillie (avant 1185), Prilie en 1202, Prilliez en 1453. Il y eut aussi Preilly (1577) et Prillier (1628).",
+   "Histoire": "En 1765, lors de la construction du temple de Broye, on a découvert une exceptionnelle et aujourd'hui célèbre tête de jeune homme en bronze, aujourd'hui conservée à Berne. Cette information n'est pas entièrement sûre, car il existe au minimum deux sources différentes concernant le lieu de découverte de cette tête en bronze : l'une rapporte que cette tête viendrait de Prilly. L'autre estime qu'elle aurait été trouvée à Vidy, sur l’ancien vicus de Lousonna par le pasteur de Prilly Samuel du Til, au début du XVIIIe siècle,. Prilly est mentionnée pour la première fois en 976 : l'archevêque de Lyon Burcardus cède alors à l'abbaye de Saint-Maurice d'Agaune, en Valais, une campagne située « in fine runingorum in villa que vocatur presliacus ». En 1244, l'évêque de Sion, Henri de Rarogne, donne ses propriétés de Prilly au Chapitre de Lausanne. Mais en 1389, l'évêque Guillaume de Menthonay cède les terres de Prilly à Jacques de Penthéréaz. En 1482, Prilly devient la propriété de la famille noble de Gimel,. La période bernoise a débuté en 1536 et s'est achevée en 1798. Lors de cette période, Prilly faisait partie du bailliage de Lausanne. « Entre 1558 et 1559, à la suite de la Conjuration de Lausanne qui éclate en décembre 1558 contre les Bernois, les droits de la seigneurie de Prilly sont repris par Isbrand de Crousaz. » Isbrand de Crousaz, le nouveau seigneur de Prilly était aussi lieu",
+   "Culture et patrimoine": "Le « château » (route de Cossonay 40) est en fait une maison de maîtres remontant au XVIIe siècle, flanquée d'une tour rectangulaire ajourée de baies jumelées et en triplet. Aujourd'hui propriété communale, l'édifice, très transformé, a été rénové en 2011. Propriété de la ville de Lausanne, le château est vendu à Louis-François Emery, puis Gustave Emery qui lui a succédé jusqu’en 1895. Ses héritiers ont vendu le château à un consortium formé de Léon-Henry Pinard, médecin et sous-directeur à l’hôpital de Cery, Frédéric Mayor, chef de gare du LEB au Chasseur et conseiller communal, puis municipal (1893), et Charles Strudel, directeur du LEB. Ils le transforment en clinique pour le traitement des affections nerveuses. À la suite du décès du Dr Pinard, le château est loué à une dame Rayola qui en fait une pension et héberge, entre autres, des internés français jusqu’en 1918. Il est vendu à Jules Jacot-Guillarmod en 1920, qui l'utilise à nouveau comme clinique. Malgré son décès en 1925 lors d'un de ses nombreux voyages, sa famille reste propriétaire du château jusqu'en 1946 : le château passe alors en mains communales. Dès les années 1950-60, les autorités prilléranes y aménagent progressivement des bureaux de l'administration communale. Le château est entièrement transformé dès 2009 par l'architecte Ferrari (Jean-Baptiste) et inauguré en 2011. Nous ne connaissons pas la date exacte"
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-bussigny",
+  "nom": "Bussigny",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 12120,
+  "tier": 2,
+  "npa": "1030",
+  "altitude": "Min. 387 mMax. 495 m",
+  "superficie": "4,82 km2",
+  "densite": "2 515 hab./km2",
+  "gentile": "Bussignolais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "12 120 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bussigny",
+  "intro": "Bussigny est une commune suisse du canton de Vaud, située dans le district de l'Ouest lausannois. La commune est appelée Bussigny-sur-Morges jusqu'en 1959, puis Bussigny-près-Lausanne jusqu'en 2014. La commune est nommée Cité de l'énergie en 2013. Elle obtient le statut de ville en 2015, et atteint les 10 000 habitants le 11 mai 2021.",
+  "sections": {
+   "Toponymie": "Ce toponyme est attesté en 1488 sous la forme Bussignies. Il tire son origine du nom de personne latin Bussenius avec le suffixe celtique -akos devenu en latin -acum. Ce nom fait partie de l'importante famille de toponymes formés à l'époque romaine, et qui ont été créés à partir d'un nom de famille propriétaire du domaine. La forme composée Bussigny-près-Lausanne s'explique par le besoin de distinguer cette localité de Bussigny-sur-Oron.",
+   "Histoire": "Des documents de l'époque bernoise désignent la commune par « les Communautés de Bussigny et Saint-Germain ». À cette époque en effet, Bussigny côtoyait un autre hameau, celui de Saint-Germain. La fusion se fera en 1803, alors que naissait le canton de Vaud. De nos jours, on retrouve encore à Bussigny la rue Saint-Germain, vestige témoignant de l'existence de ce petit village. Au XIXe siècle, le nom officiel était Bussigny-sur-Morges. En 1885, Bussigny est relié au réseau ferroviaire par la ligne du Jura-Simplon. Depuis 1959, le village devient Bussigny-près-Lausanne. En réalité, ces changements de nom reflètent uniquement le rythme de l'histoire. Les deux hameaux à l'époque du Pays de Vaud paysan ; puis une fusion en 1803 avec une seule localité rattachée au district de Morges et enfin le grand boum de la seconde moitié du XXe siècle dans le sillage de l'agglomération lausannoise. En 2012, la commune émet le souhait de changer son nom en Bussigny. Le 14 janvier 2014, le Grand Conseil Vaudois a voté la modification de la Loi sur le découpage territorial et accepta le changement du nom de la ville en Bussigny. Il entre officiellement en vigueur le 1er mai 2014. En 2015, le village change de statut et devient officiellement une ville.",
+   "Culture et patrimoine": "La ville comptait 3 714 logements en 2015, dont 582 maisons individuelles, pour un total de 3 410 ménages. Aujourd'hui, Bussigny continue son développement urbain : de nouveaux quartiers naissent, et les nombreuses constructions récentes de bâtiments surprennent les résidents. En effet, les citoyens de la commune vaudoise ont vécu la période 2000-2015 en l'absence de chantiers de grande ampleur. Le temple protestant (ancienne église Saint-Germain) reconstruit en 1856-1858 est attribué à l'architecte Louis Wenger, mais cette assertion est contredite par les données des archives communales, qui n'évoquent pas Wenger dans la genèse de ce bâtiment, mais bien la collaboration du voyer Samuel Cupelin et de l'architecte David Braillard. L'église catholique Saint-Pierre (rue du Jura 14), sur une hauteur, a été construite en 1969 par l’architecte Hanns A. Brütsch 46° 33′ 12″ N, 6° 33′ 03″ E. Plusieurs fontaines agrémentent la localité, notamment à la rue des Alpes et dans les ruelles voisines. Collège du Tombay II (rue des Collèges 2b), par l'architecte Rodolphe Lüscher (construction de 2001 à 2003). C'est u ; Collège de Dallaz ; Salle de gymnastique de la Tatironne ; Complexe scolaire et sportif Agora ; Ferme de type maison forte (rue de Montolieu 3), avec éléments de style gothique tardif, épais contrefort et avant-toit ; Maison de maîtres (rue de Montolieu 2-4), composée de deux corp"
+  },
+  "voisins": [
+   {
+    "nom": "Vufflens-la-Ville",
+    "slug": null
+   },
+   {
+    "nom": "Mex",
+    "slug": null
+   },
+   {
+    "nom": "Villars-Sainte-Croix",
+    "slug": null
+   },
+   {
+    "nom": "Crissier",
+    "slug": "arboriste-crissier"
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens"
+   },
+   {
+    "nom": "Échandens",
+    "slug": null
+   },
+   {
+    "nom": "Bremblens",
+    "slug": null
+   },
+   {
+    "nom": "Aclens",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-crissier",
+  "nom": "Crissier",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 11101,
+  "tier": 2,
+  "npa": "1023",
+  "altitude": "485 m",
+  "superficie": "5,51 km2",
+  "densite": "2 015 hab./km2",
+  "gentile": "Crissirois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "11 101 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Crissier",
+  "intro": "Crissier est une commune suisse du canton de Vaud, située dans le district de l'Ouest lausannois.",
+  "sections": {
+   "Toponymie": "Parmi les plus anciennes mentions, on relève : Crisue (1238), Crisu (1250), Cresu (1301), Crisu (1511), Crisuz (1543), Criseu (1622), Criseuz (1667), Crisuz (1751). Crissier pourrait être formé d'un nom de personne d'origine celtique (on trouve fréquemment la forme latinisée Crixsius ou Crixius) et du suffixe toponymique celtique akos/acum. Ce nom de lieu connaît de nombreux équivalents en France et en Suisse romande. Pour ce qui est de sa signification, les hypothèses émises jusqu'ici semblent peu satisfaisantes et la recherche moderne considère que ce toponyme est d'origine incertaine et que son sens reste obscur. D'autres toponymes sont apparentés à celui de Crissier, tels de celui des communes portant le nom « Cressier » dans le canton de Neuchâtel et de Fribourg, Cressin-Rochefort, et le quartier genevois Cressy.",
+   "Histoire": "Au temps des Romains déjà, Crissier se trouve au croisement de routes importantes. On y a retrouvé, notamment au pied de la falaise de molasse de Montassé, une villa romaine. Une famille noble de Crissier est attestée depuis le XIIe siècle. Ses descendants possèdent alors des terres non seulement dans ce village, mais aussi dans les territoires environnants, notamment à Tolochenaz, Étagnières et Boussens. La seigneurie de Crissier passe en 1620, avec celle de Prilly, à Claude de Crousaz. Il y a, à cette époque, trois châtelains à Crissier : un pour le seigneur, un deuxième pour Leurs Excellences de Berne qui exercent la haute juridiction sur les terres de l'ancienne mayorie, enfin un troisième pour la Ville de Lausanne, qui y possède également des biens. En 1689, Jacques-Nicolas de Martines acquiert une propriété sur laquelle va bientôt s'élever le château actuel. En 1732, Leurs Excellences de Berne rachètent la seigneurie de Crissier, tandis que Jean-François de Martines cède le château à Jean-Jacques Curchod. Par alliance, on y trouve par la suite la famille Dapples. Crissier est anciennement un village paroissial du Cercle de Romanel. II appartient au chapitre de Notre Dame de Lausanne, qui y exerce la moyenne et la basse justice. Crissier comptait 511 habitants en 1850, puis 2068 habitants en 1950.",
+   "Culture et patrimoine": "Le temple protestant (ancienne église Saint-Saturnin) (chemin du Casard) a vu sa nef reconstruite sans doute en 1598 et restaurée en 1872-1874. Le chœur gothique comporte une voûte en berceau brisé et des fenêtres du XVe siècle. Clocher néogothique de 1852-1854. La chaire baroque, de 1690, sculptée de figurines provient de l'église de Plan-Conthey en Valais. L'édifice est restauré en 1907 et agrémenté de vitraux aux armes des familles Curchod, Chavannes et Dapples, puis rénové à nouveau en 1967 et alors doté de vitraux de Jean-Pierre Kaiser. La cure de 1744 est due aux architectes lausannois Jean-Pierre Delagrange et Gabriel Delagrange. Le château (Chemin du Château 13) est une maison seigneuriale du XVIIe siècle transformée en 1887-1888 en imposante demeure néogothique, sous la direction des architectes Jules-Louis Verrey et Henri Verrey. L'école (Rue d'Yverdon 13) a été élevée en 1868 par les architectes Jean-Baptiste Bertolini et Achille de La Harpe. En 2011, la commune a obtenu, avec d'autres communes de l'ouest lausannois, le prix Wakker relatif à la préservation et à la mise en valeur du patrimoine. Le Restaurant de l’Hôtel de Ville, considéré comme l'un des meilleurs restaurants au monde, se trouve à Crissier. Il a été successivement dirigé par les chefs étoilés Frédy Girardet, Philippe Rochat et Benoît Violier. Depuis 2016 Franck Giovannini est le chef de cuisine de cet"
+  },
+  "voisins": [
+   {
+    "nom": "Mex",
+    "slug": null
+   },
+   {
+    "nom": "Sullens",
+    "slug": null
+   },
+   {
+    "nom": "Cheseaux-sur-Lausanne",
+    "slug": "arboriste-cheseaux-sur-lausanne"
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Jouxtens-Mézery",
+    "slug": null
+   },
+   {
+    "nom": "Renens",
+    "slug": "arboriste-renens"
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens"
+   },
+   {
+    "nom": "Bussigny",
+    "slug": "arboriste-bussigny"
+   },
+   {
+    "nom": "Villars-Sainte-Croix",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-chavannes-pres-renens",
+  "nom": "Chavannes-près-Renens",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 10720,
+  "tier": 2,
+  "npa": "1022",
+  "altitude": "398 m",
+  "superficie": "1,65 km2",
+  "densite": "6 497 hab./km2",
+  "gentile": "Chavannois",
+  "langue": "Français",
+  "localites": "Chavannes-près-Renens",
+  "population_detail": "10 720 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Chavannes-près-Renens",
+  "intro": "Chavannes-près-Renens est une commune suisse du canton de Vaud. Située dans le district de l'Ouest lausannois, elle fait partie de l'agglomération lausannoise.",
+  "sections": {
+   "Toponymie": "La plus ancienne mention historique connue de Chavannes-près-Renens date de 1272 sous la forme de Chavanes. Étymologiquement, une « chavanne » est un nom féminin donné à une petite habitation faite de terre et de bois (« cabane »). Le toponyme Chavannes est répandu en Suisse romande et dans le canton de Vaud en particulier. La précision géographique « près-Renens » a été ajoutée pour distinguer la localité de ses homonymes. Avec la marque du pluriel, « Chavannes-près-Renens » désigne littéralement un groupement de logements proche de Renens.",
+   "Histoire": "Des vestiges de l'âge du Bronze, de l'époque romaine ainsi que du haut Moyen Âge ont été retrouvés sur le territoire de Chavannes-près-Renens. Son histoire commence véritablement au Moyen Âge central avec sa première mention dans les sources en 1272. En 1272, les moulins de Chavannes sont mentionnés par Jean de Cossonay, évêque de Lausanne. En 1359, la seigneurie de Vaud est achetée par le comte de Savoie et tant les nobles que le chapitre de la cathédrale de Lausanne perçoivent des droits féodaux à Chavannes. Soumise au régime épiscopal de la Maison de Savoie et de l'Évêché de Lausanne, les communiers de Chavannes marchent lors de cette période sous la bannière lausannoise du Pont (1368). Dès 1536, Chavannes, comme Lausanne et le Pays de Vaud passe sous administration bernoise, donc adopte la Réforme. Libérée de la tutelle épiscopale et des baillis savoyards, Chavannes est englobée dans le bailliage de Lausanne. Les Bernois fondent en 1547 l'Académie de Lausanne (future UNIL) dans la ville voisine. En 1550, la dîme de Chavannes est rachetée par le fribourgeois Sébastien Loys et le futur du village devient alors intimement lié à cette famille. La bourgade connaît durant cette époque un phénomène de proto-industrialisation avec l'installation d'une usine à papier au lieu-dit de la Blancherie. Au XVIIIe siècle, la ville de Lausanne détient tous les droits de juridiction de la loc",
+   "Culture et patrimoine": " Roger Federer — tennisman suisse professionnel né en 1981 — a fréquenté le collège de la Planta (1995-1997) dans le cadr ; Sergei Aschwanden — judoka suisse professionnel né en 1975 — a également fréquenté le collège de la Planta durant son ad"
+  },
+  "voisins": [
+   {
+    "nom": "Renens",
+    "slug": "arboriste-renens"
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saint-sulpice",
+  "nom": "Saint-Sulpice",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Ouest lausannois",
+  "population": 5191,
+  "tier": 2,
+  "npa": "1025",
+  "altitude": "394 m",
+  "superficie": "1,86 km2",
+  "densite": "2 791 hab./km2",
+  "gentile": "Serpeliou",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "5 191 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saint-Sulpice_(Vaud)",
+  "intro": "Saint-Sulpice est une commune suisse du canton de Vaud, située dans le district de l'Ouest lausannois.",
+  "sections": {
+   "Histoire": "Le sous-sol de la commune a livré En Pétoleyres une nécropole du haut Moyen Âge fouillée par Albert Naef en 1910 (Archives cantonales vaudoises).",
+   "Culture et patrimoine": "L'église romane fut fondée au XIe siècle et donnée entre 1098 et 1111 à l'Abbaye de Molesme, avec l'aval de l'évêque de Lausanne de l'époque, Gérold de Faucigny. La nef, en ruines, ayant été démolie au XVIIIe siècle, au XXIe siècle, il ne subsiste que le chevet à trois absides romanes. Des investigations archéologiques et une restauration exemplaire ont eu lieu en 1898-1903 sous l'influence d'Albert Naef et Henry de Geymüller, ainsi qu'en 1973-1974. Les armes de la commune de Saint-Sulpice se blasonnent ainsi : De gueules au chef d’argent, à l’église de Saint-Sulpice au naturel brochante. Charles Aznavour a habité à Saint-Sulpice."
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-montreux",
+  "nom": "Montreux",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 27182,
+  "tier": 2,
+  "npa": "1815 Clarens  1816 Chailly-sur-Montreux  1817 Brent  1818 Montreux  1820 Montreux, Territet  1822 Chernex  1823 Glion  1824 Caux  1832 Villard-sur-Chamby, Chamby  1833 Les Avants",
+  "altitude": "390 m",
+  "superficie": "33,37 km2",
+  "densite": "815 hab./km2",
+  "gentile": "Montreusien",
+  "langue": "Français",
+  "localites": "Baugy, Brent, Caux, Chailly, Chamby, Chaulin, Chêne, Chernex, Clarens, Collonge, Cornaux, Crin, Fontanivent, Glion, Jor, Le Châtelard, Les Avants, Les Planches, Mont-Fleuri, Pallens, Pertit, Planchamp, Sonzier, Tavel, Territet, Vernex, Villard-sur-Chamby, Vuarennes",
+  "population_detail": "27 182 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 110,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Montreux",
+  "intro": "Montreux (/mɔ̃tʁø/ Écoutezⓘ) est une ville et une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut. Elle est la troisième ville la plus peuplée du canton de Vaud après Lausanne et Yverdon.",
+  "sections": {
+   "Toponymie": "Le nom de Montreux est issu d'un diminutif du mot latin monasterium (ermitage, couvent) formé à l'aide du suffixe latin -olu (monasteriolu). La plus ancienne mention connue, Monasteriolo au XIe siècle, correspond à cette forme. Elle devient par la suite Mustrul (1215), Muistruo (1228), Mustruel (1250), de Mustreux (1355), ecclesiam parrochialem Monstruaci (1453). Son ancienne dénomination en allemand est Muchteren.",
+   "Histoire": "Dès le début du XXe siècle, la région de Montreux commence à attirer les premiers touristes, anglais principalement, séduits par les atouts du site : Dans les toutes premières années du XXe siècle, les premiers hôtels de Montreux sont construits au bord du lac, sur ce qui n'était alors que des prairies ou des terres agricoles (dont des vignobles). La vocation touristique du site ne cessa ensuite de se développer. Appartenant au district de Vevey depuis 1798, les communes des Planches (formée du village des Planches et des hameaux de Territet, Veraye, Collonge et Glion) et du Châtelard (composée de 17 villages : Crin, Sâles, Chêne, Pallens, Pertit, Chernex, Sonzier, Les Avants, Vernex, La Rouvenaz, Clarens, Tavel, Planchamp, Baugy, Chailly, Brent et Chaulin) prennent respectivement le nom de Montreux-Planches et Montreux-Châtelard de 1953 à 1961 avant de fusionner en 1962 pour devenir la commune de Montreux,. Profitant d’un gros essor touristique et hôtelier, Montreux attire des congrès dès les années 1880. Le premier, le Congrès hygiénique international, fait une excursion à Montreux depuis Genève en 1882. Les près de 500 invités, au rang desquels Louis Pasteur ou Paul Bert, arrivent à Montreux à bord du bateau-salon Mont-Blanc et sont accueillis au Kursaal. Par la suite, des congrès de médecine (1895), de transports (tramways en 1898, chemins de fer en 1910), de géographie (19"
+  },
+  "voisins": [
+   {
+    "nom": "La Tour-de-Peilz",
+    "slug": "arboriste-la-tour-de-peilz"
+   },
+   {
+    "nom": "Blonay-Saint-Légier",
+    "slug": null
+   },
+   {
+    "nom": "Veytaux",
+    "slug": null
+   },
+   {
+    "nom": "Haut-Intyamon",
+    "slug": "arboriste-haut-intyamon"
+   }
+  ]
+ }
+]

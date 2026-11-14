@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Orvin : taille, abattage, soins | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Orvin et aux Prés-d'Orvin (BE), par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Orvin · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Orvin</em> : taille, abattage et soins aux arbres",
+ "lead": "Orvin s'adosse à des roches imposantes au nord du village et compte 1 284 habitants sur 21,6 km². Depuis Courgenay, à une trentaine de kilomètres, nous taillons, démontons et plantons vos arbres, du village aux Prés-d'Orvin.",
+ "points": ["Visite et devis gratuits", "Travail à la corde près des bâtiments classés", "Arbres isolés : protection vérifiée", "Accès prévu pour le Jorat et les Prés-d'Orvin"],
+ "intro_eyebrow": "Vos arbres à Orvin",
+ "intro_h2": "Un village au pied des roches, du Jorat aux Prés-d'Orvin",
+ "intro": "<p>Orvin, Ilfingen en allemand autrefois, se trouve à 669 m dans le district de Courtelary. La légende de ses armoiries parle d'un chasseur face à un ours dans les roches qui ferment le village au nord.</p><p>La commune est vaste et peu dense : 59 habitants au km², avec les localités du Jorat et des Prés-d'Orvin. Sur un tel territoire, haies et bosquets relèvent de la protection cantonale, et les arbres isolés du règlement communal.</p><p>Au village, l'église de 1722, classée en 1963 pour sa charpente, et la maison du peintre Léo-Paul Robert au Jorat rappellent la valeur du bâti. Nous taillons les arbres proches de ces constructions avec le souci de ne rien abîmer.</p>",
+ "faits": [["Habitants", "1 284 (2025)"], ["Altitude", "669 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 30 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Orvin.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Orvin avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Les roches au nord", "texte": "Le village est fermé au nord par des roches imposantes. Au pied d'une paroi rocheuse, un arbre s'enracine souvent dans peu de terre : nous contrôlons son ancrage avant toute coupe."},
+  {"icone": "PIN", "titre": "Jorat et Prés-d'Orvin", "texte": "Le Jorat et Les Prés-d'Orvin font partie de la commune. Nous notons l'accès dès la visite et prévoyons un matériel léger, pour un devis sans surprise."},
+  {"icone": "HOME", "titre": "Église de 1722 et bâti classé", "texte": "Près d'un bâtiment protégé, une branche qui tombe mal coûte cher. Nous retenons chaque pièce à la corde et la posons au sol en douceur."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, dégagement de toiture et réduction douce pour les arbres de jardin et de cour d'Orvin.",
+  "abattage-demontage": "Démontage par morceaux près des maisons et des bâtiments anciens, abattage direct en terrain ouvert.",
+  "diagnostic-expertise-arbre": "Contrôle de l'ancrage et de la stabilité d'un arbre en pente ou sur sol rocheux, avec avis écrit.",
+  "plantation-arbres": "Choix d'une essence adaptée au sol et à l'altitude d'Orvin, plantation, tuteurage et suivi d'arrosage."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous aux Prés-d'Orvin ?", "a": "Oui. Les Prés-d'Orvin et le Jorat font partie de la commune d'Orvin. Nous venons depuis Courgenay, à une trentaine de kilomètres, pour une visite gratuite, puis nous organisons le chantier selon l'accès et la saison."},
+  {"q": "Un arbre isolé dans un pré à Orvin peut-il être abattu ?", "a": "Pas sans vérification. La loi bernoise protège haies et bosquets dans leur état actuel, et le règlement communal peut protéger des arbres isolés. Nous nous renseignons auprès de la commune avant de proposer un abattage."},
+  {"q": "Comment protégez-vous une maison ancienne pendant le démontage ?", "a": "Chaque bille est attachée avant la coupe, retenue par une corde et freinée à la descente. Rien ne tombe librement. Les abords sont dégagés et protégés avant de commencer."},
+  {"q": "Que faire d'un arbre qui pousse au pied des roches ?", "a": "Un arbre sur peu de terre peut être stable mais mérite un contrôle de l'ancrage et de la base du tronc. Selon le résultat, nous proposons un allègement de la couronne, un haubanage ou un démontage."},
+  {"q": "Quel délai pour un devis ?", "a": "Nous répondons sous 48 h ouvrées. La visite à Orvin est gratuite. Ensuite, le devis écrit détaille chaque arbre, la méthode et le sort du bois, sans engagement."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à tailler ou à démonter à Orvin ?",
+ "cta_lead": "Visite et devis gratuits, du village aux Prés-d'Orvin."
+}

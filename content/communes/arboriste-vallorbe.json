@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Vallorbe (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage par démontage et mise en sécurité d'arbres à Vallorbe, au Day et au Creux (VD), dans le vallon de l'Orbe. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Vallorbe · Jura-Nord vaudois",
+ "h1": "Arboriste-grimpeur à <em>Vallorbe</em> : taille, abattage et soins aux arbres",
+ "lead": "Vallorbe occupe un vallon du massif du Jura, sur le cours de l'Orbe, à 750 m. Là où la pente et l'accès compliquent le chantier, nous taillons et démontons vos arbres en grimpe.",
+ "points": ["Visite et devis gratuits", "Travail en grimpe sur terrain en pente", "Démontage de résineux par tronçons", "Vallorbe, Le Day et Le Creux"],
+ "intro_eyebrow": "Vos arbres à Vallorbe",
+ "intro_h2": "Un vallon du Jura où un hameau porte le nom du pin",
+ "intro": "<p>Le hameau du Day doit son nom au patois « daye », le pin sylvestre. À Vallorbe, l'arbre est inscrit jusque dans les noms de lieux. La commune compte 4 413 habitants sur 23,19 km², à 750 m d'altitude.</p><p>Le village s'est développé le long de l'Orbe, dans un vallon entouré par la chaîne de la Dent de Vaulion et celle du Mont d'Or. Un tel relief annonce des jardins en pente et des accès étroits.</p><p>C'est le terrain de la grimpe. Nous montons dans l'arbre à la corde, coupons par sections et retenons chaque pièce. Aucune machine lourde n'a besoin d'approcher du tronc.</p><p>Vallorbe est à une centaine de kilomètres de Courgenay à vol d'oiseau. Nous groupons les déplacements vers Vallorbe et <a href=\"/arboriste-l-abbaye\">L'Abbaye</a>, sa voisine. La visite est gratuite.</p>",
+ "faits": [["Habitants", "4 413 (2025)"], ["Altitude", "750 m"], ["District", "Jura-Nord vaudois"], ["Depuis Courgenay", "env. 95 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Vallorbe.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions le règlement de Vallorbe avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Jardin en pente", "texte": "Sur un talus, un tronc abattu d'un bloc roule ou glisse. Nous descendons le bois par petites longueurs, freinées à la corde, et le posons là où il peut être repris."},
+  {"icone": "TREE", "titre": "Pins et épicéas", "texte": "À 750 m, de façon générale, les résineux côtoient les feuillus. Un pin ou un épicéa trop proche d'une maison se démonte de haut en bas, tronçon après tronçon."},
+  {"icone": "WIND", "titre": "Après un coup de vent", "texte": "Dans un vallon, le vent s'engouffre et peut coucher un arbre affaibli. Arbre penché, branche pendante, racines soulevées : nous sécurisons d'abord, puis nous terminons la coupe."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement, retrait du bois mort et dégagement de toiture pour les arbres de Vallorbe, y compris sur talus.",
+  "abattage-demontage": "Démontage en grimpe, tronçon par tronçon, quand la pente ou les bâtiments interdisent l'abattage direct.",
+  "urgence-tempete-arbre-dangereux": "Sécurisation d'un arbre penché ou d'une branche cassée, puis coupe et évacuation.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol, quand le terrain permet d'amener la machine."
+ },
+ "faq": [
+  {"q": "Comment abattre un arbre sur un terrain en pente à Vallorbe ?", "a": "Nous ne l'abattons pas d'un bloc. Un grimpeur monte dans l'arbre et coupe par sections, retenues et freinées à la corde. Le bois est posé à un endroit stable, puis débité ou évacué selon le devis."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Vallorbe ?", "a": "Si l'arbre est protégé, la Municipalité doit l'autoriser par écrit et demande de replanter. Le seuil varie selon le règlement communal du patrimoine arboré. Nous le vérifions et vous indiquons la démarche avant de fixer le chantier."},
+  {"q": "Un arbre mort peut-il être abattu sans attendre ?", "a": "Dans le canton de Vaud, en cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. Nous constatons l'état de l'arbre et vous aidons à présenter la demande."},
+  {"q": "Intervenez-vous au Day et au Creux ?", "a": "Oui, sur l'ensemble de la commune. Lors de la visite, nous regardons surtout l'accès : largeur du chemin, pente, place pour déposer les branches. Cela décide de la méthode et du prix."},
+  {"q": "Le bois peut-il rester sur place ?", "a": "Oui. Si vous gardez le bois pour vous chauffer, nous le débitons à la longueur voulue. Sinon, bois et branches sont évacués. Ce choix figure noir sur blanc dans le devis."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre difficile d'accès à Vallorbe ?",
+ "cta_lead": "Nous venons voir le terrain. Visite et devis gratuits, sans engagement."
+}

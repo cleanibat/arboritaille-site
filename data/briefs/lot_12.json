@@ -1,0 +1,790 @@
+[
+ {
+  "slug": "arboriste-le-locle",
+  "nom": "Le Locle",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 10912,
+  "tier": 1,
+  "npa": "2400 Le Locle, Le Prévoux2416 Les Brenets",
+  "altitude": "1 047 mMin. 907 mMax. 1 312 m",
+  "superficie": "34,66 km2",
+  "densite": "315 hab./km2",
+  "gentile": "Loclois",
+  "langue": "Français",
+  "localites": "Le Locle, Les Brenets, Le Prévoux",
+  "population_detail": null,
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Locle",
+  "intro": "Le Locle (/lə lɔkl/) est une ville et une commune suisse du canton de Neuchâtel, située dans la région des Montagnes Neuchâteloises. Surnommée la « Mère commune des Montagnes », Le Locle comprend environ 10 400 habitants, 8 000 emplois et 900 ans d'histoire. Les domaines de l'horlogerie (Tissot, Zenith, Ulysse Nardin, Montblanc, Rolex, Zodiac, etc.), de la micro-technique et du médical constituent les principaux secteurs de développement économique. En 1848, dans la continuité des événements parisiens, Le Locle — dont le territoire est alors rattaché à la Prusse — devient le berceau de la Révolution neuchâteloise. Le 29 février 1848, les révolutionnaires neutralisent les autorités et le service d'ordre prussiens. Cet acte entraîne la proclamation immédiate de la République. La révolution se répand sur l'ensemble du territoire, depuis les Montagnes et le Val-de-Travers sur le Littoral. Le 1er mars, la République est officiellement proclamée sur l'ensemble du territoire. Comprise dans une agglomération de 50 000 habitants, entourée de forêt, la Ville du Locle, avec sa voisine La Chaux-de-Fonds, est inscrite, depuis 2009, au patrimoine mondial de l'UNESCO pour son « urbanisme horloger ».",
+  "sections": {
+   "Histoire": "Le Locle est mentionné pour la première fois en 1332 comme « dou Locle ». Les premières traces d'établissements humains remontent à la fin du Mésolithique (6000-5000 av. J.-C.) dans les abris du col des Roches. Le site comprend la plus ancienne poterie du canton de Neuchâtel, ainsi que de nombreux outils, la molaire d'un mammouth et des os de cerfs et de sangliers. Le refuge a été découvert en 1926 par un douanier et fut le premier site de ce type étudié en Suisse. Cependant, entre 4000 av. J.-C. et le Moyen Âge, on ne sait rien de la région du Locle. En 1150, Renaud et William de Valangin concédèrent à l'abbaye de Fontaine-André la vallée dans laquelle Le Locle allait être construit par la suite. En 1360, Jean II d'Aarberg, seigneur de Valangin, reçoit Le Locle en fief du comte Louis de Neuchâtel. La partie fortement boisée des montagnes du Jura autour du Locle, a été défrichée par des colons qui ont par la suite reçu le statut de paysans libres. Ces premiers agriculteurs libres ont reçu une charte en 1372 qui codifiait leurs droits et libertés. Au début du XVe siècle, cette charte a été reconfirmée lors de la fondation de la Mairie. Les habitants du Locle ont le droit de posséder les terres qu'ils ont défrichées, à condition qu'ils continuent à les cultiver et à payer des impôts sur celles-ci. Les seigneurs féodaux leur accordèrent ces libertés pour encourager l'installation ",
+   "Culture et patrimoine": "Le Locle, tout comme La Chaux-de-Fonds, doit sa survie à la fabrication et à l'exportation de montres. L'industrie horlogère a été apportée au Locle au XVIIe siècle par Daniel Jeanrichard, un horloger autodidacte qui a encouragé les paysans de la région à se lancer dans la fabrication de composants horlogers pour lui pendant les longs hivers. Au XXe siècle, l'industrie micromécanique s'est ajoutée. Les villes horlogères du Locle et de La Chaux-de-Fonds ont été reconnues conjointement au patrimoine mondial par l'Unesco en 2008 pour « la valeur universelle exceptionnelle de leur urbanisme horloger ». C'est le dixième site suisse inscrit au patrimoine mondial de l'humanité, avec d'autres sites tels que la vieille ville de Berne, le Chemin de fer rhétique et l'abbaye et le couvent de Saint-Gall. Le Temple maçonnique Les Vrais Frères Unis, fondée en 1774, abrite la plus ancienne loge du canton de Neuchâtel. Construit en 1829-1830, l'immeuble de la rue des Envers 37 ne se distingue en rien de l'architecture jurassienne courante du 19e siècle; il abrite en effet commerces et logements aux étages inférieurs et laisse difficilement transparaître la présence des locaux de réunion d'une loge maçonnique à l'étage supérieur. Installé depuis 1830, les Vrais Frères Unis sont propriétaires des lieux depuis 1832. Au fil des années, le bâtiment a connu plusieurs phases d'agrandissement: extensio"
+  },
+  "voisins": [
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "La Chaux-du-Milieu",
+    "slug": "arboriste-la-chaux-du-milieu"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Le Cerneux-Péquignot",
+    "slug": "arboriste-le-cerneux-pequignot"
+   },
+   {
+    "nom": "Les Planchettes",
+    "slug": "arboriste-les-planchettes"
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   },
+   {
+    "nom": "Villers-le-Lac",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-ponts-de-martel",
+  "nom": "Les Ponts-de-Martel",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 1234,
+  "tier": 1,
+  "npa": "2316",
+  "altitude": "1 084 mMin. 987 mMax. 1 330 m",
+  "superficie": "18,23 km2",
+  "densite": "68 hab./km2",
+  "gentile": "Ponlier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "1 234 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Ponts-de-Martel",
+  "intro": "Les Ponts-de-Martel sont une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {
+   "Toponymie": "Bien que le blason comporte un marteau, le nom n'est pas relié à cet objet mais à la tourbière. En effet « Martel, Ponts de — , aussi Martil aux XVIe et XVIIe s., M . N. XXIII, 204 ; de martel, nom générique des marais tourbeux du Jura neuchâtelois. Rien de commun avec Charles Martel ; dérivé de mare, s. m., marais, et double suffixe diminutif maret, maretel »",
+   "Monuments": "L’hôtel du Cerf apparaît dans les archives de l’État de Neuchâtel en 1813, date à laquelle un droit de « Schild » (enseigne) est octroyé au capitaine Benoît Benoît. Son établissement succède alors à un « cabaret » (établissement où l'on sert des boissons) et entretient des liens étroits avec une association locale de tir. Lorsque la propriété est vendue à Frédéric-Louis Robert-Charrue en 1814, le bâtiment s’apparente encore à une maison paysanne avec ses espaces de logement, de grange et d’écurie, en sus du « cabaret »,,,,. En 1869, c’est un maître d’hôtel, Louis-Frédéric Ducommun, qui rachète la propriété, qui est toujours une maison d’habitation à usage d’hôtel, ayant droit de « Schilt » à l’enseigne du Cerf. Deux générations de tenanciers exploiteront l’établissement familial, avant de le céder à Paul-François Arnoud et son épouse en 1909. Le 23 février 1913, un violent incendie ravage l’hôtel récemment modernisé, amenant les propriétaires à se défaire de leur bien au profit d’un entrepreneur local, Paul Gretillat,. Ce dernier fait rapidement reconstruire la partie orientale par l’architecte Jean-Ulysse Debély, mais met deux ans à trouver les fonds pour rétablir le corps principal. Lors de sa réouverture en novembre 1916, l’hôtel du Cerf propose désormais deux grandes salles à manger, des chambres d'hôte, une écurie à chevaux, une grande remise à voitures, ainsi que le confo"
+  },
+  "voisins": [
+   {
+    "nom": "Brot-Plamboz",
+    "slug": "arboriste-brot-plamboz"
+   },
+   {
+    "nom": "La Brévine",
+    "slug": "arboriste-la-brevine"
+   },
+   {
+    "nom": "La Chaux-du-Milieu",
+    "slug": "arboriste-la-chaux-du-milieu"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-sagne",
+  "nom": "La Sagne",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 1090,
+  "tier": 1,
+  "npa": "2314",
+  "altitude": "1 113 mMin. 1 003 mMax. 1 325 m",
+  "superficie": "25,55 km2",
+  "densite": "43 hab./km2",
+  "gentile": "Sagnard",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Sagne",
+  "intro": "La Sagne est une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {
+   "Histoire": "Historiquement située dans la seigneurie de Valangin, La Sagne est connue depuis le XIVe siècle. De nombreuses franchises sont accordées à ses habitants à partir de 1363 par Jean d'Arberg, seigneur de Valangin. Durant les guerres de Bourgogne en 1476, les habitants de La Sagne ainsi que ceux du Locle se placent sous la protection de Berne. La fontaine de la place du village est construite au XVIIIe siècle, mise en service en 1721 et déplacée à son lieu actuel en 1812 afin de construire la route qui mène au Locle sur son précédent emplacement. Cette fontaine est composée de quatre bassins dont chacun avait son utilité spécifique. Le premier bassin servait à récolter l'eau provenant directement de la source et était réservé au bétail, alors que le dernier permettait aux habitants du quartier de faire leurs lessives."
+  },
+  "voisins": [
+   {
+    "nom": "Brot-Plamboz",
+    "slug": "arboriste-brot-plamboz"
+   },
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-brevine",
+  "nom": "La Brévine",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 614,
+  "tier": 1,
+  "npa": "2406",
+  "altitude": "1 113 mMin. 1 033 mMax. 1 305 m",
+  "superficie": "41,82 km2",
+  "densite": "15 hab./km2",
+  "gentile": "Brévinier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "614 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 60,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Brévine",
+  "intro": "La Brévine est une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {
+   "Histoire": "La région est habitée depuis le milieu du XVe siècle. Le village s'appelait alors La Chaux-des-Taillères. Le nom actuel provient de brevena, qui signifie abreuvoir en patois. Le village a été incendié en 1831, et ne compte donc que peu de maisons anciennes. Au milieu du XVIIe siècle, on y découvrit une source martiale, riche en carbonate de fer. Au milieu du XIXe siècle, des bains y furent édifiés, grâce à une subvention du roi Frédéric-Guillaume IV de Prusse qui était alors encore prince de Neuchâtel. Les bains ne sont aujourd'hui plus en fonction. Haut lieu des services de renseignements Franco/Suisse plusieurs passages à la frontière.Le réseau Agir à la borne n°70 de Michel Hollard et le réseau Gilbert à la borne n°73 du colonel Groussard.",
+   "Climat": "La Brévine est caractérisée par un climat très particulier que l'on peut parfois qualifier de micro-climat. Du fait de sa situation géographique qui allie haut-plateau et vallée montagneuse, sous certaines conditions, il n'est pas rare de constater dans le village et la vallée du même nom des températures inférieures d'une dizaine de degrés par rapport à celles relevées dans les villages alentour. Cette situation se rencontre régulièrement dans l'année et plus particulièrement l'hiver. Ainsi, il n'est alors pas rare que, dans la vallée, la température atteigne −30 °C certaines nuits sans nuages et sans vent. Le 12 janvier 1987, la station météorologique a mesuré une température de −41,8 °C. Ce record vaut à ce petit village sa réputation le rendant célèbre dans toute la Suisse. En comparaison, la température la plus élevée jamais mesurée en Suisse est de 41,5 °C à Grono. C'est ce qui justifie à la commune son surnom de Petite Sibérie suisse, considérée comme l'endroit habité de manière permanente le plus froid du pays, bien que de nombreuses autres localités de haute altitude, par exemple Saint-Moritz ou Juf, soient nettement plus froides en moyenne. Cette appellation est à l'origine de l'attrait touristique hivernal du village. Le principe météorologique se cachant derrière ces records de froid est appelé communément le « lac de froid ». Les conditions nécessaires à ceci sont "
+  },
+  "voisins": [
+   {
+    "nom": "Grand'Combe-Châteleu",
+    "slug": null
+   },
+   {
+    "nom": "La Chaux-du-Milieu",
+    "slug": "arboriste-la-chaux-du-milieu"
+   },
+   {
+    "nom": "Le Cerneux-Péquignot",
+    "slug": "arboriste-le-cerneux-pequignot"
+   },
+   {
+    "nom": "Les Gras",
+    "slug": null
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   },
+   {
+    "nom": "Pays-de-Montbenoît",
+    "slug": null
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-chaux-du-milieu",
+  "nom": "La Chaux-du-Milieu",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 494,
+  "tier": 1,
+  "npa": "2405",
+  "altitude": "1 132 mMin. 1 039 mMax. 1 290 m",
+  "superficie": "17,28 km2",
+  "densite": "29 hab./km2",
+  "gentile": "Chaulier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "494 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Chaux-du-Milieu",
+  "intro": "La Chaux-du-Milieu est une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "La Brévine",
+    "slug": "arboriste-la-brevine"
+   },
+   {
+    "nom": "Le Cerneux-Péquignot",
+    "slug": "arboriste-le-cerneux-pequignot"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-le-cerneux-pequignot",
+  "nom": "Le Cerneux-Péquignot",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 313,
+  "tier": 1,
+  "npa": "2414",
+  "altitude": "1 107 mMin. 1 043 mMax. 1 278 m",
+  "superficie": "15,67 km2",
+  "densite": "20 hab./km2",
+  "gentile": "Cerneux ou Cerneunier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "313 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Cerneux-Péquignot",
+  "intro": "Le Cerneux-Péquignot (/lə sɛʀnø pekiɲɔ/ ou /lə sɛʀnə pekiɲɔ/) est une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {
+   "Toponymie": "La première partie du toponyme Le Cerneux-Péquignot (/lə sɛʀnø pekiɲɔ/ ou /lə sɛʀnə pekiɲɔ/) dérive du latin circĭnāre (cerner, enlever l’écorce des arbres) ou directement du verbe cerner, suivi d'un suffixe exprimant la petitesse. Elle signifie « pâturage d’été ou de montagne, pâturage entouré d’une clôture ou d’un mur ». La seconde partie correspond au nom de famille des défricheurs ou propriétaires de la clairière, les Péquignot de Montlebon.",
+   "Histoire": "Alors que Le Cerneux-Péquignot, rattaché au Val de Morteau, avait fait partie de la Franche-Comté et donc appartenu à la France depuis 1678, le village est cédé à la Principauté de Neuchâtel (alors prussienne) par le traité de Paris du 30 mai 1814. La pose des bornes frontières n'interviendra qu'en 1819, une convention du 1er février semblant avoir définitivement fixé le détail du tracé de la frontière entre la France et le nouveau canton de Neuchâtel. Catholiques dans un environnement protestant, les habitants restent longtemps attachés à la France -ainsi peut-on interpréter l'érection en 1866 d'une statue de la Vierge au Gardot, à deux pas de la frontière internationale."
+  },
+  "voisins": [
+   {
+    "nom": "Grand'Combe-Châteleu",
+    "slug": null
+   },
+   {
+    "nom": "La Brévine",
+    "slug": "arboriste-la-brevine"
+   },
+   {
+    "nom": "La Chaux-du-Milieu",
+    "slug": "arboriste-la-chaux-du-milieu"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Montlebon",
+    "slug": null
+   },
+   {
+    "nom": "Villers-le-Lac",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-brot-plamboz",
+  "nom": "Brot-Plamboz",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 300,
+  "tier": 1,
+  "npa": "2318",
+  "altitude": "1 027 mMin. 984 mMax. 1 272 m",
+  "superficie": "16,03 km2",
+  "densite": "19 hab./km2",
+  "gentile": "Brotier",
+  "langue": "Français",
+  "localites": "Brot-Dessus, Les Petits-Ponts, Plamboz",
+  "population_detail": "300 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Brot-Plamboz",
+  "intro": "Brot-Plamboz est une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-planchettes",
+  "nom": "Les Planchettes",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 187,
+  "tier": 1,
+  "npa": "2325",
+  "altitude": "999 mMin. 617 mMax. 1 274 m",
+  "superficie": "11,73 km2",
+  "densite": "16 hab./km2",
+  "gentile": "Planchottier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 45,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Planchettes",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Les Planchettes sont une commune suisse du canton de Neuchâtel, située dans la région Montagnes.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Grand'Combe-des-Bois",
+    "slug": null
+   },
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Villers-le-Lac",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-lac-de-bienne",
+  "nom": "lac de Bienne",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Neuchâtel",
+  "population": 0,
+  "tier": 1,
+  "npa": null,
+  "altitude": "429  m",
+  "superficie": "39,3 km2",
+  "densite": null,
+  "gentile": null,
+  "langue": null,
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": null,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lac_de_Bienne",
+  "intro": "Le lac de Bienne (en allemand : Bielersee ; en italien : Lago di Bienna ; en romanche : Lai da Bienna) est l'un des trois lacs au pied de la chaîne du Jura. Il se situe dans le canton de Berne en Suisse. Le canton de Neuchâtel le borde également à son extrémité ouest.",
+  "sections": {},
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-lac-de-neuchatel",
+  "nom": "lac de Neuchâtel",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Neuchâtel",
+  "population": 0,
+  "tier": 1,
+  "npa": null,
+  "altitude": "429  m",
+  "superficie": "217,9 km2",
+  "densite": null,
+  "gentile": null,
+  "langue": null,
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": null,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lac_de_Neuchâtel",
+  "intro": "Le lac de Neuchâtel, en allemand : Neuenburgersee, est le plus grand lac entièrement suisse. Sa surface est de 217,9 km2. Il fait partie du Pays des Trois-Lacs et sa rive orientale est située sur la frontière linguistique français-allemand et borde le Seeland. Il appartient au bassin versant du Rhin, par son émissaire le canal de la Thielle, puis par le lac de Bienne et l'Aar. Le littoral nord a connu un important développement économique avec l'achèvement du réseau autoroutier régional. Il est aussi connu pour avoir abrité une agglomération celte sur palafittes appelée La Tène et qui donne son nom au second Âge du Fer.",
+  "sections": {},
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-val-de-ruz",
+  "nom": "Val-de-Ruz",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Val-de-Ruz",
+  "population": 17543,
+  "tier": 1,
+  "npa": "2037 Montmollin  2043 Boudevilliers  2046 Fontaines  2052 Fontainemelon  2053 Cernier  2054 Chézard-Saint-Martin  2056 Dombresson  2057 Villiers  2058 Le Pâquier  2063 Engollon, Fenin-Vilars-Saules  2065 Savagnier  2206 Les Geneveys-sur-Coffrane  2207 Coffrane  2208 Les Hauts-Geneveys",
+  "altitude": "760 m",
+  "superficie": "124,26 km2",
+  "densite": "141 hab./km2",
+  "gentile": "Vaudruzien",
+  "langue": "Français",
+  "localites": "Boudevilliers, Les Bugnenets, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin, Fontainemelon, Fontaines, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, La Jonchère, Montmollin, Le Pâquier, Saules, Savagnier, Vilars, Villiers, La Vue des Alpes",
+  "population_detail": "17 543 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 45,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Val-de-Ruz",
+  "intro": "Val-de-Ruz est une commune suisse du canton de Neuchâtel, située dans la région Val-de-Ruz. Avec 17 141 habitants (2020), elle est la troisième commune la plus peuplée du canton après La Chaux-de-Fonds et Neuchâtel et la deuxième commune la plus étendue après Val-de-Travers.",
+  "sections": {
+   "Histoire": "La commune de Val-de-Ruz a été créée le 1er janvier 2013 par la fusion des anciennes communes de Boudevilliers, Cernier, Chézard-Saint-Martin, Coffrane, Dombresson, Engollon, Fenin-Vilars-Saules, Fontainemelon, Fontaines, Les Geneveys-sur-Coffrane, Les Hauts-Geneveys, Montmollin, Le Pâquier, Savagnier et Villiers. Cette fusion a été acceptée par la population de chacune des communes concernées le 27 novembre 2011. Le taux d'approbation a varié de 52,4 % à Fontainemelon à 74,8 % aux Hauts-Geneveys.",
+   "Transports": "La commune de Val-de-Ruz est raccordée depuis 1859 au réseau ferroviaire suisse par la ligne Neuchâtel - La Chaux-de-Fonds - Le Locle-Col-des-Roches avec les gares des Geneveys-sur-Coffrane et des Hauts-Geneveys. Le Val-de-Ruz est desservi par plusieurs lignes de bus des TransN, notamment les lignes : 422 (Neuchâtel; Cernier Centre; Villiers) ; 421 (Neuchâtel; Cernier Centre) ; 423 (Les Hauts-Geneveys; Cernier Centre) ; 424 (Les Geneveys-sur-Coffrane; Cernier Centre; Montmollin)"
+  },
+  "voisins": [
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   },
+   {
+    "nom": "Lignières",
+    "slug": "arboriste-lignieres"
+   },
+   {
+    "nom": "Neuchâtel",
+    "slug": "arboriste-neuchatel"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Renan",
+    "slug": "arboriste-renan"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier"
+   },
+   {
+    "nom": "Sonvilier et Villeret",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-val-de-travers",
+  "nom": "Val-de-Travers",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Val-de-Travers",
+  "population": 10710,
+  "tier": 1,
+  "npa": "2103 Noiraigue  2105 Travers  2108 Couvet  2112 Môtiers  2113 Boveresse  2114 Fleurier  2115 Buttes  2116 Mont-de-Buttes  2123 Saint-Sulpice  2127 Les Bayards",
+  "altitude": "1 034 mMin. 754 mMax. 1 508 m",
+  "superficie": "124,91 km2",
+  "densite": "86 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Boveresse, Buttes, Couvet, Fleurier, Les Bayards, Môtiers, Noiraigue, Saint-Sulpice, Travers",
+  "population_detail": "10 710 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Val-de-Travers",
+  "intro": "Val-de-Travers est une commune suisse du canton de Neuchâtel, située dans la région Val-de-Travers.",
+  "sections": {
+   "Histoire": "Val-de-Travers a été créée le 1er janvier 2009 à la suite de la fusion de neuf anciennes communes : Boveresse, Buttes, Couvet, Fleurier, Les Bayards, Môtiers, Noiraigue, Saint-Sulpice et Travers. La décision de fusion a été approuvée par votation populaire le 24 février 2008. La mairie se trouve au village de Fleurier. Par ailleurs, l'ancienne commune de Môtiers a donné le nom à la place du village (place du 24 février) en mémoire de cette journée historique. Dès 2010, une fête commémorative se déroule tous les 24 février.",
+   "Patrimoine": "L'association Vapeur Val-de-Travers - VVT située à Saint-Sulpice possède la plus grande collection suisse de trains à vapeur. Ces trains permettent de parcourir les différentes régions du Val-de-Travers telles que les gorges de l'Areuse, la région du Creux du Van et le haut plateau jurassien. Les mines d'asphalte du Val-de-Travers, tout particulièrement les mines de la Presta ont connu une grande réputation aux XIXe et XXe siècles."
+  },
+  "voisins": [
+   {
+    "nom": "Boudry",
+    "slug": "arboriste-boudry"
+   },
+   {
+    "nom": "Brot-Plamboz",
+    "slug": "arboriste-brot-plamboz"
+   },
+   {
+    "nom": "Fiez",
+    "slug": null
+   },
+   {
+    "nom": "Fontaines-sur-Grandson",
+    "slug": null
+   },
+   {
+    "nom": "La Brévine",
+    "slug": "arboriste-la-brevine"
+   },
+   {
+    "nom": "La Côte-aux-Fées",
+    "slug": "arboriste-la-cote-aux-fees"
+   },
+   {
+    "nom": "La Grande Béroche",
+    "slug": "arboriste-la-grande-beroche"
+   },
+   {
+    "nom": "Les Alliés",
+    "slug": null
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   },
+   {
+    "nom": "Les Verrières",
+    "slug": "arboriste-les-verrieres"
+   },
+   {
+    "nom": "Mauborget",
+    "slug": null
+   },
+   {
+    "nom": "Pays-de-Montbenoît",
+    "slug": null
+   },
+   {
+    "nom": "Provence",
+    "slug": null
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Sainte-Croix",
+    "slug": "arboriste-sainte-croix"
+   },
+   {
+    "nom": "Tévenon",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-verrieres",
+  "nom": "Les Verrières",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Val-de-Travers",
+  "population": 660,
+  "tier": 1,
+  "npa": "2126",
+  "altitude": "1 165 mMin. 964 mMax. 1 318 m",
+  "superficie": "28,68 km2",
+  "densite": "23 hab./km2",
+  "gentile": "Verrisan",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "660 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 75,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Verrières",
+  "intro": "Les Verrières sont une commune suisse du canton de Neuchâtel, située dans la région Val-de-Travers.",
+  "sections": {
+   "Histoire": "C'est vers 1300, que les premiers habitants s’installent avec le défrichement de la forêt. En 1476, l'avant-garde du Duc de Bourgogne arrive jusqu'à la Tour Bayard (actuellement le Haut de la Tour) et doit rebrousser chemin avant d'incendier une partie des Verrières. En 1776, Mirabeau s'y cacha avec son amante Sophie de Monnier. C'est aux Verrières que fut signée la convention du même nom, le 1er février 1871, lors de l'internement de l'armée du général Bourbaki."
+  },
+  "voisins": [
+   {
+    "nom": "La Côte-aux-Fées",
+    "slug": "arboriste-la-cote-aux-fees"
+   },
+   {
+    "nom": "Les Alliés",
+    "slug": null
+   },
+   {
+    "nom": "Pontarlier",
+    "slug": null
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   },
+   {
+    "nom": "Verrières-de-Joux",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-cote-aux-fees",
+  "nom": "La Côte-aux-Fées",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Val-de-Travers",
+  "population": 467,
+  "tier": 1,
+  "npa": "2117",
+  "altitude": "1 335 mMin. 928 m",
+  "superficie": "12,85 km2",
+  "densite": "36 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "467 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 75,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Côte-aux-Fées",
+  "intro": "La Côte-aux-Fées est une commune suisse du canton de Neuchâtel, située dans la région Val-de-Travers.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Fiez",
+    "slug": null
+   },
+   {
+    "nom": "Les Fourgs",
+    "slug": null
+   },
+   {
+    "nom": "Les Verrières",
+    "slug": "arboriste-les-verrieres"
+   },
+   {
+    "nom": "Sainte-Croix",
+    "slug": "arboriste-sainte-croix"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   },
+   {
+    "nom": "Verrières-de-Joux",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-payerne",
+  "nom": "Payerne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 10938,
+  "tier": 2,
+  "npa": "1530 Payerne  1551 Vers-chez-Perrin",
+  "altitude": "456 m",
+  "superficie": "24,19 km2",
+  "densite": "452 hab./km2",
+  "gentile": "Payernois",
+  "langue": "Français",
+  "localites": "Corges, Etrabloz, Payerne, Vers-chez-Perrin, Vers-chez-Savary",
+  "population_detail": "10 938 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Payerne",
+  "intro": "Payerne (Peterlingen en allemand) est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully, dont elle est le chef-lieu.",
+  "sections": {
+   "Histoire": "Les premières traces d’occupation de la colline au cœur de la ville de Payerne remontent aux IIe – IIIe siècles. À l'écart de la grande ville d’Aventicum, alors capitale de l’Helvétie romaine, une famille influente fait construire une grande villa, un riche établissement rural. Cette famille des Paterni donnera plus tard son nom à la ville : Paterniacum. Le 24 juin 587, l'évêque Marius d'Avenches fonde une première église à Payerne qui deviendra l'église paroissiale. Selon des découvertes archéologiques réalisées en 2016, une seconde église a été fondée au VIIe siècle à un jet de pierre de l'église paroissiale, sous l’abbatiale actuelle. Il s'agit peut-être du cœur d’une première abbaye. Arrivés à Payerne, les moines de Cluny au Xe siècle construisent sur cet emplacement un nouveau monastère. Celui-ci deviendra l'Abbatiale, de style roman avec un clocher gothique. C'est grâce aux dons de sa mère la reine Berthe de Souabe (907-966), dite Berthe la filandiaire, que l'impératrice Adélaïde de Bourgogne (femme d'Otton Ier du Saint-Empire) fit fonder ce monastère. Le 1er mars 1127, le comte palatin de Bourgogne Guillaume III l'Enfant est assassiné dans l'église de Payerne. En 1240, le comte Pierre II de Savoie (1203-1268) accorda à Payerne sa franchise municipale. Illustrée par les souverains bourguignons, et surtout par Berthe de Souabe, Payerne est une des plus anciennes villes de ",
+   "Culture et patrimoine": "La commune compte sur son territoire plusieurs monuments classés comme biens culturels suisses d'importance nationale : l'abbatiale Notre-Dame, de fondation clunisienne, et les anciens bâtiments conventuels, l'ancien tribunal et ancien hôtel de ville, la fontaine du Banneret sur la place attenante et enfin l'église réformée Notre-Dame, dite aussi église paroissiale, par opposition à l'abbatiale, qui clôt la place. Le Collège, ancienne école des filles (1835), a été construit par l'architecte lausannois Henri Perregaux. Général Antoine de Jomini, (1779-1869), général de brigade sous Napoléon Ier, et plus tard général en chef en Russie sou ; Aimée Rapin (1868-1956), femme peintre sans bras de naissance. ; Reine Berthe de Souabe ; Impératrice Adélaïde de Bourgogne ; Francis Piguet, coureur cycliste, né et mort à Payerne. ; Léon Savary, (1895-1968), écrivain et journaliste bourgeois de Payerne. ; Jacques Chessex (1934-2009), écrivain suisse né à Payerne. ; Matthieu Rebeaud (1982-), pilote de motocross freestyle ; Gilbert Kaenel (1949-2020), archéologue ; Karim Sow (2003-), footballeur suisse. ; Jean Arcelin (1962-), artiste peintre, originaire de Payerne.",
+   "Transports": "La gare de Payerne se situe au croisement des lignes ferroviaires de la Broye longitudinale et transversale. Elle est desservie par des lignes vers Lausanne, Kerzers, Yverdon-les-Bains, Fribourg et Berne. Payerne est également desservie par la route principale 1 et l'autoroute A1 Zurich–Berne-Lausanne-Genève."
+  },
+  "voisins": [
+   {
+    "nom": "Corcelles-près-Payerne",
+    "slug": "arboriste-corcelles-pres-payerne"
+   },
+   {
+    "nom": "Grandcour",
+    "slug": null
+   },
+   {
+    "nom": "Trey  Cugy",
+    "slug": null
+   },
+   {
+    "nom": "Estavayer",
+    "slug": "arboriste-estavayer"
+   },
+   {
+    "nom": "Fétigny-Ménières",
+    "slug": "arboriste-fetigny-menieres"
+   },
+   {
+    "nom": "Montagny",
+    "slug": "arboriste-montagny"
+   },
+   {
+    "nom": "Torny",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-moudon",
+  "nom": "Moudon",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 6827,
+  "tier": 2,
+  "npa": "1510",
+  "altitude": "514 m",
+  "superficie": "15,69 km2",
+  "densite": "435 hab./km2",
+  "gentile": "Moudonnois",
+  "langue": "Français",
+  "localites": "Moudon, Bressonnaz",
+  "population_detail": "6 827 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 85,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Moudon",
+  "intro": "Moudon (/mudɔ̃/ Écoutezⓘ) est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully. D'origine celtique, c'est une ville romaine, puis savoyarde et bernoise. C'est le chef-lieu du district de Moudon entre 1798 et 2007. La commune est peuplée de 6 827 habitants en 2025. Son territoire, d'une surface de 1 571 hectares, est traversé par la Broye.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce (/mudɔ̃/), est d'origine celtique. Il est vraisemblablement composé du nom de personne *Minnos et du substantif dūnon, qui désigne une citadelle ou une enceinte fortifiée. Sa première occurrence écrite date d'environ 280, sous la forme de Minnodunum. La commune se nomme Mâodon en patois vaudois.",
+   "Histoire": "Moudon a une origine celtique. C'est un vicus assez important à l'époque romaine, connu sous le nom de Minnodunum ou Minnidunum. Le nom Moudon apparaît en 1161. Une église paroissiale dédiée à saint Étienne est construite au début du christianisme, proche de l'actuelle. Lors des invasions barbares, les habitants construisent une église Notre-Dame, aujourd’hui disparue, sur les hauts de Moudon. En 1011, Moudon passe dans le domaine de l'évêque de Lausanne, qui a beaucoup de pouvoir dans la vallée de la Broye. Le comte Amédée Ier de Genève attaque ces positions et construit un castrum vers 1127, probablement le noyau primitif de la ville haute. Il est conquis par les ducs de Zähringen vers 1190, puis le comte Thomas Ier de Savoie le 1er juin 1207 est investi du château et du territoire de Moudon, à titre de fief d'Empire, par le roi Philippe de Souabe. En 1219, l'évêque reconnaît à la Savoie la possession de Moudon, tout en y restant suzerain. La ville se développe vite pendant le XIIIe siècle. Le noyau primitif s'agrandit. L'église Saint-Étienne est reconstruite dans son état actuel entre le XIIIe et le XIVe siècle. Pierre II de Savoie établit à Moudon le siège du bailliage de Vaud vers 1260. Avant 1268, la ville obtient par le comte de Savoie, soit Pierre, soit son frère Philippe Ier, l'équivalent de « certaines coutumes et franchises ». Elle devient un centre administratif et ",
+   "Culture et patrimoine": "La vieille-ville de Moudon est inscrite comme site ISOS. On y trouve de nombreux monuments datant de la période médiévale, notamment l'ancienne ville appelée « vieux bourg », constituée d'une unique rue traversant une colline fortifiée. Moudon abrite en particulier le château et sa tour romane, la tour de Layaz, la maison seigneuriale de Mézières, la maison seigneuriale de Rochefort, la maison d'Arnay, la maison des États de Vaud, la maison Loys de Villardin, la maison Tacheron, la fontaine de Moïse, la fontaine de la Justice, l'hôtel de ville, l'église réformée Saint-Étienne et enfin la tour de la Broye, tous inscrits comme biens culturels suisses d'importance nationale. Moudon fait partie depuis 2017 de l'association Les plus beaux villages de Suisse. L'arsenal, établi en 1836-1839 en annexe à l'ancien grenier bernois, a été construit selon les plans de l'architecte lausannois Henri Perregaux. Ensemble classé monument historique en 1988. La commune accueille également un grand nombre d'objets inscrits comme biens culturels d'importance régionale dans la liste cantonale dressée en 2009 : l'ancien hôpital de Malte, l'ancien stand, les archives communales, l'hôtel de la poste ancien Hôtel de Ville, le bâtiment des prisons, le château de Billens, le château de Carrouge, la fontaine et statue de la Justice, la gare, l'ancienne école cantonale d'Agriculture, la maison de campagne G"
+  },
+  "voisins": [
+   {
+    "nom": "Montanaire",
+    "slug": "arboriste-montanaire"
+   },
+   {
+    "nom": "Bussy-sur-Moudon",
+    "slug": null
+   },
+   {
+    "nom": "Lucens",
+    "slug": "arboriste-lucens"
+   },
+   {
+    "nom": "Curtilles",
+    "slug": null
+   },
+   {
+    "nom": "Chavannes-sur-Moudon",
+    "slug": null
+   },
+   {
+    "nom": "Vulliens",
+    "slug": null
+   },
+   {
+    "nom": "Syens",
+    "slug": null
+   },
+   {
+    "nom": "Rossenges",
+    "slug": null
+   },
+   {
+    "nom": "Hermenches",
+    "slug": null
+   },
+   {
+    "nom": "Jorat-Menthue",
+    "slug": "arboriste-jorat-menthue"
+   }
+  ]
+ }
+]

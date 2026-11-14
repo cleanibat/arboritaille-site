@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste à La Tour-de-Peilz (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, haubanage, diagnostic et démontage d'arbres à La Tour-de-Peilz (VD), entre parcs de maisons de maître et jardins de ville. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · La Tour-de-Peilz · Riviera",
+ "h1": "Arboriste-grimpeur à <em>La Tour-de-Peilz</em> : soins aux grands arbres de parc et de jardin",
+ "lead": "La Tour-de-Peilz, 13 046 habitants entre Vevey et Montreux, compte un château au bord du lac et plusieurs maisons de maître avec parc. Nous y taillons, haubanons et démontons les arbres en grimpe.",
+ "points": ["Visite et devis gratuits", "Diagnostic avant toute coupe", "Haubanage des grands arbres", "Démontage à la corde près des bâtiments"],
+ "intro_eyebrow": "Vos arbres à La Tour-de-Peilz",
+ "intro_h2": "Maisons de maître, parcs et grands arbres au bord du lac",
+ "intro": "<p>Le patrimoine de La Tour-de-Peilz se lit dans ses domaines : La Doges et son parc, La Faraz, Burier, le château de la Becque, le château de Sully. Le château de la ville, lui, borde le lac depuis le XIIIe siècle.</p><p>Qui dit parc ancien dit, en règle générale, arbres âgés et de grande taille. Ces sujets demandent un regard régulier : bois mort à retirer, charpentière trop longue, fourche à soutenir.</p><p>Avant de couper, nous examinons. Un <a href=\"/diagnostic-expertise-arbre\">diagnostic visuel</a> indique si l'arbre peut rester. Un <a href=\"/haubanage\">haubanage</a> souple ou une taille d'allègement permettent souvent de le garder.</p><p>Hors des domaines, la ville loge ses habitants sur 3,24 km². À cette densité, les jardins sont en général étroits. L'abattage direct y est rarement possible : l'arbre se démonte pièce par pièce.</p>",
+ "faits": [["Habitants", "13 046 (2025)"], ["Altitude", "382 m"], ["District", "Riviera-Pays-d'Enhaut"], ["Depuis Courgenay", "env. 110 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Tour-de-Peilz.</strong> Dans le canton de Vaud, hors forêt, l'abattage d'un arbre protégé et tout élagage qui dépasse l'entretien courant exigent une autorisation écrite préalable de la Municipalité (LPrPNP, BLV 450.11). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune.<br>Un élagage ou un écimage inconsidéré est assimilé à un abattage sans autorisation. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à La Tour-de-Peilz avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Arbres de parc âgés", "texte": "Un grand arbre de parc se suit plutôt qu'il ne se corrige. Nous retirons le bois mort, allégeons les charpentières trop longues et notons l'évolution d'un passage à l'autre."},
+  {"icone": "CABLE", "titre": "Soutenir plutôt qu'abattre", "texte": "Une fourche fendue ou une branche basse très chargée peut être maintenue par un hauban souple. La pose se fait en grimpe et se contrôle ensuite à intervalles réguliers."},
+  {"icone": "HOME", "titre": "Jardins de ville", "texte": "Avec plus de 4 000 habitants au kilomètre carré, les jardins sont en règle générale étroits. Les branches y sont descendues à la corde, entre maison et clôture, sans toucher aux plantations voisines."}
+ ],
+ "services": {
+  "diagnostic-expertise-arbre": "Examen visuel du collet, du tronc et de la couronne d'un grand arbre, avec avis écrit et mesures proposées.",
+  "haubanage": "Pose d'un hauban souple dans la couronne pour maintenir une fourche ou une branche fragile et conserver l'arbre.",
+  "elagage-taille-arbres": "Retrait du bois mort, taille d'allègement et réduction mesurée, dans le respect de la silhouette de l'arbre.",
+  "abattage-demontage": "Démontage par sections quand l'arbre ne peut plus être conservé, avec retenue de chaque pièce près des bâtiments.",
+  "plantation-arbres": "Plantation d'un jeune arbre adapté à la place disponible, avec tuteurage, notamment après un abattage autorisé."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Tour-de-Peilz ?", "a": "Dans le canton de Vaud, l'abattage d'un arbre protégé demande une autorisation écrite de la Municipalité, avec plantation compensatoire. Le seuil dépend du règlement communal. Nous vérifions celui de La Tour-de-Peilz avant d'établir le devis."},
+  {"q": "Un vieil arbre de parc peut-il être conservé plutôt qu'abattu ?", "a": "Souvent, oui. Après un examen du collet, du tronc et de la couronne, nous proposons une taille d'allègement, un retrait du bois mort ou un haubanage. L'abattage n'est conseillé que si la stabilité ne peut plus être assurée."},
+  {"q": "Vous venez de Courgenay : comment se passe une visite à La Tour-de-Peilz ?", "a": "La Tour-de-Peilz est à un peu plus de cent kilomètres de Courgenay à vol d'oiseau. Nous fixons un rendez-vous et regroupons les visites entre Vevey et Montreux. La visite est gratuite et la réponse écrite arrive sous 48 h ouvrées."},
+  {"q": "Qu'est-ce qu'un haubanage ?", "a": "C'est un lien souple posé dans la couronne entre deux branches ou deux troncs. Il limite l'écartement d'une fourche fragile sans blesser l'arbre. Nous le posons en grimpe, après un examen qui confirme que l'arbre peut être conservé."},
+  {"q": "Proposez-vous un suivi pour un domaine ou une copropriété ?", "a": "Oui. Nous dressons une liste des arbres, indiquons pour chacun l'intervention utile et son degré de priorité, puis planifions les travaux par lot. Un compte rendu écrit suit chaque passage."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un grand arbre à faire examiner à La Tour-de-Peilz ?",
+ "cta_lead": "Visite et devis gratuits. Nous regardons l'arbre avant de proposer une taille, un hauban ou un démontage."
+}

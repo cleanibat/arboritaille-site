@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Grandval (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et rognage de souche à Grandval (BE), à 600 m sur la ligne Moutier – Soleure, par un arboriste-grimpeur venu de Courgenay. Devis gratuit.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Grandval · district de Moutier",
+ "h1": "Arboriste-grimpeur à <em>Grandval</em> : taille, abattage et soins aux arbres",
+ "lead": "Grandval, 398 habitants à 600 m, se trouve sur la ligne ferroviaire Moutier – Soleure. Depuis Courgenay, à vingt-cinq kilomètres environ, nous venons tailler, abattre ou planter les arbres des Gravallons.",
+ "points": ["Visite sur place et devis gratuits", "À vingt-cinq kilomètres environ de Courgenay", "Accès par la sortie Moutier-Nord de l'A16", "Taille raisonnée, jamais d'étêtage"],
+ "intro_eyebrow": "Vos arbres à Grandval",
+ "intro_h2": "Un village de 398 habitants sur la ligne Moutier – Soleure",
+ "intro": "<p>Les habitants de Grandval s'appellent les Gravallons. Ils sont 398, sur 8,24 km² et à 600 m d'altitude, dans le district de Moutier. Le train Moutier – Soleure, qui passe par un tunnel, dessert la commune.</p><p>Avec 48 habitants au km², Grandval est peu bâtie. Dans un village de cette taille, les arbres concernés sont en général ceux des jardins, des cours de ferme et des bords de chemin.</p><p>À 600 m, la saison de végétation est en général plus longue qu'en montagne. Un arbre de jardin peut prendre plus de place que prévu : une taille régulière évite d'avoir à l'abattre plus tard.</p>",
+ "faits": [["Habitants", "398 (2025)"], ["Altitude", "600 m"], ["Superficie", "8,24 km²"], ["Depuis Courgenay", "env. 25 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Grandval.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Grandval avant d'intervenir.",
+ "contexte": [
+  {"icone": "SCISS", "titre": "Tailler régulièrement, abattre rarement", "texte": "Un arbre de jardin suivi tous les quelques années garde une taille raisonnable. Nous préférons plusieurs tailles légères à une grosse coupe ou à un abattage."},
+  {"icone": "CABLE", "titre": "Près de la voie Moutier – Soleure", "texte": "Un arbre qui penche vers la ligne se démonte côté opposé, en pièces retenues. L'intervention se coordonne avec l'exploitant si la voie est concernée."},
+  {"icone": "STUMP", "titre": "Souche et replantation", "texte": "Après l'abattage d'un vieil arbre, nous rognons la souche et pouvons replanter au même endroit un sujet mieux adapté à la place disponible."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin et de ferme de Grandval, à 600 m d'altitude.",
+  "abattage-demontage": "Démontage à la corde près des maisons et de la voie ferrée, abattage direct en terrain dégagé. Bois débité ou évacué.",
+  "rognage-souche": "Rognage de souche à la machine après abattage, copeaux laissés ou emportés, terrain prêt à replanter.",
+  "plantation-arbres": "Plantation d'un arbre de remplacement adapté au jardin et à l'altitude, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous à Grandval pour un seul arbre ?", "a": "Oui. Grandval est à vingt-cinq kilomètres environ de Courgenay à vol d'oiseau et la commune est desservie par la sortie Moutier-Nord de l'A16. La visite est gratuite et vous recevez un devis écrit."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Grandval ?", "a": "Pour une haie ou un bosquet, la loi bernoise impose une dérogation de la préfecture avant toute suppression. Pour un arbre isolé, le règlement communal de Grandval désigne les cas soumis à autorisation. Nous nous renseignons avant de fixer la date."},
+  {"q": "Mon arbre pousse vers la voie ferrée, que faire ?", "a": "Contactez-nous avant d'agir. Nous évaluons la situation, puis nous démontons ou réduisons l'arbre en pièces retenues à la corde, du côté opposé à la voie. Si la ligne est concernée, nous coordonnons avec l'exploitant."},
+  {"q": "Quand tailler à 600 m d'altitude ?", "a": "La fin de l'hiver, hors gel, convient aux feuillus, ainsi que le plein été après la pousse. À cette altitude, le débourrement arrive en général plus tôt qu'en montagne. Les haies se taillent en hiver, hors nidification."},
+  {"q": "Peut-on replanter là où un arbre a été abattu ?", "a": "Oui, après rognage de la souche et apport de terre. Nous choisissons avec vous une essence dont la taille adulte correspond à la place disponible, puis nous la plantons avec un tuteurage tripode."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler ou à abattre à Grandval ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées. Nous venons de Courgenay par l'A16."
+}

@@ -1,0 +1,90 @@
+{
+ "title": "Arboriste-grimpeur à Evilard (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Evilard et Macolin, à 697 m au-dessus de Bienne, canton de Berne. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Evilard et Macolin · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Evilard</em> et Macolin : taille, abattage et soins aux arbres",
+ "lead": "Evilard et Macolin dominent Bienne, à près de 700 m d'altitude. Jardins en pente, arbres qui cachent la vue, sujets exposés au vent : nous venons voir et vous remettons un devis gratuit.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Rehaussement de couronne pour retrouver la vue",
+  "Saison de taille adaptée à l'altitude",
+  "Commune bilingue : réponses écrites en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Evilard et Macolin",
+ "intro_h2": "Sur le balcon de Bienne, à près de 700 m",
+ "intro": "<p>Evilard et Macolin forment une commune de 2 706 habitants perchée à 697 m, au-dessus de Bienne. Deux funiculaires relient les deux villages à la ville.</p><p>Plus de 250 m au-dessus de Bienne, l'hiver dure un peu plus longtemps et les sols restent froids au printemps. La saison de taille se décale de quelques semaines par rapport à la plaine.</p><p>À cette hauteur au-dessus de la ville, les jardins sont souvent en pente. Les questions typiques : rehausser une couronne pour retrouver la vue, dégager une façade, sécuriser un arbre incliné au-dessus d'un chemin.</p><p>Commune bilingue à 60 % germanophone, Evilard a refusé en 1902 un projet de fusion avec Bienne. Nous y répondons en français et, par écrit, en allemand.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 706 (2025)"
+  ],
+  [
+   "Altitude",
+   "697 m"
+  ],
+  [
+   "Superficie",
+   "3,68 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Evilard.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Evilard avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "SEARCH",
+   "titre": "Retrouver la vue",
+   "texte": "Un rehaussement de couronne supprime les branches basses ; une fenêtre taillée dans la couronne rouvre une perspective. Dans les deux cas, l'arbre reste entier et équilibré."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Un climat d'altitude",
+   "texte": "À cette altitude, le gel tardif et la neige lourde marquent les arbres. Nous taillons hors des grands froids et retirons les branches cassées par la neige dès la fonte."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Exposition au vent",
+   "texte": "Un versant dégagé reçoit le vent de plein fouet. Les arbres à couronne dense ou déséquilibrée gagnent à être allégés pour réduire leur prise au vent."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Deux langues",
+   "texte": "Evilard et Macolin vivent en allemand et en français. Devis, confirmation et compte rendu sont rédigés dans la langue de votre choix ; sur place, nous parlons français."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Rehaussement et éclaircie pour rouvrir la vue, allègement des couronnes exposées au vent à Evilard et Macolin.",
+  "abattage-demontage": "Démontage à la corde sur les terrains en pente, sans faire rouler les pièces ; abattage direct quand l'espace le permet.",
+  "urgence-tempete-arbre-dangereux": "Après une tempête ou une chute de neige lourde, nous retirons les branches cassées et sécurisons les arbres fragilisés.",
+  "plantation-arbres": "Essences adaptées à près de 700 m d'altitude et à un terrain en pente, plantées à bonne distance de la maison et de la vue."
+ },
+ "faq": [
+  {
+   "q": "Peut-on tailler un arbre pour retrouver la vue depuis Evilard ?",
+   "a": "Oui, sans l'abattre. Un rehaussement de couronne ou une fenêtre taillée dans le feuillage rouvre la perspective. Nous veillons à garder l'arbre équilibré et à ne pas dépasser ce qu'il supporte."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Evilard ou à Macolin ?",
+   "a": "Le canton de Berne protège les haies et bosquets ; les arbres isolés dépendent du règlement communal d'Evilard. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
+  },
+  {
+   "q": "Quand tailler à 700 m d'altitude ?",
+   "a": "Pour la plupart des arbres d'ornement, en hiver, hors grands froids, ou en fin d'été pour les tailles légères. À cette altitude, le débourrement arrive plus tard qu'à Bienne : la fenêtre d'hiver est un peu plus longue."
+  },
+  {
+   "q": "Vous déplacez-vous jusqu'à Macolin ?",
+   "a": "Oui. Evilard et Macolin sont à une trentaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite ; nous la combinons si possible avec d'autres rendez-vous autour de Bienne."
+  },
+  {
+   "q": "Travaillez-vous en allemand ?",
+   "a": "Par écrit, oui : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur le chantier, nous parlons français et montrons ce que nous allons couper avant de commencer."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à tailler ou à abattre à Evilard ou Macolin ?",
+ "cta_lead": "Visite et devis gratuits, en français ou en allemand. Réponse sous 48 h ouvrées."
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Montanaire (VD) : taille, abattage | Arboritaille",
+ "desc": "Élagage, abattage, taille de fruitiers et de haies à Montanaire (VD) : Thierrens, Saint-Cierges, Denezy et six autres villages. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Montanaire · Gros-de-Vaud",
+ "h1": "Arboriste-grimpeur à <em>Montanaire</em> : taille, abattage et soins aux arbres",
+ "lead": "Montanaire réunit neuf villages du Gros-de-Vaud depuis 2013, autour de Thierrens. Dans cette commune à 766 m d'altitude, nous entretenons arbres de ferme, fruitiers et haies, et abattons ce qui doit l'être.",
+ "points": ["Visite et devis gratuits", "Neuf villages desservis", "Taille d'hiver des fruitiers et des haies", "Bois laissé au propriétaire sur demande"],
+ "intro_eyebrow": "Vos arbres à Montanaire",
+ "intro_h2": "Neuf villages, 33 km² et une « petite montagne » pour nom",
+ "intro": "<p>Montanaire tire son nom d'un lieu-dit situé entre Saint-Cierges et Thierrens, qui signifie petite montagne ou colline. La commune est née le 1er janvier 2013 de la fusion de neuf communes. Thierrens en abrite le siège administratif.</p><p>Avec 2 857 habitants sur 33,48 km², la densité reste faible : 85 habitants par km². Un territoire aussi étendu laisse attendre des arbres de ferme, de verger et de bord de chemin plutôt que des arbres de ville.</p><p>À 766 m d'altitude, la neige lourde et le gel pèsent davantage sur les couronnes qu'en plaine. Une <a href=\"/elagage-taille-arbres\">taille d'entretien</a> régulière retire le bois mort avant qu'il ne tombe.</p>",
+ "faits": [["Habitants", "2 857 (2025)"], ["Altitude", "766 m"], ["Superficie", "33,48 km²"], ["Depuis Courgenay", "env. 85 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Montanaire.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Montanaire avant d'intervenir.",
+ "contexte": [
+  {"icone": "SPROUT", "titre": "Fruitiers haute-tige", "texte": "Un vieux fruitier se taille en hiver, légèrement : bois mort et branches qui se croisent. À noter que le règlement-type vaudois protège aussi les fruitiers haute-tige."},
+  {"icone": "MOUNT", "titre": "Neige et gel à 766 m", "texte": "Une branche chargée de neige mouillée casse là où elle était déjà fragile. Nous repérons fourches fendues et branches trop longues, puis les allégeons avant l'hiver."},
+  {"icone": "PIN", "titre": "Un trajet pour plusieurs fermes", "texte": "De Chanéaz à Peyres-Possens, les localités sont distinctes. Nous regroupons les visites par secteur, et plusieurs voisins peuvent partager la même journée de chantier."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des arbres de ferme et taille d'hiver des fruitiers, de Thierrens à Denezy.",
+  "abattage-demontage": "Abattage dirigé en terrain libre, démontage à la corde près des granges et des habitations.",
+  "plantation-arbres": "Plantation d'un arbre adapté à 766 m d'altitude, avec tuteurage tripode et consignes d'arrosage.",
+  "rognage-souche": "Rognage de souche dans une cour ou un verger, pour replanter au même endroit ou remettre en herbe."
+ },
+ "faq": [
+  {"q": "Dans quelles localités de Montanaire vous déplacez-vous ?", "a": "Dans les neuf : Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges et Thierrens. La visite est gratuite quel que soit le village, et le devis écrit suit sous 48 h ouvrées."},
+  {"q": "Quand tailler un arbre à cette altitude ?", "a": "Pour la plupart des feuillus, en hiver, hors période de gel fort. À 766 m, le printemps arrive plus tard qu'en plaine : la fenêtre de taille se prolonge un peu. Nous fixons la date selon l'essence et la météo."},
+  {"q": "L'abattage d'un arbre est-il soumis à autorisation à Montanaire ?", "a": "Oui s'il s'agit d'un arbre protégé au sens du règlement communal. Dans le canton de Vaud, la Municipalité délivre l'autorisation par écrit et demande une plantation compensatoire. Nous vérifions la règle avant d'établir le planning."},
+  {"q": "Puis-je garder le bois de mon arbre ?", "a": "Oui. Nous le débitons à la longueur que vous souhaitez et le laissons en tas accessible. Les branches peuvent être broyées en copeaux, utiles en paillage, ou évacuées. Tout est précisé dans le devis."},
+  {"q": "Que planter pour remplacer un arbre abattu ?", "a": "Le choix dépend du sol, de l'exposition et de la place disponible à l'âge adulte. À 766 m, nous écartons les essences sensibles au gel tardif. Le jeune arbre est tuteuré et vous recevez les consignes d'arrosage."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à entretenir dans l'un des villages de Montanaire ?",
+ "cta_lead": "Visite et devis gratuits, pour un arbre isolé comme pour tout un verger."
+}

@@ -1,0 +1,753 @@
+[
+ {
+  "slug": "arboriste-damphreux-lugnez",
+  "nom": "Damphreux-Lugnez",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Porrentruy",
+  "population": 376,
+  "tier": 1,
+  "npa": "2933 Damphreux, Lugnez",
+  "altitude": null,
+  "superficie": "10,77 km2",
+  "densite": "35 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Damphreux, Lugnez",
+  "population_detail": "376 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 10,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Damphreux-Lugnez",
+  "intro": "Damphreux-Lugnez est une commune suisse du canton du Jura, située dans le district de Porrentruy. La commune est créée le 1er janvier 2023, de la fusion des deux anciennes communes de Damphreux et de Lugnez.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Basse-Allaine",
+    "slug": "arboriste-basse-allaine"
+   },
+   {
+    "nom": "Basse-Vendline",
+    "slug": "arboriste-basse-vendline"
+   },
+   {
+    "nom": "Cœuve",
+    "slug": "arboriste-cuve"
+   },
+   {
+    "nom": "Courcelles",
+    "slug": null
+   },
+   {
+    "nom": "Réchésy",
+    "slug": null
+   },
+   {
+    "nom": "Vendlincourt",
+    "slug": "arboriste-vendlincourt"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-grandfontaine",
+  "nom": "Grandfontaine",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Porrentruy",
+  "population": 362,
+  "tier": 1,
+  "npa": "2908",
+  "altitude": "529 m",
+  "superficie": "8,98 km2",
+  "densite": "40 hab./km2",
+  "gentile": "Gueillemetin",
+  "langue": "Français",
+  "localites": "Grandfontaine",
+  "population_detail": "362 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Grandfontaine_(Jura)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Grandfontaine est une commune suisse du canton du Jura.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Abbévillers",
+    "slug": null
+   },
+   {
+    "nom": "Dannemarie",
+    "slug": null
+   },
+   {
+    "nom": "Fahy",
+    "slug": "arboriste-fahy"
+   },
+   {
+    "nom": "Glay",
+    "slug": null
+   },
+   {
+    "nom": "Haute-Ajoie",
+    "slug": "arboriste-haute-ajoie"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-courchavon",
+  "nom": "Courchavon",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Porrentruy",
+  "population": 332,
+  "tier": 1,
+  "npa": "2922",
+  "altitude": "407 m",
+  "superficie": "6,19 km2",
+  "densite": "54 hab./km2",
+  "gentile": "Baquétrons",
+  "langue": "Français",
+  "localites": "Courchavon, Mormont",
+  "population_detail": "332 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 5,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Courchavon",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Courchavon est une commune suisse du canton du Jura.",
+  "sections": {
+   "Toponymie": "Le nom de la localité dérive du substantif roman corte, qui désigne un domaine agricole ou un hameau et remonte lui-même au latin cohorte, et d'un nom de personne d'origine latine, vraisemblablement Capo. Sa première occurrence écrite date de 1279, sous la forme de Corchauon. L'ancien nom allemand de la commune est Vogtsburg (château du bailli)."
+  },
+  "voisins": [
+   {
+    "nom": "Porrentruy",
+    "slug": "arboriste-porrentruy"
+   },
+   {
+    "nom": "Bure",
+    "slug": "arboriste-bure"
+   },
+   {
+    "nom": "Basse-Allaine",
+    "slug": "arboriste-basse-allaine"
+   },
+   {
+    "nom": "Coeuve",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-fahy",
+  "nom": "Fahy",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Porrentruy",
+  "population": 328,
+  "tier": 1,
+  "npa": "2916",
+  "altitude": "567 m",
+  "superficie": "7,78 km2",
+  "densite": "42 hab./km2",
+  "gentile": "Foyard",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Fahy",
+  "intro": "Fahy est une commune suisse du canton du Jura. C'est un village frontalier, limitrophe de la France, situé entre Abbévillers en France, Bure et Chevenez.",
+  "sections": {
+   "Toponymie": "Le village est attesté en 1177 comme « Fahyl » et en 1438 comme « Fahyt ». Le nom « Fahy » est formé du latin « fāgētu » signifiant « hêtre » et du suffixe « -ētum » qui signifie « lieu planté d'un certain type d'arbres ».",
+   "Histoire": "Une chapelle est mentionnée en 1177 parmi les possessions du prieuré de Lanthenans (Franche-Comté). En 1477, l'évêque de Bâle afferme ses droits sur le village, presque totalement détruit lors des guerres de Bourgogne. L'église Saint-Pierre est construite en 1787-1788 sur des plans de l'architecte Pierre François Paris. Auparavant rattaché à Grandfontaine, Fahy devient une paroisse indépendante en 1802. La commune fait partie de la mairie de Bure et de l'évêché de Bâle jusqu'à la fin de l'Ancien Régime. Français dès 1793 (département du Mont-Terrible, puis du Haut-Rhin), bernois de 1815 à 1978, Fahy adopte un statut de commune mixte en 1836. Le village est resté essentiellement agricole jusque vers 1950. Il amorce ensuite une modeste industrialisation, car il devient la porte d'entrée de la Suisse pour les automobiles Peugeot qui y reçoivent leur dernier équipement."
+  },
+  "voisins": [
+   {
+    "nom": "Abbévillers",
+    "slug": null
+   },
+   {
+    "nom": "Bure",
+    "slug": "arboriste-bure"
+   },
+   {
+    "nom": "Croix",
+    "slug": null
+   },
+   {
+    "nom": "Grandfontaine",
+    "slug": "arboriste-grandfontaine"
+   },
+   {
+    "nom": "Haute-Ajoie",
+    "slug": "arboriste-haute-ajoie"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-neuchatel",
+  "nom": "Neuchâtel",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 45466,
+  "tier": 1,
+  "npa": "2000 Neuchâtel  2001 Neuchâtel 1  2002 Neuchâtel 2  2010 Neuchâtel OFS  2034 Peseux  2035 Corcelles  2036 Cormondrèche  2042 Valangin  2067 Chaumont",
+  "altitude": "725 mMin. 427 mMax. 1 174 m",
+  "superficie": "30,08 km2",
+  "densite": "1 512 hab./km2",
+  "gentile": "Neuchâtelois/Neuchâteloise",
+  "langue": "Français",
+  "localites": "Chaumont, Corcelles, Cormondrèche, La Coudre, Monruz, Peseux, Serrières, Valangin",
+  "population_detail": "45 466 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Neuchâtel",
+  "intro": "Vous lisez un « bon article » labellisé en 2008. Pour les autres significations, voir Neuchâtel (homonymie). Neuchâtel (prononcé /nœʃatɛl/ ou /nøʃatel/ Écoutezⓘ ; en allemand Neuenburg Écouterⓘ) est une ville de Suisse, capitale du canton de Neuchâtel et de l'ancien district de Neuchâtel. Située dans la région Littoral au bord du lac de Neuchâtel, sur le flanc sud du massif du Jura, elle fait face à la chaîne des Alpes. Neuchâtel est citée pour la première fois en 1010. Elle est gérée par des comtes de Neuchâtel jusqu'en 1458, puis est soumise à l'autorité de la famille d'Orléans-Longueville jusqu'en 1707. La ville passe ensuite sous l'autorité des rois de Prusse jusqu'en 1848, tout en ayant dès 1814 adhéré à la Confédération suisse en formant l'État de Neuchâtel. L'économie de la ville a longtemps été liée à l'administration (ville la plus importante de la région) et à l'agriculture (principalement dans les vendanges). Elle a été dominée par le commerce international au XVIIIe siècle, puis par les secteurs secondaire (horlogerie) et tertiaire. Au tournant des XIXe et XXe siècles, plusieurs hôtels sont construits pour soutenir le tourisme qui accompagne le développement du chemin de fer. La région est fortement industrielle avec la chocolaterie Suchard, les forges et scieries Martenet, l'horlogerie et la fabrication d'indiennes qui se développent durant le XIXe siècle et s'effondrent à la fin du XXe siècle. Elle se renouvelle aujourd'hui grâce aux techniques de pointe et développe un pôle de compétences autour du CSEM et d'une antenne de l'École polytechnique fédérale de Lausanne. La ville est également connue pour son université, son club de football, ses activités industrielles de hautes technologies et, sur le plan touristique, pour son bourg médiéval en zone piétonn",
+  "sections": {
+   "Toponymie": "Le nom de la ville est attesté sous les formes latinisées : Novum Castellum, Novum Castrum (XIIe siècle), Neocomum (XVIe siècle, cacographie) et romanes : Nuefchastel, Neufchastel, Neufchatel avant d'être écrite Neuchâtel au milieu du XVIIIe siècle. Il s'agit d'une formation toponymique médiévale composée des éléments d'ancien français nuef, neu(f) « neuf » et chastel « château », d'où le sens global de « château neuf », en référence au château érigé à la fin du Xe siècle sur un promontoire rocheux. L'antéposition de l'adjectif est un phénomène largement attesté dans le Nord et l'Est de la France, ainsi qu'en Belgique et en Suisse romande. Comme dans les différents Neuchâtel, Neufchâtel, Neufchâteau du nord de la France et de Belgique, l'antéposition de l'adjectif reflète l'influence germanique dans le gallo-roman, phénomène dont la toponymie conserve les traces,. Dans le sud de la France, on trouve des formes du type Castelnau caractéristiques de la langue d'oc, parfois francisées en Châteauneuf qui peut être aussi, dans de rares cas, une forme d'oïl plus méridionale ou plus récente, ou encore, traduite d'une autre langue locale. En arpitan, le nom de la ville est Nôchâhtél,. Ce nom était prononcé localement , ; ailleurs dans le canton on disait à La Sagne, aux Planchettes, et aux Éplatures. En Franche-Comté, Neuchâtel était souvent dotée du déterminant complémentaire outre-Jo",
+   "Histoire": "L'histoire de la ville de Neuchâtel,, se confond en bonne partie avec celle du Canton de Neuchâtel. La ville de Neuchâtel étant établie au bord du lac, elle a connu du passage depuis la plus profonde Préhistoire,,. La ville est le principal centre décisionnel du canton dès l'unification avec Valangin (environ 1575), et ce jusqu'à l'industrialisation des communes du Haut à la fin du XVIIIe siècle. La révolution neuchâteloise du 1er mars 1848 partit du Haut pour finir au château de Neuchâtel. La région neuchâteloise tient une place importante dans la préhistoire suisse, et plus largement dans la préhistoire mondiale. L’essor de l’archéologie préhistorique à Neuchâtel est étroitement lié à la découverte des lacustres à partir de 1854. Les multiples prospections menées sur les rives du lac ont en effet permis de mettre au jour de nombreux vestiges d'habitants littoraux divers ayant contribué à l’essor de l’archéologie en Suisse, notamment concernant l’âge du Bronze ainsi que l’âge du Fer. Les sciences naturelles, fortement développées dans le jeune canton de Neuchâtel grâce à l'émulation suscitée par le célèbre savant Louis Agassiz, offraient par ailleurs un terreau naturel favorable au développement de ces recherches préhistoriques, dans la seconde moitié du XIXe siècle. Avec la correction des eaux du Jura (1868-1882), les plaines inondables du Seeland sont asséchées et les berges",
+   "Culture et patrimoine": "Situé à l'extrémité orientale de la commune de Neuchâtel, à environ 1 km à l’ouest du site contemporain d’Hauterive-Champréveyres sur lequel a été érigé le Laténium, le site magdalénien de Monruz a fait l'objet d'une fouille de sauvetage entre 1989 et 1992, soit pendant les opérations archéologiques liées à la construction de l’autoroute A5. Le site est découvert fortuitement en octobre 1989 alors que des travaux de creusement relativement profonds sont réalisés. Aucun sondage n’avait en effet été réalisé avant le commencement des travaux, du fait de l’urbanisation relativement intense de la zone. Le Service cantonal d’archéologie, suspectant la présence de restes archéologiques néolithiques, surveillait toutefois régulièrement la zone, ce qui a occasionné la mise en évidence la présence d’un niveau magdalénien partiellement entamé par les terrassements, à 5 m de profondeur sous le niveau actuel. Deux volumes archéologiques de 66 m2 et 18 m2 ont été isolés et prélevés en bloc, afin d'être fouillés à l'abri de manière fine et exhaustive, tout en permettant la poursuite des travaux de construction de l'autoroute. Étendu sur près de 400 m2, le site de Monruz présente des vestiges dans un état de conservation exceptionnel, ce qui le place parmi les sites en plein air du Paléolithique supérieur européen les plus exceptionnels. En effet, on ne compte pas moins de 40 foyers, autour de"
+  },
+  "voisins": [
+   {
+    "nom": "Cressier",
+    "slug": "arboriste-cressier"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   },
+   {
+    "nom": "Milvignes",
+    "slug": "arboriste-milvignes"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-latena",
+  "nom": "Laténa",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 11752,
+  "tier": 1,
+  "npa": "2068 Hauterive2072 Saint-Blaise2073 Enges2074 Marin-Epagnier2075 Thielle-Wavre",
+  "altitude": null,
+  "superficie": "26,02 km2",
+  "densite": "452 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Enges, Hauterive, Thielle-Wavre, Marin-Epagnier, Saint-Blaise et Voëns",
+  "population_detail": null,
+  "distance_courgenay_km": 45,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Laténa",
+  "intro": "Laténa est une commune suisse du canton de Neuchâtel, située dans la région Littoral.",
+  "sections": {
+   "Histoire": "La commune naît à la suite de la fusion des quatre communes d'Enges, Hauterive, La Tène (composée des localités de Marin-Epagnier et Thielle-Wavre) et Saint-Blaise. Le projet de fusion est accepté, le 26 novembre 2023, par 97,1 % à Enges, 76,9 % à Hauterive, 72,6 % à La Tène et 67 % à Saint-Blaise. Le 20 juin 2024, le conseil général (parlement communal) de Laténa tient sa séance constitutive. À cette occasion, les cinq membres du conseil communal (exécutif) sont élus. La fusion prend effet au 1er janvier 2025. Le siège administratif de la nouvelle commune se trouve à Saint-Blaise."
+  },
+  "voisins": [
+   {
+    "nom": "Champion",
+    "slug": null
+   },
+   {
+    "nom": "Chules",
+    "slug": null
+   },
+   {
+    "nom": "Cornaux",
+    "slug": "arboriste-cornaux"
+   },
+   {
+    "nom": "Cressier",
+    "slug": "arboriste-cressier"
+   },
+   {
+    "nom": "Le Landeron",
+    "slug": "arboriste-le-landeron"
+   },
+   {
+    "nom": "Lignières",
+    "slug": "arboriste-lignieres"
+   },
+   {
+    "nom": "Neuchâtel",
+    "slug": "arboriste-neuchatel"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-milvignes",
+  "nom": "Milvignes",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 9367,
+  "tier": 1,
+  "npa": "2012 Auvernier  2013 Colombier  2014 Bôle",
+  "altitude": "457 m",
+  "superficie": "8,78 km2",
+  "densite": "1 067 hab./km2",
+  "gentile": "Milvinois, Milvinoise",
+  "langue": "Français",
+  "localites": "Auvernier, Bôle, Colombier",
+  "population_detail": "9 367 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Milvignes",
+  "intro": "Milvignes est une commune de la région Littoral dans le canton de Neuchâtel en Suisse.",
+  "sections": {
+   "Histoire": "Elle a été fondée le 1er janvier 2013 à la suite de la fusion des communes d'Auvernier, Bôle et Colombier."
+  },
+  "voisins": [
+   {
+    "nom": "Neuchâtel",
+    "slug": "arboriste-neuchatel"
+   },
+   {
+    "nom": "Boudry",
+    "slug": "arboriste-boudry"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-grande-beroche",
+  "nom": "La Grande Béroche",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 9363,
+  "tier": 1,
+  "npa": "2022 Bevaix  2023 Gorgier  2024 Saint-Aubin-Sauges  2025 Chez-le-Bart  2027 Fresens, Montalchez  2028 Vaumarcus",
+  "altitude": "475 m",
+  "superficie": "42,21 km2",
+  "densite": "222 hab./km2",
+  "gentile": "Grand Bérochau",
+  "langue": "Français",
+  "localites": "Bevaix, Saint-Aubin-Sauges, Gorgier, Vaumarcus, Montalchez et Fresens",
+  "population_detail": "9 363 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 60,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Grande_Béroche",
+  "intro": "Ne doit pas être confondu avec La Béroche. La Grande Béroche est une commune suisse de la région Littoral dans le canton de Neuchâtel.",
+  "sections": {
+   "Toponymie": "La commune porte le nom de la région naturelle de la Béroche. Les habitants se nomment les Grands Bérochaux.",
+   "Histoire": "Elle est fondée le 1er janvier 2018 à la suite de l'acceptation de l'initiative populaire du 27 novembre 2016 sur la fusion entre les communes de Bevaix, Saint-Aubin-Sauges, Gorgier, Vaumarcus, Montalchez et Fresens. La commune est membre de l'association Réseau urbain neuchâtelois (RUN), groupement faîtier des associations de communes du canton de Neuchâtel, et travaille dans ce contexte à la conception d'un plus vaste territoire de collaboration appelé Région Neuchâtel Littoral, avec la Communauté urbaine du Littoral (COMUL) et la Région Entre-deux-Lacs. Cette nouvelle entité devrait voir le jour sous forme associative au plus tard le 30 juin 2019."
+  },
+  "voisins": [
+   {
+    "nom": "Boudry",
+    "slug": "arboriste-boudry"
+   },
+   {
+    "nom": "Cortaillod",
+    "slug": "arboriste-cortaillod"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   },
+   {
+    "nom": "Concise",
+    "slug": null
+   },
+   {
+    "nom": "Mutrux",
+    "slug": null
+   },
+   {
+    "nom": "Provence",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-boudry",
+  "nom": "Boudry",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 6341,
+  "tier": 1,
+  "npa": "2017",
+  "altitude": "603 mMin. 429 mMax. 1 387 m",
+  "superficie": "16,77 km2",
+  "densite": "378 hab./km2",
+  "gentile": "Boudrysan",
+  "langue": "Français",
+  "localites": "Areuse, Boudry, Perreux, Trois-Rods",
+  "population_detail": "6 341 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Boudry_(Neuchâtel)",
+  "intro": "Boudry est une commune de la région Littoral du canton de Neuchâtel en Suisse. Boudry a historiquement été considéré comme une ville.",
+  "sections": {
+   "Histoire": "Le nom de Boudry a une origine germanique. Il est très probablement dérivé d'un nom propre mérovingien, Balderich, latinisé dans les documents anciens en Baldricus, très fréquent, qui signifie « guerrier vaillant ». La localité est mentionnée pour la première fois en 1278, lorsque Sybille de Neuchâtel la lègue à l'une de ses filles. Historiquement, le nom de Boudry apparaît dans des actes des XIIe et XIIIe siècles. Le développement du lieu doit être associé au pont qui permettait de franchir l'Areuse. En 1343, les bourgeois de Boudry reçoivent du comte Louis Ier de Neuchâtel une charte de franchise qui déclare notamment : « Nous, Louis comte et seigneur de Neuchâtel, en notre nom et en celui de nos héritiers, nous déclarons libres nos bourgeois de Boudry et leurs successeurs. Nous les exemptons à perpétuité de toutes tailles et de toutes exactions promettant, nous et nos héritiers, solennellement par serment, de les maintenir eux et leurs successeurs, dans les immunités, libertés, us et coutumes exposés sous la forme et dans la mesure que dessus », qui leur donne des privilèges équivalents à ceux des habitants du chef-lieu et notamment celui de se nommer « Ville de Boudry ». En 1585 Boudry est le théâtre de chasse aux sorcières relatées dans l'ouvrage de Fritz Chabloz de 1868. La veuve Marchand, Elisabeth Besson, Françoise Collin et La Bessone sont condamnées en 1585. Boudry es",
+   "Culture et patrimoine": "La Tour de Pierre est une petite tour-belvédère qui se dresse au milieu des vignes depuis 1876. Propriétaire du domaine de Trois-Rods, Louis-Philippe de Pierre fait édifier un pavillon de plaisance néo-médiéval qui doit sa silhouette castellaire à son couronnement crénelé, ponctué d'une tourelle et d'une échauguette. La tour de Pierre se distingue des nombreux pavillons de plaisance néo-gothiques construits à cette époque par l’emploi d’authentiques éléments médiévaux,. La tradition qui veut que l’architecte ait employé des éléments récupérés lors de la restauration de la Collégiale de Neuchâtel (1867-1875) a été confirmée par les observations archéologiques faites lors des travaux de restauration des façades en 2004 (console, gargouille, pinacle, balustrade et claveaux gothiques). De plus, un courrier adressé en 1872 par Louis-Philippe de Pierre à la Bourgeoisie de Neuchâtel confirme l’intérêt porté par le propriétaire à ces « débris », ainsi que le « sentiment archéologique et en quelque sorte patriotique » qui motive son achat et sa démarche de réappropriation. Aujourd’hui protégée au titre de monument historique, la tour de Pierre sert de caveau de dégustation des vins de Boudry et de lieu d’exposition depuis 1980. Centre de premier accueil du Service cantonal des migrations depuis 2012 et Centre fédéral de requérants d’asile depuis 2014, le site de Perreux est le résultat ",
+   "Transports": "Boudry dispose d'une gare CFF qui est desservie par le train régional Neuchâtel - Gorgier-St.Aubin et Morges - Neuchâtel pendant les heures de pointe. Elle est également desservie par les transports publics neuchâtelois : outre plusieurs lignes de bus, Boudry est le terminus de la ligne 215 du réseau qui est une ligne de tramway à destination de la Place Pury, au centre de Neuchâtel."
+  },
+  "voisins": [
+   {
+    "nom": "Cortaillod",
+    "slug": "arboriste-cortaillod"
+   },
+   {
+    "nom": "La Grande Béroche",
+    "slug": "arboriste-la-grande-beroche"
+   },
+   {
+    "nom": "Milvignes",
+    "slug": "arboriste-milvignes"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cortaillod",
+  "nom": "Cortaillod",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 4769,
+  "tier": 1,
+  "npa": "2016",
+  "altitude": "463 mMin. 428 mMax. 505 m",
+  "superficie": "3,69 km2",
+  "densite": "1 292 hab./km2",
+  "gentile": "Carcoie",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "4 769 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cortaillod",
+  "intro": "Pour l’article homonyme, voir Culture de Cortaillod. Cet article ne cite pas suffisamment ses sources (septembre 2023). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Cortaillod est une commune suisse du canton de Neuchâtel, située dans la région Littoral.",
+  "sections": {
+   "Histoire": "Cette commune a un passé historique vieux de 6 500 ans, puisque les premières traces des ancêtres des carquoies datent du Néolithique. Le village a d'ailleurs donné son nom à trois périodes distinctes entre env. 4500 et 3500 av. J.-C., le Cortaillod ancien, classique et tardif. De nombreux vestiges et notamment des pilotis ont été révélés après la première correction des eaux du Jura, ce qui a suscité un grand intérêt archéologique pour la commune. Les plus importantes fouilles mises sur pied sur le territoire de la commune sont celles, subaquatiques, du site de Cortaillod-Est (Bronze final), de 1981 à 1984. En 2012, la population de Cortaillod a refusé la fusion avec les communes de Boudry et Bevaix, pour créer une commune unique qui aurait eu pour nom Pontareuse, laquelle n'a donc jamais vu le jour. Le 26 novembre 2023, la population de Cortaillod approuve par 61,2% de voix la fusion avec les communes de Boudry et Milvignes, qui aurait vu la création de la commune de « Basse-Areuse », mais celle-ci est refusée en raison du refus de la population de Milvignes.",
+   "Transports": "Cortaillod est desservie par la ligne de bus 613. Les horaires de ces bus sont disponibles sur le site internet des transports publics neuchâtelois ou sur Onde Verte. Cette ligne relie Areuse à Boudry en passant par Cortaillod. Cortaillod est également desservie uniquement en été par la Société de navigation des lacs de Neuchâtel et de Morat."
+  },
+  "voisins": [
+   {
+    "nom": "Boudry",
+    "slug": "arboriste-boudry"
+   },
+   {
+    "nom": "La Grande Béroche",
+    "slug": "arboriste-la-grande-beroche"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-le-landeron",
+  "nom": "Le Landeron",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 4685,
+  "tier": 1,
+  "npa": "2525",
+  "altitude": "629 mMin. 428 mMax. 1 055 m",
+  "superficie": "10,31 km2",
+  "densite": "454 hab./km2",
+  "gentile": "Landeronnais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "4 685 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 40,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Landeron",
+  "intro": "Le Landeron est une commune suisse du canton de Neuchâtel, située dans la région Littoral. Elle est la seule commune neuchâteloise riveraine du lac de Bienne. Bourgade médiévale fortifiée proche de la Thielle et du lac de Bienne, qui, aujourd'hui encore, se présente sous le même aspect qu'il y a plusieurs siècles. La ville du Landeron, fondée en 1325 par Rodolphe IV de Neuchâtel, centre d'une châtellenie, possédait sa propre organisation militaire. En 1449, elle conclut avec Soleure un traité de combourgeoisie qui l'oblige à fournir des soldats à cette ville. Elle doit en mettre aussi au service du comte de Neuchâtel. Hallebardiers, piquiers, couleuvriniers, arbalétriers sont fréquemment mobilisés.",
+  "sections": {
+   "Histoire": "Le nom Le Landeron est apparu pour la première fois en 1209, il a été mentionné dans des écrits du monastère bénédictin d'Erlach. Avant cela le groupe de maisons environnantes était appelé Nugerol. Seules de tout le canton de Neuchâtel, les communes du Landeron, de Cressier, de Lignières et d'Enges ne passèrent pas à la Réforme, créant ainsi un îlot catholique en terre protestante. De 1530 à 1562, le cas du Landeron et de sa région divise le comté de Neuchâtel et trouble les relations entre cantons suisses. Dans leur combat pour le maintien de leur foi, les habitants des deux communes peuvent compter sur le soutien de leurs combourgeois soleurois. L’identité landeronnaise, si particulière - châtellenie catholique dans un État protestant - remonte à ces années-là et à la protection de Soleure. Dans le cadre complexe d’une confédération où règne une paix précaire entre réformés et catholiques, le cas de la châtellenie du Landeron prend une importance sans commune mesure avec la réalité démographique et économique : cette enclave confessionnelle retient l’attention non seulement des réformateurs, Guillaume Farel en tête, mais aussi de personnages influents tels que François Ier ou le duc de Guise. Menaces et prétentions juridiques du côté protestant, mesures de protection et argumentation contraire du côté catholique s’entrecroisent pendant une trentaine d’années. Deux incendies d",
+   "Monuments": "Le village fait partie depuis 2016 de l'association Les plus beaux villages de Suisse. La porte et le faubourg de la ville (la portette vers Saint-Jean étant détruite pour élargir la route) ; Le bourg datant du XIVe siècle L'Hôtel de Ville La chapelle des Dix-Mille Martyrs, datant de 1450 ; Le musée à la Vieille Ville ; La place plantée d'ormeaux ; Les façades datant de 1600 ; Le château du Landeron ; Un mémorial du 7e centenaire des franchises de Nugerol ; La chapelle de Combes ; Une vingtaine de fontaines historiques ; L'église Saint-Maurice",
+   "Transports": " Ligne ferroviaire CFF R16 Bienne - Neuchâtel ; Ligne ferroviaire CFF R13 Bienne - Yverdon-les-Bains ; Ligne de CarPostal 133 en direction de St-Blaise via Marin-Epagnier ; Ligne de CarPostal 131 en direction de Lignières ou de Nods ; Ligne de CarPostal 526 en direction de Erlach (puis de Ins en tant que CarPostal 521) ; Ligne de CarPostal 526 ou 131 en direction de La Neuveville ; Ligne de CarPostal 527 en direction de Ins via Gampelen ; Débarcadère pour les bateaux reliant les lacs de Bienne, Neuchâtel et Morat ; Autoroute A5, sorties 19 (Le Landeron), 20 (La Neuveville)"
+  },
+  "voisins": [
+   {
+    "nom": "Chules",
+    "slug": null
+   },
+   {
+    "nom": "Cressier",
+    "slug": "arboriste-cressier"
+   },
+   {
+    "nom": "La Neuveville",
+    "slug": "arboriste-la-neuveville"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   },
+   {
+    "nom": "Lignières",
+    "slug": "arboriste-lignieres"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cressier",
+  "nom": "Cressier",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 2072,
+  "tier": 1,
+  "npa": "2088",
+  "altitude": "609 mMin. 428 mMax. 1 061 m",
+  "superficie": "8,55 km2",
+  "densite": "242 hab./km2",
+  "gentile": "Cressiacois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "2 072 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 40,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cressier_(Neuchâtel)",
+  "intro": "Cressier est une commune suisse du canton de Neuchâtel, située dans la région Littoral.",
+  "sections": {
+   "Histoire": "La commune a une origine romaine, il s'agissait d'une Villa appartenant à la famille des frontinii qui ont construit un temple dédié à Mars.",
+   "Monuments": "Située sur les hauteurs du village de Cressier, l'église Saint-Martin est le seul édifice religieux médiéval du canton en mains privées. Les fouilles archéologiques effectuées de 2013 à 2016 ont mis au jour des sépultures du VIIe siècle suggérant la présence d’un lieu de culte, alors que des spolia attestent de constructions romaines dans les environs immédiats. Ce n’est qu’en 1180 que les premiers textes d’archives confirment l’existence d’un lieu de culte, une construction de l’époque romane, dont les petites fenêtres en plein cintre ont été repérées dans les murs de la nef. Un clocher détaché du chœur et rehaussé d'arcatures aveugles est rapidement venu signaler l’édifice. Le chœur est rebâti à l'époque gothique, vers 1424, alors qu’une chapelle est aménagée dans le mur sud au début du 16e siècle, suivie d’une sacristie et d’un porche au 17e siècle. Les interventions des 18e et 19e siècles ne porteront plus que sur l’aménagement intérieur,,,. Remplacé par une église néo-gothique édifiée au centre du village de 1873 à 1876, l'ancien lieu de culte est désaffecté et vendu à l'ingénieur Léo Jeanjaquet. L’édifice est mis sous protection au titre de monument historique depuis 1954 ; il a bénéficié de plusieurs chantiers de restauration depuis 1995. En 1872-1873, l’ancienne église Saint-Martin est abandonnée au profit d’un nouveau lieu de culte édifié au centre du village. Alors qu"
+  },
+  "voisins": [
+   {
+    "nom": "Chules",
+    "slug": null
+   },
+   {
+    "nom": "Cornaux",
+    "slug": "arboriste-cornaux"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   },
+   {
+    "nom": "Le Landeron",
+    "slug": "arboriste-le-landeron"
+   },
+   {
+    "nom": "Neuchâtel",
+    "slug": "arboriste-neuchatel"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cornaux",
+  "nom": "Cornaux",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 1684,
+  "tier": 1,
+  "npa": "2087",
+  "altitude": "475 mMin. 428 mMax. 670 m",
+  "superficie": "4,72 km2",
+  "densite": "357 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 40,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cornaux",
+  "intro": "Cornaux (/kɔʀno/) est une commune suisse du canton de Neuchâtel, située dans la région Littoral.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /kɔʀno/, dérive du substantif roman corte, qui désigne un domaine agricole ou un hameau et remonte lui-même au latin cohorte, et du nom de personne germanique Arnald ou Arnold.",
+   "Monuments": "Le domaine de Souaillon se situe dans la campagne entre les villages de Saint-Blaise et de Cornaux ; il se compose à l'origine d’une habitation et d’une grange édifiées à partir de 1718 pour Pierre Chambrier. Les constructions initiales sont progressivement complétées par des corps de bâtiment supplémentaires et de caves de façon à former une véritable « campagne » avec maison de maître et exploitation viticole jouissant d’un des plus beaux jardins à la française conservé à ce jour dans le canton. Créé au début du XVIIIe siècle, il est composé de trois terrasses superposées agrémentées de deux très intéressantes fontaines à décor néoclassique. Une promenade en forme d’allée plantée d’arbres ouvre la perspective en direction de l’ouest pour déboucher sur la campagne environnante,. En 1876, un incendie conduit James-Ferdinand de Pury à moderniser son domaine, en accompagnant la reconstruction de la grange, d’écuries, d’un logement et d’une serre en 1880 ; il agrandit ensuite la maison de maître en 1882 et la dote de tourelles et d’annexes comme un salon d’été. Un cadran solaire orne la façade sud.",
+   "Transports": " Sur la ligne ferroviaire Bienne - Neuchâtel ; Autoroute A5, Sortie 18 ; Arrêt CarPostal à Cornaux gare. Ligne Le Landeron gare - Marin-Epagnier collège"
+  },
+  "voisins": [
+   {
+    "nom": "Chules",
+    "slug": null
+   },
+   {
+    "nom": "Cressier",
+    "slug": "arboriste-cressier"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-rochefort",
+  "nom": "Rochefort",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 1383,
+  "tier": 1,
+  "npa": "2019 Rochefort  2037 Montezillon  2149 Brot-Dessous  2149 Champ-du-Moulin   2149 Fretereules",
+  "altitude": "999 mMin. 523 mMax. 1 390 m",
+  "superficie": "25,84 km2",
+  "densite": "54 hab./km2",
+  "gentile": "Rochefortois",
+  "langue": "Français",
+  "localites": "Brot-Dessous, Chambrelien, Champ-du-Moulin, Fretereules, Les Grattes, Crostand, Montézillon, Rochefort, La Tourne",
+  "population_detail": null,
+  "distance_courgenay_km": 55,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Rochefort_(Neuchâtel)",
+  "intro": "Rochefort est une commune suisse du canton de Neuchâtel, située dans la région Littoral.",
+  "sections": {
+   "Histoire": "Rochefort est très important au niveau du trafic international grâce notamment à la route qui conduit de France à Neuchâtel, par le Val-de-Travers. Tout porte à croire que Rochefort existe depuis fort longtemps. En effet, dans le plus ancien document de l’histoire neuchâteloise, datant de 998, apparaît le nom du village de Broc. Il est quasi certain qu’à ce moment-là, Rochefort, mieux situé, existait déjà. En 1194 enfin, un Humbertus de Rupeforti est cité comme témoin dans l’acte pour lequel l’évêque de Lausanne fait don de la Lance à Fontaine-André. La localité du nom de Rochefort est ainsi attestée. Le château de Rochefort se situait sur le territoire actuel de la commune. Il sera progressivement abandonné, entraînant sa ruine au début du XVIe siècle. Le 14 mars 2013, un groupe de passionnés a fêté la décapitation de Vauthier, seigneur de Rochefort, condamné pour faux et usage de faux. Il fut entre autres l'habitant du château de Rochefort. Cette commémoration a été à l'origine de la création de l’Association des Amis du Château de Rochefort ayant pour but de sauvegarder, pérenniser et mettre à disposition du public le site historique. Cette association a aujourd'hui son propre site internet Château de Rochefort. La revue historique neuchâteloise no 2013/01 est la référence pour l'histoire de ce château. Le 1er janvier 2016, la commune a fusionné avec sa voisine de Brot-Desso"
+  },
+  "voisins": [
+   {
+    "nom": "Boudry",
+    "slug": "arboriste-boudry"
+   },
+   {
+    "nom": "Brot-Plamboz",
+    "slug": "arboriste-brot-plamboz"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Milvignes",
+    "slug": "arboriste-milvignes"
+   },
+   {
+    "nom": "Neuchâtel",
+    "slug": "arboriste-neuchatel"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-lignieres",
+  "nom": "Lignières",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 1101,
+  "tier": 1,
+  "npa": "2523",
+  "altitude": "906 mMin. 746 mMax. 1 440 m",
+  "superficie": "12,51 km2",
+  "densite": "88 hab./km2",
+  "gentile": "Beuquiat",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "1 101 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lignières_(Neuchâtel)",
+  "intro": "Lignières est une commune suisse du canton de Neuchâtel, située dans la région Littoral.",
+  "sections": {
+   "Toponymie": "Il s'agit d'un ancien linarium, linaria, un « lieu où on cultive le lin ».",
+   "Histoire": "Cet article ne cite pas suffisamment ses sources (janvier 2011). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Les premières occupations du territoire ligniérois nous ont laissé peu de choses : des pierres à cupules ainsi qu'une hache de l'âge du bronze. Le premier vestige imposant d'une installation humaine sur ce plateau jurassien situé à 800 m d'altitude, est sans conteste la villa romaine, occupée dès le IIe siècle. L'interprétation des fouilles qui y ont été faites en 1907 souligne l'importance de ce bâtiment situé à proximité de la Vy d'Etraz. L'histoire documentée commence avec un privilège du pape Alexandre III daté de 1179. On sait que c'est un faux, mais peut-on retenir ce document comme étant la première attestation de Lignières ? C'est en tout cas le début des conflits qui opposeront les comtes de Neuchâtel et les évêques de Bâle et qui ne trouveront une solution stable qu'au milieu du XIVe siècle. On aboutit à la mise en place d'un partage des pouvoirs et donc de l'exercice de la justice sur la juridiction de Lignières, où Berne trouvera également sa part. Cet enchevêtrement institutionnel durable ne prendra fin qu'avec le congrès de Vienne qui att",
+   "Transports": " Ligne de bus Nods - Lignières - Le Landeron - La Neuveville ; Débarcadère des bateaux reliant le lac de Bienne à celui de Neuchâtel ; Autoroute A5, Sortie 19 ou 20 (Le Landeron)"
+  },
+  "voisins": [
+   {
+    "nom": "La Neuveville",
+    "slug": "arboriste-la-neuveville"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   },
+   {
+    "nom": "Le Landeron",
+    "slug": "arboriste-le-landeron"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-chaux-de-fonds",
+  "nom": "La Chaux-de-Fonds",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 37858,
+  "tier": 1,
+  "npa": "2300",
+  "altitude": "1 039 mMin. 605 mMax. 1 321 m",
+  "superficie": "55,66 km2",
+  "densite": "680 hab./km2",
+  "gentile": "Chaux-de-Fonnier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "37 858 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 40,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Chaux-de-Fonds",
+  "intro": "La Chaux-de-Fonds (/la.ʃo.d(e).fɔ̃/) est une ville suisse du canton de Neuchâtel, située à environ 70 km au nord-ouest de Berne dans le massif du Jura, dont la commune est limitrophe de la France. La Chaux-de-Fonds est inscrite depuis juin 2009 avec sa voisine Le Locle sur la liste du patrimoine mondial de l'Unesco pour son « urbanisme horloger ». Cette notion reflète la manière dont les besoins particuliers d'une activité mono-industrielle, l'horlogerie, ont marqué l'urbanisation de la ville, entremêlant habitat et ateliers. Avec 37 858 habitants recensés à la fin de l'année 2025, c'est la deuxième plus grande commune du canton de Neuchâtel, derrière la ville de Neuchâtel (45 466 habitants en décembre 2025). La commune a été fondée en 1656 et doit son essor et sa renommée à l'horlogerie et à la microtechnique. Entièrement détruite par un incendie en 1794, la ville a été reconstruite selon un plan en damier qui est aujourd'hui encore une originalité au sein des villes suisses. L'urbanisme particulier et l'activité principalement industrielle ont fait dire à Karl Marx que la cité était une « ville-manufacture ». L'architecte Le Corbusier, le navigateur Laurent Bourgnon, l'écrivain Blaise Cendrars et le constructeur d'automobiles Louis Chevrolet y sont nés. Elle est un centre reconnu de l'Art nouveau ayant donné naissance à une forme de cet art connue sous le nom de Style sapin. À ce titre, elle est membre du Réseau Art Nouveau Network.",
+  "sections": {
+   "Toponymie": "La signification et l'origine du nom de la ville ne font pas l'unanimité. Le mot « Chaux » vient de la racine pré-indo-européenne calmis dont le sens est « plateau aride, maigre pâturage ». Le mot « fonds » semble inspiré du mot latin fons, fontem signifiant « source, fontaine ». L'explication la plus probable établit un rapport avec Fontaines (Val de Ruz). À l'origine, « La Chaux de Fonds » aurait donc été un pâturage d'été utilisé par les habitants de Fontaines. Vers 1350, le lieu-dit s'appelle la Chaz de Fonz (Chaz qui désigne en patois vaudois les pâturages où le calcaire jurassique affleure et qui sont impropres à la culture, puis vers 1378 Chault de Font. Vers 1420 Chauz de fonds et vers 1438 Chaud de Fond. On trouve également l'orthographe La Chaux de Fons (sans tiret et sans la lettre d). La commune est familièrement désignée sous le nom de La Tchaux.",
+   "Histoire": "À l'époque épipaléolithique (10300 - 9000 av. J.-C.), quelques vestiges attestent de la présence de l'homme de Cro-Magnon dans la région, par exemple à la grotte du Bichon dans les côtes du Doubs où un crâne humain et d'autres fragments furent découverts en 1956. Il existe un chemin de chaille nommé « chemin des Romains », dont la toponymie reste obscure et autour duquel aucune fouille archéologique n'a été entreprise, puisque l'histoire officielle débute bien plus tard que l'époque romaine. Les premiers colons arrivent probablement au XIe siècle ou XIIe siècle dans les Montagnes neuchâteloises et sont principalement originaires du Val-de-Ruz, région qui appartient alors à la seigneurie de Valangin. À cette époque, les montagnes sont recouvertes de ce qu'on appelle les Noires Joux (la forêt) et les fonds de vallée sont marécageux. Il faut donc d'abord défricher les terres avant de pouvoir les exploiter. Pendant longtemps, les montagnes de Valangin ne sont utilisées que pour l'estivage du bétail. Les colons arrivent d'abord dans les vallées de La Sagne et du Locle, car le premier chemin ne passe pas sur le sol chaux-de-fonnier. Malgré le climat rude et le sol peu productif, des colons finissent par s'installer définitivement dès le milieu du XIVe siècle dans les montagnes et sont affranchis de certaines obligations par le seigneur de Valangin, ceci certainement afin de favoriser"
+  },
+  "voisins": [
+   {
+    "nom": "Bonnétage",
+    "slug": null
+   },
+   {
+    "nom": "Fournet-Blancheroche",
+    "slug": null
+   },
+   {
+    "nom": "Grand'Combe-des-Bois",
+    "slug": null
+   },
+   {
+    "nom": "La Ferrière",
+    "slug": "arboriste-la-ferriere"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Les Bois",
+    "slug": "arboriste-les-bois"
+   },
+   {
+    "nom": "Les Planchettes",
+    "slug": "arboriste-les-planchettes"
+   },
+   {
+    "nom": "Renan",
+    "slug": "arboriste-renan"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ }
+]

@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Scheuren : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur pour Scheuren (BE), district de Bienne : taille, abattage, démontage et plantation d'arbres. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Scheuren · District de Bienne",
+ "h1": "Arboriste-grimpeur à <em>Scheuren</em> : taille, abattage et soins aux arbres",
+ "lead": "Scheuren occupe 2,1 km² dans le district de Bienne, à 430 m d'altitude. Nous nous déplaçons depuis Courgenay, à environ trente-cinq kilomètres, pour tailler, démonter ou planter vos arbres. Visite et devis gratuits.",
+ "points": ["Visite sur place et devis gratuits", "Travail à la corde, jardin préservé", "Devis rédigé en allemand sur demande", "Bois débité ou évacué, terrain nettoyé"],
+ "intro_eyebrow": "Vos arbres à Scheuren",
+ "intro_h2": "Un territoire compact où les arbres poussent près des limites",
+ "intro": "<p>Avec 538 habitants et à peine 2,1 km², Scheuren est une petite commune du district de Bienne. Elle partage son numéro postal, 2556, avec <a href=\"/arboriste-schwadernau\">Schwadernau</a>.</p><p>Sur un territoire aussi réduit, un arbre se trouve rarement loin d'une maison, d'une route ou d'une parcelle voisine. Les questions de surplomb, d'ombre et de feuilles dans les chéneaux reviennent souvent.</p><p>Nous répondons par une taille mesurée : dégager la façade, relever la couronne au-dessus du passage, réduire le côté qui déborde. L'abattage n'est proposé que si l'arbre est dangereux ou condamné.</p><p>Scheuren étant germanophone, le devis peut être rédigé en allemand.</p>",
+ "faits": [["Habitants", "538 (2025)"], ["Altitude", "430 m"], ["Superficie", "2,1 km²"], ["Depuis Courgenay", "env. 35 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Scheuren.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle de Scheuren avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Voisinage proche", "texte": "Quand les parcelles sont petites, une branche qui déborde devient vite un sujet entre voisins. Nous coupons en limite de propriété proprement, en préservant l'équilibre de l'arbre."},
+  {"icone": "SCISS", "titre": "Taille de dégagement", "texte": "Relever la couronne au-dessus d'un chemin, écarter les branches d'un toit ou d'une ligne : des coupes ciblées, sur bois secondaire, qui évitent l'étêtage et ses rejets."},
+  {"icone": "SHIELD", "titre": "Haies et bosquets bernois", "texte": "La loi bernoise protège haies et bosquets dans leur état actuel. Les tailler est permis, les supprimer non. Nous le rappelons avant d'accepter un recépage complet."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et de dégagement pour les arbres de jardin de Scheuren, avec une attention aux limites de parcelle.",
+  "abattage-demontage": "Démontage par morceaux quand la place manque, descente des billes à la corde, souche laissée ou rognée selon votre choix.",
+  "diagnostic-expertise-arbre": "Un doute sur la solidité d'un arbre proche de la maison du voisin ? Nous l'examinons et vous donnons un avis écrit."
+ },
+ "faq": [
+  {"q": "Vous venez à Scheuren pour un petit chantier ?", "a": "Oui. Un seul arbre à dégager ou une haie à rabattre justifie une visite. Scheuren est à environ trente-cinq kilomètres de Courgenay et, quand c'est possible, nous regroupons les rendez-vous du district de Bienne."},
+  {"q": "La branche de mon voisin dépasse chez moi, pouvez-vous la couper ?", "a": "Nous intervenons avec l'accord du propriétaire de l'arbre. Dans une commune compacte comme Scheuren, un échange préalable entre voisins évite les malentendus ; nous pouvons expliquer la coupe prévue aux deux parties."},
+  {"q": "Faut-il annoncer l'abattage d'un arbre à la commune de Scheuren ?", "a": "Dans le canton de Berne, cela dépend du règlement communal et de la situation de l'arbre. Nous nous renseignons auprès de l'administration de Scheuren et vous indiquons la démarche si une demande est nécessaire."},
+  {"q": "Peut-on supprimer une haie en limite de parcelle ?", "a": "Une haie peut être taillée ou recépée partiellement. Sa suppression complète relève de la protection cantonale et demande une dérogation de la préfecture, avec compensation. Nous vous conseillons avant toute décision."},
+  {"q": "Le devis peut-il être en allemand ?", "a": "Oui. La visite se déroule en français, puis le devis et les échanges écrits peuvent être rédigés en allemand, pour les particuliers comme pour les gérances et la commune."}
+ ],
+ "cta_img": "demontage_saule_bienne",
+ "cta_h2": "Un arbre ou une haie à traiter à Scheuren ?",
+ "cta_lead": "Visite et devis gratuits. Nous intervenons avec un matériel léger, adapté aux petits jardins."
+}

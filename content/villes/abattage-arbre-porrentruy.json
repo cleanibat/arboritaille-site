@@ -1,0 +1,68 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-porrentruy",
+ "h1_plain": "Abattage et démontage d'arbres à Porrentruy",
+ "title": "Abattage et démontage d'arbres à Porrentruy (JU) | Arboritaille",
+ "desc": "Abattage d'arbres à Porrentruy : démontage à la corde entre les bâtiments, abattage à la grue, bois débité ou évacué. Visite et devis gratuits.",
+ "hero_img": "abattage_arbre_porrentruy-6",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Abattage · Porrentruy",
+ "h1": "Abattage et démontage d'arbres à <em>Porrentruy</em>",
+ "lead": "À Porrentruy, ville voisine de Courgenay, nous démontons les arbres à la corde ou les levons à la grue quand ils surplombent un bâtiment. Les photos d'abattage de ce site y ont été prises.",
+ "points": [
+  "Visite et devis gratuits",
+  "Démontage à la corde, section par section",
+  "Abattage à la grue quand il le faut",
+  "Bois débité sur place ou évacué"
+ ],
+ "intro_eyebrow": "Porrentruy",
+ "intro_h2": "Corde ou grue : deux manières d'abattre en ville",
+ "intro": "<p>Porrentruy, chef-lieu de district en Ajoie, est à moins de dix kilomètres de Courgenay. En ville, abattre un arbre revient souvent à travailler au-dessus d'une rue, d'un toit ou d'un mur. La méthode se choisit lors de la visite.</p><p>Premier cas, le démontage à la corde. Le grimpeur coupe des sections courtes, retenues puis descendues une à une. C'est la solution des cours et des jardins sans accès pour un camion.</p><p>Second cas, la grue. Quand l'arbre surplombe un bâtiment et que la rue permet de l'installer, elle lève les sections entières vers la chaussée. Nos photos d'abattage à la grue viennent de Porrentruy.</p><p>Dans les deux cas, le tronc est débité au sol. Le bois reste chez vous ou part avec les branches.</p>",
+ "contexte": [
+  {
+   "icone": "CRANE",
+   "titre": "Grue et occupation de la rue",
+   "texte": "Une grue demande un emplacement stable et, souvent, une rue ou un trottoir fermé le temps du levage. Nous préparons cette organisation à l'avance et l'intégrons au devis."
+  },
+  {
+   "icone": "SHIELD",
+   "titre": "Au-dessus des toits et des trottoirs",
+   "texte": "Sans grue, chaque pièce est retenue à la corde avant d'être posée. Le périmètre est balisé, les passants sont tenus à distance et rien ne tombe librement."
+  },
+  {
+   "icone": "AXE",
+   "titre": "Tronc et bois",
+   "texte": "Après l'abattage, le tronc est débité sur place, comme sur notre photo prise à Porrentruy. Le bois reste chez vous en longueurs convenues ou part avec les branches."
+  },
+  {
+   "icone": "STUMP",
+   "titre": "La souche",
+   "texte": "Une souche laissée en place gêne la tonte et la replantation. Elle peut être <a href=\"/rognage-souche\">rognée sous le niveau du sol</a>, dans la foulée ou lors d'un second passage."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Porrentruy.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement.<br>En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. En forêt, tout abattage passe par le service forestier (LFo art. 21). Nous vérifions auprès de la Ville de Porrentruy la règle applicable à votre arbre avant de fixer une date.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Porrentruy ?",
+   "a": "La loi cantonale protège haies, bosquets, arbres isolés et allées ; en zone à bâtir, le règlement communal de Porrentruy fixe les cas soumis à autorisation. Nous posons la question à la Ville avant de fixer une date."
+  },
+  {
+   "q": "Dans quels cas proposez-vous la grue à Porrentruy ?",
+   "a": "Quand l'arbre surplombe un toit ou une rue, que son bois est trop fragile pour y grimper en sécurité, ou que le démontage à la corde serait très long. Il faut aussi un emplacement stable pour la grue. Son coût figure dans le devis."
+  },
+  {
+   "q": "Mon jardin n'a aucun accès pour un véhicule : est-ce un problème ?",
+   "a": "Non. Le démontage à la corde ne demande qu'un passage à pied. Les sections sont posées dans le jardin, débitées, puis sorties à la main. Nous prévoyons simplement plus de temps pour l'évacuation."
+  },
+  {
+   "q": "Que faites-vous du bois et des branches ?",
+   "a": "Vous choisissez. Le tronc peut être débité en longueurs de chauffage et laissé sur place. Les branches sont broyées ou évacuées. Le terrain est ratissé et les accès sont nettoyés avant notre départ."
+  },
+  {
+   "q": "Un arbre penche après un coup de vent : que faire ?",
+   "a": "Appelez-nous et envoyez une photo si possible. Nous commençons par sécuriser la zone, puis nous décidons avec vous de la suite : haubanage provisoire, démontage partiel ou abattage complet. Tenez-vous à distance de l'arbre en attendant."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Porrentruy ?",
+ "cta_lead": "Visite et devis gratuits, à la corde ou à la grue selon le site."
+}

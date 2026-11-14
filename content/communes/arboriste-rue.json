@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Rue (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Rue, bourg médiéval de la Glâne, et dans ses neuf localités. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Rue · Glâne",
+ "h1": "Arboriste-grimpeur à <em>Rue</em> : taille, abattage et soins aux arbres",
+ "lead": "Rue, bourg médiéval de la Glâne, rassemble neuf localités, d'Auboranges à Villangeaux. Arbres de jardin, fruitiers ou arbres de bord de route : nous venons les voir depuis Courgenay et vous remettons un devis écrit gratuit.",
+ "points": [
+  "Travail en rétention près du bâti ancien",
+  "Visite et devis gratuits dans les neuf localités",
+  "Taille des fruitiers haute-tige en hiver",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Rue",
+ "intro_h2": "Un bourg médiéval et neuf villages dans la Glâne",
+ "intro": "<p>Rue compte 2 638 habitants sur 20,03 km². Autour du bourg et de son château, reconstruit dès 1251, la commune regroupe Auboranges, Blessens, Chapelle, Écublens, Eschiens, Gillarens, Promasens et Villangeaux.</p><p>Le territoire descend de 830 m à 557 m. Entre les hameaux les plus hauts et les points bas, le débourrement est décalé de plusieurs jours, ce dont nous tenons compte pour planifier les tailles.</p><p>Dans un bourg ancien comme Rue, les arbres voisinent avec des bâtiments classés, telle la Chapellenie, de structure gothique tardif. Nous y travaillons en rétention, pièce par pièce, pour ne rien endommager.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 638 (2025)"
+  ],
+  [
+   "Altitude",
+   "557 à 830 m"
+  ],
+  [
+   "District",
+   "Glâne"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 90 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Rue.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Rue avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "SHIELD",
+   "titre": "Autour du château et de la Chapellenie",
+   "texte": "La Chapellenie, d'origine médiévale, est classée monument historique ; le château a été reconstruit dès 1251. Près de murs aussi anciens, nous descendons chaque branche à la corde et protégeons toitures et sols."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Neuf localités",
+   "texte": "D'Auboranges à Villangeaux, les villages de la commune sont dispersés sur 20 km². Nous organisons les visites par secteur et indiquons sur le devis le lieu précis de chaque intervention."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Fruitiers et plantations",
+   "texte": "Dans les villages ruraux, les fruitiers haute-tige sont fréquents et demandent une taille d'hiver légère. Quand un arbre est en bout de course, nous proposons un jeune sujet adapté au sol et au climat du secteur."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, dégagement de façade ou réduction de couronne pour les arbres du bourg de Rue et de ses villages.",
+  "abattage-demontage": "Démontage en rétention près des bâtiments anciens, abattage direct en terrain dégagé.",
+  "plantation-arbres": "Remplacement d'un fruitier ou plantation d'un arbre d'ombrage, avec tuteurage tripode et conseils de suivi."
+ },
+ "faq": [
+  {
+   "q": "Travaillez-vous dans le bourg de Rue, près du château ?",
+   "a": "Oui. Dans un bourg ancien, la place manque souvent pour laisser tomber les branches. Nous grimpons dans l'arbre, coupons par sections et descendons chaque pièce à la corde pour protéger murs, toitures et sols."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Rue ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme désigne les arbres protégés. Hors zone à bâtir, haies, bosquets et grands arbres d'intérêt paysager demandent une dérogation de la commune, avec compensation. Nous vérifions avant d'intervenir."
+  },
+  {
+   "q": "Intervenez-vous aussi à Promasens, Gillarens ou Auboranges ?",
+   "a": "Oui, dans les neuf localités de la commune. Nous venons depuis Courgenay, à une nonantaine de kilomètres, et regroupons les rendez-vous d'un même secteur. La visite reste gratuite."
+  },
+  {
+   "q": "Quand tailler un vieux fruitier ?",
+   "a": "En hiver, hors gel, avant le débourrement. Nous retirons le bois mort, aérons la couronne et conservons la charpente. Un rabattage sévère affaiblit l'arbre : nous l'évitons."
+  },
+  {
+   "q": "Que devient le bois coupé ?",
+   "a": "Il est débité en bûches pour votre chauffage ou évacué, selon le devis. Les branches sont broyées sur place ou emportées. Nous laissons le terrain propre."
+  }
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Rue ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Nous venons depuis Courgenay."
+}

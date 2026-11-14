@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Marly (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Marly (FR), de Marly-le-Grand à Chésalles, en bordure de Sarine. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Marly · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Marly</em> : taille, abattage et soins aux arbres",
+ "lead": "Marly-le-Grand, Marly-le-Petit et Chésalles forment la commune de Marly, 9 566 habitants au sud de Fribourg. Nous y taillons et abattons vos arbres, des villas aux abords de la Sarine. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Arbres des quartiers des années 1950 à maturité", "Travail en grimpe sur talus et berges", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Marly",
+ "intro_h2": "Les arbres plantés avec l'essor industriel ont pris de l'âge",
+ "intro": "<p>Marly a connu un grand développement industriel dans les années 1950, avec une forte croissance de la population. Marly-le-Grand et Marly-le-Petit ont fusionné en 1970, Chésalles les a rejoints en 1976.</p><p>Les quartiers nés à cette époque ont aujourd'hui plus de soixante ans. Dans des quartiers de cet âge, les arbres plantés à la construction atteignent leur taille adulte : couronnes qui touchent les toits, racines sous les dallages.</p><p>Le pont de Pérolles, de 1922, enjambe la Sarine à 70 m de hauteur vers Fribourg. Sur les talus d'une rivière, les arbres poussent souvent penchés : on les traite en grimpe et à la corde.</p><p>Le vieux village garde son église attestée dès 1294, la chapelle Saint-Sébastien et des maisons patriciennes comme la maison Carry de 1664. Près de ces bâtiments, nous taillons avec retenue.</p>",
+ "faits": [["Habitants", "9 566 (2025)"], ["Altitude", "622 m"], ["NPA", "1723"], ["Depuis Courgenay", "env. 70 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Marly.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de la commune de Marly avant d'intervenir.",
+ "contexte": [
+  {"icone": "CLOCK", "titre": "Arbres de soixante ans", "texte": "Un arbre planté à la construction d'une villa des années 1950 ou 1960 est aujourd'hui adulte. Une réduction de couronne ou un allègement l'adapte à la parcelle sans l'étêter."},
+  {"icone": "MOUNT", "titre": "Talus de la Sarine", "texte": "Sur un talus de rivière, un arbre instable se démonte par sections, pièces retenues à la corde. Rien ne doit rouler vers le bas."},
+  {"icone": "HOME", "titre": "Vieux village et maisons patriciennes", "texte": "Autour de l'église, de la cure et des maisons anciennes, la chute d'une branche coûte cher. Nous allégeons les couronnes qui surplombent toitures et murs."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne et allègement des arbres adultes des quartiers de Marly, dégagement des toitures.",
+  "abattage-demontage": "Démontage par sections sur les talus de la Sarine et entre les villas, abattage direct quand la place le permet.",
+  "diagnostic-expertise-arbre": "Examen de stabilité d'un arbre de soixante ans ou d'un arbre de berge, avec avis écrit.",
+  "haubanage": "Hauban dynamique pour conserver un arbre penché ou une fourche fragile.",
+  "rognage-souche": "Souche rognée sous le niveau du sol pour replanter ou engazonner."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Chésalles comme à Marly-le-Grand ?", "a": "Oui, dans toutes les localités de la commune de Marly. La visite et le devis sont gratuits. Nous venons de Courgenay, à une septantaine de kilomètres, et répondons sous 48 h ouvrées."},
+  {"q": "Mon arbre des années 1960 touche le toit : faut-il l'abattre ?", "a": "Rarement. Une réduction de couronne bien menée dégage la toiture de plusieurs mètres tout en gardant l'arbre en forme. L'abattage ne s'impose que si le tronc ou l'ancrage sont atteints, ce que nous vérifions sur place."},
+  {"q": "Qui autorise l'abattage d'un arbre à Marly ?", "a": "En zone à bâtir, la commune, selon son règlement communal d'urbanisme qui fixe les arbres protégés. Hors zone à bâtir, la loi fribourgeoise protège les boisements d'intérêt écologique ou paysager. Nous vérifions avant le devis."},
+  {"q": "Un arbre du talus menace de tomber dans la Sarine : que faire ?", "a": "Ne vous approchez pas du bord. Nous sécurisons l'arbre en grimpe, le démontons par sections retenues à la corde et évacuons les pièces par le haut. Les arbres voisins du talus sont contrôlés."},
+  {"q": "Peut-on garder le bois de chauffage ?", "a": "Oui. Nous débitons le tronc et les grosses branches en bûches ou en billons que vous conservez. Le reste est broyé ou évacué. Ce choix figure dans le devis et change son montant."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre adulte à adapter à votre parcelle à Marly ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

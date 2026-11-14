@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Longeau (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Longeau (Lengnau), canton de Berne, de la plaine de l'Aar aux hauteurs, à 1 199 m. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Longeau · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Longeau</em> : taille, abattage et soins aux arbres",
+ "lead": "Longeau s'étage de la plaine de l'Aar à près de 1 200 m d'altitude. Arbres de jardin, arbres d'usine ou lisière de forêt : nous venons voir sur place, puis vous recevez un devis écrit et gratuit, en français ou en allemand.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Nous distinguons arbre de jardin et arbre de forêt",
+  "Démontage à la corde, sans dégât au sol",
+  "Réponses écrites en allemand possibles"
+ ],
+ "intro_eyebrow": "Vos arbres à Longeau",
+ "intro_h2": "De la plaine de l'Aar à près de 1 200 m : deux mondes sur une commune",
+ "intro": "<p>Longeau, Lengnau en allemand, s'étage de 430 m à 1 199 m d'altitude, entre la plaine de l'Aar et les hauteurs. Son nom apparaît vers 983-1002 sous la forme Lengenach.</p><p>Ancien village agricole devenu cité horlogère entre 1889 et 1927, Longeau compte aujourd'hui 5 800 habitants. Une douzaine de fabricants de montres et de pièces d'horlogerie y ont ouvert des usines à cette époque.</p><p>La plaine a été drainée par la correction des eaux du Jura au XIXe siècle. En terrain plat et ouvert, les grands arbres isolés prennent le vent ; un contrôle des charpentières évite bien des casses.</p><p>Sur les pentes qui montent vers 1 199 m, un arbre a de bonnes chances de se trouver en forêt : tout abattage y passe alors par le service forestier. Nous vous aidons à savoir de quel côté se trouve votre arbre.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "5 808 (2025)"
+  ],
+  [
+   "Altitude",
+   "430 à 1 199 m"
+  ],
+  [
+   "Superficie",
+   "7,38 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Longeau.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. En forêt, l'abattage requiert l'autorisation du service forestier. Nous vérifions la règle en vigueur à Longeau avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Près de 800 m de dénivelé",
+   "texte": "Entre le bas et le haut de la commune, le climat change : neige plus longue, sols plus froids en haut. Les essences adaptées et les périodes de taille dépendent de l'altitude de votre parcelle."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Un héritage horloger",
+   "texte": "Un arbre planté à l'époque où les fabriques horlogères ont ouvert, entre 1889 et 1927, a aujourd'hui un siècle ou plus. Nous l'allégeons plutôt que de l'abattre, quand son état le permet."
+  },
+  {
+   "icone": "DOC",
+   "titre": "Écrire en allemand",
+   "texte": "Longeau est germanophone. Devis, rapports et courriers peuvent être rédigés en allemand ; sur place, nous travaillons en français et prenons le temps d'expliquer chaque geste."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement de couronne et taille d'entretien pour les grands arbres de la plaine, exposés au vent, et pour les arbres de jardin.",
+  "abattage-demontage": "Abattage direct quand l'espace le permet, démontage à la corde près des maisons et des bâtiments d'entreprise de Longeau.",
+  "rognage-souche": "Après un abattage, la souche est rognée sous le niveau du sol pour replanter, semer du gazon ou poser une terrasse.",
+  "diagnostic-expertise-arbre": "Arbre creux, champignon au pied, branche fendue : nous l'examinons et vous remettons un avis écrit avec des options."
+ },
+ "faq": [
+  {
+   "q": "Vous déplacez-vous jusqu'à Longeau depuis Courgenay ?",
+   "a": "Oui. Longeau est à une trentaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite ; nous la groupons si possible avec d'autres rendez-vous du district de Bienne."
+  },
+  {
+   "q": "Mon arbre est en lisière de forêt à Longeau : qui décide ?",
+   "a": "Si l'arbre fait partie de la forêt, le service forestier doit autoriser l'abattage. S'il est isolé dans un jardin, c'est le règlement communal qui s'applique. Nous clarifions la situation avec vous avant toute coupe."
+  },
+  {
+   "q": "Peut-on supprimer une haie entre deux parcelles ?",
+   "a": "Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel. L'entretien est permis, pas la suppression sans dérogation de la préfecture. Nous vous orientons selon votre cas."
+  },
+  {
+   "q": "Quand tailler un arbre sur les hauteurs ?",
+   "a": "Pour les arbres d'ornement, l'hiver reste la période la plus simple, hors grands froids. Les fruitiers se taillent en fin d'hiver. En altitude, la saison démarre quelques semaines plus tard qu'en plaine."
+  },
+  {
+   "q": "Travaillez-vous en allemand à Longeau ?",
+   "a": "Par écrit, oui : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur le chantier, nous parlons français et montrons ce que nous allons couper avant de commencer."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-15",
+ "cta_h2": "Un arbre à tailler ou à abattre à Longeau ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

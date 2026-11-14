@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Sainte-Croix : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, mise en sécurité et haubanage d'arbres à Sainte-Croix, L'Auberson et La Sagne (VD), à 1 094 m d'altitude. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Sainte-Croix · Jura-Nord vaudois",
+ "h1": "Arboriste-grimpeur à <em>Sainte-Croix</em> : taille, abattage et soins aux arbres",
+ "lead": "Sainte-Croix se trouve à 1 094 m, entre Yverdon-les-Bains, Fleurier et Pontarlier. Neige lourde, gel, hivers longs : nous taillons, sécurisons et abattons vos arbres en tenant compte de l'altitude.",
+ "points": ["Visite et devis gratuits", "Allègement avant la neige", "Dégagement de façades et de toitures", "L'Auberson, La Sagne et les hameaux"],
+ "intro_eyebrow": "Vos arbres à Sainte-Croix",
+ "intro_h2": "À 1 094 m, des arbres qui vivent avec la neige",
+ "intro": "<p>Sainte-Croix compte 5 156 habitants à 1 094 m d'altitude, dans la chaîne du Jura. La commune couvre 39,42 km² et réunit plusieurs localités, dont L'Auberson, La Sagne, La Chaux, Culliairy et La Vraconnaz.</p><p>À cette altitude, l'hiver est long. La neige lourde charge les branches, le gel ouvre les fourches fragiles. Épicéas et érables, fréquents en montagne jurassienne, n'y réagissent pas de la même manière.</p><p>Le bourg a grandi avec l'industrie : boîtes à musique dès le début du XIXe siècle, puis mécanique de précision. Près de maisons de cet âge, un arbre a eu le temps de dépasser le toit.</p><p>Nous venons de Courgenay, à quelque huitante kilomètres à vol d'oiseau. Les chantiers se planifient hors neige. La visite, gratuite, sert à repérer l'arbre, l'accès et la place de dépôt.</p>",
+ "faits": [["Habitants", "5 156 (2025)"], ["Altitude", "1 094 m"], ["Superficie", "39,42 km²"], ["Depuis Courgenay", "env. 80 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Sainte-Croix.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. En forêt, le service forestier décide. Nous vérifions la règle de Sainte-Croix avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Neige lourde, branches cassées", "texte": "Une branche chargée de neige casse là où elle était déjà faible. Nous retirons le bois mort, allégeons les charpentières trop longues et haubanons les fourches à risque avant l'hiver."},
+  {"icone": "TREE", "titre": "Résineux contre la façade", "texte": "Un épicéa planté trop près d'une maison prive le logement de lumière et inquiète par grand vent. Nous dégageons la façade ou démontons l'arbre par sections, selon son état."},
+  {"icone": "PIN", "titre": "Localités dispersées", "texte": "De Culliairy à La Vraconnaz, la commune s'étend sur près de 40 km². Lors de la visite, nous repérons le chemin, le portail et l'endroit où déposer bois et branches."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Retrait du bois mort, allègement et dégagement de façade pour les arbres de Sainte-Croix exposés à la neige.",
+  "abattage-demontage": "Démontage par sections des résineux proches des maisons, abattage direct en terrain dégagé.",
+  "haubanage": "Hauban souple posé dans la couronne pour soutenir une fourche fragile avant l'hiver.",
+  "urgence-tempete-arbre-dangereux": "Mise en sécurité d'une branche cassée ou d'un arbre couché par la neige ou le vent."
+ },
+ "faq": [
+  {"q": "Quand tailler un arbre à Sainte-Croix, à plus de 1 000 m ?", "a": "La saison utile est plus courte qu'en plaine. Nous taillons les feuillus hors période de gel et retirons le bois mort dès que l'accès est praticable. La date se fixe lors de la visite, selon l'essence et l'enneigement."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Sainte-Croix ?", "a": "Pour un arbre protégé hors forêt, la Municipalité doit donner son accord écrit et demande une plantation compensatoire. Le seuil de protection dépend du règlement communal du patrimoine arboré. Nous nous renseignons avant d'intervenir."},
+  {"q": "Mon arbre est en lisière : forêt ou jardin ?", "a": "En forêt, tout abattage passe par le service forestier. Hors forêt, c'est la Municipalité qui se prononce pour un arbre protégé. La limite ne suit pas toujours la clôture : nous posons la question avant de chiffrer."},
+  {"q": "Intervenez-vous à L'Auberson et à La Vraconnaz ?", "a": "Oui, dans toutes les localités de la commune. Nous venons de Courgenay, à quelque huitante kilomètres, et groupons les rendez-vous du Jura-Nord vaudois. La visite et le devis écrit sont gratuits."},
+  {"q": "Une branche a cassé sous la neige, que faire ?", "a": "Ne restez pas sous l'arbre et ne tirez pas sur la branche. Appelez le 078 306 53 04 : nous évaluons la situation, <a href=\"/urgence-tempete-arbre-dangereux\">mettons en sécurité</a> ce qui menace, puis reprenons la coupe proprement."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à sécuriser avant l'hiver à Sainte-Croix ?",
+ "cta_lead": "Visite et devis gratuits. Réponse écrite sous 48 h ouvrées."
+}

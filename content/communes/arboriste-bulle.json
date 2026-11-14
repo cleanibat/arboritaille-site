@@ -1,0 +1,90 @@
+{
+ "title": "Arboriste-grimpeur à Bulle (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Bulle et La Tour-de-Trême, pour particuliers, gérances et entreprises. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "demontage_d-arbre_retention",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Bulle · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>Bulle</em> : taille, abattage et soins aux arbres",
+ "lead": "Bulle, chef-lieu de la Gruyère, compte plus de 27 000 habitants avec La Tour-de-Trême. Arbres d'immeubles, de villas, de parcs ou d'entreprises : nous les taillons, démontons ou remplaçons. Visite et devis gratuits.",
+ "points": [
+  "Démontage en rétention dans les espaces exigus",
+  "Plans d'entretien pour gérances et entreprises",
+  "Visite sur place et devis gratuits",
+  "Rues et parkings dégagés en fin de chantier"
+ ],
+ "intro_eyebrow": "Vos arbres à Bulle",
+ "intro_h2": "Bulle et La Tour-de-Trême : des arbres en ville",
+ "intro": "<p>Bulle est la deuxième ville du canton de Fribourg par la population, avec 27 276 habitants. Depuis 2024, son agglomération réunit neuf communes et environ 40 000 habitants. Bulle est à une nonantaine de kilomètres de Courgenay.</p><p>Le centre ancien conserve le château de style savoyard et l'église Saint-Pierre-aux-Liens, reconstruite après l'incendie de 1805. Dans un centre de ce type, rues, cours et jardins sont souvent exigus : chaque pièce est descendue à la corde.</p><p>La commune s'étage de 730 à 1 170 m. Plus on monte, plus vent et neige sollicitent les couronnes. Pour les gérances et les entreprises, nous établissons un état des arbres et un plan d'entretien par étapes.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "27 276 (2025)"
+  ],
+  [
+   "Altitude",
+   "730 à 1 170 m"
+  ],
+  [
+   "District",
+   "Gruyère"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 90 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Bulle.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Bulle avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "USERS",
+   "titre": "Gérances et copropriétés",
+   "texte": "Les arbres d'un immeuble demandent un suivi régulier. Nous relevons les sujets à risque, proposons un calendrier de travaux sur plusieurs années et chiffrons chaque étape séparément."
+  },
+  {
+   "icone": "SHIELD",
+   "titre": "Centre ancien",
+   "texte": "Autour de la Grand-Rue et du château, dans la ville historique, les cours sont souvent étroites et les façades proches. Nous travaillons en grimpe, descendons chaque pièce à la corde et protégeons les sols."
+  },
+  {
+   "icone": "CRANE",
+   "titre": "Grue quand l'espace manque",
+   "texte": "Pour un grand arbre coincé entre des immeubles, une grue peut lever les sections au-dessus des toits. Nous l'organisons et l'intégrons au devis quand c'est la solution la plus sûre."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "De 730 à 1 170 m",
+   "texte": "En général, les secteurs les plus élevés connaissent des hivers plus rudes. Nous y privilégions des essences rustiques et des couronnes allégées, qui tiennent sous la neige et le vent."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction de couronne et dégagement de façade pour les arbres de jardin, de cour et de rue de Bulle.",
+  "abattage-demontage": "Démontage en rétention, avec grue si nécessaire, dans les espaces exigus du centre et des quartiers d'immeubles.",
+  "collectivites-entreprises": "État des arbres, priorisation et plan pluriannuel pour gérances, copropriétés, entreprises et services communaux.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un arbre douteux, avis écrit sur son état et sur les mesures à prendre, avant toute décision d'abattage."
+ },
+ "faq": [
+  {
+   "q": "Intervenez-vous à La Tour-de-Trême comme à Bulle ?",
+   "a": "Oui, sur tout le territoire communal, La Tour-de-Trême comprise. Nous venons depuis Courgenay, à une nonantaine de kilomètres, et regroupons les visites en Gruyère. La visite et le devis sont gratuits."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Bulle ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme désigne les arbres protégés. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune, avec compensation. Nous vérifions auprès de la Ville avant d'intervenir."
+  },
+  {
+   "q": "Comment démontez-vous un arbre dans une cour d'immeuble ?",
+   "a": "En grimpe, par sections, chaque pièce étant retenue par une corde et déposée au sol. Si l'espace est vraiment réduit, une grue lève les tronçons au-dessus des bâtiments. Les accès et parkings sont balisés."
+  },
+  {
+   "q": "Proposez-vous un suivi pour une gérance ?",
+   "a": "Oui. Nous dressons un état des arbres de chaque immeuble, signalons les sujets à surveiller et proposons un plan d'entretien étalé sur plusieurs années, avec un devis par étape pour vos assemblées."
+  },
+  {
+   "q": "Pouvez-vous dire si un arbre est dangereux ?",
+   "a": "Nous réalisons un examen visuel du tronc, du collet et de la couronne, puis vous remettons un avis écrit. Si l'arbre peut être conservé avec une taille ou un haubanage, nous le disons."
+  }
+ ],
+ "cta_img": "abattage_arbre_porrentruy-6",
+ "cta_h2": "Un arbre à voir à Bulle ou à La Tour-de-Trême ?",
+ "cta_lead": "Visite et devis gratuits pour particuliers, gérances et entreprises. Réponse sous 48 h ouvrées."
+}

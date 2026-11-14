@@ -1,0 +1,37 @@
+{
+ "title": "Arboriste-grimpeur à Val-de-Travers : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et démontage d'arbres à Val-de-Travers (NE) : Fleurier, Couvet, Môtiers, Travers, Noiraigue, de 754 à 1 508 m. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Val-de-Travers · Fleurier, Couvet, Môtiers",
+ "h1": "Arboriste-grimpeur à <em>Val-de-Travers</em> : taille, abattage et démontage d'arbres",
+ "lead": "Val-de-Travers rassemble neuf villages et 10 710 habitants, de Noiraigue aux Bayards. Du fond de la vallée aux hauteurs du plateau, nous taillons, abattons et démontons vos arbres. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Neuf villages, de Noiraigue aux Bayards", "Démontage à la corde sur les versants", "À environ 65 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres à Val-de-Travers",
+ "intro_h2": "De 754 à 1 508 m : une vallée, deux étages d'arbres",
+ "intro": "<p>Neuf villages forment depuis 2009 la commune de Val-de-Travers : Noiraigue, Travers, Couvet, Môtiers, Boveresse, Fleurier, Buttes, Saint-Sulpice et Les Bayards. La mairie se trouve à Fleurier.</p><p>Le territoire va de 754 à 1 508 m, sur 124,91 km². En bas, les villages et leurs jardins. Plus haut, le plateau jurassien et un climat de montagne, où épicéas et érables sont en général fréquents.</p><p>Gorges de l'Areuse, Creux du Van : le relief est marqué. Sur un versant, un arbre ne s'abat pas d'une pièce. Il se démonte à la corde, section après section.</p>",
+ "faits": [["Habitants", "10 710 (2025)"], ["Altitude", "754 à 1 508 m"], ["Superficie", "124,91 km²"], ["Depuis Courgenay", "env. 65 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Val-de-Travers.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Val-de-Travers avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Au fond de la vallée", "texte": "Dans les villages, les arbres côtoient maisons, ateliers et lignes. Nous taillons pour dégager les façades et démontons par tronçons quand la place manque."},
+  {"icone": "MOUNT", "titre": "Sur les hauteurs", "texte": "Vers 1 000 m et au-delà, le calendrier se décale de plusieurs semaines par rapport au fond de la vallée. La taille suit le rythme de chaque étage."},
+  {"icone": "CRANE", "titre": "Quand l'accès se complique", "texte": "Si ni l'abattage direct ni la corde ne conviennent, une grue peut soulever les tronçons par-dessus un bâtiment. Cette option est étudiée lors de la visite."},
+  {"icone": "USERS", "titre": "Une mairie pour neuf villages", "texte": "Les questions d'autorisation se posent à la même commune, que l'arbre soit à Buttes ou à Noiraigue. Nous nous renseignons avant d'établir le calendrier."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, dégagement de façade et allègement pour les arbres des villages de Val-de-Travers.",
+  "abattage-demontage": "Abattage direct, démontage à la corde ou à la grue selon l'accès et la pente.",
+  "urgence-tempete-arbre-dangereux": "Arbre couché, fendu ou suspendu sur un versant : mise en sécurité depuis Courgenay, puis devis.",
+  "collectivites-entreprises": "Devis par arbre ou par lot pour la commune, les gérances et les entreprises de la vallée.",
+  "rognage-souche": "Souche rognée sous le niveau du sol après l'abattage."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans les neuf villages de Val-de-Travers ?", "a": "Oui : Fleurier, Couvet, Môtiers, Travers, Noiraigue, Boveresse, Buttes, Saint-Sulpice et Les Bayards. La visite et le devis sont gratuits. Nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Val-de-Travers ?", "a": "Haies et bosquets sont protégés par la loi neuchâteloise sur tout le canton. Pour un arbre isolé, le règlement communal fait foi. Nous vérifions la règle en vigueur avant d'intervenir, quel que soit le village."},
+  {"q": "Comment abattre un arbre sur un versant raide ?", "a": "Le grimpeur monte dans l'arbre et le découpe depuis la cime. Chaque section est retenue par une corde et déposée à l'endroit choisi. Rien ne roule vers les maisons ou la route en contrebas."},
+  {"q": "La taille se fait-elle à la même période partout dans la vallée ?", "a": "Non. Entre 754 et 1 508 m, le débourrement n'a pas lieu au même moment. Les feuillus du fond de la vallée se taillent plus tôt en fin d'hiver que ceux des hauteurs."},
+  {"q": "Soixante-cinq kilomètres : venez-vous pour un seul arbre ?", "a": "Oui. La distance depuis Courgenay est d'environ 65 km à vol d'oiseau. La visite reste gratuite et sans engagement, et le devis vous parvient par écrit."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-6",
+ "cta_h2": "Un arbre à tailler ou à démonter à Val-de-Travers ?",
+ "cta_lead": "Visite et devis gratuits, de Noiraigue aux Bayards."
+}

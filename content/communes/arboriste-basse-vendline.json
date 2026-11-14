@@ -1,0 +1,33 @@
+{
+ "title": "Arboriste-grimpeur à Basse-Vendline : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et démontage d'arbres à Basse-Vendline (Bonfol, Beurnevésin), dans le canton du Jura, à env. 10 km de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Basse-Vendline · Bonfol et Beurnevésin",
+ "h1": "Arboriste-grimpeur à <em>Basse-Vendline</em> : arbres de berge, de jardin et de ferme",
+ "lead": "Basse-Vendline réunit Bonfol et Beurnevésin depuis 2024, le long de la Vendline. À une dizaine de kilomètres de Courgenay, nous taillons et démontons vos arbres, au bord de l'eau comme au jardin. Visite et devis gratuits.",
+ "points": ["Bonfol et Beurnevésin", "Démontage retenu près de la rivière", "Règle communale vérifiée pour vous", "Visite et devis gratuits"],
+ "intro_eyebrow": "Vos arbres à Basse-Vendline",
+ "intro_h2": "Deux villages le long de la Vendline, une commune depuis 2024",
+ "intro": "<p>Basse-Vendline est une commune récente : Bonfol et Beurnevésin ont fusionné le 1er janvier 2024. Elle doit son nom à la Vendline, la rivière qui traverse les deux villages.</p><p>Un cours d'eau change la façon de travailler. En règle générale, un arbre de berge pousse vite, s'incline vers la lumière au-dessus de l'eau et s'ancre dans un sol humide. Chaque coupe se prépare.</p><p>La commune compte 741 habitants sur 18,67 km², dans le district de Porrentruy. Depuis Courgenay, il faut compter une dizaine de kilomètres à vol d'oiseau.</p><p>Jardin, ferme ou bord de rivière : nous regardons l'arbre avec vous avant de chiffrer quoi que ce soit.</p>",
+ "faits": [["Habitants", "741"], ["Superficie", "18,67 km²"], ["District", "Porrentruy"], ["Depuis Courgenay", "env. 10 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Basse-Vendline.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Basse-Vendline, pour Bonfol comme pour Beurnevésin, avant d'intervenir.",
+ "contexte": [
+  {"icone": "CABLE", "titre": "Au bord de la Vendline", "texte": "Un arbre penché sur l'eau se démonte par petites sections tenues à la corde. Rien ne doit finir dans le lit de la rivière ni arracher la berge."},
+  {"icone": "DOC", "titre": "Une fusion toute récente", "texte": "La commune existe depuis le 1er janvier 2024. Nous demandons à l'administration quelle règle s'applique à votre parcelle, à Bonfol comme à Beurnevésin, avant de fixer une date."},
+  {"icone": "SEARCH", "titre": "Regarder le pied de l'arbre", "texte": "En sol humide, c'est souvent au collet et aux racines que les faiblesses apparaissent. Nous contrôlons le pied avant de monter dans la couronne."}
+ ],
+ "services": {
+  "abattage-demontage": "Démontage par sections retenues pour les arbres penchés ou proches de l'eau, d'une maison ou d'une route.",
+  "elagage-taille-arbres": "Allègement des branches lourdes, suppression du bois mort et réduction de couronne sur les arbres de berge et de jardin.",
+  "diagnostic-expertise-arbre": "Contrôle du pied, du tronc et de la couronne quand un arbre s'incline ou perd des branches."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Bonfol comme à Beurnevésin ?", "a": "Oui. Les deux villages forment la commune de Basse-Vendline depuis le 1er janvier 2024. Nous nous y rendons depuis Courgenay, à une dizaine de kilomètres. La visite et le devis sont gratuits dans les deux cas."},
+  {"q": "Quelle règle s'applique pour abattre un arbre à Basse-Vendline ?", "a": "La loi jurassienne protège haies et bosquets hors zone à bâtir. En zone à bâtir, le règlement communal décide. La fusion étant récente, nous demandons à la commune quel texte vaut pour votre parcelle avant de planifier."},
+  {"q": "Mon arbre penche vers la rivière : est-ce dangereux ?", "a": "Pas forcément. Beaucoup d'arbres de berge poussent inclinés sans risque particulier. Une fissure au pied, un sol qui se soulève ou une inclinaison récente sont en revanche des signes à faire contrôler par un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a>."},
+  {"q": "Que faites-vous du bois et des branches ?", "a": "Selon le devis, les branches sont broyées ou évacuées et le tronc débité à la longueur souhaitée. Près de l'eau, tout est remonté sur la berge. Le terrain est nettoyé avant notre départ."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à sécuriser à Bonfol ou à Beurnevésin ?",
+ "cta_lead": "Visite sur place et devis écrit gratuits, dans toute la commune de Basse-Vendline."
+}

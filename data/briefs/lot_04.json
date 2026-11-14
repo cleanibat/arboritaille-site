@@ -1,0 +1,590 @@
+[
+ {
+  "slug": "arboriste-loveresse",
+  "nom": "Loveresse",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 367,
+  "tier": 1,
+  "npa": "2732",
+  "altitude": "761 m",
+  "superficie": "4,72 km2",
+  "densite": "78 hab./km2",
+  "gentile": "Loveresse",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "367 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Loveresse",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Loveresse est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Loveresse a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Le foyer Beau-Site, ou Beausite, a accueilli une maison d'éducation pour jeunes filles, une école d'agriculture, et un foyer pour personnes handicapées,. Le toponyme Loveresse est un dérivé du latin lupus, lupa «loup, louve» et du suffixe composé -aricia qui aboutit en français à -eresse. Cette terminaison s’est employée dans les noms de lieux de formation médiévale pour caractériser une exploitation rurale réservée à une catégorie déterminée de bestiaux (→ Boveresse NE) ou simplement le lieu où se rassemblent certains animaux.",
+   "Transports": " Sur la ligne ferroviaire Moutier - Sonceboz, gare de Reconvilier (1.5 km) ; Autoroute A16 sortie 16 (Loveresse)"
+  },
+  "voisins": [
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Reconvilier",
+    "slug": "arboriste-reconvilier"
+   },
+   {
+    "nom": "Saules",
+    "slug": "arboriste-saules"
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-sorvilier",
+  "nom": "Sorvilier",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 311,
+  "tier": 1,
+  "npa": "2736",
+  "altitude": "681 m",
+  "superficie": "6,89 km2",
+  "densite": "45 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "311 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Sorvilier",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Sorvilier (ancien nom allemand : Surbelen) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Sorvilier a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Le 22 septembre 2013, le projet de fusion au sein de Valbirse avec les communes de Bévilard, Malleray, Pontenet et Court est refusé à la suite du rejet de cette dernière. Le 17 septembre 2017, la commune vote pour son rattachement ou non au canton du Jura, à l'instar de Moutier le 18 juin 2017 où le oui l'a emporté. Le non l'emporte finalement dans la commune.",
+   "Transports": " Sur la ligne ferroviaire Sonceboz-Sombeval – Moutier (– Soleure)"
+  },
+  "voisins": [
+   {
+    "nom": "Champoz",
+    "slug": "arboriste-champoz"
+   },
+   {
+    "nom": "Court",
+    "slug": "arboriste-court"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-belprahon",
+  "nom": "Belprahon",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 264,
+  "tier": 1,
+  "npa": "2744",
+  "altitude": "627 m",
+  "superficie": "3,83 km2",
+  "densite": "69 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Belprahon",
+  "intro": "Belprahon (ancien nom allemand : Tiefenbach) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Le nom de village apparaît pour la première fois dans un document au XIIe siècle. Jusqu’en 1797, Belprahon appartient à l’Abbaye de Moutier-Grandval. De 1797 à 1815, Belprahon a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Le 17 septembre 2017, la commune vote pour son rattachement ou non au canton du Jura, à l'instar de Moutier le 18 juin 2017 où le oui l'a emporté, ce résultat étant un prérequis à l'organisation de la votation à Belprahon,. Le non l'emporte finalement dans la commune, par 121 voix contre 114. Le 20 mai 2021, le Conseil communal de Belprahon désire revoter sur son appartenance cantonale du fait qu'en septembre 2017, l'avenir de Moutier sur son appartenance cantonal était incertain. En effet, la commune possédant des liens économiques, sociaux et culturels avec Moutier, souhaite revoir sa décision à la suite du changement de canton planifié par la cité prévotoise. Les autorités communale préparent une votation pour le 27 juin 2021. En réaction, le Conseil-exécutif bernois annonce que la tenue de ce scrutin est impossible au vu de la fin constitutionnelle de la Question jurassienne. Le Conseil du Jura bernois a également",
+   "Transports": " Bus pour Moutier ; Autoroute A16 sortie Moutier-Nord"
+  },
+  "voisins": [
+   {
+    "nom": "Eschert",
+    "slug": "arboriste-eschert"
+   },
+   {
+    "nom": "Grandval",
+    "slug": "arboriste-grandval"
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier"
+   },
+   {
+    "nom": "Roches",
+    "slug": "arboriste-roches"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-roches",
+  "nom": "Roches",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 204,
+  "tier": 1,
+  "npa": "2762",
+  "altitude": "491 m",
+  "superficie": "9,06 km2",
+  "densite": "23 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "204 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Roches_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Roches est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Roches a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Belprahon",
+    "slug": "arboriste-belprahon"
+   },
+   {
+    "nom": "Châtillon",
+    "slug": "arboriste-chatillon"
+   },
+   {
+    "nom": "Courrendlin",
+    "slug": "arboriste-courrendlin"
+   },
+   {
+    "nom": "Grandval",
+    "slug": "arboriste-grandval"
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-corcelles",
+  "nom": "Corcelles",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 189,
+  "tier": 1,
+  "npa": "2747",
+  "altitude": "655 m",
+  "superficie": "6,77 km2",
+  "densite": "28 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "189 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Corcelles_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Corcelles est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Corcelles a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815.",
+   "Transports": " Sur la ligne ferroviaire Moutier- Soleure"
+  },
+  "voisins": [
+   {
+    "nom": "Crémines",
+    "slug": "arboriste-cremines"
+   },
+   {
+    "nom": "Elay",
+    "slug": "arboriste-elay"
+   },
+   {
+    "nom": "Val Terbi",
+    "slug": "arboriste-val-terbi"
+   },
+   {
+    "nom": "Welschenrohr-Gänsbrunnen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-champoz",
+  "nom": "Champoz",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 160,
+  "tier": 1,
+  "npa": "2735",
+  "altitude": "849 m",
+  "superficie": "7,18 km2",
+  "densite": "22 hab./km2",
+  "gentile": "Les Champions",
+  "langue": "Français",
+  "localites": "Petit-Champoz",
+  "population_detail": null,
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Champoz",
+  "intro": "Cet article ne cite pas suffisamment ses sources (février 2023). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Champoz (/ʃãpo/) est une commune suisse du canton de Berne, située dans la Vallée de Tavannes, dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce (/ʃãpo/), dérive d'une forme latine campōne, qui désigne un pâturage ou un pâquis.",
+   "Histoire": "Champoz se trouve à l’endroit d'un poste d'observation romain qui contrôlait la route allant de Moutier à Tavannes avant l’ouverture de la route des gorges de Court. La première mention écrite remonte à 1365 sous le nom de Champo. Le village appartenait à l'Abbaye de Moutier-Grandval jusqu'à la fin du XVIIIe siècle. Durant la guerre de Souabe, en 1499, le lieu a été dévasté par les troupes de l'empereur Maximilien Ier. De 1797 à 1815, Champoz a appartenu à la France, dans le département du Mont-Terrible, puis dans celui du Haut-Rhin. À la suite d'une décision du congrès de Vienne, en 1815, la commune a été attribuée au canton de Berne, comme toutes celles du District de Moutier.",
+   "Transports": " Sur la ligne ferroviaire Moutier - Tavannes - Sonceboz-Sombeval, gare de Malleray-Bévilard ; Autoroute A16 sortie Loveresse"
+  },
+  "voisins": [
+   {
+    "nom": "Court",
+    "slug": "arboriste-court"
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier"
+   },
+   {
+    "nom": "Perrefitte",
+    "slug": "arboriste-perrefitte"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Sorvilier",
+    "slug": "arboriste-sorvilier"
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saules",
+  "nom": "Saules",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 151,
+  "tier": 1,
+  "npa": "2732",
+  "altitude": "743 m",
+  "superficie": "4,28 km2",
+  "densite": "35 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "151 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saules_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Saules est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Saules a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Reconvilier",
+    "slug": "arboriste-reconvilier"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Loveresse",
+    "slug": "arboriste-loveresse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-elay",
+  "nom": "Elay",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 63,
+  "tier": 1,
+  "npa": "2747",
+  "altitude": "752 m",
+  "superficie": "8,41 km2",
+  "densite": "7,5 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "63 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Elay",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Elay, appelée en allemand Seehof, est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Elay a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le Jura (ancien évêché de Bâle) fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Aedermannsdorf",
+    "slug": null
+   },
+   {
+    "nom": "Corcelles",
+    "slug": "arboriste-corcelles"
+   },
+   {
+    "nom": "Herbetswil",
+    "slug": null
+   },
+   {
+    "nom": "La Scheulte",
+    "slug": "arboriste-la-scheulte"
+   },
+   {
+    "nom": "Val Terbi",
+    "slug": "arboriste-val-terbi"
+   },
+   {
+    "nom": "Welschenrohr-Gänsbrunnen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-scheulte",
+  "nom": "La Scheulte",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 37,
+  "tier": 1,
+  "npa": "2827",
+  "altitude": "746 m",
+  "superficie": "5,56 km2",
+  "densite": "6,7 hab./km2",
+  "gentile": null,
+  "langue": "allemand, français",
+  "localites": null,
+  "population_detail": "37 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Scheulte",
+  "intro": "Cet article ne cite pas suffisamment ses sources (janvier 2020). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Cet article est une ébauche concernant une localité suisse. La Scheulte, appelée Schelten en allemand, est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. La Scheulte est également le nom de la rivière qui coule dans le val Terbi et se jette dans la Birse, à Delémont.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, La Scheulte a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle est attribué au canton de Berne, en 1815. Un vent de pangermanisme souffle avant la Première Guerre mondiale, et des paysans réformés de langue allemande s'installent sur les fermes. La Scheulte prend le nom allemand de Schelten, en 1914. On reproche à ces paysans d'avoir reçu de l'argent de Krefeld. Le Col de la Scheulte a été construit par l'Armée suisse, en 1917, pour acheminer plus rapidement des troupes en Ajoie. La Scheulte est connue depuis longtemps pour sa généreuse politique de naturalisation, également une source financière bienvenue. Le Restaurant du Moulin est pendant longtemps un haut-lieu du carnaval dans le Jura. Malgré la cherté du franc suisse, l'établissement local ouvre encore ses portes pour des banquets. En revanche l'école bernoise est désormais fermée depuis juillet 2018. La Scheulte fait partie intégrante de l'église de Mervelier."
+  },
+  "voisins": [
+   {
+    "nom": "Aedermannsdorf",
+    "slug": null
+   },
+   {
+    "nom": "Beinwil",
+    "slug": null
+   },
+   {
+    "nom": "Elay",
+    "slug": "arboriste-elay"
+   },
+   {
+    "nom": "Mervelier",
+    "slug": "arboriste-mervelier"
+   },
+   {
+    "nom": "Val Terbi",
+    "slug": "arboriste-val-terbi"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-rebevelier",
+  "nom": "Rebévelier",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 29,
+  "tier": 1,
+  "npa": "2717",
+  "altitude": "960 m",
+  "superficie": "3,55 km2",
+  "densite": "8,2 hab./km2",
+  "gentile": null,
+  "langue": "Français (de jure), allemand (de facto)",
+  "localites": "Rebévelier, Les Cerniers",
+  "population_detail": "29 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Rebévelier",
+  "intro": "Ne doit pas être confondue avec Rebeuvelier, commune du canton du Jura. Cet article est une ébauche concernant une localité suisse. Rebévelier est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Rebévelier a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Lors des votations en cascade de 1974 à 1976 sur la création du canton du Jura, la commune demande de passer du district de Delémont au district de Moutier pour pouvoir rester dans le canton de Berne."
+  },
+  "voisins": [
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne"
+   },
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Saulcy",
+    "slug": "arboriste-saulcy"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-estavayer",
+  "nom": "Estavayer",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Broye",
+  "population": 10812,
+  "tier": 2,
+  "npa": "1470 Estavayer-le-Lac  1473 Font  1475 Autavaux  1475 Forel FR  1475 Montbrelloz  1486 Vuissens  1489 Murist  1541 Bussy FR  1541 Morens  1542 Rueyres-les-Prés",
+  "altitude": "448 m",
+  "superficie": "40,36 km2",
+  "densite": "268 hab./km2",
+  "gentile": "Staviacois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "10 812 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Estavayer",
+  "intro": "Estavayer est une commune suisse du canton de Fribourg, située dans le district de la Broye.",
+  "sections": {
+   "Histoire": "La commune voit le jour le 1er janvier 2017, à la suite de la fusion des anciennes communes de Bussy, Estavayer-le-Lac, Morens, Murist, Rueyres-les-Prés, Vernay et Vuissens."
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-belmont-broye",
+  "nom": "Belmont-Broye",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Broye",
+  "population": 6287,
+  "tier": 2,
+  "npa": null,
+  "altitude": "443 m",
+  "superficie": "25,81 km2",
+  "densite": "244 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "6 287 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 60,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Belmont-Broye",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Belmont-Broye est une commune suisse du canton de Fribourg, située dans le district de la Broye.",
+  "sections": {
+   "Histoire": "Belmont-Broye est issue de la fusion du 1er janvier 2016 des anciennes communes de Domdidier, Dompierre, Léchelles et Russy. L'administration communale siège à Domdidier."
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-montagny",
+  "nom": "Montagny",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Broye",
+  "population": 3105,
+  "tier": 2,
+  "npa": null,
+  "altitude": "590 mMin. 456 mMax. 659 m",
+  "superficie": "17,52 km2",
+  "densite": "177 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Montagny_(Fribourg)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Montagny (Montenach en allemand) est une commune suisse du canton de Fribourg, située dans le district de la Broye.",
+  "sections": {
+   "Histoire": "Montagny est issue de la fusion effectuée en 2004 entre les communes de Mannens-Grandsivaz et celle de Montagny, qui était déjà issue d’une précédente fusion en 2000 entre Montagny-la-Ville et Montagny-les-Monts."
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-cheyres-chables",
+  "nom": "Cheyres-Châbles",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Broye",
+  "population": 2545,
+  "tier": 2,
+  "npa": "1468 Cheyres  1474 Châbles",
+  "altitude": null,
+  "superficie": "9,87 km2",
+  "densite": "258 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "2 545 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 70,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cheyres-Châbles",
+  "intro": "Cheyres-Châbles est une commune suisse du canton de Fribourg, située dans le district de la Broye.",
+  "sections": {
+   "Histoire": "La commune voit le jour le 1er janvier 2017, à la suite de la fusion des anciennes communes de Cheyres et de Châbles."
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-saint-aubin",
+  "nom": "Saint-Aubin",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Broye",
+  "population": 2106,
+  "tier": 2,
+  "npa": "1566",
+  "altitude": "467 mMin. 432 mMax. 525 m",
+  "superficie": "7,88 km2",
+  "densite": "267 hab./km2",
+  "gentile": "Saint-Aubinois",
+  "langue": "Français",
+  "localites": "Les Friques  Saint-Aubin",
+  "population_detail": "2 106 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 60,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saint-Aubin_(Fribourg)",
+  "intro": "Saint-Aubin (Chin t'Obin Écoutezⓘ en patois fribourgeois) est une localité et une commune suisse du canton de Fribourg, située dans le district de la Broye.",
+  "sections": {
+   "Histoire": "Saint-Aubin fait partie de la seigneurie de Grandcour jusqu'en 1443. À cette date, le village est érigé en seigneurie. Le village de Saint-Aubin fut totalement détruit en 1440 à la suite d'un énorme incendie. Après quelques années de reconstruction, le village fut totalement reconstitué autour d'un château (qui est celui en place actuellement) jusqu'en 1460."
+  },
+  "voisins": []
+ },
+ {
+  "slug": "arboriste-cugy-fr",
+  "nom": "Cugy (FR)",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Broye",
+  "population": 2067,
+  "tier": 2,
+  "npa": "1482 Cugy  1483 Vesin",
+  "altitude": "545 mMin. 499 mMax. 617 m",
+  "superficie": "9,86 km2",
+  "densite": "210 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "2 067 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 70,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cugy_(Fribourg)",
+  "intro": "Cugy (Kudji Écoutezⓘ en patois fribourgeois) est une localité et une commune suisse du canton de Fribourg, située dans le district de la Broye.",
+  "sections": {
+   "Histoire": "D'après certains historiens, le nom de Cugy dériverait d'un mot celtique \"Cwigin\" ou \"Curgin\" qui désigne un habitant de la forêt. D'autres, au contraire, admettent que Cugy, à l'époque romaine, a accueilli un certain \"Cupidius\", gentilice, petit noble romain, qui possédait un domaine et une maison ; ainsi, le patronyme de \"Cupidiacus\" serait à l'origine du nom de Cugy. Certainement, Cugy fut habité à l'époque romaine, puisqu'une carte archéologique signale une voie qui passait à l'ouest du village. Cette supposition fut confirmée en 1875, lorsque, en construisant la voie de chemin de fer, on découvrit divers objets ou instruments en fer remontant à cet âge. C'est sous le deuxième royaume de Bourgogne, en 968, qu'un document mentionne pour la première fois le nom de \"Cuzziaco\", lors d'un don d'un alleu (propriété) fait par Tiebocus et son avoué Salicus à Eginolfe de Kybourg, évêque de Lausanne. Cette donation sera confirmée par une lettre de l'empereur Henri IV, datée de 1079. Au cours des siècles, le nom de Cugy prend les formes suivantes : \"Cubizasca\" en 1079, \"Cuzei\" en 1142, \"Cugiez\" ou \"Cugié\" vers 1230. Au début du XIIe siècle, le fief de Cugy devint possession des seigneurs d'Estavayer dont une branche prendra le nom de seigneurs de \"Cuzei\". De 1142 à 1230, le domaine de \"Cuzei\" appartiendra à l'abbaye cistercienne de Montheron ou de Théla, près de Lausanne. Ces frères r"
+  },
+  "voisins": []
+ }
+]

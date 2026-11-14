@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Gléresse : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Gléresse (Ligerz), au bord du lac de Bienne, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "demontage_saule_bienne", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Gléresse · Lac de Bienne",
+ "h1": "Arboriste-grimpeur à <em>Gléresse</em> : taille, abattage et soins aux arbres",
+ "lead": "Gléresse, Ligerz en allemand, s'étire entre le lac de Bienne et ses vignes. Nous y taillons, démontons ou plantons vos arbres en tenant compte de la pente et du bâti ancien. Visite et devis gratuits depuis Courgenay.",
+ "points": ["Visite et devis gratuits", "Travail à la corde en terrain pentu", "Respect du village et des vignes", "Devis en français ou en allemand"],
+ "intro_eyebrow": "Vos arbres à Gléresse",
+ "intro_h2": "Entre le lac de Bienne et les vignes, un village serré en terrain pentu",
+ "intro": "<p>Gléresse compte 508 habitants sur 1,8 km², à 433 m, au bord du lac de Bienne. Les hameaux de Schernelz et de Bipschal en font partie, et un funiculaire relie le village à Prêles à travers les vignes.</p><p>Le village est décrit comme bien préservé : façades groupées le long d'une rue, portes voûtées, château, église réformée dans les vignes au-dessus des maisons. Dans un tel cadre, un arbre se taille avec retenue.</p><p>La pente entre le lac et le haut du vignoble change notre façon de travailler. Nous grimpons dans l'arbre et descendons les branches à la corde, sans machine lourde dans les vignes.</p>",
+ "faits": [["Habitants", "508 (2025)"], ["Altitude", "433 m"], ["Superficie", "1,8 km²"], ["Depuis Courgenay", "env. 35 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Gléresse.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Gléresse avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Du lac aux vignes", "texte": "Un village au bord du lac, des vignes au-dessus, un funiculaire vers Prêles : le terrain est en pente. Nous travaillons depuis l'arbre, descendons chaque bille à la corde et protégeons les ceps en dessous."},
+  {"icone": "HOME", "titre": "Un village préservé", "texte": "Façades alignées, portes voûtées, château : à Gléresse, un arbre mal taillé se voit de loin. Nous privilégions des coupes discrètes qui conservent la silhouette."},
+  {"icone": "LEAF", "titre": "Arbres en bordure de vigne", "texte": "Un arbre isolé ou une haie entre deux parcelles de vigne peut relever de la protection bernoise. Nous le vérifions avant de proposer autre chose qu'un entretien."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien ou de réduction pour les arbres des jardins de Gléresse, de Schernelz et de Bipschal, avec respect de la vue sur le lac et du bâti.",
+  "abattage-demontage": "Démontage à la corde en terrain pentu, sans machine lourde. Bois descendu par morceaux, évacué ou laissé débité.",
+  "plantation-arbres": "Remplacement d'un arbre par une essence adaptée au sol et à l'exposition du terrain, avec tuteurage et suivi d'arrosage."
+ },
+ "faq": [
+  {"q": "Travaillez-vous dans les pentes de Gléresse ?", "a": "Oui. La grimpe est justement la méthode adaptée à un terrain pentu comme celui de Gléresse : nous n'avons pas besoin d'approcher une machine de l'arbre. Les branches descendent à la corde, posées là où rien ne casse."},
+  {"q": "Intervenez-vous à Schernelz et à Bipschal ?", "a": "Oui, les deux hameaux font partie de la commune de Gléresse. Nous venons sur place pour la visite gratuite, évaluons l'accès et vous remettons un devis écrit."},
+  {"q": "Un arbre près des vignes de Gléresse peut-il être abattu ?", "a": "Cela dépend de son statut. Les haies et bosquets sont protégés dans le canton de Berne, et le règlement communal peut protéger certains arbres isolés. Nous nous renseignons auprès de la commune avant d'intervenir."},
+  {"q": "Comment évacuez-vous le bois depuis le coteau ?", "a": "Les branches sont descendues par tronçons jusqu'à un point accessible, puis broyées ou chargées. Si l'accès est trop étroit, nous débitons le bois sur place et le laissons en bûches selon le devis."},
+  {"q": "Quelle est la distance depuis Courgenay ?", "a": "Environ trente-cinq kilomètres à vol d'oiseau. Quand c'est possible, nous groupons les rendez-vous autour du lac de Bienne. La visite est gratuite et la réponse écrite parvient sous 48 h ouvrées."}
+ ],
+ "cta_img": "demontage_saule_bienne",
+ "cta_h2": "Un arbre à tailler ou à abattre à Gléresse ?",
+ "cta_lead": "Visite et devis gratuits, en français ou en allemand. Nous tenons compte de la pente et des vignes."
+}

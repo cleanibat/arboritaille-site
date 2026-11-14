@@ -1,0 +1,822 @@
+[
+ {
+  "slug": "arboriste-cormoret",
+  "nom": "Cormoret",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 504,
+  "tier": 1,
+  "npa": "2610 Mont-Crosin2612 Cormoret",
+  "altitude": "706 m",
+  "superficie": "13,49 km2",
+  "densite": "37 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Cormoret, Mont-Crosin",
+  "population_detail": "504 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cormoret",
+  "intro": "Cormoret est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La première mention du village, déjà sous le nom de Cormoret, date de 1178. Le chapitre de Saint-Imier détenait des biens à Cormoret. Le village appartint à l’évêché de Bâle, mais subit l’influence croissante de Bienne. En 1530, les Biennois introduisirent la réforme dans le vallon de Saint-Imier. En 1795, un incendie a détruit de nombreuses maisons. De 1797 à 1815, Cormoret a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien Évêché de Bâle fut attribué au canton de Berne, en 1815.",
+   "Transports": "La commune de Cormoret est desservie par la ligne Bienne – La Chaux-de-Fonds depuis le 30 avril 1874, date à laquelle ouvrit une gare à Cormoret sur la ligne reliant Bienne aux Convers."
+  },
+  "voisins": [
+   {
+    "nom": "Courtelary",
+    "slug": "arboriste-courtelary"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Villeret",
+    "slug": "arboriste-villeret"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-romont-be",
+  "nom": "Romont (BE)",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 237,
+  "tier": 1,
+  "npa": "2538",
+  "altitude": "755 m",
+  "superficie": "7,03 km2",
+  "densite": "34 hab./km2",
+  "gentile": "Rominat",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "237 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Romont_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Romont est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. Le nom allemand du village est Rothmund.",
+  "sections": {
+   "Histoire": "La première mention de Romont date de 1335. On rencontre plusieurs toponymes : Redemont, Rodemont, Rotmund. Une notice de Pierre César sur le pays d'Erguël signale l'existence, vers l'an 1300, d'une maison de Romont appartenant à la famille vivant à Nidau. La commune était rattachée à la Seigneurie d'Erguël, elle-même possession des princes-évêques de Bâle. Sur le plan religieux, la commune de Romont se rattachait à la paroisse bilingue de Perles. De 1797 à 1815, Romont a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1813, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Le village passe alors dans la paroisse de Bienne, puis, sur demande des habitants, dans celle de Vauffelin. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Romont retourne donc à ce canton et, parallèlement, à la paroisse de Perles. En 1839, Romont, qui faisait jusque-là partie du district de Büren, rejoint le district de Courtelary. Le village quitte simultanément la paroisse de Perles pour celle de Vauffelin. En 1863, elle obtient le statut de commune municipale et bourgeoisiale."
+  },
+  "voisins": [
+   {
+    "nom": "Court",
+    "slug": "arboriste-court"
+   },
+   {
+    "nom": "Sorvilier",
+    "slug": "arboriste-sorvilier"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Sauge",
+    "slug": "arboriste-sauge"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Longeau",
+    "slug": "arboriste-longeau"
+   },
+   {
+    "nom": "Granges",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-mont-tramelan",
+  "nom": "Mont-Tramelan",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 114,
+  "tier": 1,
+  "npa": "2723",
+  "altitude": "1 060 m",
+  "superficie": "4,63 km2",
+  "densite": "25 hab./km2",
+  "gentile": null,
+  "langue": "Français, Allemand",
+  "localites": null,
+  "population_detail": "114 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Mont-Tramelan",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Mont-Tramelan (ancien nom allemand : Bergtramlingen) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. La commune a la particularité de posséder une exclave, au nord-est, nommée « Les Places », entre les communes de Tramelan, Saicourt et Tavannes.",
+  "sections": {
+   "Histoire": "Le territoire de Mont-Tramelan est reconquis au début du XVIIe siècle et colonisé par les anabaptistes qui avaient été expulsés de l'Emmental. Jusqu'en 1797, la Municipalité est sous la juridiction de la principauté épiscopale de Bâle. De 1797 à 1815, Mont-Tramelan appartient au département français du Mont-Terrible, puis, à partir de 1800, au département du Haut-Rhin, auquel le département du Mont-Terrible a été rattaché. En 1815, par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle est attribué au canton de Berne. La majorité des 120 habitants sont des paysans mennonites.",
+   "Transports": "La commune est située sur la route cantonale qui relie Tramelan au Noirmont, alors qu'elle est reliée au réseau de transport public par un service de bus postal, qui va de Tramelan à Saint-Imier."
+  },
+  "voisins": [
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Cortébert",
+    "slug": "arboriste-cortebert"
+   },
+   {
+    "nom": "Courtelary",
+    "slug": "arboriste-courtelary"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-neuveville",
+  "nom": "La Neuveville",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "La Neuveville",
+  "population": 3781,
+  "tier": 1,
+  "npa": "2520",
+  "altitude": "Min. 429 mMax. 926 m",
+  "superficie": "6,82 km2",
+  "densite": "554 hab./km2",
+  "gentile": "Neuvevillois",
+  "langue": "Français",
+  "localites": "Chavannes (en allemand : Schafis)",
+  "population_detail": "3 781 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 40,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Neuveville",
+  "intro": "La Neuveville est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. Ce village médiéval avait le statut de ville grâce à l'accord sur les vieilles villes (Stadtrecht) et il fait partie de l'Union des villes suisses. Ce n'est cependant pas une ville au sens moderne de l'Office fédéral de la statistique. La Neuveville est située aux abords du lac de Bienne, et au pied du Chasseral. Son altitude minimale est le lac de Bienne à 429 mètres et son altitude maximale est au lieu-dit « Sur la Roche » à 926 mètres.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, La Neuveville a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l'ancien évêché de Bâle fut attribué au canton de Berne, en 1815.",
+   "Monuments": " Le château du Schlossberg, construit de 1283 à 1288 par le prince-évêque de Bâle ; Les murs de la ville ; Les tours de défense militaires ; La Blanche-Église, construite au VIIe siècle et rénovée en 1984, avec des fresques des XIVe et XVe siècles ; L’hôtel de ville, qui abrite les collections du Musée d’art et d'histoire ; Le musée de la vigne du lac de Bienne à Chavannes ; La maison de Gléresse ; Les Épancheurs, centre culturel rénové en 1995, salle de cinéma ou de théâtre de 181 places",
+   "Transports": "La Neuveville se situe sur la ligne ferroviaire Bienne-Lausanne, elle possède un port d'embarquement pour les bateaux du lac de Bienne, et une ligne de bus la relie au plateau de Diesse."
+  },
+  "voisins": [
+   {
+    "nom": "Gléresse",
+    "slug": "arboriste-gleresse"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   },
+   {
+    "nom": "Lignières",
+    "slug": "arboriste-lignieres"
+   },
+   {
+    "nom": "Le Landeron",
+    "slug": "arboriste-le-landeron"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-plateau-de-diesse",
+  "nom": "Plateau de Diesse",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "La Neuveville",
+  "population": 2251,
+  "tier": 1,
+  "npa": "2515 Prêles  2516 Lamboing  2517 Diesse",
+  "altitude": "826 m",
+  "superficie": "25,55 km2",
+  "densite": "88 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Diesse, Lamboing, Prêles",
+  "population_detail": "2 251 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Plateau_de_Diesse",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Plateau-de-Diesse est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Le 9 juin 2013, les électeurs des communes de Diesse, Lamboing et Prêles votent à 64,69 % (535 voix) contre 35,31 % (292 voix) la fusion de leurs trois communes afin de former la nouvelle commune de Plateau de Diesse dès le 1er janvier 2014. Des élections municipales se tiennent le 29 septembre 2013."
+  },
+  "voisins": [
+   {
+    "nom": "Douanne-Daucher",
+    "slug": "arboriste-douanne-daucher"
+   },
+   {
+    "nom": "Evilard",
+    "slug": "arboriste-evilard"
+   },
+   {
+    "nom": "Gléresse",
+    "slug": "arboriste-gleresse"
+   },
+   {
+    "nom": "La Neuveville",
+    "slug": "arboriste-la-neuveville"
+   },
+   {
+    "nom": "Lignières",
+    "slug": "arboriste-lignieres"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-nods",
+  "nom": "Nods",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "La Neuveville",
+  "population": 776,
+  "tier": 1,
+  "npa": "2518",
+  "altitude": "885 m",
+  "superficie": "26,63 km2",
+  "densite": "29 hab./km2",
+  "gentile": "Niolat",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "776 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Nods_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Nods est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Nods a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Cormoret",
+    "slug": "arboriste-cormoret"
+   },
+   {
+    "nom": "Cortébert",
+    "slug": "arboriste-cortebert"
+   },
+   {
+    "nom": "Courtelary",
+    "slug": "arboriste-courtelary"
+   },
+   {
+    "nom": "Lignières",
+    "slug": "arboriste-lignieres"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   },
+   {
+    "nom": "Villeret",
+    "slug": "arboriste-villeret"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-valbirse",
+  "nom": "Valbirse",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 4043,
+  "tier": 1,
+  "npa": "2733 Pontenet  2735 Bévilard, Malleray",
+  "altitude": "699 m",
+  "superficie": "18,67 km2",
+  "densite": "217 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Bévilard, Malleray, Pontenet",
+  "population_detail": "4 043 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Valbirse",
+  "intro": "Valbirse est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Fin 2011, six communes du bas de la Vallée de Tavannes démarrent une étude sur un projet de fusion : Malleray, Bévilard, Court, Champoz, Pontenet et Sorvilier. Le 28 janvier 2013, la commune de Champoz annonce son retrait du projet. Le 22 septembre 2013, le projet de fusion entre les communes de Malleray, Bévilard, Court, Pontenet et Sorvilier est refusé à la suite du rejet de Court. Le 16 janvier 2014, la commune de Sorvilier annonce son retrait du projet de fusion Un nouveau vote de fusion avec les trois communes restantes (Malleray, Bévilard et Pontenet) est accepté le 18 mai 2014. La commune de Valbirse devient effective le 1er janvier 2015. Les structures de la nouvelle commune sont mises en place. C'est ainsi que les assemblées communales, qui permettaient aux citoyens de participer activement à la vie politique de leur commune, font place à un Conseil général."
+  },
+  "voisins": [
+   {
+    "nom": "Champoz",
+    "slug": "arboriste-champoz"
+   },
+   {
+    "nom": "Sorvilier",
+    "slug": "arboriste-sorvilier"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Loveresse",
+    "slug": "arboriste-loveresse"
+   },
+   {
+    "nom": "Reconvilier",
+    "slug": "arboriste-reconvilier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-tavannes",
+  "nom": "Tavannes",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 3469,
+  "tier": 1,
+  "npa": "2710 Tavannes2720 La Tanne",
+  "altitude": "758 m",
+  "superficie": "14,76 km2",
+  "densite": "235 hab./km2",
+  "gentile": "Tavannois",
+  "langue": "Français",
+  "localites": "Tavannes, La Tanne",
+  "population_detail": "3 469 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Tavannes_(Berne)",
+  "intro": "Cet article ne cite pas suffisamment ses sources (octobre 2021). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Tavannes est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Pendant l'époque romaine, une voie menait d'Aventicum à Augusta Raurica en passant par Pierre Pertuis. Appelée route romaine dans la région, la voie à ornières qui subsiste entre Tavannes et le plateau de la Tanne est un chemin médiéval. La datation au radiocarbone fait remonter sa construction au XVe siècle. Elle est creusée dans la roche calcaire avec un écartement de 100 à 110 cm. Elle est flanquée d’une rampe pour piétons entre les ornières, avec des marches taillées dans la roche. Le village doit son nom au château (en grande partie détruit en 1499, lors de la guerre de Souabe) qui appartenait à la famille des Tavannes. La première mention écrite des Tavannes sous le nom Theisvenna remonte à l'année 866. Le nom a changé à plusieurs reprises : Tehisvenna (884), Tasvenne (967), Tasuenna (1181) ainsi que Thasvanne, Taffennas et Tasueno. Par un héritage, le nom de Tavannes a basculé vers la Bourgogne et la famille de Saulx (cf. l'article Gaspard de Saulx). De 1797 à 1815, Tavannes fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l'ancien évêché de Bâle est attribué au canton de Berne en 1815. Vers la fin du XIXe siècle, l'industrie horlogère prend un grand essor et c'est à Henri Frédéric Sandoz que l'on ",
+   "Transports": " Ligne ferroviaire Sonceboz-Sombeval – Moutier (– Solothurn) ; Terminus de la ligne Le Noirmont – Tramelan – Tavannes, sur les Chemins de fer du Jura ; siège de la Compagnie ; CarPostal Tavannes – Reconvilier – Bellelay – Lajoux – Les Genevez ; Autoroute A16 (Bienne-Boncourt) 18 (Tavannes)"
+  },
+  "voisins": [
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Reconvilier",
+    "slug": "arboriste-reconvilier"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Sonceboz-Sombeval",
+    "slug": "arboriste-sonceboz-sombeval"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-reconvilier",
+  "nom": "Reconvilier",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 2454,
+  "tier": 1,
+  "npa": "2732",
+  "altitude": "731 m",
+  "superficie": "8,25 km2",
+  "densite": "297 hab./km2",
+  "gentile": "les Reconvilierains[1], les R'cons[2], les Trappes[3]",
+  "langue": "Français",
+  "localites": "Chaindon",
+  "population_detail": "2 454 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Reconvilier",
+  "intro": "Reconvilier est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La première référence écrite de Reconvilier remonte à 884. Le nom de Roconis villare est mentionné dans une charte relevant les possessions de l'abbaye de Moutier-Grandval. Par la suite, le village a changé plusieurs fois de nom (Roconsvillare, Recumvilier) avant de prendre l'orthographe actuelle au XIIIe siècle. Sont mentionnés Reconviller en 1179 et Reconville en 1290. De 887 à 999, Reconvilier passe sous l'égide des rois de Bourgogne, puis, à partir de 999 et ce jusqu'à la fin du XVIIIe siècle, le village sera une possession du Prince-évêque de Bâle faisant partie de la Prévôté de Moutier-Grandval. En ce début de millénaire, Reconvilier et Chaindon étaient deux hameaux de la même importance. Les deux villages formeront au XVIIIe siècle une unique communauté administrative. De 1797 à 1815, Reconvilier est attachée à l'Empire français de Napoléon. D'abord intégré au canton français de Malleray nouvellement créé, lui-même faisant partie du département du Mont-Terrible. Le 17 février 1800, ce dernier est dissout et annexé au département du Haut-Rhin, dans l'arrondissement de Delémont. Avec le congrès de Vienne et la chute du Premier Empire français, Reconvilier est intégré au canton de Berne avec le reste de l’Évêché de Bâle. Au cours du XVIIIe siècle, le village s'industrialise grâce à l'industrie horlogère avec l'implantation de la fabrique d'ébauches Bueche, Boillat et Cie en",
+   "Transports": " Ligne ferroviaire Sonceboz-Sombeval – Moutier (– Solothurn). Une des particularités de la gare du village est qu'elle re ; CarPostal Tavannes – Reconvilier – Bellelay – Lajoux – Les Genevez, arrêts \"Reconvilier FMB\", \"Reconvilier Gare\" et \"Rec ; Autoroute A16 (Bienne-Boncourt) 16 (Loveresse) et une aire de repos autoroutière (aire de repos de Reconvilier)"
+  },
+  "voisins": [
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Saules",
+    "slug": "arboriste-saules"
+   },
+   {
+    "nom": "Loveresse",
+    "slug": "arboriste-loveresse"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-court",
+  "nom": "Court",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 1387,
+  "tier": 1,
+  "npa": "2738",
+  "altitude": "664 m",
+  "superficie": "24,62 km2",
+  "densite": "56 hab./km2",
+  "gentile": "Les Courtisans[1]",
+  "langue": "Français",
+  "localites": "Le Chaluet",
+  "population_detail": "1 387 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Court_(Berne)",
+  "intro": "Court est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La première mention écrite de Court remonte au 13 mai 1148, sous le nom de Cort, dans un document du pape Eugène III. Le 17 février 1179, on trouve le toponyme Curt dans un acte du pape Alexandre III. Ce document mentionne également les hameaux de Chavanney, à l'entrée du vallon de Chaluet, et de Minvilier, à l'ouest de la localité. Ces deux hameaux furent complètement détruits par les épidémies de peste du XVIe siècle. La route des gorges de Court à Moutier fut achevée en 1752 par le prince-évêque de Bâle Rinck de Baldenstein. Auparavant, la vallée de Tavannes était reliée à Moutier par la route Bévilard-Champoz-Perrefitte. Le village dépendait jusqu'à la fin du XVIIIe siècle de l’Abbaye de Moutier-Grandval. De 1797 à 1815, Court appartint à la France, faisant partie du Département du Mont-Terrible, puis, à partir de 1800, du Département du Haut-Rhin, auquel le Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien Évêché de Bâle fut attribué au canton de Berne, en 1815. En 1996, des fouilles archéologiques à l’ouest de Court permirent de retrouver des traces de l'ancien village Minvilier (ou Mévilier), habité du XIIe au XVe siècle et abandonné après une épidémie de peste. Lors d’autres fouilles, quatre verreries ont été localisées à Chaluet. Elles furent actives entre 1657 et 1714, sur des emplacements différents. Les verriers, venus probable",
+   "Transports": " Sur la ligne ferroviaire Sonceboz-Sombeval – Moutier (– Solothurn) ; Autoroute A16 15"
+  },
+  "voisins": [
+   {
+    "nom": "Champoz",
+    "slug": "arboriste-champoz"
+   },
+   {
+    "nom": "Eschert",
+    "slug": "arboriste-eschert"
+   },
+   {
+    "nom": "Granges",
+    "slug": null
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier"
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   },
+   {
+    "nom": "Selzach",
+    "slug": null
+   },
+   {
+    "nom": "Sorvilier",
+    "slug": "arboriste-sorvilier"
+   },
+   {
+    "nom": "Welschenrohr-Gänsbrunnen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saicourt",
+  "nom": "Saicourt",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 657,
+  "tier": 1,
+  "npa": "2712 Le Fuet2713 Bellelay2732 Saicourt",
+  "altitude": "749 m",
+  "superficie": "13,78 km2",
+  "densite": "48 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Le Fuet, Bellelay, La Bottiere, Montbautier",
+  "population_detail": "657 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saicourt",
+  "intro": "Saicourt est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Contrairement à une majorité de communes bernoises, on ignore la date exacte de la fondation de Saicourt, mais des écrits font état du village de Zacurt au début du XIIIe siècle. Il existait certainement une maison fortifiée au lieu-dit Châtillon, plus connu par les villageois sous le nom du « Craux ». De 1797 à 1815, Saicourt a été occupé par la France, qui plaça le village au sein du département du Mont-Terrible, puis, à partir de 1800, du département français du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Les armoiries de Saicourt ont été créées par la commune elle-même en 1944. Elles sont stylisées par une crosse représentant la Courtine et trois collines représentant les villages de Saicourt, Le Fuet et Bellelay.",
+   "Monuments": " L’abbatiale de Bellelay est la deuxième église du canton par sa grandeur. C'est dans cette abbaye que les moines ont inv"
+  },
+  "voisins": [
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Les Genevez",
+    "slug": "arboriste-les-genevez"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Reconvilier",
+    "slug": "arboriste-reconvilier"
+   },
+   {
+    "nom": "Saules",
+    "slug": "arboriste-saules"
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cremines",
+  "nom": "Crémines",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 527,
+  "tier": 1,
+  "npa": "2746",
+  "altitude": "614 m",
+  "superficie": "9,49 km2",
+  "densite": "56 hab./km2",
+  "gentile": "Les Épinglettes, les Bavous",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Crémines",
+  "intro": "Cet article ne cite pas suffisamment ses sources (février 2014). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Crémines est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "L’étymologie de \"Crémines\" vient probablement de \"creux des mines\". La première mention connue remonte à 1179 où Crémines est cité au nombre des possessions du prieuré de Moutier-Grandval. La première mention écrite de Crémines date de 1461. Jusqu’à la fin du XVIIIe siècle, Crémines dépendait de la prévôté de Moutier-Grandval. De 1797 à 1815, Crémines a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815.",
+   "Transports": " Ligne ferroviaire Moutier-Soleure, qui appartient à la compagnie du BLS, est actuellement desservie par les CFF ; CarPostal : ligne Moutier-Corcelles ; Autoroute A16 sortie Moutier nord (à 5 min)"
+  },
+  "voisins": [
+   {
+    "nom": "Grandval",
+    "slug": "arboriste-grandval"
+   },
+   {
+    "nom": "Corcelles",
+    "slug": "arboriste-corcelles"
+   },
+   {
+    "nom": "Val Terbi",
+    "slug": "arboriste-val-terbi"
+   },
+   {
+    "nom": "Courrendlin",
+    "slug": "arboriste-courrendlin"
+   },
+   {
+    "nom": "Welschenrohr-Gänsbrunnen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-perrefitte",
+  "nom": "Perrefitte",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 486,
+  "tier": 1,
+  "npa": "2742",
+  "altitude": "600 m",
+  "superficie": "8,57 km2",
+  "densite": "57 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "486 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Perrefitte",
+  "intro": "Cet article ne cite pas suffisamment ses sources (décembre 2019). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Perrefitte est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. Du temps de l'Évêché de Bâle ses anciens noms allemands furent Beffert et Pfeffert.",
+  "sections": {
+   "Toponymie": "Le nom de Perrefitte signifierait « pierre façonnée » (en latin et grec petra, en latin ficta (façonnée, faite, formée, sculptée)) et pourrait faire référence à un monolithe druidique, un bloc erratique ou une pierre faisant office de borne. Les clés des armoiries pourraient être le symbole de l'apôtre Pierre, ce qui en ferait des armes parlantes.",
+   "Histoire": "La première mention écrite du village date de 1295 et fait référence au nom de Pierefite. En 1321 apparaît le terme Perefiten, puis Pierefetteau, et en 1548 Pierrefette. Le village reste attaché à l'Abbaye de Moutier-Grandval jusqu'à la fin du XVIIIe siècle. De 1797 à 1815, Perrefitte fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département français du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. En 1815, le congrès de Vienne attribue l’ancien évêché de Bâle au canton de Berne. En 1842, la commune a vendu du terrain à Moutier comprenant la chapelle de Chalière, Chalière était autrefois un village mais il a été rayé de la carte à cause de la peste, probablement entre 1400 et 1500,. Dès les années 1920, des Bâlois venaient skier sur la montagne du Moron. Ils prenaient le train jusqu'à Malleray, montaient à pied jusqu'au Moron puis redescendaient à Perrefitte. Les nombreux accidents ont donné le nom à un lieu-dit : le cimetière des Bâlois."
+  },
+  "voisins": [
+   {
+    "nom": "Champoz",
+    "slug": "arboriste-champoz"
+   },
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne"
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-petit-val",
+  "nom": "Petit-Val",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 464,
+  "tier": 1,
+  "npa": "2715 Châtelat, Monible2716 Sornetan2717 Fornet-Dessous2748 Souboz, Les Ecorcheresses",
+  "altitude": "843 m",
+  "superficie": "23,85 km2",
+  "densite": "19 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Châtelat, Fornet-Dessous, Les Ecorcheresses, Monible, Moron, Sornetan, Souboz",
+  "population_detail": null,
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Petit-Val",
+  "intro": "Petit-Val est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La commune de Petit-Val voit le jour le 1er janvier 2015 à la suite de la fusion des anciennes communes de Châtelat, Monible, Sornetan et Souboz."
+  },
+  "voisins": [
+   {
+    "nom": "Champoz",
+    "slug": "arboriste-champoz"
+   },
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne"
+   },
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Loveresse",
+    "slug": "arboriste-loveresse"
+   },
+   {
+    "nom": "Perrefitte",
+    "slug": "arboriste-perrefitte"
+   },
+   {
+    "nom": "Rebévelier",
+    "slug": "arboriste-rebevelier"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Saules",
+    "slug": "arboriste-saules"
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-grandval",
+  "nom": "Grandval",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 398,
+  "tier": 1,
+  "npa": "2745",
+  "altitude": "600 m",
+  "superficie": "8,24 km2",
+  "densite": "48 hab./km2",
+  "gentile": "les Gravallons",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "398 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Grandval_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Grandval est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Grandval a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du Congrès de Vienne, le territoire de l’ancien Évêché de Bâle fut attribué au canton de Berne, en 1815.",
+   "Transports": " Sur la ligne ferroviaire Moutier- (tunnel) - Soleure ; Autoroute A16, sortie Moutier-Nord (le sud de la jonction est actuellement en construction)"
+  },
+  "voisins": [
+   {
+    "nom": "Belprahon",
+    "slug": "arboriste-belprahon"
+   },
+   {
+    "nom": "Courrendlin",
+    "slug": "arboriste-courrendlin"
+   },
+   {
+    "nom": "Crémines",
+    "slug": "arboriste-cremines"
+   },
+   {
+    "nom": "Eschert",
+    "slug": "arboriste-eschert"
+   },
+   {
+    "nom": "Roches",
+    "slug": "arboriste-roches"
+   },
+   {
+    "nom": "Welschenrohr-Gänsbrunnen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-eschert",
+  "nom": "Eschert",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Moutier",
+  "population": 370,
+  "tier": 1,
+  "npa": "2743",
+  "altitude": "596 m",
+  "superficie": "6,58 km2",
+  "densite": "56 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "370 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Eschert",
+  "intro": "Eschert est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "L’acquistion de Grandis Vallis, cette région d’accès difficile, offerte par le Duc d’Alsace Gondonius, permet à l’abbé de Luxeuil de fonder le couvent de Moutier-Grandval. Le prêtre Germain de Trèves, dit Saint-Germain, devient régisseur du domaine après qu’une colonie dirigée par les moines Fridoald ait défriché la plus grande partie du Grand Val. En 675, Saint-Germain et son prévôt Randoald sont assassinés par des hommes d’Adalric, roi des Burgondes, après avoir essayé de persuader celui-ci de ne pas envahir la vallée. Les Carolingiens, Pépin le Bref et Carloman, favorisent le développement de l’abbaye en lui accordant certains privilèges. Ce sont ensuite le roi Lothaire de Lorraine, puis Conrad, fils de Hugues de Provence, qui confirment à l’abbaye de Moutier ses possessions. En 999, l’évêque de Bâle reçoit du roi de Bourgogne, l’abbaye de Moutier-Grandval et toutes ses dépendances. Désormais, le régime féodal s’installe peu à peu et le couvent de Moutier-Grandval est remplacé par un Chapitre de chanoines . La première mention écrite d'Eschert apparaît en 1179 sous le nom d’Escert, dans une bulle du pape Alexandre III. Jusqu’à la fin du XVIIIe siècle, le village dépendait de l’Abbaye de Moutier-Grandval. De 1797 à 1815, Eschert a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département français du Haut-Rhin, auquel le départem",
+   "Transports": " Bus pour Moutier ; Autoroute A16 : sortie 13 Moutier-Nord. Le portail sud du tunnel du Raimeux se trouve sur le territoire de la commune."
+  },
+  "voisins": [
+   {
+    "nom": "Belprahon",
+    "slug": "arboriste-belprahon"
+   },
+   {
+    "nom": "Court",
+    "slug": "arboriste-court"
+   },
+   {
+    "nom": "Grandval",
+    "slug": "arboriste-grandval"
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier"
+   },
+   {
+    "nom": "Welschenrohr-Gänsbrunnen",
+    "slug": null
+   }
+  ]
+ }
+]

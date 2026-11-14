@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Ferrière : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à La Ferrière (BE), à 1 005 m d'altitude, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · La Ferrière · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>La Ferrière</em> : taille, abattage et soins aux arbres",
+ "lead": "La Ferrière se situe à 1 005 m d'altitude, à environ trente-cinq kilomètres de Courgenay. Nous y taillons, haubanons et démontons des arbres de montagne, pour les fermes comme pour les maisons du village. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Coupes de petit diamètre, adaptées à la croissance lente", "Grimpe à la corde, pas de machine lourde sur les terrains détrempés", "Chantiers planifiés hors neige"],
+ "intro_eyebrow": "Vos arbres à La Ferrière",
+ "intro_h2": "À 1 005 m, des arbres de montagne et des hivers longs",
+ "intro": "<p>La Ferrière se situe à 1 005 m d'altitude, dans le district de Courtelary. Fondée en 1590 par des habitants venus du Val-de-Ruz, elle fut longtemps appelée la montagne de Saint-Imier. Son nom désigne une forge.</p><p>La commune compte 542 habitants sur 14,16 km², soit 38 habitants au km². Avec si peu d'habitants au km², maisons et fermes sont en général éloignées les unes des autres, et leurs arbres aussi.</p><p>À cette altitude, dans le Jura, les arbres des fermes sont souvent des épicéas et des érables. Neige lourde et vent y cassent des branches et font pencher des arbres. Nous intervenons par la grimpe, sans machine lourde.</p>",
+ "faits": [["Habitants", "542 (2025)"], ["Altitude", "1 005 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 35 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Ferrière.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à La Ferrière avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "1 005 m d'altitude", "texte": "La saison de végétation est courte et la croissance lente. Les plaies de taille se referment moins vite : nous limitons le diamètre des coupes et travaillons hors gel."},
+  {"icone": "WIND", "titre": "Neige et vent", "texte": "Les branches horizontales des conifères portent des charges de neige importantes en fin d'hiver. Allègement, suppression du bois mort et haubanage des fourches limitent les casses."},
+  {"icone": "HOME", "titre": "Fermes dispersées", "texte": "Avec 38 habitants au km², les fermes sont en général isolées et leurs arbres de protection souvent anciens. Nous les réduisons ou les démontons depuis la couronne, en descendant le bois à la corde dans la cour."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des branches chargées de neige, dégagement des toits et des lignes pour les fermes et maisons de La Ferrière.",
+  "abattage-demontage": "Démontage à la corde dans les cours de ferme, abattage direct en terrain ouvert. Bois laissé en bûches ou évacué.",
+  "haubanage": "Consolidation d'une fourche fragile par haubans souples, pour garder un grand arbre de protection à 1 000 m.",
+  "urgence-tempete-arbre-dangereux": "Arbre penché après une tempête ou branche cassée sur un toit : sécurisation puis remise en état."
+ },
+ "faq": [
+  {"q": "Intervenez-vous en hiver à La Ferrière ?", "a": "Oui, hors gel sévère et quand l'accès le permet. L'hiver est une bonne période pour la taille des feuillus. Les chantiers dans les fermes isolées sont planifiés en fonction de la neige."},
+  {"q": "Un épicéa penche vers la ferme, est-ce urgent ?", "a": "Un arbre qui a bougé après une tempête ou un dégel mérite un contrôle rapide de la base et des racines. Si l'ancrage est atteint, nous le démontons depuis la couronne, à la corde, sans attendre le prochain coup de vent."},
+  {"q": "Quelle distance entre Courgenay et La Ferrière ?", "a": "Environ trente-cinq kilomètres à vol d'oiseau. Quand c'est possible, nous groupons les visites avec les communes voisines. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Ferrière ?", "a": "Dans le canton de Berne, haies et bosquets sont protégés et le règlement communal désigne les arbres de valeur. Nous nous renseignons auprès de l'administration de La Ferrière avant de fixer la date de l'abattage."},
+  {"q": "Que planter à 1 000 m d'altitude ?", "a": "Une essence qui supporte le froid, la neige et une saison courte. Nous vous conseillons selon l'exposition et le sol, plantons avec tuteurage tripode et vous indiquons l'arrosage des deux premiers étés."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à alléger, haubaner ou démonter à La Ferrière ?",
+ "cta_lead": "Visite et devis gratuits. Nous planifions les chantiers selon la saison et l'accès."
+}

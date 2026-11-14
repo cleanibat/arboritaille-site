@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Montagny (FR) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Montagny (FR), de Montagny-la-Ville aux Monts et à Mannens-Grandsivaz. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Montagny · Broye",
+ "h1": "Arboriste-grimpeur à <em>Montagny</em> : taille, abattage et terrain en pente",
+ "lead": "Montagny, Montenach en allemand, réunit Montagny-la-Ville, Montagny-les-Monts et Mannens-Grandsivaz. Le territoire s'étage de 456 à 659 m. Nous y taillons, abattons et plantons vos arbres, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Deux cents mètres de dénivelé sur la commune", "Travail en pente à la corde", "Environ 65 km depuis Courgenay"],
+ "intro_eyebrow": "Vos arbres à Montagny",
+ "intro_h2": "Deux cents mètres de dénivelé entre la Ville et les Monts",
+ "intro": "<p>Montagny s'étend de 456 à 659 m d'altitude. Sur 17,52 km², le relief est plus marqué qu'à Belmont-Broye ou à Estavayer, toutes deux sous 450 m. Les noms de Montagny-la-Ville et Montagny-les-Monts le disent déjà.</p><p>La commune actuelle date de 2004, fusion de Mannens-Grandsivaz avec Montagny, elle-même née en 2000 de Montagny-la-Ville et Montagny-les-Monts. Elle compte 3 105 habitants.</p><p>Pour l'arboriste, la pente change tout : stationnement, sortie du bois, direction de chute. Nous repérons ces points à la visite gratuite et choisissons entre abattage direct et démontage à la corde.</p><p>Montagny est à environ 65 km de Courgenay à vol d'oiseau. Nous groupons nos passages dans la Broye ; le devis est écrit et sans engagement.</p>",
+ "faits": [["Habitants", "3 105"], ["Altitude", "590 m"], ["Superficie", "17,52 km²"], ["Depuis Courgenay", "env. 65 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Montagny.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Montagny avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Terrain en pente", "texte": "Sur un talus, un arbre penche souvent vers l'aval et porte sa couronne d'un seul côté. Nous rééquilibrons par la taille ou démontons en retenant chaque pièce à la corde."},
+  {"icone": "HOME", "titre": "Trois anciennes communes", "texte": "Montagny-la-Ville, Montagny-les-Monts et Mannens-Grandsivaz ont chacune leurs rues et leurs jardins. La visite se fait sur place, l'arbre et ses contraintes sous les yeux."},
+  {"icone": "SPROUT", "titre": "Planter dans la Broye", "texte": "Entre 456 et 659 m, le climat reste favorable à de nombreuses essences. Nous choisissons avec vous selon le sol, la pente et l'exposition, et plantons avec tuteurage tripode."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Rééquilibrage et réduction de couronne pour les arbres de talus et de jardin de Montagny.",
+  "abattage-demontage": "Abattage dirigé avec câble de traction si l'aval est libre, sinon démontage retenu à la corde.",
+  "plantation-arbres": "Plantation adaptée au sol, à la pente et à l'exposition, tuteurage tripode compris.",
+  "haubanage": "Hauban souple pour un arbre de talus dont une charpentière part trop loin vers l'aval."
+ },
+ "faq": [
+  {"q": "Couvrez-vous Mannens-Grandsivaz comme Montagny-la-Ville ?", "a": "Oui, ces anciennes communes forment ensemble Montagny depuis 2004. La visite est gratuite partout sur la commune et nous groupons les rendez-vous d'un même jour."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Montagny ?", "a": "Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés. En zone à bâtir, c'est le règlement communal d'urbanisme qui compte. Nous vérifions auprès de la commune avant d'intervenir."},
+  {"q": "Comment abattez-vous un arbre sur un terrain en pente ?", "a": "Si l'aval est libre, par abattage dirigé avec câble de traction. Sinon, par démontage : nous montons, coupons par sections et retenons chaque pièce à la corde pour la poser où nous le voulons."},
+  {"q": "Un arbre penché vers la route est-il dangereux ?", "a": "Pas forcément, s'il a poussé ainsi et que l'ancrage est sain. Un basculement récent, une fissure au sol ou des racines soulevées sont des signes d'alerte. Nous l'examinons et vous donnons un avis écrit."},
+  {"q": "Combien coûte le déplacement depuis Courgenay ?", "a": "La visite est gratuite. Le devis écrit précise tout, déplacement compris, et nous groupons nos passages dans la Broye sur une même journée. Vous connaissez le montant avant de vous engager."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre en pente ou en jardin à voir à Montagny ?",
+ "cta_lead": "Visite et devis gratuits, déplacement groupé avec la Broye."
+}

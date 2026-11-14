@@ -1,0 +1,68 @@
+{
+ "service": "elagage-taille-arbres",
+ "commune": "arboriste-porrentruy",
+ "h1_plain": "Élagage et taille d'arbres à Porrentruy",
+ "title": "Élagage et taille d'arbres à Porrentruy (JU) | Arboritaille",
+ "desc": "Élagage et taille d'arbres à Porrentruy, ville voisine de Courgenay : réduction de tilleuls, entretien de platanes, arbres de jardin. Visite et devis gratuits.",
+ "hero_img": "reduction_tilleul_porrentruy",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Élagage · Porrentruy",
+ "h1": "Élagage et taille d'arbres à <em>Porrentruy</em>",
+ "lead": "Porrentruy est la ville voisine de Courgenay. Nous y taillons tilleuls, platanes et arbres de jardin par étapes, sans étêtage. Les photos de réduction et d'entretien de ce site y ont été prises.",
+ "points": [
+  "Visite et devis gratuits",
+  "À moins de dix kilomètres de Courgenay",
+  "Réduction par étapes, sans étêtage",
+  "Suivi possible d'une année à l'autre"
+ ],
+ "intro_eyebrow": "Porrentruy",
+ "intro_h2": "Tilleuls, platanes, jardins : une taille suivie dans le temps",
+ "intro": "<p>À Porrentruy, chef-lieu de district en Ajoie, nous sommes presque à domicile : Courgenay touche la ville. Cette proximité change la manière de tailler. Nous pouvons revenir voir un arbre d'une saison à l'autre.</p><p>Une réduction de couronne gagne à être menée en deux ou trois passages espacés. L'arbre réagit mieux et les coupes restent petites. C'est la méthode suivie sur le tilleul photographié à Porrentruy.</p><p>Les platanes photographiés en ville relèvent d'un autre travail : retrait du bois mort et dégagement. Chaque essence a sa taille, et chaque arbre garde la trace des tailles passées.</p><p>Ces photos figurent sur la page <a href=\"/arboriste-porrentruy\">Arboriste-grimpeur à Porrentruy</a>. Jardins de villas et cours d'immeubles : nous taillons pour les particuliers comme pour les gérances.</p>",
+ "contexte": [
+  {
+   "icone": "TREE",
+   "titre": "Tilleuls : réduire sans étêter",
+   "texte": "Un tilleul rabattu repart en rejets serrés et fragiles. Nous raccourcissons les branches sur des relais bien placés et gardons la forme de la couronne, comme sur la réduction photographiée à Porrentruy."
+  },
+  {
+   "icone": "SCISS",
+   "titre": "Platanes : reprendre d'anciennes tailles",
+   "texte": "Sur un platane taillé de longue date, nous retirons le bois mort, dégageons façades et éclairage, et respectons les têtes de chat quand l'arbre a été formé ainsi."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Arbres de jardin",
+   "texte": "Fruitier, feuillu d'ornement ou résineux : chaque arbre de jardin a sa période et sa taille. Nous dégageons la maison, la limite et la lumière sans dénaturer l'arbre."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Gérances et bâtiments publics",
+   "texte": "Pour un immeuble, une école ou une administration, nous remettons un devis par site et proposons un passage régulier. Le concierge ou le service concerné connaît la date à l'avance."
+  }
+ ],
+ "reglement": "<strong>Élagage et autorisation à Porrentruy.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement.<br>En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Avant un élagage important, nous vérifions auprès de la Ville de Porrentruy la règle applicable à votre arbre.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour élaguer un arbre à Porrentruy ?",
+   "a": "La loi jurassienne protège haies, bosquets, arbres isolés et allées. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous nous renseignons auprès de la Ville de Porrentruy avant toute taille importante."
+  },
+  {
+   "q": "Pourquoi réduire un tilleul en plusieurs fois ?",
+   "a": "Retirer trop de feuillage d'un coup affaiblit l'arbre et déclenche des rejets désordonnés. En deux ou trois passages espacés, les coupes restent de petit diamètre et la couronne garde sa forme. Depuis Courgenay, revenir à Porrentruy ne pose aucune difficulté."
+  },
+  {
+   "q": "Venez-vous à Porrentruy pour un seul arbre ?",
+   "a": "Oui. Porrentruy est à moins de dix kilomètres de Courgenay. Nous répondons à votre demande sous 48 h ouvrées et convenons d'une date de visite. La visite et le devis sont gratuits, même pour un seul arbre."
+  },
+  {
+   "q": "Taillez-vous aussi les haies et les fruitiers ?",
+   "a": "Oui. Les haies se taillent de préférence en hiver, hors période de nidification, et nous vérifions l'absence de nids avant d'intervenir. Les fruitiers reçoivent une taille adaptée à leur âge : formation, entretien ou restauration douce."
+  },
+  {
+   "q": "Les photos de taille du site ont-elles été prises à Porrentruy ?",
+   "a": "Oui. La réduction du tilleul et l'entretien des platanes ont été photographiés à Porrentruy. Elles figurent sur notre page consacrée à la ville, avec les photos de démontage et d'abattage à la grue."
+  }
+ ],
+ "cta_h2": "Un arbre à tailler à Porrentruy ?",
+ "cta_lead": "Nous sommes à Courgenay, la commune voisine. Visite et devis gratuits."
+}

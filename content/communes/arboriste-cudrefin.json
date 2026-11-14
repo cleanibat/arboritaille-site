@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Cudrefin (VD) : taille et abattage | Arboritaille",
+ "desc": "Élagage, haubanage, abattage et mise en sécurité d'arbres à Cudrefin, Champmartin, Montet et La Sauge (VD), au bord du lac. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-3", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Cudrefin · Broye-Vully",
+ "h1": "Arboriste-grimpeur à <em>Cudrefin</em> : taille, abattage et soins aux arbres",
+ "lead": "À Cudrefin, le lac n'est jamais loin : un bateau relie le village à Neuchâtel. Nous taillons, haubanons ou démontons les arbres des jardins et du rivage, après une visite gratuite sur place.",
+ "points": ["Visite et devis gratuits", "Mise en sécurité après un coup de vent", "Haubanage des branches fragiles", "Réduction de couronne sans étêtage"],
+ "intro_eyebrow": "Vos arbres à Cudrefin",
+ "intro_h2": "Un littoral, deux débarcadères et des arbres face au vent",
+ "intro": "<p>Le littoral de Cudrefin recèle au moins trois sites archéologiques, dont deux stations du Bronze final au lieu-dit Le Brolliet. La commune, qui a fusionné avec Champmartin en 2002, compte 1 915 habitants à 434 m d'altitude.</p><p>Deux débarcadères la relient au lac : celui du village, vers Neuchâtel, et celui de La Sauge, sur la ligne Neuchâtel-Morat. Une rive ouverte laisse passer le vent. En règle générale, les arbres y sont plus sollicités qu'en situation abritée.</p><p>Après une rafale, une branche fendue ou un tronc qui penche demande un avis rapide. Nous <a href=\"/urgence-tempete-arbre-dangereux\">sécurisons l'arbre</a>, puis choisissons avec vous entre taille, hauban et démontage.</p><p>Depuis Courgenay, comptez une cinquantaine de kilomètres à vol d'oiseau. Nous nous déplaçons aussi à <a href=\"/arboriste-vully-les-lacs\">Vully-les-Lacs</a>, la commune voisine.</p>",
+ "faits": [["Habitants", "1 915 (2025)"], ["Altitude", "434 m"], ["Superficie", "15,82 km²"], ["Depuis Courgenay", "env. 50 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Cudrefin.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Cudrefin avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Après un coup de vent", "texte": "Branche cassée encore accrochée, fourche fendue, arbre déchaussé : ne restez pas dessous. Nous examinons l'arbre et retirons d'abord ce qui menace une maison, un chemin ou une ligne."},
+  {"icone": "SEARCH", "titre": "Un rivage au sous-sol sensible", "texte": "Le littoral compte des sites archéologiques connus. Avant un rognage de souche ou une plantation près de l'eau, nous demandons à la commune si le terrain appelle une précaution particulière."},
+  {"icone": "CABLE", "titre": "Retenir plutôt que couper", "texte": "Une grosse branche au-dessus d'un cabanon ou d'un ponton privé peut être conservée. Un hauban souple, posé haut dans la couronne, limite sa course en cas de rupture."}
+ ],
+ "services": {
+  "urgence-tempete-arbre-dangereux": "Arbre tombé, branche suspendue ou tronc fendu après une tempête sur le lac : sécurisation, puis évacuation du bois.",
+  "elagage-taille-arbres": "Réduction et allègement de couronne pour les grands arbres de Cudrefin, Montet et Champmartin, sans étêtage.",
+  "haubanage": "Pose de haubans souples pour retenir une fourche ou une branche maîtresse fragile, avec contrôle périodique.",
+  "abattage-demontage": "Démontage à la corde quand l'arbre est trop proche d'une maison, d'un chemin ou d'une ligne."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Cudrefin après une tempête ?", "a": "Oui, selon nos disponibilités du moment. Décrivez la situation par téléphone et envoyez une photo. Si l'arbre menace une maison ou une route de Cudrefin, nous organisons le passage en priorité et sécurisons avant de débiter."},
+  {"q": "Qui délivre l'autorisation d'abattage à Cudrefin ?", "a": "La Municipalité. Dans le canton de Vaud, l'abattage d'un arbre protégé demande une autorisation écrite, et une plantation compensatoire est exigée. Le seuil de protection figure dans le règlement communal, que nous consultons avant le chantier."},
+  {"q": "Peut-on garder un arbre dont une grosse branche inquiète ?", "a": "Souvent, oui. Un allègement de la branche, complété si besoin par un hauban souple, réduit le risque de rupture. Nous vous disons franchement quand ces mesures ne suffisent plus et qu'un démontage s'impose."},
+  {"q": "Venez-vous aussi à Champmartin, Montet et La Sauge ?", "a": "Oui, ces localités font partie de la commune de Cudrefin et nous nous y déplaçons de la même façon. La visite est gratuite, et le devis écrit vous parvient sous 48 h ouvrées."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre abîmé par le vent à Cudrefin ?",
+ "cta_lead": "Envoyez une photo ou demandez une visite : elle est gratuite, comme le devis."
+}

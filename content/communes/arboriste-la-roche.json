@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Roche (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, haubanage et soins aux arbres à La Roche (Gruyère, FR), par un arboriste-grimpeur venu de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · La Roche · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>La Roche</em> : taille, abattage et soins aux arbres",
+ "lead": "La Roche occupe l'extrême nord de la Gruyère, à égale distance de Bulle et de Fribourg. Nous y venons depuis Courgenay pour tailler, abattre ou haubaner vos arbres, avec visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Taille adaptée aux arbres de montagne", "Démontage à la corde près des bâtiments", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à La Roche",
+ "intro_h2": "Du fond de vallée aux hauteurs : plus de 1 000 m de dénivelé sur une commune",
+ "intro": "<p>Le territoire de La Roche s'étend de 728 m à 1 751 m d'altitude, sur 24 km². La commune compte 2 083 habitants et occupe l'extrême nord du district de la Gruyère.</p><p>Ce relief change tout pour les arbres. Vers 730 m, les feuillus de jardin et les fruitiers trouvent en général leur place. Au-dessus de 1 000 m, les résineux prennent le plus souvent le relais et encaissent neige lourde et vent.</p><p>Les ruines du château des seigneurs de La Roche, mentionné dès 1164, rappellent l'ancienneté du lieu. Dans un village ancien, les arbres plantés de longue date près des bâtiments méritent un contrôle régulier de leur stabilité.</p><p>Nous travaillons en grimpe, ce qui convient aux terrains en pente où une machine ne passe pas. Chaque pièce est retenue à la corde avant d'être déposée au sol.</p>",
+ "faits": [["Habitants", "2 083 (2025)"], ["Altitude", "1 152 m"], ["District", "Gruyère"], ["Depuis Courgenay", "env. 80 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Roche.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22). Leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à La Roche avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Neige et vent en altitude", "texte": "Au-dessus de 1 000 m, la neige lourde casse les branches et le vent déséquilibre les couronnes. Une taille d'allègement ou un haubanage limite ces dégâts sur les arbres proches des maisons."},
+  {"icone": "HOME", "titre": "Vieux bâtiments, vieux arbres", "texte": "Dans les villages anciens, fermes et maisons sont souvent accompagnées d'arbres âgés. Nous examinons l'ancrage et le houppier avant de proposer une taille, un hauban ou un démontage."},
+  {"icone": "WIND", "titre": "Après une tempête", "texte": "Un arbre couché ou fendu sur un terrain en pente se traite en grimpe et à la corde. Nous sécurisons d'abord, puis nous débitons et évacuons."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et d'allègement des feuillus et résineux de La Roche, adaptée à l'altitude de votre parcelle.",
+  "abattage-demontage": "Démontage par sections avec rétention des pièces, là où la pente ou les bâtiments interdisent l'abattage direct.",
+  "haubanage": "Maintien d'une fourche fragile ou d'une charpentière lourde de neige par un hauban posé en grimpe, avec contrôle périodique.",
+  "urgence-tempete-arbre-dangereux": "Sécurisation et démontage d'un arbre couché, fendu ou déraciné après la tempête ou la neige."
+ },
+ "faq": [
+  {"q": "Venez-vous jusqu'à La Roche pour une visite gratuite ?", "a": "Oui. La Roche se trouve à une huitantaine de kilomètres de Courgenay. La visite reste gratuite. Nous la fixons avec vous et, quand c'est possible, nous la groupons avec d'autres rendez-vous en Gruyère."},
+  {"q": "Quel est le bon moment pour tailler un arbre à La Roche ?", "a": "L'hiver convient à la plupart des feuillus, mais à cette altitude nous évitons les périodes de gel marqué. Les résineux se taillent de préférence en fin d'été. Nous adaptons la date à l'essence et à l'état de l'arbre."},
+  {"q": "Un résineux penche vers ma maison : faut-il l'abattre ?", "a": "Pas forcément. Nous vérifions d'abord l'ancrage, le tronc et la couronne. Un haubanage ou une réduction suffit parfois. Si l'arbre est condamné, nous le démontons pièce par pièce pour protéger la toiture."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Roche ?", "a": "Hors zone à bâtir, les boisements d'intérêt écologique ou paysager sont protégés par la loi fribourgeoise et leur suppression demande une dérogation communale. En zone à bâtir, le règlement communal d'urbanisme fait foi. Nous nous renseignons pour vous."},
+  {"q": "Que devient le bois sur un terrain en pente ?", "a": "Nous débitons le tronc en bûches ou en billons que vous gardez, ou nous évacuons le tout. Les branches sont broyées sur place quand l'accès le permet. Le choix figure dans le devis."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à sécuriser ou à tailler à La Roche ?",
+ "cta_lead": "Visite et devis gratuits. Nous vous répondons sous 48 h ouvrées."
+}

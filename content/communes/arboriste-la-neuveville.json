@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Neuveville : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, haubanage et plantation d'arbres à La Neuveville, entre lac de Bienne et Chasseral, par un arboriste-grimpeur de Courgenay. Devis gratuit.",
+ "hero_img": "demontage_saule_bienne", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · La Neuveville · lac de Bienne",
+ "h1": "Arboriste-grimpeur à <em>La Neuveville</em> : taille, abattage et soins aux arbres",
+ "lead": "La Neuveville s'étage du lac de Bienne, à 429 m, jusqu'au lieu-dit Sur la Roche, à 926 m. Vieille ville fortifiée, coteau, quartiers en pente : nous taillons et démontons vos arbres dans ces trois situations.",
+ "points": ["Visite sur place et devis gratuits", "À une quarantaine de kilomètres de Courgenay", "Démontage en espace restreint", "Branches évacuées, terrain nettoyé"],
+ "intro_eyebrow": "Vos arbres à La Neuveville",
+ "intro_h2": "Cinq cents mètres de dénivelé entre le port et Sur la Roche",
+ "intro": "<p>La Neuveville réunit près de 3 800 habitants sur 6,82 km², aux abords du lac de Bienne et au pied du Chasseral. La localité de Chavannes, Schafis en allemand, abrite le musée de la vigne du lac de Bienne.</p><p>Un arbre au bord du lac ne vit pas comme un arbre à 900 m. En bas, la végétation démarre en général plus tôt. Plus haut, la neige et le vent dictent la taille.</p><p>La vieille ville, avec ses murs, ses tours et le château du Schlossberg, laisse peu de place pour faire tomber une branche. Nous y travaillons à la corde, en descendant chaque pièce retenue.</p>",
+ "faits": [["Habitants", "3 781 (2025)"], ["Altitude", "429 à 926 m"], ["Superficie", "6,82 km²"], ["Depuis Courgenay", "env. 40 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Neuveville.</strong> Le canton de Berne protège les haies et bosquets dans leur état actuel (LCPN, BSG 426.11) : entretien permis, suppression soumise à une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à La Neuveville avant d'intervenir.",
+ "contexte": [
+  {"icone": "SHIELD", "titre": "Autour des murs et des tours", "texte": "Les arbres proches des remparts et du château exigent un démontage précis. Chaque pièce est retenue à la corde et déposée au sol sans toucher la maçonnerie ancienne."},
+  {"icone": "MOUNT", "titre": "Jardins en pente sur le coteau", "texte": "Avec près de 500 m de dénivelé entre le lac et Sur la Roche, les jardins en pente sont fréquents. Nous travaillons depuis l'arbre, sans machines lourdes, et évacuons les branches à la main ou au treuil."},
+  {"icone": "TREE", "titre": "Arbres d'ornement du bord du lac", "texte": "Près du port et de la ligne Bienne – Lausanne, un grand arbre d'agrément demande une taille douce et régulière pour rester sûr sans perdre son port."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille douce, réduction ou éclaircie des arbres d'ornement et de jardin de La Neuveville, du bord du lac aux hauteurs.",
+  "abattage-demontage": "Démontage à la corde dans les cours de la vieille ville et les jardins en pente, où rien ne doit tomber librement.",
+  "haubanage": "Pose de haubans pour conserver un grand arbre dont une fourche faiblit, plutôt que de l'abattre.",
+  "plantation-arbres": "Choix et plantation d'un arbre adapté au bord du lac ou au haut de la commune, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Quarante kilomètres, est-ce trop loin pour venir à La Neuveville ?", "a": "Non. La Neuveville est à une quarantaine de kilomètres de Courgenay à vol d'oiseau, et nous intervenons jusqu'au lac de Neuchâtel et à Lausanne. La visite est gratuite et le devis vous parvient par écrit."},
+  {"q": "Peut-on abattre un arbre dans la vieille ville de La Neuveville ?", "a": "Techniquement oui, par démontage à la corde, pièce par pièce. Juridiquement, il faut d'abord vérifier le règlement communal, qui peut protéger certains arbres. Nous faisons cette démarche avant de vous donner une date."},
+  {"q": "Un arbre penche vers la ligne de chemin de fer, qui appeler ?", "a": "Contactez-nous pour l'évaluation. Si l'arbre menace la ligne Bienne – Lausanne, l'intervention se coordonne avec l'exploitant ferroviaire. Nous démontons alors l'arbre côté opposé à la voie, en pièces retenues."},
+  {"q": "Faut-il tailler différemment au bord du lac et en haut de la commune ?", "a": "Oui. En bas, à 429 m, la saison est longue et les arbres cicatrisent bien. Vers 900 m, nous taillons plus légèrement et plus tard au printemps. Nous adaptons la date et l'intensité à l'emplacement."},
+  {"q": "Peut-on sauver un vieil arbre plutôt que l'abattre ?", "a": "Souvent. Un haubanage ou une réduction de couronne suffit à sécuriser une fourche affaiblie. Nous examinons l'arbre lors de la visite et vous disons franchement si la conservation est raisonnable."}
+ ],
+ "cta_img": "demontage_saule_bienne",
+ "cta_h2": "Un arbre à tailler ou à démonter à La Neuveville ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées. Nous venons de Courgenay."
+}

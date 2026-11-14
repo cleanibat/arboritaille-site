@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Mervelier : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Mervelier (JU), village de 523 habitants à 556 m d'altitude. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Mervelier · District de Delémont",
+ "h1": "Arboriste-grimpeur à <em>Mervelier</em> : taille, abattage et soins aux arbres",
+ "lead": "Mervelier, 523 habitants à 556 m d'altitude, a choisi en 2012 de rester une commune à part entière. Nous y venons depuis Courgenay, à une trentaine de kilomètres, pour tailler, abattre ou expertiser vos arbres.",
+ "points": [
+  "Visite et devis gratuits",
+  "À une trentaine de kilomètres de Courgenay",
+  "Visites groupées pour limiter les trajets",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Mervelier",
+ "intro_h2": "Un village de 500 habitants qui a gardé son indépendance",
+ "intro": "<p>Mervelier est cité pour la première fois vers 1184, sous la forme de Morswilre. Le village compte aujourd'hui 523 habitants sur 9,77 km², à 556 m d'altitude, dans le district de Delémont.</p><p>Le 5 février 2012, ses habitants ont refusé de rejoindre la fusion du Val Terbi. Mervelier garde donc sa propre administration, et c'est à elle que s'adresse toute demande d'autorisation d'abattage.</p><p>Avec 54 habitants au kilomètre carré, la commune est rurale. Dans ce cadre, les arbres sont surtout ceux des fermes, des jardins et des limites de parcelle, auxquels s'ajoutent les haies et bosquets protégés hors zone à bâtir.</p><p>Mervelier est à une trentaine de kilomètres de Courgenay. Nous organisons la visite en la groupant avec d'autres rendez-vous du district, puis vous recevez un devis écrit et gratuit.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "523 (2025)"
+  ],
+  [
+   "Altitude",
+   "556 m"
+  ],
+  [
+   "Superficie",
+   "9,77 km²"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Mervelier.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Mervelier avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Une commune autonome",
+   "texte": "Mervelier n'a pas rejoint Val Terbi : la demande d'autorisation se dépose auprès de sa propre administration. Nous préparons le dossier avec vous et attendons la réponse avant de couper."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Un déplacement préparé",
+   "texte": "À une trentaine de kilomètres de Courgenay, nous venons avec tout le matériel prévu au devis, de la corde à la rogneuse. La visite préalable évite un second trajet inutile."
+  },
+  {
+   "icone": "LEAF",
+   "titre": "Haies et bosquets de campagne",
+   "texte": "Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne. Nous les entretenons en hiver, par tronçons, et vous indiquons la démarche si une suppression est envisagée."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des arbres de ferme et de jardin de Mervelier, allègement de couronne, dégagement des toitures.",
+  "abattage-demontage": "Abattage direct quand le terrain le permet, démontage à la corde près des bâtiments. Bois débité ou évacué selon le devis.",
+  "diagnostic-expertise-arbre": "Examen d'un arbre ancien ou douteux, avis écrit sur sa tenue et sur l'intérêt de le conserver, de le tailler ou de l'abattre."
+ },
+ "faq": [
+  {
+   "q": "Mervelier est-il trop loin de Courgenay pour une visite gratuite ?",
+   "a": "Non. Une trentaine de kilomètres à vol d'oiseau, c'est dans notre zone d'intervention. Nous groupons simplement la visite avec d'autres rendez-vous du district de Delémont, ce qui peut demander quelques jours de délai."
+  },
+  {
+   "q": "À qui demander l'autorisation d'abattage à Mervelier ?",
+   "a": "À la commune de Mervelier elle-même, puisqu'elle n'a pas fusionné avec Val Terbi. Hors zone à bâtir, la dérogation se fait d'entente avec l'Office de l'environnement. Nous nous occupons de la démarche avec vous."
+  },
+  {
+   "q": "Pouvez-vous me dire si un vieil arbre est encore sûr ?",
+   "a": "Oui. Nous l'examinons du pied à la cime : racines, écorce, cavités, fourches, bois mort. Vous recevez un avis écrit et, si nécessaire, une proposition de taille, de haubanage ou d'abattage avec son prix."
+  },
+  {
+   "q": "Quand tailler une haie en zone agricole à Mervelier ?",
+   "a": "Pendant le repos de la végétation, d'octobre à mars, pour épargner les oiseaux nicheurs. Nous recépons un tronçon à la fois, pour que la haie reste un abri et une limite de parcelle utile."
+  },
+  {
+   "q": "Faites-vous plusieurs arbres dans la même journée ?",
+   "a": "Oui, et c'est même préférable vu la distance. Si plusieurs habitants de Mervelier ont des travaux, nous les regroupons sur une journée. Chacun reçoit son propre devis et sa propre facture."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à tailler, à expertiser ou à abattre à Mervelier ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

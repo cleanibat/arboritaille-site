@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Orbe (VD) : élagage et abattage | Arboritaille",
+ "desc": "Élagage, abattage par démontage, diagnostic et plantation d'arbres à Orbe, dans le Jura-Nord vaudois. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Orbe · Jura-Nord vaudois",
+ "h1": "Arboriste-grimpeur à <em>Orbe</em> : taille, abattage et soins aux arbres",
+ "lead": "Orbe, 8 005 habitants, porte le nom de la rivière au bord de laquelle elle est bâtie. Arbres de berge, de cour ou de jardin : nous les taillons, les démontons ou les remplaçons, après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Examen des arbres de berge", "Démontage à la corde en espace serré", "Réponse écrite sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Orbe",
+ "intro_h2": "Une ville ancienne posée sur sa rivière",
+ "intro": "<p>Orbe s'appelait Urba vers 280 et tient son nom de la rivière, citée dès 916. La ville compte aujourd'hui 8 005 habitants sur 12,02 km², à 480 m d'altitude, dans le district du Jura-Nord vaudois.</p><p>Avec 666 habitants au km², l'habitat est serré. Un arbre adulte y touche vite un toit, un mur ou la parcelle d'à côté. Nous travaillons alors depuis la couronne, et chaque branche descend au bout d'une corde.</p><p>Au bord d'un cours d'eau, la question change. Un arbre de berge penche souvent vers l'eau et son ancrage mérite un examen avant toute coupe. Nous regardons le collet, le tronc et la couronne.</p><p>Courgenay se trouve à quelque nonante kilomètres à vol d'oiseau. Nous groupons les rendez-vous du Jura-Nord vaudois sur une même journée. La visite est gratuite et le devis vous parvient par écrit.</p>",
+ "faits": [["Habitants", "8 005 (2025)"], ["Altitude", "480 m"], ["District", "Jura-Nord vaudois"], ["Depuis Courgenay", "env. 90 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Orbe.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Orbe avant d'intervenir.",
+ "contexte": [
+  {"icone": "SEARCH", "titre": "Arbres de berge", "texte": "Un arbre penché sur l'eau n'est pas forcément dangereux. Nous examinons son ancrage et sa couronne, puis proposons un allègement, un haubanage ou un démontage selon ce que nous constatons."},
+  {"icone": "HOME", "titre": "Cours et jardins étroits", "texte": "En ville, la place manque pour laisser tomber un tronc. Nous démontons l'arbre par sections retenues à la corde, sans abîmer murs, clôtures ni plantations voisines."},
+  {"icone": "USERS", "titre": "Gérances et copropriétés", "texte": "Immeubles, commerces, sites d'entreprise : nous chiffrons par arbre ou par lot, proposons un planning et remettons un compte rendu après les travaux."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction, allègement ou rehaussement de couronne pour les arbres de cour et de jardin d'Orbe. Coupes nettes, forme conservée.",
+  "abattage-demontage": "Démontage par sections retenues à la corde entre les bâtiments, abattage dirigé quand le terrain est libre.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un arbre de berge ou d'un sujet âgé, avec avis écrit avant de choisir entre taille, haubanage et abattage.",
+  "collectivites-entreprises": "Devis par lot, planning et compte rendu pour les gérances, les entreprises et la commune."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Orbe ?", "a": "Pour un arbre protégé, oui. Dans le canton de Vaud, la Municipalité délivre une autorisation écrite et exige une plantation compensatoire. Le seuil de protection figure dans le règlement communal. Nous le consultons avant de fixer une date."},
+  {"q": "Un arbre penche au-dessus de la rivière à Orbe : que faire ?", "a": "Demandez d'abord un examen sur place. Nous contrôlons le pied, le tronc et la répartition de la couronne. Une réduction suffit souvent. Si l'arbre doit partir, il est démonté pièce par pièce, à la corde."},
+  {"q": "Venez-vous de Courgenay jusqu'à Orbe pour un seul arbre ?", "a": "Oui. Orbe est à quelque nonante kilomètres à vol d'oiseau de Courgenay et nous regroupons les visites du Jura-Nord vaudois. La visite reste gratuite, le devis écrit suit sous 48 h ouvrées."},
+  {"q": "Peut-on tailler fortement un arbre sans rien demander ?", "a": "Non. Dans le canton de Vaud, un élagage ou un écimage inconsidéré est assimilé à un abattage sans autorisation. Nous pratiquons une taille mesurée, qui respecte la silhouette de l'arbre, et sollicitons la Municipalité quand c'est nécessaire."},
+  {"q": "Que devient le bois après l'abattage ?", "a": "Vous choisissez au moment du devis : bois débité en bûches et laissé sur place, ou évacué avec les branches. Le terrain est ratissé et les accès sont nettoyés avant notre départ."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à examiner ou à tailler à Orbe ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse écrite sous 48 h ouvrées."
+}

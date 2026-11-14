@@ -1,0 +1,61 @@
+{
+ "service": "elagage-taille-arbres",
+ "commune": "arboriste-payerne",
+ "h1_plain": "Élagage et taille d'arbres à Payerne",
+ "title": "Élagage et taille d'arbres à Payerne (VD) | Arboritaille",
+ "desc": "Élagage et taille d'arbres à Payerne : taille d'entretien en grimpe, en ville et dans les hameaux, démarche communale expliquée. Visite et devis gratuits.",
+ "eyebrow": "Élagage · Payerne",
+ "h1": "Élagage et taille d'arbres à <em>Payerne</em>",
+ "lead": "À Payerne, l'entretien courant d'un arbre est libre ; toute intervention qui le dépasse demande l'accord de la Municipalité. Nous taillons en grimpe, en ville comme à Corges, Etrabloz ou Vers-chez-Perrin.",
+ "points": [
+  "Taille d'entretien, sans étêtage",
+  "En ville et dans les hameaux",
+  "Formulaire communal expliqué",
+  "Visite et devis gratuits"
+ ],
+ "intro_eyebrow": "Payerne",
+ "intro_h2": "À 456 m, des arbres qui poussent vite et se taillent tôt",
+ "intro": "<p>Payerne compte 10 938 habitants sur 24,19 km², à 456 m d'altitude. À ce niveau, la saison de végétation est longue : un arbre de jardin gagne vite en hauteur et en largeur.</p><p>Tailler peu et régulièrement évite les grosses coupes. C'est aussi ce qui maintient le travail dans l'entretien courant, le seul que la Commune dispense d'autorisation.</p><p>Près de l'abbatiale et des bâtiments classés du centre, chaque branche descend retenue à la corde. À Corges, Etrabloz, Vers-chez-Perrin ou Vers-chez-Savary, les parcelles laissent en général plus de recul.</p><p>Payerne se trouve à quelque 65 kilomètres de Courgenay. La visite est gratuite et le devis écrit suit sous 48 h ouvrées.</p>",
+ "contexte": [
+  {
+   "icone": "SCISS",
+   "titre": "Entretien courant ou non",
+   "texte": "La Commune soumet à autorisation les interventions qui excèdent l'entretien courant. Lors de la visite, nous vous indiquons si la taille envisagée en fait partie ou s'il vaut mieux déposer une demande."
+  },
+  {
+   "icone": "DOC",
+   "titre": "Un formulaire en ligne",
+   "texte": "Le formulaire communal sert pour l'abattage comme pour l'élagage. Il demande l'essence, la circonférence à 1 m du sol, le motif, un plan de situation et des photos."
+  },
+  {
+   "icone": "SHIELD",
+   "titre": "Près des monuments",
+   "texte": "L'abbatiale, les anciens bâtiments conventuels et la fontaine du Banneret sont des biens culturels d'importance nationale. À proximité, le sol est protégé et aucune branche ne tombe librement."
+  }
+ ],
+ "reglement": "<strong>Élagage et autorisation à Payerne.</strong> Selon la Commune de Payerne, toutes les interventions sur le patrimoine arboré sont réglementées par la loi cantonale (LPrPNP, BLV 450.11). Les abattages et les interventions excédant l'entretien courant ne peuvent pas être effectués sans autorisation de la Municipalité. Un règlement communal est en cours d'élaboration.<br>La demande se dépose avec le <a href=\"https://www.payerne.ch/police-des-constructions/abattage-des-arbres/\">formulaire officiel de la Commune</a>. Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Nous vérifions la règle en vigueur à Payerne avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour élaguer un arbre à Payerne ?",
+   "a": "Pas pour l'entretien courant. La Commune précise en revanche que les interventions qui l'excèdent ne peuvent pas être effectuées sans autorisation de la Municipalité. Le même formulaire sert pour l'abattage et pour l'élagage."
+  },
+  {
+   "q": "Qui peut déposer la demande à Payerne ?",
+   "a": "Le formulaire prévoit plusieurs qualités : propriétaire, locataire, administrateur de PPE, gérance ou entrepreneur. Il demande l'essence, la circonférence à 1 m du sol, le motif, un plan de situation et des photos. Nous vous transmettons ces données après la visite."
+  },
+  {
+   "q": "À quelle fréquence tailler un arbre de jardin ?",
+   "a": "Cela dépend de l'essence et de la place disponible. À basse altitude, la pousse annuelle est en général forte : une taille légère tous les quelques ans évite une coupe lourde plus tard. Nous proposons un rythme après examen de l'arbre."
+  },
+  {
+   "q": "Taillez-vous aussi les haies ?",
+   "a": "Oui. Nous programmons les tailles de haies en hiver, hors période de nidification, et vérifions l'absence de nids avant d'intervenir. Le règlement-type cantonal vaudois protège les haies vives : nous les entretenons sans les réduire."
+  },
+  {
+   "q": "Vous déplacez-vous à Vers-chez-Perrin ou à Corges ?",
+   "a": "Oui, dans toutes les localités de la commune de Payerne : Corges, Etrabloz, Vers-chez-Perrin et Vers-chez-Savary. La visite est gratuite partout, et vous recevez une réponse sous 48 h ouvrées."
+  }
+ ],
+ "cta_h2": "Un arbre à tailler à Payerne ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse écrite sous 48 h ouvrées."
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à La Grande Béroche (NE) : élagage | Arboritaille",
+ "desc": "Arboriste-grimpeur à La Grande Béroche (NE) : taille, élagage et abattage à Bevaix, Gorgier, Saint-Aubin-Sauges et Vaumarcus. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · La Grande Béroche · Littoral",
+ "h1": "Arboriste-grimpeur à <em>La Grande Béroche</em> : taille, élagage et abattage",
+ "lead": "De Bevaix à Vaumarcus, La Grande Béroche se trouve à une soixantaine de kilomètres de Courgenay. Nous nous y déplaçons pour la taille, le démontage et l'abattage de vos arbres. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Six villages, de Bevaix à Vaumarcus", "Chantiers regroupés sur le Littoral", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à La Grande Béroche",
+ "intro_h2": "Six villages sur 42 km², à une soixantaine de kilomètres de Courgenay",
+ "intro": "<p>La Grande Béroche est née en 2018 de la fusion de Bevaix, Saint-Aubin-Sauges, Gorgier, Vaumarcus, Montalchez et Fresens. Elle porte le nom de la région naturelle de la Béroche.</p><p>Avec 42 kilomètres carrés pour 9 363 habitants, c'est un territoire étendu, à 475 m d'altitude. Courgenay se trouve à une soixantaine de kilomètres à vol d'oiseau. Cette distance demande un peu d'organisation, pas davantage.</p><p>Concrètement, vous nous envoyez quelques photos de l'arbre et de son accès. Nous fixons ensuite une visite gratuite, puis nous regroupons les chantiers du Littoral sur les mêmes journées.</p>",
+ "faits": [["Habitants", "9 363 (2025)"], ["Altitude", "475 m"], ["Superficie", "42,21 km²"], ["Depuis Courgenay", "env. 60 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Grande Béroche.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "SEARCH", "titre": "Des photos pour commencer", "texte": "Une vue d'ensemble, le pied du tronc, l'accès depuis la route : trois photos suffisent pour préparer la visite et prévoir le matériel."},
+  {"icone": "PIN", "titre": "Un territoire étendu", "texte": "Avec 222 habitants au kilomètre carré, La Grande Béroche est bien moins dense que sa voisine Cortaillod. Là où les parcelles sont grandes, un arbre garde sa place : une taille d'entretien suffit souvent."},
+  {"icone": "WARN", "titre": "Arbre dangereux", "texte": "Branche fendue ou arbre couché après un coup de vent : appelez-nous. Nous vous disons par téléphone comment tenir la zone à l'écart, puis nous organisons le déplacement."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction ou éclaircissage de couronne, avec des coupes nettes et une silhouette respectée.",
+  "abattage-demontage": "Abattage ou démontage à la corde selon la place disponible. Bois débité, branches broyées ou évacuées.",
+  "urgence-tempete-arbre-dangereux": "Après un coup de vent : conseils immédiats par téléphone, mise en sécurité puis dégagement de l'arbre.",
+  "diagnostic-expertise-arbre": "Un doute sur la solidité d'un arbre ? Examen du sol et depuis la couronne, puis avis écrit avec plusieurs options."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous vraiment jusqu'à La Grande Béroche ?", "a": "Oui. La Grande Béroche est à une soixantaine de kilomètres de Courgenay à vol d'oiseau et notre zone s'étend jusqu'à Lausanne et la Riviera. Nous regroupons simplement les visites et les chantiers du Littoral sur les mêmes journées."},
+  {"q": "La visite est-elle gratuite malgré la distance ?", "a": "Oui, la visite et le devis sont gratuits, à La Grande Béroche comme ailleurs. Pour gagner du temps, envoyez-nous d'abord quelques photos : elles nous permettent de préparer le rendez-vous et de venir avec les bonnes informations."},
+  {"q": "Dans quels villages intervenez-vous ?", "a": "Dans les six villages de la commune : Bevaix, Gorgier, Saint-Aubin-Sauges, Vaumarcus, Montalchez et Fresens. Précisez simplement la localité et l'adresse dans votre demande, pour que nous puissions organiser la tournée."},
+  {"q": "Faut-il une autorisation pour abattre un arbre ?", "a": "Dans le canton de Neuchâtel, la protection des arbres isolés relève des règlements communaux. Les haies et bosquets sont protégés par la loi cantonale. Nous vérifions la règle auprès de la commune avant d'intervenir et vous indiquons la démarche."}
+ ],
+ "cta_img": "arboriste_grimpeur-3",
+ "cta_h2": "Un arbre à faire voir à La Grande Béroche ?",
+ "cta_lead": "Envoyez-nous quelques photos et l'adresse. Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

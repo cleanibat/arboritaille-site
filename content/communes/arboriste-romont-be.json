@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Romont (BE) : taille et abattage | Arboritaille",
+ "desc": "Élagage, abattage, rognage de souche et soins aux arbres à Romont (BE), district de Courtelary, par un arboriste-grimpeur venu de Courgenay. Devis gratuit.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Romont (BE) · district de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Romont (BE)</em> : taille, abattage et soins aux arbres",
+ "lead": "Romont (BE), Rothmund en allemand, est une commune de 237 habitants du district de Courtelary, à 755 m d'altitude. Nous y taillons, démontons et plantons des arbres sur rendez-vous, avec un devis écrit et gratuit.",
+ "points": ["Visite sur place et devis gratuits", "À une trentaine de kilomètres de Courgenay", "Réponse écrite possible en allemand", "Travail propre, terrain rendu net"],
+ "intro_eyebrow": "Vos arbres à Romont (BE)",
+ "intro_h2": "Ne pas confondre : Romont, 237 habitants, dans le canton de Berne",
+ "intro": "<p>Il existe un Romont fribourgeois. Romont (BE) est bernois, perché à 755 m, avec 237 habitants et un gentilé propre : les Rominats. Le village dépendait de la seigneurie d'Erguël avant de rejoindre le district de Courtelary en 1839.</p><p>Ses voisines Perles et Longeau sont de langue allemande, et sa paroisse historique, celle de Perles, était bilingue. Jusqu'en 1839, Romont relevait du district de Büren. Nous répondons par écrit en français ou en allemand.</p><p>Avec 34 habitants au km², la commune est peu dense. Dans un village de cette taille, les arbres à surveiller sont en général ceux des fermes et des jardins, proches des bâtiments. Nous les visitons gratuitement avant toute proposition.</p>",
+ "faits": [["Habitants", "237 (2025)"], ["Altitude", "755 m"], ["Superficie", "7,03 km²"], ["Depuis Courgenay", "env. 30 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Romont (BE).</strong> Les haies et bosquets du canton de Berne sont protégés dans leur état actuel (LCPN, BSG 426.11). Leur entretien est permis, mais les supprimer demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur relèvent du règlement communal. Nous vérifions la règle en vigueur à Romont avant d'intervenir.",
+ "contexte": [
+  {"icone": "USERS", "titre": "Un village de 237 habitants", "texte": "Dans une commune de cette taille, chaque grand arbre compte dans le paysage. Nous privilégions la taille de conservation et ne proposons l'abattage que lorsqu'il est justifié."},
+  {"icone": "DOC", "titre": "Devis en français ou en allemand", "texte": "Les communes voisines de Perles et Longeau sont de langue allemande. Si vous préférez un devis ou un échange écrit en allemand, dites-le nous lors de la visite."},
+  {"icone": "STUMP", "titre": "Souches de ferme", "texte": "Après l'abattage d'un vieil arbre de cour, la souche gêne le passage des machines agricoles. Nous la rognons sous le niveau du sol pour que l'herbe reprenne."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille raisonnée des arbres de ferme et de jardin de Romont (BE) : bois mort, branches dangereuses, dégagement d'un toit ou d'une ligne.",
+  "abattage-demontage": "Abattage en un tenant si la place le permet, sinon démontage à la corde. Bois laissé en bûches ou évacué.",
+  "rognage-souche": "Rognage de souche à la machine, copeaux laissés sur place ou emportés, terrain prêt à être réensemencé.",
+  "plantation-arbres": "Plantation d'un arbre adapté à 755 m d'altitude, avec tuteurage et conseils d'arrosage pour les premières années."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous à Romont (BE) pour un petit chantier ?", "a": "Oui. Romont (BE) est à une trentaine de kilomètres de Courgenay à vol d'oiseau. Nous pouvons grouper la visite avec d'autres rendez-vous du district de Courtelary, et elle reste gratuite dans tous les cas."},
+  {"q": "Pouvez-vous rédiger le devis en allemand ?", "a": "Oui. Nous répondons par écrit en allemand quand vous le souhaitez. La visite sur place se fait en français, avec explications à l'appui du devis si nécessaire."},
+  {"q": "Qui autorise l'abattage d'un arbre à Romont (BE) ?", "a": "Pour un arbre isolé en zone à bâtir, c'est le règlement communal de Romont (BE) qui s'applique. Pour une haie ou un bosquet, la loi bernoise exige une dérogation de la préfecture. Nous vérifions la situation avant de vous proposer une date."},
+  {"q": "Un arbre de ferme menace la grange, est-ce une urgence ?", "a": "Si l'arbre est fendu, déraciné ou qu'une grosse branche tient à peine, oui. Appelez-nous, nous sécurisons la partie dangereuse en priorité, puis nous convenons de la suite avec vous."},
+  {"q": "Quelle essence planter à 755 m ?", "a": "Nous choisissons avec vous un arbre rustique qui supporte les hivers à cette altitude et le sol de votre parcelle. Nous l'installons avec tuteurage tripode et vous laissons un plan d'arrosage simple."}
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à tailler ou à abattre à Romont (BE) ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées, en français ou en allemand."
+}

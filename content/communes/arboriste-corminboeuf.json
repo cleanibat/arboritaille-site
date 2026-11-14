@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Corminboeuf (FR) : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Corminboeuf et Chésopelloz (FR) : taille, abattage et soins aux arbres anciens des jardins et propriétés. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Corminboeuf · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Corminboeuf</em> : taille, abattage et soins aux arbres",
+ "lead": "Corminboeuf et Chésopelloz, réunis depuis 2017, comptent 3 120 habitants à une soixantaine de kilomètres de Courgenay. Arbres de propriété, de jardin ou de bord de route : nous venons les voir, puis vous recevez un devis gratuit.",
+ "points": ["Visite et devis gratuits", "Soins aux arbres anciens", "Démontage sans dégât au jardin", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Corminboeuf",
+ "intro_h2": "Une villa de 1909 et les arbres de son époque",
+ "intro": "<p>Le château de Bois Murat, villa construite en 1909 par l'architecte Adolphe Burnat, figure au patrimoine de Corminboeuf. Une demeure de cette époque s'entoure en général d'arbres plantés au même moment, qui auraient aujourd'hui plus d'un siècle.</p><p>La commune, 3 120 habitants sur 7,24 km² à 632 m d'altitude, porte un nom issu de corte, le domaine agricole. Chésopelloz l'a rejointe en 2017. Avec 431 habitants au km², les jardins sont en général proches les uns des autres.</p><p>Un arbre âgé demande un regard avant la tronçonneuse : bois mort, champignons au pied, fissures. Nous diagnostiquons, puis proposons la taille la plus légère possible, un haubanage ou, si rien d'autre ne tient, un démontage soigné.</p>",
+ "faits": [["Habitants", "3 120"], ["Altitude", "632 m"], ["Superficie", "7,24 km²"], ["Depuis Courgenay", "env. 65 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Corminboeuf.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Corminboeuf avant d'intervenir.",
+ "contexte": [
+  {"icone": "SHIELD", "titre": "Vieux arbres de propriété", "texte": "Un arbre de plus de cent ans se taille peu et bien. Nous retirons le bois mort, allégeons les branches lourdes et posons des haubans si une fourche faiblit, pour prolonger sa vie sans le mutiler."},
+  {"icone": "HOME", "titre": "Jardins de lotissement", "texte": "Dans les quartiers récents, les arbres plantés trop près des maisons prennent de l'ampleur. Une réduction douce ou un rehaussement de couronne redonne de la lumière sans supprimer l'arbre."},
+  {"icone": "DOC", "titre": "Un règlement par commune", "texte": "Corminboeuf dispose, comme chaque commune fribourgeoise, de son règlement d'urbanisme. Il peut protéger certains arbres en zone à bâtir. Nous le consultons avant toute demande d'abattage."}
+ ],
+ "services": {
+  "diagnostic-expertise-arbre": "Examen d'un arbre ancien du pied à la couronne, avis écrit et options graduées, du suivi au démontage.",
+  "elagage-taille-arbres": "Taille douce des grands sujets, bois mort et allègement ; réduction mesurée des arbres de jardin trop proches des maisons.",
+  "haubanage": "Haubans posés dans la couronne pour conserver un arbre de valeur dont une fourche se fend.",
+  "abattage-demontage": "Démontage pièce par pièce à la corde, pelouse et massifs protégés, bois débité ou évacué.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol avec une machine compacte, pour replanter ou engazonner."
+ },
+ "faq": [
+  {"q": "Comment savoir si mon vieux arbre à Corminboeuf est encore sûr ?", "a": "Nous l'examinons sur place : état du collet, présence de champignons, cavités, fissures, tenue des charpentières. Vous recevez un avis écrit et des options graduées, du simple suivi au démontage. La visite est gratuite."},
+  {"q": "Peut-on tailler un arbre sans abîmer la pelouse et les massifs ?", "a": "Oui. Nous travaillons en grimpe et descendons les branches à la corde. Les pièces lourdes sont freinées avant de toucher le sol. Les machines restent sur l'accès prévu avec vous."},
+  {"q": "Faut-il une autorisation pour abattre à Corminboeuf ?", "a": "En zone à bâtir, cela dépend du règlement communal d'urbanisme. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager ne se suppriment pas sans dérogation communale, avec compensation. Nous vérifions pour vous avant le chantier."},
+  {"q": "Remplacez-vous un arbre abattu ?", "a": "Si vous le souhaitez, ou si la commune l'exige en compensation. Nous conseillons une essence adaptée à la place disponible et au sol, plantons et tuteurons l'arbre, puis vous expliquons l'arrosage des premières années."},
+  {"q": "Que devient la souche ?", "a": "Elle peut être rognée sous le niveau du sol pour replanter ou engazonner. Le rognage se fait avec une machine compacte qui passe par un portail de jardin. Le devis l'indique séparément."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un arbre ancien à soigner à Corminboeuf ?",
+ "cta_lead": "Diagnostic sur place, visite et devis gratuits."
+}

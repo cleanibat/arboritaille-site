@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Romanel-sur-Lausanne : élagage | Arboritaille",
+ "desc": "Élagage, abattage par démontage, rognage de souche et plantation d'arbres à Romanel-sur-Lausanne (VD). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Romanel-sur-Lausanne · District de Lausanne",
+ "h1": "Arboriste-grimpeur à <em>Romanel-sur-Lausanne</em> : élagage, abattage et soins aux arbres",
+ "lead": "Romanel-sur-Lausanne tient sur 2,88 km², entre Cheseaux et Lausanne, pour 4 320 habitants. Dans des jardins proches les uns des autres, nous taillons et démontons vos arbres sans déborder chez le voisin.",
+ "points": ["Visite et devis gratuits", "Taille régulière, petites coupes", "Démontage retenu à la corde", "Souche rognée, terrain rendu propre"],
+ "intro_eyebrow": "Vos arbres à Romanel",
+ "intro_h2": "2,88 km² et 1 500 habitants au km² : l'arbre à l'échelle du jardin",
+ "intro": "<p>Les armoiries de Romanel-sur-Lausanne montrent une fontaine. Elle rappelle les sources alcalines du lieu, retrouvées en 1879 près du village et baptisées « Source Providence ». Le temple a été reconstruit en 1717-1718.</p><p>La commune est petite : 2,88 km² pour 4 320 habitants, à 590 m d'altitude. Située entre Cheseaux et Lausanne, elle affiche 1 500 habitants au km².</p><p>À cette densité, un arbre concerne rarement un seul propriétaire. Ses branches passent la limite, ses feuilles tombent à côté, son ombre couvre deux terrasses. Une taille régulière évite que la situation se tende.</p><p>Quand l'abattage est décidé, nous <a href=\"/abattage-demontage\">démontons l'arbre</a> depuis le haut. Chaque tronçon est retenu à la corde et posé dans votre jardin, pas dans celui d'à côté.</p>",
+ "faits": [["Habitants", "4 320 (2025)"], ["Altitude", "590 m"], ["Superficie", "2,88 km²"], ["Depuis Courgenay", "env. 100 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Romanel-sur-Lausanne.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "SCISS", "titre": "Peu, mais souvent", "texte": "De petites coupes répétées valent mieux qu'une taille sévère après quinze ans d'attente. L'arbre cicatrise vite, garde sa silhouette et reste dans les limites de la parcelle."},
+  {"icone": "AXE", "titre": "Démonter sans déborder", "texte": "Entre deux clôtures, il n'y a pas de zone de chute. Le grimpeur coupe de courtes sections, un second cordage les guide, et tout arrive au sol à l'endroit prévu."},
+  {"icone": "STUMP", "titre": "Souche et nouvel arbre", "texte": "Une fois la souche rognée, l'emplacement est libre. C'est l'occasion de planter une essence de plus petit développement, mieux accordée à un jardin de cette taille."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien régulière et réduction de couronne pour garder l'arbre dans les limites du jardin.",
+  "abattage-demontage": "Démontage par courtes sections guidées à la corde, entre maisons et clôtures.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol avec une machine qui passe par un portail.",
+  "plantation-arbres": "Plantation d'un arbre de petit développement en remplacement, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Les branches de mon arbre dépassent chez le voisin à Romanel-sur-Lausanne : que faire ?", "a": "Faites-les raccourcir avant que le désaccord s'installe. Nous coupons sur des branches relais pour que l'arbre garde une forme équilibrée. Si l'accès par le terrain voisin facilite le travail, nous le demandons au préalable."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Romanel-sur-Lausanne ?", "a": "Pour un arbre protégé, il faut l'accord écrit de la Municipalité, qui exige une plantation compensatoire. Le seuil de protection est fixé par le règlement communal du patrimoine arboré. Nous le vérifions avant d'établir le devis."},
+  {"q": "Comment abattez-vous un arbre dans un petit jardin ?", "a": "Jamais d'un seul bloc. Nous montons dans l'arbre et le descendons par sections, tenues à la corde. Le bois est sorti à la main ou avec une machine compacte, selon la largeur du passage."},
+  {"q": "Courgenay est à une centaine de kilomètres : venez-vous quand même ?", "a": "Oui. Nous groupons les rendez-vous sur une journée, entre Romanel, <a href=\"/arboriste-prilly\">Prilly</a> et <a href=\"/arboriste-le-mont-sur-lausanne\">Le Mont-sur-Lausanne</a>. La visite est gratuite et le devis écrit suit sous 48 h ouvrées."},
+  {"q": "Quelle essence planter dans un petit jardin ?", "a": "Une essence dont la taille adulte reste modeste et dont les racines ne soulèvent pas les dallages. Nous faisons une proposition lors de la visite, selon l'exposition, le sol et la distance aux limites."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à contenir ou à démonter à Romanel-sur-Lausanne ?",
+ "cta_lead": "Visite et devis gratuits. Réponse écrite sous 48 h ouvrées."
+}

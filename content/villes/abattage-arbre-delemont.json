@@ -1,0 +1,66 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-delemont",
+ "h1_plain": "Abattage et démontage d'arbres à Delémont",
+ "title": "Abattage et démontage d'arbres à Delémont (JU) | Arboritaille",
+ "desc": "Abattage et démontage d'arbres à Delémont : autorisation communale dès 20 cm de diamètre, formulaire, plantation compensatoire. Visite et devis gratuits.",
+ "eyebrow": "Abattage · Delémont",
+ "h1": "Abattage et démontage d'arbres à <em>Delémont</em>",
+ "lead": "À Delémont, abattre un arbre de 20 cm de diamètre ou plus en zone à bâtir demande une autorisation communale. Nous évaluons l'arbre, préparons la demande avec vous, puis le démontons à la corde.",
+ "points": [
+  "Visite et devis gratuits",
+  "Formulaire communal préparé avec vous",
+  "Démontage à la corde entre les bâtiments",
+  "Plantation compensatoire possible"
+ ],
+ "intro_eyebrow": "Delémont",
+ "intro_h2": "Avant la tronçonneuse, le formulaire",
+ "intro": "<p>Dans le chef-lieu du canton du Jura, l'abattage d'un arbre de jardin commence par une démarche. À Delémont, le règlement communal protège en zone à bâtir tout arbre dont le tronc atteint 20 cm de diamètre.</p><p>La demande se dépose par formulaire auprès du Service de l'urbanisme, de l'environnement et des travaux publics. La Ville facture un émolument pour chaque demande traitée. L'autorisation s'accompagne d'une plantation compensatoire.</p><p>Nous commençons donc par une visite. Nous mesurons le tronc, examinons l'état de l'arbre et notons les motifs : danger, dépérissement, dégâts au bâti. Ces éléments servent à remplir la demande.</p><p>Le jour venu, l'arbre est démonté du haut vers le bas. Près d'un centre historique comme dans les extensions du XXe siècle, la place manque souvent pour le coucher d'un bloc.</p>",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Le seuil de 20 cm",
+   "texte": "Le diamètre du tronc décide. Dès 20 cm, en zone à bâtir, l'abattage passe par une autorisation communale. En dessous, nous vérifions que l'arbre n'appartient pas à une haie ou à un bosquet protégé."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Cours et jardins mitoyens",
+   "texte": "Dans une cour d'immeuble ou un jardin mitoyen, chaque section est retenue à la corde puis posée au sol. Voitures, clôtures et toitures voisines restent hors de la zone de travail."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Replanter après l'abattage",
+   "texte": "Nous pouvons <a href=\"/rognage-souche\">rogner la souche</a>, puis <a href=\"/plantation-arbres\">planter un arbre</a> adapté à la place disponible, avec tuteurage et suivi de reprise, pour répondre à la plantation compensatoire demandée."
+  },
+  {
+   "icone": "WARN",
+   "titre": "Arbre dangereux",
+   "texte": "Un arbre fendu ou soulevé après un coup de vent ne peut pas toujours attendre. Nous sécurisons la zone et prenons contact avec le service communal pour la suite."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Delémont.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement.<br>À Delémont, le règlement communal sur les constructions (2017, art. 33-35) protège en zone à bâtir tout arbre dont le tronc mesure 20 cm de diamètre ou plus : abattage et élagage sévère sont soumis à autorisation communale, avec plantation compensatoire.<br>La demande se fait au moyen du formulaire publié par la Ville (<a href=\"https://www.delemont.ch/fr/Guichet-virtuel/Abattage-d-arbres/Guichet-virtuel-abattage-d-arbres.html\">guichet virtuel, abattage d'arbres</a>). Elle est traitée par le Service de l'urbanisme, de l'environnement et des travaux publics et donne lieu à un émolument. Nous vérifions la règle en vigueur avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Comment demander l'autorisation d'abattre un arbre à Delémont ?",
+   "a": "La Ville publie un formulaire de demande sur son guichet virtuel. Il est traité par le Service de l'urbanisme, de l'environnement et des travaux publics. Après la visite, nous vous fournissons les éléments utiles : mesure du tronc, état de l'arbre, motif de la demande."
+  },
+  {
+   "q": "La demande d'abattage est-elle payante à Delémont ?",
+   "a": "Oui. Selon la Ville, chaque demande traitée donne lieu à un émolument, dont le montant dépend du type de demande. Il est facturé par la commune et ne fait pas partie de notre devis."
+  },
+  {
+   "q": "Mon arbre fait moins de 20 cm de diamètre : puis-je l'abattre librement ?",
+   "a": "La protection communale en zone à bâtir vise les troncs de 20 cm et plus. Reste la loi cantonale, qui protège haies, bosquets, arbres isolés et allées. Nous vérifions la situation de votre arbre avant de couper."
+  },
+  {
+   "q": "Qui s'occupe de la plantation compensatoire ?",
+   "a": "L'autorisation d'abattage s'accompagne d'une plantation compensatoire. Nous pouvons nous en charger : essence adaptée à la place, plantation, tuteurage et suivi. La souche de l'ancien arbre peut être rognée pour libérer l'emplacement."
+  },
+  {
+   "q": "Peut-on abattre un arbre en été ?",
+   "a": "C'est possible quand la sécurité l'exige. Hors urgence, nous privilégions l'automne et l'hiver, hors période de nidification, et nous vérifions l'absence de nids avant d'intervenir. L'autorisation communale reste nécessaire en toute saison."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Delémont ?",
+ "cta_lead": "Visite et devis gratuits. Nous préparons la demande d'autorisation avec vous."
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Rochefort (NE) : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Rochefort (NE) : dégagement de façade, démontage de résineux, taille et urgence après neige ou tempête. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Rochefort · Littoral",
+ "h1": "Arboriste-grimpeur à <em>Rochefort</em> : taille, démontage et abattage",
+ "lead": "De Montézillon à La Tourne, Rochefort s'étage entre 523 m et 1 390 m d'altitude. Nous y dégageons les façades, taillons et démontons les arbres mis à l'épreuve par la neige et le vent. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Neuf localités desservies", "Démontage de résineux près des toits", "Sécurisation après neige ou tempête"],
+ "intro_eyebrow": "Vos arbres à Rochefort",
+ "intro_h2": "Neuf localités entre 523 m et 1 390 m",
+ "intro": "<p>Rochefort s'étend sur près de 26 kilomètres carrés pour 1 383 habitants. La commune regroupe neuf localités, de Montézillon à Champ-du-Moulin et de Chambrelien à La Tourne. Elle a fusionné en 2016 avec Brot-Dessous.</p><p>Le village se trouve sur la route qui conduit de France à Neuchâtel par le Val-de-Travers. Le château de Rochefort, abandonné puis ruiné au début du XVIe siècle, se dressait sur le territoire actuel de la commune.</p><p>Ce territoire s'étage de 523 m à 1 390 m. À ces altitudes, l'hiver dure, et les épicéas comme les érables sont fréquents en montagne jurassienne. Neige lourde et vent y éprouvent les arbres qui dominent une maison.</p>",
+ "faits": [["Habitants", "1 383"], ["Région", "Littoral"], ["Altitude", "523 à 1 390 m"], ["Depuis Courgenay", "env. 55 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Rochefort.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Rochefort avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Neige lourde, vent fort", "texte": "Sur les hauts de la commune, la neige mouillée pèse sur les cimes des résineux et sur les longues branches. Nous allégeons les charpentières trop chargées avant l'hiver et dégageons les bris ensuite."},
+  {"icone": "AXE", "titre": "Résineux proches des toits", "texte": "Un épicéa planté petit à côté d'une maison finit par la dépasser largement. Nous dégageons la façade ou démontons l'arbre par tronçons, retenus à la corde."},
+  {"icone": "PIN", "titre": "Hameaux dispersés", "texte": "Chambrelien, Les Grattes, Fretereules ou La Tourne : l'accès change d'un lieu à l'autre. Dites-nous si un véhicule avec remorque peut approcher, nous adaptons le matériel."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Dégagement de façade et de toiture, retrait du bois mort, allègement des branches chargées par la neige.",
+  "abattage-demontage": "Démontage de grands résineux par tronçons, à la corde, quand la maison est à portée de chute.",
+  "urgence-tempete-arbre-dangereux": "Cime cassée, arbre couché sur un accès : mise en sécurité, puis dégagement dès que les conditions le permettent.",
+  "rognage-souche": "Rognage de la souche après abattage, si l'accès le permet, pour libérer le terrain."
+ },
+ "faq": [
+  {"q": "Montez-vous jusqu'à La Tourne ou à Brot-Dessous ?", "a": "Oui, nous nous déplaçons dans toutes les localités de Rochefort. La commune se trouve à environ 55 kilomètres de Courgenay à vol d'oiseau. Indiquez-nous le hameau et l'accès : la visite et le devis sont gratuits."},
+  {"q": "Mon épicéa touche presque le toit, faut-il l'abattre ?", "a": "Pas toujours. Si le tronc est sain et assez éloigné, supprimer les branches côté maison peut suffire. S'il domine le toit de trop près, le démontage est plus sûr. Nous vous donnons un avis sur place, avec les deux options chiffrées."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Rochefort ?", "a": "Les haies et bosquets sont protégés par la loi cantonale. Pour les arbres isolés, le règlement communal s'applique. En forêt, tout abattage passe par le service forestier. Nous vérifions la situation de votre arbre à Rochefort avant d'intervenir."},
+  {"q": "Travaillez-vous en hiver à cette altitude ?", "a": "Oui, sauf quand la neige ou le verglas ferment l'accès : nous reportons alors le chantier et fixons une nouvelle date avec vous. L'hiver reste la saison habituelle des abattages et de l'entretien des haies, hors période de nidification."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre trop proche de votre maison à Rochefort ?",
+ "cta_lead": "Nous venons l'examiner, quel que soit le hameau. Visite et devis gratuits."
+}

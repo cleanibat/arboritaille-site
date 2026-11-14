@@ -1,0 +1,33 @@
+{
+ "title": "Arboriste-grimpeur à Puidoux (VD) : élagage et abattage | Arboritaille",
+ "desc": "Élagage, abattage, entretien de haies et plantation d'arbres à Puidoux (VD), dans le district de Lavaux-Oron. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Puidoux · Lavaux-Oron",
+ "h1": "Arboriste-grimpeur à <em>Puidoux</em> : élagage, abattage et entretien des haies",
+ "lead": "Puidoux couvre près de 23 km² pour quelque 3 000 habitants. Sur un territoire aussi étendu, arbres isolés et haies comptent autant que les arbres de jardin. Nous entretenons les uns comme les autres.",
+ "points": ["Visite et devis gratuits", "Arbres isolés, haies, arbres de jardin", "Entretien des haies en hiver", "Démarches d'autorisation expliquées"],
+ "intro_eyebrow": "Vos arbres à Puidoux",
+ "intro_h2": "Un grand territoire, des arbres bien au-delà des jardins",
+ "intro": "<p>Puidoux compte 3 013 habitants sur 22,89 km², dans le district de Lavaux-Oron. Cela représente 132 habitants au km². <a href=\"/arboriste-chexbres\">Chexbres</a>, sa voisine, en compte huit fois plus.</p><p>Une telle densité laisse supposer un habitat dispersé et beaucoup de terrain non bâti. Les arbres à entretenir ne sont alors pas seulement ceux des villas : arbres isolés, haies vives, arbres de bord de chemin.</p><p>Le village est à 662 m d'altitude. Sur ce type d'arbres, les travaux les plus courants sont l'<a href=\"/elagage-taille-arbres\">élagage</a> d'une couronne devenue trop large, le retrait du bois mort et l'<a href=\"/abattage-demontage\">abattage</a> d'un sujet dépérissant.</p><p>Nous venons de Courgenay, à une centaine de kilomètres à vol d'oiseau. Une visite à Puidoux peut se grouper avec un rendez-vous à Chexbres ou à <a href=\"/arboriste-forel\">Forel</a>. Visite gratuite, devis écrit.</p>",
+ "faits": [["Habitants", "3 013"], ["District", "Lavaux-Oron"], ["Altitude", "662 m"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Puidoux.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Puidoux avant d'intervenir.",
+ "contexte": [
+  {"icone": "LEAF", "titre": "Haies vives", "texte": "Le règlement-type vaudois protège toutes les haies vives. Nous les entretenons par tronçons, pendant le repos de la végétation, et contrôlons l'absence de nids avant toute coupe plus tardive."},
+  {"icone": "TREE", "titre": "L'arbre seul dans le pré", "texte": "Un arbre isolé au milieu d'un pré ou au bord d'un chemin marque le paysage. Nous supprimons les branches sèches et allégeons les plus basses sans modifier sa forme."},
+  {"icone": "SPROUT", "titre": "Fruitiers haute-tige", "texte": "Le même règlement-type protège les fruitiers haute-tige. Une taille d'entretien légère, en hiver et hors gel, prolonge un vieux pommier ou un vieux poirier sans le rabattre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Élagage, retrait du bois mort et taille de haies vives à Puidoux, en hiver pour les haies.",
+  "abattage-demontage": "Abattage dirigé en terrain dégagé, démontage à la corde près d'une maison ou d'une ligne.",
+  "plantation-arbres": "Plantation d'un arbre isolé, d'un fruitier ou d'un arbre de compensation, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Ma haie à Puidoux peut-elle être rabattue ou arrachée ?", "a": "L'entretien courant est permis. La suppression, elle, peut demander une autorisation écrite de la Municipalité : le règlement-type vaudois protège toutes les haies vives. Nous consultons le règlement de Puidoux avant de proposer une coupe forte."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Puidoux ?", "a": "Pour un arbre protégé, oui. La demande est adressée à la Municipalité et affichée au pilier public. Une plantation compensatoire est exigée. Le seuil exact figure dans le règlement communal. Nous vous indiquons la marche à suivre."},
+  {"q": "Vous déplacez-vous pour un arbre isolé, loin du village ?", "a": "Oui. Décrivez-nous simplement l'accès lors de la prise de contact. Nous venons voir l'arbre sur place, gratuitement, et le devis tient compte du chemin à parcourir avec le matériel et le broyeur."},
+  {"q": "Quelle période choisir pour tailler ?", "a": "Pour les haies, l'hiver, pendant le repos de la végétation et hors nidification. Pour les arbres, le bois mort se retire toute l'année. Les tailles plus importantes se décident arbre par arbre, selon l'essence et son état."}
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre ou une haie à entretenir à Puidoux ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement, réponse sous 48 h ouvrées."
+}

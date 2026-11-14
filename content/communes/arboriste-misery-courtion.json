@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Misery-Courtion (FR) : taille, abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Misery-Courtion (district du Lac, FR) : taille, abattage, plantation et rognage de souche. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Misery-Courtion · Lac",
+ "h1": "Arboriste-grimpeur à <em>Misery-Courtion</em> : taille, abattage et soins aux arbres",
+ "lead": "Misery-Courtion compte 2 393 habitants, les Oxaliens, répartis dans plusieurs localités réunies en 1997. Nous venons de Courgenay pour tailler, abattre ou planter vos arbres. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Réponse sous 48 h ouvrées", "Taille d'entretien et de dégagement", "Rognage de souche et replantation"],
+ "intro_eyebrow": "Vos arbres à Misery-Courtion",
+ "intro_h2": "Petite commune, grandes questions d'autorisation",
+ "intro": "<p>Misery-Courtion rassemble plusieurs localités depuis la fusion de 1997, sur 11 km², entre 488 et 659 m d'altitude. Ses habitants portent un nom peu commun : les Oxaliens.</p><p>En zone à bâtir, c'est le règlement communal d'urbanisme qui dit quels arbres sont protégés. Peu de propriétaires l'ont sous la main. Nous le consultons avant chaque devis d'abattage.</p><p>Hors zone à bâtir, la règle fribourgeoise est la même partout : haies, bosquets et grands arbres isolés d'intérêt écologique ou paysager ne se suppriment qu'avec une dérogation. Leur entretien, lui, reste libre.</p>",
+ "faits": [["Habitants", "2 393 (2025)"], ["Altitude", "585 m"], ["NPA", "1721"], ["Depuis Courgenay", "env. 60 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Misery-Courtion.</strong> Dans le canton de Fribourg, la suppression d'un boisement hors forêt d'intérêt écologique ou paysager situé hors zone à bâtir demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation (LPNat, RSF 721.0.1 art. 22). L'entretien périodique reste libre. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de Misery-Courtion avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Règlement communal d'abord", "texte": "Avant de couper, nous vérifions auprès de la commune si l'arbre figure parmi les arbres protégés. Si une demande est nécessaire, nous vous aidons à la préparer."},
+  {"icone": "HOME", "titre": "Jardins de village", "texte": "Dans un village, entre maisons individuelles et anciennes fermes, un arbre de jardin finit souvent par dépasser la place prévue. Une réduction de couronne mesurée le garde en bonne santé et en bons termes avec le voisinage."},
+  {"icone": "SPROUT", "titre": "Planter à 585 m", "texte": "À cette altitude, la plupart des feuillus indigènes s'installent bien. Nous choisissons l'essence selon la place disponible et plantons avec tuteurage tripode."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction de couronne et dégagement des arbres de jardin et de ferme à Misery-Courtion.",
+  "abattage-demontage": "Abattage ou démontage selon la place, bois débité, branches broyées ou évacuées, terrain propre.",
+  "rognage-souche": "Souche rognée le jour de l'abattage ou plus tard, pour replanter ou engazonner.",
+  "plantation-arbres": "Remplacement d'un fruitier ancien ou plantation d'un arbre d'ombrage, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Misery-Courtion ?", "a": "En zone à bâtir, cela dépend du règlement communal d'urbanisme. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager sont protégés par la loi fribourgeoise et leur suppression demande une dérogation communale. Nous vérifions pour vous."},
+  {"q": "Vous déplacez-vous à Misery-Courtion pour une visite gratuite ?", "a": "Oui. La commune se trouve à une soixantaine de kilomètres de Courgenay. La visite et le devis sont gratuits et sans engagement. Nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Un fruitier ancien : tailler ou remplacer ?", "a": "Tant que le tronc est sain, une taille d'entretien légère en hiver prolonge sa vie. Si l'arbre est creux ou très affaibli, nous proposons une plantation de remplacement, à côté ou au même endroit après rognage de la souche."},
+  {"q": "Comment se passe un chantier d'abattage ?", "a": "Nous protégeons le terrain, abattons ou démontons selon la place, puis débitons le bois. Les branches sont broyées ou évacuées. La souche peut être rognée le même jour. Vous retrouvez un terrain propre."},
+  {"q": "Entretenez-vous aussi les haies ?", "a": "Oui. Nous taillons et recépons les haies en hiver, hors période de nidification, par tronçons si elles sont longues. Leur suppression hors zone à bâtir demande en revanche une dérogation communale."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, abattre ou planter à Misery-Courtion ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

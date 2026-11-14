@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Milvignes (NE) : taille, abattage | Arboritaille",
+ "desc": "Taille, élagage et démontage d'arbres à Milvignes (Auvernier, Bôle, Colombier) par un arboriste-grimpeur. Travail à la corde, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Milvignes · Littoral",
+ "h1": "Arboriste-grimpeur à <em>Milvignes</em> : taille, élagage et démontage",
+ "lead": "Auvernier, Bôle et Colombier forment Milvignes, une commune dense du Littoral neuchâtelois. Nous y taillons et démontons les arbres là où la place manque, à la corde. Visite sur place et devis gratuits.",
+ "points": ["Visite sur place et devis gratuits", "Auvernier, Bôle et Colombier", "Travail à la corde en espace réduit", "Jardin protégé, chantier nettoyé"],
+ "intro_eyebrow": "Vos arbres à Milvignes",
+ "intro_h2": "Auvernier, Bôle, Colombier : plus de 1 000 habitants au km²",
+ "intro": "<p>Milvignes réunit depuis 2013 les villages d'Auvernier, de Bôle et de Colombier. La commune compte 9 367 habitants sur moins de neuf kilomètres carrés, à 457 m d'altitude.</p><p>À cette densité, un arbre de jardin est rarement isolé. Une façade, une clôture, une place de parc ou le jardin voisin se trouvent en général à quelques mètres du tronc.</p><p>Nous privilégions donc les interventions mesurées : réduire une couronne, relever les branches basses, alléger un côté. Quand il faut abattre, le <a href=\"/abattage-demontage\">démontage à la corde</a> protège ce qui se trouve dessous.</p>",
+ "faits": [["Habitants", "9 367 (2025)"], ["Altitude", "457 m"], ["Densité", "1 067 hab./km²"], ["Depuis Courgenay", "env. 50 km"]],
+ "reglement": "<strong>Abattre un arbre à Milvignes.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Milvignes avant d'intervenir.",
+ "contexte": [
+  {"icone": "USERS", "titre": "Entre voisins", "texte": "Branches qui dépassent, ombre sur une terrasse, feuilles dans un chéneau : une taille discutée à l'avance apaise souvent la situation. Nous pouvons rencontrer les deux propriétaires lors de la visite."},
+  {"icone": "CABLE", "titre": "Accès étroits", "texte": "Portail, escalier, passage entre deux murs : là où une machine ne passe pas, nous montons dans l'arbre et descendons les pièces à la corde. Les branches sortent à la main."},
+  {"icone": "SHIELD", "titre": "Protéger ce qui entoure l'arbre", "texte": "Avant la première coupe, nous couvrons ce qui doit l'être et délimitons la zone de travail. Pelouse, massifs, dallage et véhicules restent hors de portée des chutes."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction, allègement et relevage de couronne pour garder un arbre à une taille compatible avec un petit jardin.",
+  "abattage-demontage": "Démontage par tronçons retenus à la corde, sans rien laisser tomber sur la parcelle voisine.",
+  "rognage-souche": "Souche rognée sous le niveau du sol, sans terrassement autour. La place est libre pour replanter ou semer.",
+  "collectivites-entreprises": "Copropriétés et gérances : devis par arbre, intervention annoncée aux habitants, compte rendu après le passage."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Auvernier, à Bôle et à Colombier ?", "a": "Oui, dans les trois villages de Milvignes. La commune se trouve à une cinquantaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite et nous vous remettons ensuite un devis écrit, sans engagement."},
+  {"q": "Mon voisin se plaint de mon arbre, que proposez-vous ?", "a": "Nous ne tranchons pas les questions de droit. Nous regardons en revanche ce qu'une taille peut résoudre : relever la couronne, raccourcir le côté qui dépasse, éclaircir pour rendre de la lumière. Le voisin peut assister à la visite."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Milvignes ?", "a": "Dans le canton de Neuchâtel, les arbres isolés sont protégés par les règlements communaux, et les haies par la loi cantonale. Avant tout abattage à Milvignes, nous vérifions la règle auprès de la commune et vous indiquons la démarche."},
+  {"q": "Pouvez-vous travailler sans abîmer le jardin ?", "a": "C'est le but du travail à la corde. Les pièces sont descendues une à une vers un point choisi, puis portées jusqu'à la rue. Nous protégeons les surfaces sensibles et nous ratissons avant de partir."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à l'étroit dans votre jardin de Milvignes ?",
+ "cta_lead": "Nous venons voir sur place. Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

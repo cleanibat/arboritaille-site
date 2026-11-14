@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Alle (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres à Alle, en Ajoie, par un arboriste-grimpeur installé à Courgenay, la commune voisine. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Alle · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Alle</em> : taille, abattage et soins aux arbres",
+ "lead": "Alle est la commune voisine de Courgenay, où Arboritaille a son siège. Taille, élagage, abattage, démontage, rognage de souche ou plantation : nous venons voir votre arbre, puis vous recevez un devis écrit et gratuit.",
+ "points": ["Visite sur place et devis gratuits", "À moins de dix kilomètres de Courgenay", "Taille raisonnée, jamais d'étêtage", "Chantier propre, branches évacuées"],
+ "intro_eyebrow": "Vos arbres à Alle",
+ "intro_h2": "Un village voisin de Courgenay, habité depuis la préhistoire",
+ "intro": "<p>Alle compte 1 965 habitants sur 10,6 km², à 450 m d'altitude, dans le district de Porrentruy. Le village touche Courgenay et Porrentruy : nous sommes à moins de dix kilomètres.</p><p>Le lieu est occupé de longue date. Les fouilles des chantiers de la Transjurane y ont mis au jour un atelier de taille du silex et du quartzite, daté du Moustérien. Le nom d'Alle est cité dès 797.</p><p>Dans un village de cette taille, les arbres qui nous occupent sont en général ceux des jardins et des anciennes fermes : grands sujets d'ombrage près des maisons, fruitiers, haies vives en limite de parcelle.</p><p>Sans suivi, un arbre finit par toucher une toiture, une ligne ou le terrain du voisin. Une taille ciblée règle le plus souvent le problème. Quand l'abattage s'impose, nous démontons l'arbre pièce par pièce.</p>",
+ "faits": [["Habitants", "1 965 (2025)"], ["Altitude", "450 m"], ["District", "Porrentruy"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Alle.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Alle avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Fermes et jardins anciens", "texte": "Près d'une ancienne ferme, un arbre planté il y a cinquante ans a atteint sa taille adulte. Nous allégeons ou réduisons la couronne pour dégager toitures et façades sans dénaturer l'arbre."},
+  {"icone": "SPROUT", "titre": "Fruitiers haute-tige", "texte": "Un vieux pommier ou un vieux poirier haute-tige demande une taille d'entretien légère, en hiver. Quand il arrive en fin de vie, nous le remplaçons par un jeune arbre adapté au sol."},
+  {"icone": "LEAF", "titre": "Haies et bosquets protégés", "texte": "Hors zone à bâtir, haies et bosquets ne se suppriment pas librement. Nous les entretenons en hiver, par tronçons, et vous indiquons la démarche si une dérogation est nécessaire."},
+  {"icone": "HOME", "titre": "Près de l'église", "texte": "L'église Saint-Jean l'Évangéliste porte des vitraux d'André Bréchet. Près d'un tel bâtiment, chaque branche est retenue à la corde avant de descendre, sans chute libre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction ou rehaussement de couronne pour les arbres de jardin et de ferme d'Alle. Coupes propres, silhouette conservée.",
+  "abattage-demontage": "Abattage direct quand la place le permet, démontage à la corde près des bâtiments. Bois débité ou évacué, terrain nettoyé.",
+  "plantation-arbres": "Remplacement d'un fruitier ou plantation d'un arbre d'ombrage adapté au sol et à la place disponible, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous pour un seul arbre à Alle ?", "a": "Oui. Alle touche Courgenay, où nous sommes installés. La visite est gratuite, même pour un seul arbre, et nous la fixons selon votre disponibilité. Le devis écrit suit sous 48 h ouvrées."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Alle ?", "a": "Cela dépend de sa situation. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne. En zone à bâtir, c'est le règlement communal qui désigne les arbres protégés. Nous vérifions pour vous auprès de la commune avant d'intervenir."},
+  {"q": "Quand tailler un vieux fruitier en Ajoie ?", "a": "La taille d'entretien des fruitiers haute-tige se pratique en hiver, hors gel, avant le débourrement. Nous supprimons le bois mort et les branches qui se croisent, sans rabattre sévèrement l'arbre."},
+  {"q": "Que faites-vous des branches et du bois ?", "a": "Selon le devis, les branches sont broyées sur place ou évacuées. Le bois peut être débité en bûches pour votre chauffage. Le terrain est nettoyé avant notre départ."},
+  {"q": "Intervenez-vous aussi dans les communes voisines d'Alle ?", "a": "Oui, notamment à <a href=\"/arboriste-cornol\">Cornol</a> et à <a href=\"/arboriste-cuve\">Cœuve</a>, communes voisines, aux mêmes conditions. Courgenay, où nous sommes installés, touche directement Alle : la visite et le devis écrit restent gratuits."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Alle ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Nous sommes dans la commune voisine."
+}

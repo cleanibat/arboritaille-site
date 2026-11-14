@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Siviriez (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Siviriez, Chavannes-les-Forts, Prez-vers-Siviriez et Villaraboud (FR). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Siviriez · Glâne",
+ "h1": "Arboriste-grimpeur à <em>Siviriez</em> : taille, abattage et soins aux arbres",
+ "lead": "Siviriez réunit quatre villages de la Glâne : Chavannes-les-Forts, Prez-vers-Siviriez, Siviriez et Villaraboud. Nous y taillons, abattons et plantons des arbres depuis Courgenay, après une visite gratuite et un devis écrit.",
+ "points": [
+  "Visite et devis gratuits dans les quatre villages",
+  "Retrait du bois mort avant l'hiver",
+  "Entretien des haies agricoles par tronçons",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Siviriez",
+ "intro_h2": "Quatre villages entre 700 et 900 m d'altitude",
+ "intro": "<p>Siviriez, Cheveri en patois, s'étend sur 20,28 km² pour 2 711 habitants. La commune regroupe quatre localités, chacune avec son code postal : Chavannes-les-Forts, Prez-vers-Siviriez, Siviriez et Villaraboud.</p><p>Le relief va de 698 à 904 m. À cette altitude, la neige tient plus longtemps qu'en plaine et les charges hivernales fatiguent les branches longues. Les ruptures se concentrent sur les fourches mal formées et le bois mort.</p><p>Avec 134 habitants au kilomètre carré, l'habitat reste rural. Hors zone à bâtir, les haies et les grands arbres isolés d'intérêt paysager sont protégés dans le canton de Fribourg : nous les entretenons et ne les supprimons pas sans dérogation.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 711 (2025)"
+  ],
+  [
+   "Altitude",
+   "698 à 904 m"
+  ],
+  [
+   "District",
+   "Glâne"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 85 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Siviriez.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Siviriez avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "PIN",
+   "titre": "Quatre localités, un seul devis",
+   "texte": "Chavannes-les-Forts, Prez-vers-Siviriez, Siviriez et Villaraboud forment une seule commune. Le devis indique le village et l'accès ; nous groupons les interventions d'un même secteur sur une journée."
+  },
+  {
+   "icone": "WARN",
+   "titre": "Neige et bois mort",
+   "texte": "Sous une neige lourde, une branche morte ou une fourche ouverte cède la première. Un passage en automne pour retirer le bois mort et alléger les branches longues limite les dégâts de l'hiver."
+  },
+  {
+   "icone": "LEAF",
+   "titre": "Haies agricoles",
+   "texte": "Hors zone à bâtir, les haies d'intérêt écologique ou paysager sont des boisements hors forêt protégés. Nous les recépons par tronçons, en hiver, pour qu'elles restent denses et basses sans jamais disparaître."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des branches longues, retrait du bois mort, réduction de couronne pour les arbres de jardin et de ferme de Siviriez.",
+  "abattage-demontage": "Démontage par sections près des bâtiments, abattage direct en terrain dégagé. Bois débité ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Arbre fendu ou branche cassée après la neige ou le vent : mise en sécurité rapide, puis taille ou démontage."
+ },
+ "faq": [
+  {
+   "q": "Intervenez-vous dans les quatre villages de Siviriez ?",
+   "a": "Oui, à Chavannes-les-Forts, Prez-vers-Siviriez, Siviriez et Villaraboud. La commune est à quelque huitante-cinq kilomètres de Courgenay ; nous regroupons les visites de la Glâne pour vous proposer une date rapidement."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Siviriez ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Hors zone à bâtir, haies, bosquets et grands arbres isolés d'intérêt paysager demandent une dérogation de la commune. Nous vérifions pour vous."
+  },
+  {
+   "q": "Quand retirer le bois mort d'un grand arbre ?",
+   "a": "De préférence avant l'hiver, en automne. Le bois mort est visible une fois les feuilles tombées et c'est lui qui casse sous la neige. Nous en profitons pour alléger les branches trop longues."
+  },
+  {
+   "q": "Peut-on supprimer une haie entre deux champs ?",
+   "a": "Pas sans dérogation : dans le canton de Fribourg, les haies d'intérêt écologique ou paysager situées hors zone à bâtir sont protégées et leur suppression exige une compensation. Nous pouvons en revanche les entretenir, par tronçons, en hiver."
+  },
+  {
+   "q": "Que faites-vous des branches ?",
+   "a": "Selon le devis, elles sont broyées sur place, laissées en tas pour la petite faune si vous le souhaitez, ou évacuées. Le bois du tronc peut être débité en bûches pour votre chauffage."
+  }
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à voir à Siviriez ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

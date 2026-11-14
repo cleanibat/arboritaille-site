@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Nods (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et rognage de souche à Nods (BE), à 885 m, à la limite du canton de Neuchâtel, par un arboriste-grimpeur de Courgenay. Devis gratuit.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Nods · district de La Neuveville",
+ "h1": "Arboriste-grimpeur à <em>Nods</em> : taille, abattage et soins aux arbres",
+ "lead": "Nods est une commune bernoise de 776 habitants, à 885 m, dont les voisines Lignières et Val-de-Ruz sont neuchâteloises. Nous y taillons et démontons des arbres en tenant compte des règles de chaque côté de la limite cantonale.",
+ "points": ["Visite sur place et devis gratuits", "À une trentaine de kilomètres de Courgenay", "Règle bernoise ou neuchâteloise vérifiée", "Travail à la corde, sans machines lourdes"],
+ "intro_eyebrow": "Vos arbres à Nods",
+ "intro_h2": "Une commune bernoise aux portes du canton de Neuchâtel",
+ "intro": "<p>Nods s'étend sur 26,63 km² pour 776 habitants, soit 29 habitants au km². Les Niolats vivent donc dans une commune largement rurale, à 885 m d'altitude, dans le district de La Neuveville.</p><p>La limite avec le canton de Neuchâtel passe tout près : Lignières et Val-de-Ruz sont voisines. Un propriétaire dont le terrain touche cette limite peut relever de deux lois différentes. Nous savons laquelle s'applique à votre parcelle.</p><p>Sur un grand territoire peu bâti, les arbres à surveiller sont en général ceux des fermes, des chemins et des abords du village. Nous les taillons avec retenue, à l'altitude où la végétation reprend tard.</p>",
+ "faits": [["Habitants", "776 (2025)"], ["Altitude", "885 m"], ["Superficie", "26,63 km²"], ["Depuis Courgenay", "env. 30 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Nods.</strong> Nods est bernoise : les haies et bosquets y sont protégés dans leur état actuel (LCPN, BSG 426.11), l'entretien est permis et leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Nods avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Deux cantons, deux règles", "texte": "Un arbre à Nods relève du droit bernois ; le même arbre à Lignières relèverait du droit neuchâtelois. Nous vérifions la commune exacte de la parcelle avant de parler d'abattage."},
+  {"icone": "MOUNT", "titre": "29 habitants au km²", "texte": "Un territoire aussi étendu compte beaucoup d'arbres hors des jardins : bords de chemins, pâturages, abords de fermes. Nous y travaillons à la corde, sans abîmer le sol."},
+  {"icone": "CLOCK", "titre": "Tailler tard, tailler peu", "texte": "À 885 m, le débourrement est tardif. Nous programmons les tailles de fin d'hiver un peu plus tard qu'en plaine et limitons les coupes au nécessaire."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et dégagement des arbres de ferme et de jardin de Nods, avec des coupes limitées adaptées à l'altitude.",
+  "abattage-demontage": "Abattage ou démontage à la corde selon la place disponible. Tronc débité en bûches ou évacué, branches broyées.",
+  "rognage-souche": "Rognage de la souche après abattage, pour rendre le terrain au pâturage ou au jardin sans trou ni obstacle.",
+  "urgence-tempete-arbre-dangereux": "Sécurisation d'un arbre fendu ou déraciné après un coup de vent, avant qu'il ne tombe sur un bâtiment ou un chemin."
+ },
+ "faq": [
+  {"q": "Mon terrain à Nods touche Lignières, quelle règle s'applique ?", "a": "Celle de la commune où se trouve l'arbre, donc le droit bernois pour une parcelle de Nods et le droit neuchâtelois pour une parcelle de Lignières. Nous vérifions le plan cadastral avec vous avant de déposer une demande."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Nods ?", "a": "Pour les haies et bosquets, la loi bernoise impose une dérogation de la préfecture en cas de suppression. Pour un arbre isolé, c'est le règlement communal de Nods qui désigne les cas soumis à autorisation. Nous nous en occupons avec vous."},
+  {"q": "Venez-vous pour un arbre isolé au bord d'un pâturage ?", "a": "Oui. Nous travaillons à la corde depuis l'arbre, sans faire entrer de machines lourdes dans le pâturage. Les branches sont broyées ou emportées et le tronc reste en bûches si vous le souhaitez."},
+  {"q": "À quelle saison tailler à 885 m ?", "a": "Pour les feuillus, la fin de l'hiver, quand le gel marqué est passé, ou le plein été. Les haies se taillent en hiver, hors nidification. Nous décalons légèrement le calendrier par rapport à la plaine."},
+  {"q": "Combien de temps pour obtenir un devis ?", "a": "Nous répondons sous 48 h ouvrées à votre demande, puis nous fixons une visite gratuite. Le devis écrit suit la visite. Nods étant à une trentaine de kilomètres de Courgenay, nous groupons volontiers les rendez-vous du secteur."}
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à tailler ou à abattre à Nods ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées. Nous venons de Courgenay."
+}

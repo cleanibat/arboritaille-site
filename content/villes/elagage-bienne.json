@@ -1,0 +1,66 @@
+{
+ "service": "elagage-taille-arbres",
+ "commune": "arboriste-bienne",
+ "h1_plain": "Élagage et taille d'arbres à Bienne",
+ "title": "Élagage et taille d'arbres à Bienne (BE) | Arboritaille",
+ "desc": "Élagage et taille d'arbres à Bienne : arbres d'immeubles, de villas et de rive, devis en français ou en allemand. Visite et devis gratuits.",
+ "eyebrow": "Élagage · Bienne",
+ "h1": "Élagage et taille d'arbres à <em>Bienne</em>",
+ "lead": "À Bienne, ville bilingue de plus de 57 000 habitants au bord de son lac, nous taillons les arbres des immeubles, des villas et des entreprises. Devis écrit en français ou en allemand, visite gratuite.",
+ "points": [
+  "Devis et courriels en français ou en allemand",
+  "Arbres de cour, de jardin et de rive",
+  "Taille douce, à la corde",
+  "Dates convenues avec la gérance"
+ ],
+ "intro_eyebrow": "Bienne",
+ "intro_h2": "Entre lac et pied du Jura, des arbres serrés contre le bâti",
+ "intro": "<p>Bienne s'étend au pied du flanc sud du Jura, jusqu'à la baie du lac qu'elle partage avec Nidau. Avec plus de 2 700 habitants au km2, les arbres y côtoient façades, balcons et places de parc.</p><p>Près d'un lac, les essences de rive comme le saule poussent vite et demandent une taille suivie. Dans les quartiers de villas, ce sont plutôt les arbres de jardin qui débordent sur la parcelle voisine ou le trottoir.</p><p>La ville est officiellement bilingue. Votre devis et le descriptif des coupes peuvent être rédigés en allemand. De Boujean à Vigneules, en passant par Mâche et Madretsch, la visite est gratuite.</p>",
+ "contexte": [
+  {
+   "icone": "USERS",
+   "titre": "Français ou allemand",
+   "texte": "À Bienne, 55,2 % des habitants sont annoncés en allemand et 44,8 % en français. Propriétaire, gérance et locataires reçoivent le même descriptif, dans la langue choisie."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Immeubles et copropriétés",
+   "texte": "Un arbre de cour concerne plusieurs voisins. Nous annonçons la date à la gérance, balisons les places de parc sous la couronne et laissons les accès libres pendant la taille."
+  },
+  {
+   "icone": "LEAF",
+   "titre": "Arbres de rive",
+   "texte": "Saules et peupliers font du bois vite, et ce bois tendre casse facilement. Raccourcir régulièrement les branches longues limite les ruptures au-dessus d'un chemin ou d'un jardin."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Une longue saison de taille",
+   "texte": "À 434 m d'altitude, les périodes sans gel sont nombreuses. Les feuillus se taillent hors gel, les haies en hiver, hors nidification. Le bois mort s'enlève toute l'année."
+  }
+ ],
+ "reglement": "<strong>Règles de taille à Bienne.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). Leur entretien reste permis : taille, éclaircissage, recépage d'au plus la moitié en trois ans. Les arbres isolés et allées de valeur sont protégés par les règlements communaux ; à Bienne, il faut se référer au règlement de construction de la Ville. Nous vérifions la règle en vigueur à Bienne avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Pouvez-vous rédiger le devis d'élagage en allemand ?",
+   "a": "Oui. À Bienne, le devis, le descriptif des coupes et les courriels peuvent être rédigés en allemand. La visite sur place se fait en français : nous montrons chaque coupe prévue directement sur l'arbre."
+  },
+  {
+   "q": "Les branches de mon arbre dépassent chez le voisin : que proposez-vous ?",
+   "a": "Nous raccourcissons les branches concernées sur un rameau latéral, sans mutiler l'arbre. Dans un quartier dense, mieux vaut en parler au voisin avant. Nous pouvons expliquer les coupes aux deux parties lors de la visite."
+  },
+  {
+   "q": "Faut-il une autorisation pour élaguer un arbre à Bienne ?",
+   "a": "L'entretien courant des haies et bosquets est permis par la loi cantonale. Pour un arbre isolé ou une allée de valeur, il faut se référer au règlement de construction de la Ville. Nous le vérifions avant toute taille importante."
+  },
+  {
+   "q": "Comment organisez-vous la taille pour une gérance de Bienne ?",
+   "a": "Chaque arbre est chiffré séparément. Si l'immeuble en compte plusieurs, nous proposons un calendrier d'entretien. La gérance reçoit la date à l'avance pour informer les locataires et libérer les places de parc."
+  },
+  {
+   "q": "Taillez-vous aussi les arbres à Nidau ou à Port ?",
+   "a": "Oui. Ces deux communes touchent Bienne et nous y venons dans la même tournée, depuis Courgenay, à une trentaine de kilomètres. Voir aussi notre page <a href=\"/arboriste-bienne\">arboriste-grimpeur à Bienne</a>."
+  }
+ ],
+ "cta_h2": "Un arbre à tailler à Bienne ?",
+ "cta_lead": "Visite et devis gratuits, en français ou en allemand par écrit. Réponse sous 48 h ouvrées."
+}

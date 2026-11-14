@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Semsales (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Semsales (FR), dans la Veveyse, entre 808 et 1 914 m d'altitude. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Semsales · Veveyse",
+ "h1": "Arboriste-grimpeur à <em>Semsales</em> : taille, abattage et soins aux arbres",
+ "lead": "Semsales s'étend de 808 à 1 914 m d'altitude, dans la Veveyse fribourgeoise. Arbres de jardin, fruitiers ou épicéas proches d'un bâtiment : nous venons les voir depuis Courgenay et vous remettons un devis gratuit.",
+ "points": [
+  "Visite et devis gratuits",
+  "À près de cent kilomètres de Courgenay",
+  "Démontage à la corde près des toitures",
+  "Taille raisonnée, jamais d'étêtage"
+ ],
+ "intro_eyebrow": "Vos arbres à Semsales",
+ "intro_h2": "Du Tey aux Alpettes : des arbres de montagne à soigner",
+ "intro": "<p>Semsales compte 1 591 habitants dans le district de la Veveyse, canton de Fribourg. Son territoire de près de 30 km² grimpe de 808 m à 1 914 m et passe par les sommets des Alpettes et du Niremont.</p><p>À plus de 1 100 m d'altitude, la saison de végétation est courte et la neige pèse longtemps sur les branches. Épicéas et érables, fréquents en montagne, sont souvent plantés près des maisons.</p><p>Le nom apparaît par écrit en 1177. Le prieuré s'est développé en face du Tey, sur le flanc ouest des Alpettes. Plus tard sont venues les mines du Jordil et de Progens, puis la verrerie, qui employa jusqu'à 300 ouvriers.</p><p>Nous soignons les arbres des jardins, des fermes et des lisières proches des habitations. Semsales est à près de cent kilomètres de Courgenay : nous groupons visite et intervention sur une même période, à une date convenue avec vous.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 591 (2025)"
+  ],
+  [
+   "Altitude",
+   "1 134 m"
+  ],
+  [
+   "District",
+   "Veveyse"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 95 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Semsales.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Semsales avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Entre 808 et 1 914 m",
+   "texte": "Le dénivelé est important. Dans le haut du territoire, les arbres subissent vent, neige et gel tardif. Nous adaptons la période de taille à l'altitude de votre parcelle."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Fermes et chalets",
+   "texte": "En montagne, un épicéa planté près d'une ferme ou d'un chalet finit souvent par dépasser le toit. Nous le démontons par sections à la corde, sans abîmer les bâtiments voisins."
+  },
+  {
+   "icone": "LEAF",
+   "titre": "Boisements hors forêt",
+   "texte": "Dans le canton de Fribourg, haies et cordons boisés d'intérêt écologique ou paysager, hors zone à bâtir, ne se suppriment pas sans dérogation. Nous vous indiquons la démarche auprès de la commune avant toute coupe."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien ou réduction de couronne pour les arbres de jardin et de ferme de Semsales. Coupes propres, silhouette conservée.",
+  "abattage-demontage": "Démontage par sections à la corde près des chalets et des fermes, abattage direct quand la place le permet. Bois débité ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Après une tempête ou une chute de neige lourde, nous sécurisons l'arbre fendu ou déraciné à Semsales et dégageons les accès.",
+  "plantation-arbres": "Remplacement d'un arbre abattu par une essence qui supporte l'altitude et les gelées tardives, avec tuteurage tripode."
+ },
+ "faq": [
+  {
+   "q": "Vous déplacez-vous jusqu'à Semsales depuis le Jura ?",
+   "a": "Oui. Semsales est à près de cent kilomètres de Courgenay, dans la Veveyse. Nous venons pour une visite gratuite et groupons si possible la visite et le chantier sur une même période pour limiter les trajets."
+  },
+  {
+   "q": "Quand tailler un arbre à plus de 1 000 m d'altitude ?",
+   "a": "L'hiver est long à Semsales. Pour les feuillus, nous taillons en fin d'hiver, hors gel sévère, ou en été après la pousse. Pour les épicéas et autres résineux, nous privilégions la période de repos de la végétation."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Semsales ?",
+   "a": "Hors zone à bâtir, les boisements d'intérêt écologique ou paysager sont protégés par la loi fribourgeoise : leur suppression demande une dérogation communale. En zone à bâtir, le règlement communal d'urbanisme s'applique. Nous vérifions avant d'intervenir."
+  },
+  {
+   "q": "Un épicéa menace mon chalet, que faites-vous ?",
+   "a": "Nous commençons par un diagnostic sur place : état du tronc, ancrage, inclinaison. Si l'arbre peut être conservé, une réduction ou un haubanage suffit souvent. Sinon, nous le démontons pièce par pièce à la corde."
+  },
+  {
+   "q": "Reprenez-vous le bois et les branches ?",
+   "a": "Selon le devis, les branches sont broyées sur place ou évacuées. Le bois est débité en bûches si vous souhaitez le garder pour le chauffage. Le terrain est remis en ordre avant notre départ."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à sécuriser ou à tailler à Semsales ?",
+ "cta_lead": "Visite et devis gratuits. Réponse sous 48 h ouvrées, intervention planifiée avec vous."
+}

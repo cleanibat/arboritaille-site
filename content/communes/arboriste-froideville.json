@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Froideville (VD) : taille, soins | Arboritaille",
+ "desc": "Arboriste-grimpeur à Froideville (VD), 819 m d'altitude : taille, élagage, abattage et mise en sécurité après neige ou tempête. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Froideville · 819 m",
+ "h1": "Arboriste-grimpeur à <em>Froideville</em> : taille, abattage et soins aux arbres",
+ "lead": "Froideville s'appelait Frigida Villa en 1284, et le village se tient à 819 m d'altitude. À cette altitude, neige, givre et vent éprouvent les arbres. Nous les taillons, les sécurisons ou les démontons.",
+ "points": ["Visite et devis gratuits", "Mise en sécurité après neige ou tempête", "Dégagement de façades et de toitures", "Démontage à la corde"],
+ "intro_eyebrow": "Vos arbres à Froideville",
+ "intro_h2": "À 819 m d'altitude, l'ancienne Frigida Villa",
+ "intro": "<p>Froideville apparaît en 1284 sous le nom latin de Frigida Villa. Des moines cultivent alors ces terres, et une charrue figure encore sur les armoiries communales. Aujourd'hui, 2 712 habitants vivent sur 7,08 km².</p><p>L'altitude compte pour les arbres. À 819 m, l'hiver dure plus longtemps qu'en plaine et la neige mouillée charge les branches. Cela vaut pour toute commune de cette hauteur, pas seulement pour celle-ci.</p><p>Un conifère planté trop près d'une maison prend alors le vent et la neige de plein fouet. Selon son état, nous dégageons la façade, allégeons la couronne ou procédons à un <a href=\"/abattage-demontage\">démontage</a>.</p>",
+ "faits": [["Habitants", "2 712 (2025)"], ["Altitude", "819 m"], ["NPA", "1055"], ["Depuis Courgenay", "env. 95 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Froideville.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Froideville avant d'intervenir.",
+ "contexte": [
+  {"icone": "WARN", "titre": "Branche cassée sous la neige", "texte": "Une branche rompue mais encore suspendue peut tomber sans prévenir. Balisez la zone et appelez-nous : nous la décrochons à la corde, puis contrôlons le reste de la couronne."},
+  {"icone": "HOME", "titre": "Conifère contre la façade", "texte": "Un conifère devenu trop grand assombrit les pièces et frotte la toiture. Nous supprimons les branches basses, ou démontons l'arbre s'il n'a plus sa place."},
+  {"icone": "CLOCK", "titre": "Une saison plus courte", "texte": "En altitude, la végétation démarre tard et s'arrête tôt. Les plantations se font de préférence en automne, les tailles d'entretien entre la chute des feuilles et le débourrement."}
+ ],
+ "services": {
+  "urgence-tempete-arbre-dangereux": "Branche cassée par la neige, arbre versé par le vent : sécurisation de la zone, puis démontage et évacuation.",
+  "elagage-taille-arbres": "Rehaussement de couronne et dégagement de façade pour rendre de la lumière aux maisons de Froideville.",
+  "abattage-demontage": "Démontage à la corde des grands conifères plantés trop près d'une habitation."
+ },
+ "faq": [
+  {"q": "Une branche a cassé sous la neige à Froideville, intervenez-vous ?", "a": "Oui. Appelez-nous et envoyez une photo. Nous jugeons le degré de danger, puis fixons le passage en conséquence. En attendant, personne ne doit passer sous la branche ni tenter de la tirer au sol."},
+  {"q": "L'altitude change-t-elle la période de taille ?", "a": "Un peu. À 819 m, le débourrement est plus tardif qu'en plaine, ce qui laisse quelques semaines de plus en fin d'hiver. Nous évitons en revanche les jours de gel marqué, où le bois est plus cassant."},
+  {"q": "Faut-il une autorisation communale pour abattre un arbre à Froideville ?", "a": "Dans le canton de Vaud, l'abattage d'un arbre protégé exige une autorisation écrite de la Municipalité. En cas de danger imminent ou d'arbre mort, celle-ci peut autoriser l'abattage sans mise à l'enquête. Nous vérifions la procédure applicable."},
+  {"q": "Mon sapin fait de l'ombre à la maison, faut-il l'abattre ?", "a": "Pas forcément. Le rehaussement de couronne, qui supprime les branches basses, rend souvent de la lumière. Si l'arbre touche la toiture ou menace de verser, le démontage devient la solution raisonnable. Nous en décidons ensemble lors de la visite."},
+  {"q": "Venez-vous de loin ?", "a": "De Courgenay, dans le canton du Jura, à environ 95 kilomètres à vol d'oiseau. Nous groupons les rendez-vous autour de Froideville et de Lausanne, voisine. La visite et le devis restent gratuits."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre fragilisé par l'hiver à Froideville ?",
+ "cta_lead": "Demandez une visite gratuite avant la prochaine chute de neige."
+}

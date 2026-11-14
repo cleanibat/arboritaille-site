@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Cressier (NE) : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Cressier (NE) : taille, élagage, abattage et plantation selon la saison, pour jardins et copropriétés. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Cressier · Littoral",
+ "h1": "Arboriste-grimpeur à <em>Cressier</em> : taille, abattage et plantation",
+ "lead": "Cressier se trouve sur le Littoral neuchâtelois, à une quarantaine de kilomètres de Courgenay. Nous y entretenons les arbres au fil des saisons : taille, abattage, plantation. Visite sur place et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Un calendrier adapté à chaque arbre", "Haies entretenues hors nidification", "Chantier propre, bois débité ou évacué"],
+ "intro_eyebrow": "Vos arbres à Cressier",
+ "intro_h2": "Quatre saisons pour les arbres de Cressier",
+ "intro": "<p>Cressier est un village d'origine romaine. Sur ses hauteurs, l'ancienne église Saint-Martin est protégée comme monument historique depuis 1954. La commune compte 2 072 habitants.</p><p>Entre le bas du territoire, à 428 m, et son point haut, à 1 061 m, la végétation n'avance pas au même rythme. Le calendrier d'entretien se règle donc sur l'arbre, pas sur une date.</p><p>Voici comment nous répartissons le travail sur l'année, que ce soit pour un jardin, une copropriété ou un domaine.</p>",
+ "faits": [["Habitants", "2 072 (2025)"], ["Altitude", "428 à 1 061 m"], ["Superficie", "8,55 km²"], ["Depuis Courgenay", "env. 40 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Cressier.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Cressier avant d'intervenir.",
+ "contexte": [
+  {"icone": "CLOCK", "titre": "Hiver : charpente et haies", "texte": "Sans feuilles, la structure se lit bien. C'est la période des tailles de formation, des recépages de haies et de la plupart des abattages, hors nidification."},
+  {"icone": "SPROUT", "titre": "Printemps : jeunes arbres", "texte": "Nous contrôlons les plantations récentes : attaches, tuteurs, cuvette d'arrosage. Les grosses coupes attendent, car l'arbre mobilise ses réserves pour débourrer."},
+  {"icone": "LEAF", "titre": "Été : taille en vert", "texte": "Bois mort, branches basses, légère réduction : en feuilles, l'arbre recouvre vite les petites plaies et l'effet de la taille se juge tout de suite."},
+  {"icone": "WIND", "titre": "Automne : avant les coups de vent", "texte": "Un contrôle visuel repère les fourches fissurées et les branches suspendues. Mieux vaut les traiter avant l'hiver que les ramasser après. C'est aussi la saison des plantations."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de formation, d'entretien ou de réduction, placée au moment de l'année qui convient à l'essence.",
+  "abattage-demontage": "Abattage ou démontage à la corde, de préférence en hiver, hors période de nidification.",
+  "plantation-arbres": "Plantation d'automne ou de fin d'hiver, tuteurage tripode et contrôle de reprise au printemps.",
+  "urgence-tempete-arbre-dangereux": "Après un coup de vent : sécurisation de l'arbre abîmé, puis reprise propre des branches cassées."
+ },
+ "faq": [
+  {"q": "Quelle est la bonne période pour tailler un arbre à Cressier ?", "a": "Elle dépend de l'essence et du but recherché. La taille de structure se fait en hiver, les retouches légères en été. À Cressier, l'écart d'altitude sur la commune décale aussi le calendrier. Nous vous proposons une période lors de la visite."},
+  {"q": "Vous déplacez-vous à Cressier depuis le Jura ?", "a": "Oui. Cressier se trouve à une quarantaine de kilomètres de Courgenay à vol d'oiseau, dans notre zone d'intervention. La visite est gratuite et vous recevez ensuite un devis écrit, sans engagement."},
+  {"q": "Faut-il une autorisation pour abattre un arbre ?", "a": "Dans le canton de Neuchâtel, les haies et bosquets sont protégés par la loi cantonale et les arbres isolés par les règlements communaux. Nous vérifions la règle auprès de la commune avant d'intervenir et vous indiquons la démarche."},
+  {"q": "Proposez-vous un suivi d'une année à l'autre ?", "a": "Oui. Après une première intervention, nous pouvons noter pour chaque arbre ce qui a été fait et ce qui reste à prévoir. Vous recevez une proposition quand la prochaine étape approche, et vous restez libre d'y donner suite."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un entretien à planifier à Cressier ?",
+ "cta_lead": "Nous venons voir vos arbres et proposons un calendrier. Visite et devis gratuits."
+}

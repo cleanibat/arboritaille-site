@@ -1,0 +1,36 @@
+{
+ "title": "Lac de Bienne : arboriste-grimpeur, taille et abattage | Arboritaille",
+ "desc": "Taille, élagage et abattage d'arbres sur les rives du lac de Bienne, de Bienne au Landeron. Arboriste-grimpeur, visite et devis gratuits, réponses en allemand.",
+ "hero_img": "demontage_saule_bienne", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Lac de Bienne · Bielersee",
+ "h1": "Arboriste-grimpeur autour du <em>lac de Bienne</em> : taille, abattage et soins aux arbres",
+ "lead": "Le lac de Bienne, Bielersee en allemand, s'étend au pied du Jura, dans le canton de Berne. Sur ses rives, nous taillons, démontons et plantons les arbres des jardins, des immeubles et des communes. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Rive bernoise et rive neuchâteloise", "Réponses écrites possibles en allemand", "Démontage par sections au bord de l'eau"],
+ "intro_eyebrow": "Vos arbres au bord du lac",
+ "intro_h2": "Des rives bilingues, entre Berne et Neuchâtel",
+ "intro": "<p>Le lac de Bienne est l'un des trois lacs du pied du Jura. Il couvre 39,3 km², à 429 m d'altitude, dans le canton de Berne. À son extrémité ouest, il touche le canton de Neuchâtel.</p><p>Sur ses rives, on parle français et allemand. <a href=\"/arboriste-bienne\">Bienne</a> et <a href=\"/arboriste-nidau\">Nidau</a> se partagent la baie en aval. <a href=\"/arboriste-le-landeron\">Le Landeron</a> est la seule commune neuchâteloise riveraine.</p><p>Près de l'eau, le sol reste frais et les arbres poussent vite. Saules et peupliers, courants au bord des lacs, ont un bois tendre : leurs grosses branches rompent plus facilement que celles d'un chêne.</p><p>Nous avons démonté un saule à Bienne et un autre à <a href=\"/arboriste-port\">Port</a> : les deux photos de cette page viennent de ces chantiers.</p>",
+ "faits": [["Superficie du lac", "39,3 km²"], ["Altitude du lac", "429 m"], ["Cantons riverains", "Berne, Neuchâtel"], ["Visite et devis", "Gratuits"]],
+ "reglement": "<strong>Autorisation d'abattage autour du lac de Bienne.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux.<br>Au Landeron s'applique la loi neuchâteloise (LCPN, RSN 461.10), qui protège haies et bosquets sur tout le territoire. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Le vent du large", "texte": "Un plan d'eau de 39,3 km² n'oppose aucun obstacle aux rafales. Les arbres du premier rang les reçoivent de plein fouet : nous rééquilibrons les couronnes trop chargées d'un côté."},
+  {"icone": "HOME", "titre": "Jardins de rive", "texte": "Entre la route et l'eau, la place manque souvent pour abattre d'une pièce. L'arbre est alors démonté par sections, et le bois sorti à la main si aucune machine ne passe."},
+  {"icone": "USERS", "titre": "Français ou allemand", "texte": "Devis et courriels peuvent être rédigés en allemand. Sur un lac que les germanophones appellent Bielersee, cela simplifie les échanges avec les propriétaires et les gérances."},
+  {"icone": "DOC", "titre": "Deux cantons, deux lois", "texte": "La rive bernoise suit la loi bernoise sur la protection de la nature, Le Landeron la loi neuchâteloise. Dans les deux cas, haies et bosquets sont protégés."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction et rééquilibrage des couronnes exposées au vent du lac, taille des saules, retrait du bois mort.",
+  "abattage-demontage": "Démontage par sections dans les jardins de rive, à la corde, comme sur nos chantiers de Bienne et de Port.",
+  "urgence-tempete-arbre-dangereux": "Branche rompue ou arbre couché après un coup de vent : mise en sécurité, puis devis.",
+  "plantation-arbres": "Remplacement d'un arbre abattu par une essence adaptée à un sol frais, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Intervenez-vous sur toutes les rives du lac de Bienne ?", "a": "Oui, côté bernois comme au Landeron, côté neuchâtelois. Plusieurs communes riveraines ont leur page sur ce site, dont <a href=\"/arboriste-la-neuveville\">La Neuveville</a>, <a href=\"/arboriste-gleresse\">Gléresse</a> et <a href=\"/arboriste-douanne-daucher\">Douanne-Daucher</a>. La visite et le devis sont gratuits partout."},
+  {"q": "Quelle règle s'applique pour abattre un arbre près du lac de Bienne ?", "a": "Sur la rive bernoise, haies et bosquets sont protégés par la loi cantonale, les arbres de valeur par les règlements communaux. Au Landeron, c'est la loi neuchâteloise. Nous vérifions la règle de votre commune avant d'intervenir."},
+  {"q": "Un saule penche vers l'eau ou vers la maison : faut-il l'abattre ?", "a": "Pas forcément. Le saule supporte bien la taille : une réduction de couronne peut le rééquilibrer pour plusieurs années. Si le tronc est creux ou l'ancrage atteint, nous le démontons par sections, à la corde."},
+  {"q": "Peut-on vous écrire en allemand ?", "a": "Oui, les réponses écrites sont possibles en allemand : demande de devis, questions, confirmation de rendez-vous. Indiquez simplement la langue souhaitée dans votre message. Nous répondons sous 48 h ouvrées."},
+  {"q": "Quand tailler les arbres au bord du lac ?", "a": "Les feuillus se taillent pendant le repos de la végétation. À 429 m, le printemps est précoce : mieux vaut intervenir avant le débourrement. Les haies sont entretenues en hiver, hors période de nidification."}
+ ],
+ "cta_img": "demontage_saule_port",
+ "cta_h2": "Un arbre à tailler ou à démonter au bord du lac de Bienne ?",
+ "cta_lead": "Visite et devis gratuits, en français, avec réponse écrite en allemand si vous le souhaitez."
+}

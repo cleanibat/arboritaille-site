@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Vuadens (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Vuadens, village de Gruyère à plus de 900 m d'altitude. Arboriste-grimpeur venu de Courgenay, devis gratuit.",
+ "hero_img": "degagement_facade_epicea",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Vuadens · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>Vuadens</em> : taille, abattage et soins aux arbres",
+ "lead": "Vuadens, village de Gruyère mentionné dès 1018, se situe vers 900 m d'altitude. Pour tailler, abattre ou remplacer un arbre de jardin, de ferme ou de bord de route, nous venons depuis Courgenay. Visite et devis gratuits.",
+ "points": [
+  "Calendrier adapté aux hivers de montagne",
+  "Visite et devis gratuits",
+  "Grimpe sans machine lourde dans les cours de ferme",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Vuadens",
+ "intro_h2": "Un village cité dès 1018, à plus de 900 m d'altitude",
+ "intro": "<p>La première mention de Vuadens figure dans un acte du roi Rodolphe III de Bourgogne, en 1018. Le village compte aujourd'hui 2 580 habitants sur 10,44 km², au code postal 1628, dans le district de la Gruyère.</p><p>L'altitude de référence est de 915 m et le territoire monte jusqu'à 1 320 m. À cette altitude, un hiver long et une neige lourde marquent en général la vie des arbres : bois mort cassant, fourches qui s'ouvrent, conifères qui perdent leur cime.</p><p>Dans un village de Gruyère, les grands arbres accompagnent souvent des bâtiments agricoles. Nous intervenons en grimpe, sans machine lourde dans les cours, et laissons un chantier propre.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 580 (2025)"
+  ],
+  [
+   "Altitude",
+   "915 m (768 à 1 320 m)"
+  ],
+  [
+   "NPA",
+   "1628"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 90 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Vuadens.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Vuadens avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "CLOCK",
+   "titre": "Calendrier de montagne",
+   "texte": "À plus de 900 m, la végétation démarre tard et s'arrête tôt. Nous taillons les feuillus en repos de végétation, de l'automne à la fin de l'hiver, et plantons dès que le sol est dégelé."
+  },
+  {
+   "icone": "TREE",
+   "titre": "Arbres des fermes",
+   "texte": "Les grands arbres plantés près des fermes ombragent les cours et touchent parfois les toits. Nous retirons le bois mort, allégeons la couronne et dégageons les bâtiments sans défigurer l'arbre."
+  },
+  {
+   "icone": "AXE",
+   "titre": "Abattage et bois de feu",
+   "texte": "Quand un arbre doit partir, nous l'abattons d'une pièce si la place le permet, sinon par sections. Le bois est débité en bûches pour votre chauffage, ou évacué selon le devis."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Retrait du bois mort, allègement et dégagement de façade pour les arbres de jardin et de ferme de Vuadens.",
+  "abattage-demontage": "Abattage direct ou démontage par sections, bois débité en bûches ou évacué, terrain nettoyé.",
+  "plantation-arbres": "Essence rustique adaptée à l'altitude, plantée au printemps ou à l'automne avec tuteurage tripode."
+ },
+ "faq": [
+  {
+   "q": "Quand tailler un arbre à Vuadens ?",
+   "a": "De l'automne à la fin de l'hiver pour les feuillus, hors grand gel. Les conifères se taillent de préférence à la fin de l'été. Nous évitons les coupes importantes au printemps, pendant la montée de sève et la nidification."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Vuadens ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme désigne les arbres protégés. Hors zone à bâtir, haies, bosquets et grands arbres isolés d'intérêt paysager demandent une dérogation de la commune, avec compensation. Nous vérifions pour vous."
+  },
+  {
+   "q": "Pouvez-vous travailler dans une cour de ferme en activité ?",
+   "a": "Oui. Nous intervenons en grimpe, sans machine lourde dans la cour, et descendons les branches à la corde. Nous convenons avec vous de l'horaire pour ne pas gêner le travail de l'exploitation."
+  },
+  {
+   "q": "Un conifère qui a perdu sa cime est-il à abattre ?",
+   "a": "Pas toujours. Si une branche latérale a repris le rôle de flèche et que le tronc est sain, l'arbre peut rester. Si la cime pourrit ou que l'arbre se dessèche, nous proposons un démontage. L'examen se fait sur place."
+  },
+  {
+   "q": "À quelle distance de Vuadens êtes-vous ?",
+   "a": "Arboritaille est installée à Courgenay, dans le canton du Jura, à une nonantaine de kilomètres. Nous regroupons les visites en Gruyère. La visite et le devis sont gratuits et sans engagement."
+  }
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à tailler ou à abattre à Vuadens ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Nous venons depuis Courgenay."
+}

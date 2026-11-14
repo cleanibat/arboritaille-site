@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à La Baroche (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à La Baroche (Asuel, Charmoille, Fregiécourt, Miécourt, Pleujouse), près de Courgenay. Visite et devis gratuits.",
+ "hero_img": "reduction_tilleul_porrentruy", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · La Baroche · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>La Baroche</em> : taille douce, démontage et soins aux arbres",
+ "lead": "La Baroche réunit cinq villages d'Ajoie : Asuel, Charmoille, Fregiécourt, Miécourt et Pleujouse. Depuis Courgenay, à moins de dix kilomètres, nous taillons, démontons et plantons vos arbres, près des châteaux comme dans les jardins.",
+ "points": ["Visite et devis écrits gratuits", "Cinq villages desservis depuis Courgenay", "Démontage à la corde près du bâti ancien", "Taille douce, sans étêtage"],
+ "intro_eyebrow": "Vos arbres à La Baroche",
+ "intro_h2": "Cinq villages, trois châteaux et un nom qui veut dire « la paroisse »",
+ "intro": "<p>En patois, La Baroche signifie « la paroisse ». La commune est née le 1er janvier 2009 de la fusion d'Asuel, Charmoille, Fregiécourt, Miécourt et Pleujouse. Elle compte 1 124 habitants sur 31,07 km², à 476 m d'altitude.</p><p>Le bâti ancien y tient une grande place : château de Miécourt, château de Pleujouse, ruines du château d'Asuel. L'ancien prieuré de Miserez et l'ancienne école de Charmoille sont classés monuments historiques.</p><p>Près d'édifices de cet âge, les arbres sont souvent anciens eux aussi. Nous préférons les alléger par une <a href=\"/elagage-taille-arbres\">taille douce</a>. Si l'abattage s'impose, l'arbre est démonté à la corde, morceau par morceau.</p><p>Avec 36 habitants au kilomètre carré, le territoire est peu dense. Hors zone à bâtir, haies et bosquets relèvent de la loi cantonale : nous vous indiquons la démarche avant toute coupe.</p>",
+ "faits": [["Habitants", "1 124 (2025)"], ["Altitude", "476 m"], ["Superficie", "31,07 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Baroche.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à La Baroche avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Près des châteaux et du prieuré", "texte": "À côté d'un château ou d'un bâtiment classé, chaque branche est retenue à la corde avant de descendre. Aucune chute libre sur un mur ancien, une toiture ou un portail."},
+  {"icone": "PIN", "titre": "Cinq villages, une même démarche", "texte": "Asuel, Charmoille, Fregiécourt, Miécourt ou Pleujouse : la visite est gratuite dans chacun des cinq villages. Le rendez-vous se fixe selon vos disponibilités, puis le devis suit par écrit."},
+  {"icone": "LEAF", "titre": "Un territoire peu dense", "texte": "Sur plus de trente kilomètres carrés, l'habitat occupe peu de place. Les haies s'entretiennent en hiver, hors période de nidification, et leur suppression demande une dérogation."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Bois mort, allègement ou réduction de couronne pour les grands arbres des cinq villages. La silhouette de l'arbre est conservée.",
+  "abattage-demontage": "Démontage par tronçons retenus à la corde près des bâtiments anciens. Abattage direct seulement quand la place le permet.",
+  "diagnostic-expertise-arbre": "Un vieil arbre vous inquiète ? Nous examinons le tronc, la couronne et le pied avant de proposer taille, haubanage ou abattage."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans les cinq villages de La Baroche ?", "a": "Oui. Asuel, Charmoille, Fregiécourt, Miécourt et Pleujouse forment une seule commune, à moins de dix kilomètres de Courgenay. La visite sur place et le devis écrit sont gratuits, quel que soit le village."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Baroche ?", "a": "Tout dépend de l'emplacement. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation. En zone à bâtir, le règlement communal décide. Nous posons la question à la commune avant d'intervenir."},
+  {"q": "Mon arbre pousse près d'un bâtiment classé : pouvez-vous intervenir ?", "a": "Oui. Nous travaillons à la corde et retenons chaque pièce de bois, sans rien laisser tomber sur le bâti. Nous nous renseignons aussi auprès de la commune avant de fixer une date."},
+  {"q": "Un vieil arbre peut-il être conservé plutôt qu'abattu ?", "a": "Souvent, oui. Un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a> permet de savoir si une taille d'allègement ou un <a href=\"/haubanage\">haubanage</a> suffisent. L'abattage n'est proposé que si l'arbre présente un danger que ces mesures ne règlent pas."},
+  {"q": "Dans quel délai répondez-vous à une demande ?", "a": "Nous répondons sous 48 h ouvrées. La visite est ensuite fixée avec vous, sur place, devant l'arbre. Le devis écrit précise la méthode, l'évacuation du bois et le nettoyage du terrain."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre à faire examiner à La Baroche ?",
+ "cta_lead": "Décrivez-nous l'arbre et le village. Visite et devis gratuits, sans engagement."
+}

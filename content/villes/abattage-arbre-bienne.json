@@ -1,0 +1,68 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-bienne",
+ "h1_plain": "Abattage et démontage d'arbres à Bienne",
+ "title": "Abattage et démontage d'arbres à Bienne (BE) | Arboritaille",
+ "desc": "Abattage et démontage d'arbres à Bienne : cours d'immeubles, jardins serrés, bord du lac. Démontage à la corde, devis en français ou en allemand.",
+ "hero_img": "demontage_saule_bienne",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Abattage · Bienne",
+ "h1": "Abattage et démontage d'arbres à <em>Bienne</em>",
+ "lead": "Bienne compte plus de 2 700 habitants au km2 : un arbre s'y abat rarement d'un bloc. Nous le démontons pièce par pièce, à la corde ou avec une grue. Visite et devis gratuits.",
+ "points": [
+  "Démontage à la corde entre les bâtiments",
+  "Grue organisée si la place manque",
+  "Dates annoncées à la gérance et aux voisins",
+  "Devis en français ou en allemand"
+ ],
+ "intro_eyebrow": "Bienne",
+ "intro_h2": "Abattre en ville dense : tronçon après tronçon",
+ "intro": "<p>Dixième ville de Suisse par sa population, Bienne laisse peu de place autour des arbres. Façades, vérandas, voitures, lignes : tout est à portée de branche. L'abattage direct y est l'exception.</p><p>Nous avons démonté un saule à Bienne, tronçon après tronçon, chaque pièce retenue à la corde. La photo de cette page montre ce chantier.</p><p>À Boujean, Mâche, Madretsch ou Vigneules, la visite règle trois points : par où sort le bois, où stationne le véhicule, qui doit être prévenu. Le devis écrit reprend ces éléments.</p>",
+ "contexte": [
+  {
+   "icone": "CABLE",
+   "titre": "Rétention à la corde",
+   "texte": "Chaque tronçon est attaché avant la coupe, puis descendu dans une zone balisée. Cette méthode protège toits, clôtures et plantations situés sous l'arbre."
+  },
+  {
+   "icone": "PIN",
+   "titre": "Accès et stationnement",
+   "texte": "Rue étroite, cour intérieure, places de parc occupées : nous repérons l'emplacement du véhicule et du broyeur. Si la chaussée doit être occupée, la démarche se prépare avant le chantier."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Voisins et locataires",
+   "texte": "Un démontage fait du bruit pendant quelques heures. Nous transmettons la date à la gérance. L'avis aux habitants peut être rédigé en français et en allemand."
+  },
+  {
+   "icone": "CRANE",
+   "titre": "Arbre enclavé",
+   "texte": "Quand l'arbre se trouve derrière un immeuble, sans passage, une grue lève les tronçons au-dessus du toit. Nous l'organisons et l'intégrons au devis."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Bienne.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : leur suppression demande une dérogation de la préfecture, avec compensation.<br>Les arbres isolés, groupes d'arbres et allées de valeur sont protégés par les règlements communaux ; à Bienne, il faut se référer au règlement de construction de la Ville. En forêt, tout abattage requiert une autorisation du service forestier. Nous vérifions la règle en vigueur à Bienne avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Comment savoir si mon arbre est protégé à Bienne ?",
+   "a": "Les arbres isolés et les allées de valeur sont protégés par les règlements communaux. À Bienne, il faut se référer au règlement de construction de la Ville. Nous posons la question pour votre parcelle avant de fixer une date d'abattage."
+  },
+  {
+   "q": "Quel chantier d'abattage avez-vous réalisé à Bienne ?",
+   "a": "Le démontage d'un saule, pièce par pièce, à la corde. La photo en tête de cette page montre ce chantier. Voir aussi notre page <a href=\"/arboriste-bienne\">arboriste-grimpeur à Bienne</a>. Un chantier comparable a eu lieu à Port, commune voisine."
+  },
+  {
+   "q": "Faut-il fermer la rue pour abattre un arbre ?",
+   "a": "Rarement. Le démontage à la corde se fait le plus souvent depuis la parcelle. Si une grue ou un camion doit stationner sur la chaussée, l'occupation du domaine public se demande à l'avance ; nous l'indiquons dans le devis."
+  },
+  {
+   "q": "Qui prévient les locataires avant le chantier ?",
+   "a": "La gérance ou le propriétaire, avec les informations que nous fournissons : date, durée prévue, places de parc à libérer. Sur demande, nous rédigeons un court avis en français et en allemand à afficher dans l'entrée."
+  },
+  {
+   "q": "La souche reste-t-elle en place ?",
+   "a": "Par défaut, la souche est coupée au ras du sol. Si vous voulez replanter ou engazonner, nous la rognons sous le niveau du terrain. Voir <a href=\"/rognage-souche\">rognage de souche</a>."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Bienne ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

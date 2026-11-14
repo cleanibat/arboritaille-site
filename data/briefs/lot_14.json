@@ -1,0 +1,840 @@
+[
+ {
+  "slug": "arboriste-orbe",
+  "nom": "Orbe",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 8005,
+  "tier": 2,
+  "npa": "1350",
+  "altitude": "480 m",
+  "superficie": "12,02 km2",
+  "densite": "666 hab./km2",
+  "gentile": "Urbigène",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "8 005 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 90,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Orbe_(Vaud)",
+  "intro": "Orbe est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois, sur le cours d'eau qui lui a donné son nom, l'Orbe.",
+  "sections": {
+   "Toponymie": "Urba (env. 280) ; iuxta Urbem super lacum (env. 400) ; castrum quod Urba dicitur (866) ; actum Urbem (1010) ; Stephanus de Orba (1193). in Urba que vocant Tabernis (966) ; in villa Tavellis quam alio nomine Urbam vocant (1011). La commune tire son nom de la rivière Orbe, mentionnée dès 916 sous la forme fluvio Urba. Ce toponyme remonte sans doute à une forme prélatine *Urba dont le sens et l'origine restent inexpliqués. La recherche récente a en effet montré que les explications anciennes doivent être rejetées. La forme Tavel, ancienne dénomination parallèle à celle d'Orbe, est apparenté à la forme Tafers/Tavel que l'on rencontre dans le canton de Fribourg, et au hameau de Tavel, voisin de Montreux. Les scribes médiévaux traduisent parfois Tabellis par Tabernis. Taberna est en effet bien attesté en galloroman comme nom propre et comme toponyme. Il faut sans doute rapprocher cette forme du latin tardif tabellus « plaque, petite planche », qui a pu évoluer en signe d'auberge, et donc en tavel, « auberge ».",
+   "Histoire": "Orbe, nommée en premier lieu « Urba », deviendra une résidence royale sous les rois de France après avoir été la capitale d'un des quatre cantons primitifs du pays décrit par César. Le climat tempéré, la présence de pâturages, d'une rivière, d'un lac, en bordure de vastes forêts et à proximité d'un défilé qui mène à l'Helvétie du Séquanais font de ce lieu un endroit idéal de villégiature. Elle était aussi connue sous le nom de Taverne dans une charte de 1019 : « Villa Tabernis, quae alio nomine propter fluvium ibidem defluentem Urba appellatur (près d'une ancienne voie romaine était Taverne, qui s'appelle aussi Orbe, à cause de la rivière sur laquelle elle est située) ». La légende raconte que sa fondation, au VIe siècle av. J.-C., est le fait de Segovesos (notable gaulois considéré comme légendaire, mentionné dans l’Histoire romaine de Tite-Live). Lui et son frère Bellovesos sont envoyés par leur père, le roi Ambigatos qui règne sur le peuple celte des Bituriges, rechercher de nouveaux territoires. Le second passe les Alpes et s’installe dans le nord de l’Italie où les Gaulois sont à l’origine de la fondation de Milan. Le premier prend la direction de la forêt Hercynienne. Cette forêt est décrite par Jules César, dans un chapitre consacré à la description des Germains, l'un des peuples qu'il combat lors de sa conquête de la Gaule. Il évoque « les terres les plus fertiles de la"
+  },
+  "voisins": [
+   {
+    "nom": "Valeyres-sous-Rances",
+    "slug": null
+   },
+   {
+    "nom": "Mathod",
+    "slug": null
+   },
+   {
+    "nom": "Épendes",
+    "slug": null
+   },
+   {
+    "nom": "Chavornay",
+    "slug": "arboriste-chavornay"
+   },
+   {
+    "nom": "Arnex-sur-Orbe",
+    "slug": null
+   },
+   {
+    "nom": "Agiez",
+    "slug": null
+   },
+   {
+    "nom": "Montcherand",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-chavornay",
+  "nom": "Chavornay",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 5375,
+  "tier": 2,
+  "npa": "1373",
+  "altitude": "453 m",
+  "superficie": "19,29 km2",
+  "densite": "279 hab./km2",
+  "gentile": "Chavornaysan",
+  "langue": "Français",
+  "localites": "Le Pâquier, Essert-Pittet, Corcelles-sur-Chavornay",
+  "population_detail": "5 375 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 90,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Chavornay_(Vaud)",
+  "intro": "Chavornay (/ʃavoʀnɛ/) est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /ʃavoʀnɛ/, a évolué à partir de Cavorniacum (977), Cavornacum (1173), pour la première fois Chavornay (1217), Chauornai et Chavornai (1228), Chauornay (1453) et Chavornex (1628) et encore Chavornex en 1705. Il dérive probablement du nom de personne latin Capronius et du suffixe celtique -akos/-acum, qui désigne un lieu. La commune se nomme Tsavornaï en patois vaudois.",
+   "Histoire": "Chavornay semble avoir été une cité lacustre de l'âge du bronze. La quantité de fers à mulets trouvés sur son périmètre plaide en faveur d’une station de relais entre le Mauremont et le Vicus Eurodunensis des premiers Helvètes. Il faut noter cependant qu'elle est située en dehors des deux voies connues qui longeaient le marécage, celles d’Essert-Pittet et de l'antique Urba. Chavornay aurait donc été une station de marais, avec une base surélevée reposant sur une fondation de troncs entrecroisés, comme on en a découvert aux environs de Bex. Une borne romaine a été trouvée sur la commune, qui atteste du passage d'une voie romaine au bord de laquelle elle était vraisemblablement dressée. Son inscription indique qu'elle a été érigée en 202 apr. J.-C., sous le règne de Septime Sévère et de ses fils Caracalla et Geta et qu'elle était placée à une distance de 23 lieues d'Aventicum (l'actuelle Avenches). Sans preuve certaine, Chavornay est donné, en 867, par le roi carolingien Lothaire à son épouse Theutberge. Vingt ans plus tard, il devient la propriété des rois de Bourgogne transjurane qui y habitent quelquefois, mais on n'a pas trouvé de traces de leur résidence. En 927, l’élection de Libon, évêque de Lausanne, est confirmée par le roi Rodolphe II qui tient alors ses assises au village de Chavornay (in villa Cavorniaco). Le roi est accompagné de l’archevêque de Besançon et de l’évêq",
+   "Culture et patrimoine": "L’église, aujourd’hui église évangélique réformée Saint-Marcel, date du XIIe siècle. La bâtisse actuelle néanmoins est issue d'une reconstruction au Moyen Âge (vers 1400), elle reste pourtant une des plus vieilles églises du canton et est classée bâtiment historique. Elle possède un chœur gothique du XVe siècle et une nef comportant un plafond cintré en bois avec des colonnes, restaurée entre 1648 et 1671. Sur la Grand'Rue se dresse la « Maison Bernoise » qui date du XVIe siècle. Elle doit son nom à une architecture typique de style bernois, elle porte toutefois ce nom que depuis 1911, avant quoi on l'appelait simplement maison du bas du village. Elle est actuellement la propriété de l’artiste peintre Bernard Viglino."
+  },
+  "voisins": [
+   {
+    "nom": "Arnex-sur-Orbe",
+    "slug": null
+   },
+   {
+    "nom": "Bavois",
+    "slug": null
+   },
+   {
+    "nom": "Épendes",
+    "slug": null
+   },
+   {
+    "nom": "Essertines-sur-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Orbe",
+    "slug": "arboriste-orbe"
+   },
+   {
+    "nom": "Penthéréaz",
+    "slug": null
+   },
+   {
+    "nom": "Suchy",
+    "slug": null
+   },
+   {
+    "nom": "Vuarrens",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-sainte-croix",
+  "nom": "Sainte-Croix",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 5156,
+  "tier": 2,
+  "npa": "1450 Sainte-Croix, La Sagne  1454 L'Auberson, La Vraconnaz",
+  "altitude": "1 094 m",
+  "superficie": "39,42 km2",
+  "densite": "131 hab./km2",
+  "gentile": "Sainte-Crix",
+  "langue": "Français",
+  "localites": "Culliairy, L'Auberson, La Chaux, La Sagne, La Vraconnaz, Le Château-Sainte-Croix, Les Replans",
+  "population_detail": "5 156 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 80,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Sainte-Croix_(Vaud)",
+  "intro": "Sainte-Croix est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois entre Yverdon-les-Bains, Fleurier et Pontarlier.",
+  "sections": {
+   "Histoire": "La région de Sainte-Croix est déjà connue du temps de l'Empire Romain, comme lieu de passage ainsi que de défense à travers la chaîne du Jura. Au XIVe siècle, deux châteaux furent construits. L’un par les sires de Grandson, au débouché des gorges de Covatanne, et l’autre par Hugues de Chalon-Arlayau qui éleva une forteresse au col des Étroits. Les deux ont disparu. À cette même époque se trouvaient aussi une chapelle dédiée à la Sainte-Croix, qui a longtemps été un lieu de pèlerinage d’une certaine importance. Au XVIIIe siècle, Sainte-Croix se développe dans les domaines de la sidérurgie et de l'horlogerie. Les boîtes à musique y sont produites dès le début du XIXe siècle. Vers la fin du XIXe siècle, l'industrie de la mécanique de précision se développe (production de phonographes, gramophones, caméras, radios, machines à écrire), ainsi que le tourisme et les sports d'hiver. À la suite de la crise économique des années 1970, le nombre d'emplois et d'habitants chute fortement, mais de nouveaux domaines d'activités apparaissent, notamment la micromécanique, l'électronique, l'informatique, ou l'horlogerie haut de gamme. En outre, de nombreuses activités artisanales locales y subsistent."
+  },
+  "voisins": [
+   {
+    "nom": "La Côte-aux-Fées",
+    "slug": "arboriste-la-cote-aux-fees"
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers"
+   },
+   {
+    "nom": "Fiez",
+    "slug": null
+   },
+   {
+    "nom": "Bullet",
+    "slug": null
+   },
+   {
+    "nom": "Vuitebœuf",
+    "slug": null
+   },
+   {
+    "nom": "Baulmes",
+    "slug": null
+   },
+   {
+    "nom": "Les Fourgs",
+    "slug": null
+   },
+   {
+    "nom": "Les Hôpitaux-Vieux",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-le-chenit",
+  "nom": "Le Chenit",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 4787,
+  "tier": 2,
+  "npa": "1341 L'Orient  1347 Le Sentier, Le Solliat  1348 Le Brassus",
+  "altitude": "1 010 m",
+  "superficie": "99,25 km2",
+  "densite": "48 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "L'Orient, Le Brassus, Le Sentier, Le Solliat",
+  "population_detail": "4 787 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 110,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Chenit",
+  "intro": "Le Chenit est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois.",
+  "sections": {
+   "Histoire": "Le titre le plus ancien qui fasse mention du Chenit est une prononciation datée de 1513 par laquelle l'abbé de l'abbaye du lac de Joux accordait aux habitants de Vaulion de couper du bois dans une zone de la vallée de Joux nommée Chinit, les arbres débités étaient chargés sur des radeaux pour descendre le lac de Joux. Quelque temps plus tard, la communauté du Lieu commençait à s'étendre sur le territoire de ce qui deviendra la commune de Chenit, ils y établirent un moulin en 1590 avec l'autorisation des propriétaires de celui de Romainmôtier, Jacques et André Mayor : « lesdits Mayor convinrent par accord d'affranchir les trente-deux chefs de familles (d'où le nom de Trente-deux du Chenit que prit la communauté) de ce qu'ils avaient au moulin de Romainmôtier et de leur établir un moulin audit Chenit, si dans l'an et jour lesdits Mayor n'édifoient pas ce moulin, lesdits particuliers pourroient le construire à leurs frais, et alors le dit moulin leur appartiendroit, en propre, en payant la cense qui pourroit y être imposée. » Au début des années 1600 la communauté chargeait l'un des leurs, Pierre Lecoultre, de négocier la fondation d'une église. En juillet 1610 les baillis de Romainmôtier, Rodolphe Hornn et Ulderich Cocq, se rendaient sur le lieu pour ordonner le début des travaux. En contrepartie de l'établissement d'un diacre, pour officier au « temple du Chenit » et « y tenir l",
+   "Patrimoine": "Le village urbanisé du Sentier et le hameau de Chez-les-Aubert sont classés à l'Inventaire fédéral des sites construits à protéger en Suisse. Le musée Audemars Piguet, situé au Brassus, couvre plus de 200 ans d'activité de la manufacture. Le nombre de montres à complications présentées en fait, dans ce domaine, un des plus importants musées horlogers privés. Au Sentier, l'« espace horloger de la Vallée de Joux » présente l'histoire horlogère de la Vallée ainsi qu'une collection de pendules anciennes du XVIe au XIXe siècle."
+  },
+  "voisins": [
+   {
+    "nom": "Arzier-Le Muids",
+    "slug": null
+   },
+   {
+    "nom": "Bassins",
+    "slug": null
+   },
+   {
+    "nom": "Berolle",
+    "slug": null
+   },
+   {
+    "nom": "Bière",
+    "slug": null
+   },
+   {
+    "nom": "Gimel",
+    "slug": null
+   },
+   {
+    "nom": "L'Abbaye",
+    "slug": "arboriste-l-abbaye"
+   },
+   {
+    "nom": "Le Lieu",
+    "slug": null
+   },
+   {
+    "nom": "Longirod",
+    "slug": null
+   },
+   {
+    "nom": "Marchissy",
+    "slug": null
+   },
+   {
+    "nom": "Saint-George",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-vallorbe",
+  "nom": "Vallorbe",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 4413,
+  "tier": 2,
+  "npa": "1337",
+  "altitude": "750 m",
+  "superficie": "23,19 km2",
+  "densite": "190 hab./km2",
+  "gentile": "Vallorbier",
+  "langue": "Français",
+  "localites": "Le Creux, Le Day",
+  "population_detail": "4 413 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Vallorbe",
+  "intro": "Vallorbe est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois. Elle est située dans un vallon du massif du Jura, sur le cours de l'Orbe, entourée notamment par la chaîne de la Dent de Vaulion et par celle du Mont d'Or. Vallorbe, dont l'existence est attestée depuis le XIIe siècle, s'est notamment fait connaître par sa longue tradition industrielle dans le domaine de la métallurgie — forges, clous, chaînes, limes, etc. — ainsi que par sa gare internationale où le Simplon-Orient-Express et le TGV ont fait ou font encore halte.",
+  "sections": {
+   "Toponymie": "Le nom du village est attesté dès le XIIe siècle sous les formes latinisées : de valle urbanensi (1139) et de valle urbe (1148), avant d'être écrit Valorbes (XIIIe siècle), Vallorbes (fin du XVe siècle), puis Vallorbe (vers 1900). La signification est simplement Vallée de l'Orbe, du nom de la rivière le long de laquelle s'est développé le village. Le nom de la rivière elle-même est relatif à son cours disparaissant par endroits et aurait pour origine le terme latin orba signifiant « rivière obscure ». Le Day - l'un des hameaux de Vallorbe - doit son nom au mot patois daye signifiant « pin sylvestre », lui-même dérivé du mot gaulois dagla, signifiant « pin » ou « torche en bois de pin ». La Dernier signifie simplement derrière, en arrière de et vient, à l'origine, du bas latin deretro. Les Éterpaz - jadis un hameau séparé et désormais un quartier intégré au village - désignent un endroit défriché, où les souches ont été enlevées à la houe, le nom d'une série de mots de l'ancien français signifiant défrichement (estrepeure), arracher les mauvaises herbes (esterper, estirper, estraper, estreper, estrepier, estriper) ou encore abattis (estarpeis, estrapeis, estrepeis). Le Mont d'Orzeires, un alpage situé entre Vallorbe et la vallée de Joux, doit son nom aux ours qui le fréquentaient puisque le vieux français orsière signifie tanière à ours. Le nom de mont de Cire, qui lui a égaleme",
+   "Histoire": "Il n'y aucune preuve d'occupation permanente du territoire actuel de la commune de Vallorbe avant le XIIe siècle. En revanche, quelques objets plus anciens ont été retrouvés, signes que le vallon a probablement au moins été traversé : une hache du Néolithique, une hache celte et une monnaie en or de l'empereur romain Flavius Honorius. Vallorbe apparaît pour la première fois dans un document historique en 1139, dans une bulle du pape Innocent II adressée au prieur de l'abbatiale de Romainmôtier,. Les premiers habitants s'établissent autour de la Fontaine de St-Pancrace, dans l'actuelle rue du Moutier. Un prieuré bénédictin est créé à Vallorbe en 1148, mais il est annexé au couvent de Romainmôtier en 1321 et disparaît,, l'établissement de Vallorbe ne pouvant apparemment pas subvenir à l'entretien du prieur et du curé qui y résidaient. Les noms de seulement trois prieurs de Vallorbe sont connus : Willerme (de Brussin), Willerme (dit Charpil) et Jaques de Dizy. Entre-temps, au XIIIe siècle, la plus grande partie du canton de Vaud actuel - et avec lui le village de Vallorbe - était passée sous la domination des comtes de Savoie, mais Vallorbe reste placée sous l'autorité directe du prieuré de Romainmôtier. Celui-ci est représenté à Vallorbe par un mayor et un mestral, chargés de rendre justice et d'administrer les biens du prieuré. La sidérurgie, dont l'histoire est présentée plus e"
+  },
+  "voisins": [
+   {
+    "nom": "Ballaigues",
+    "slug": null
+   },
+   {
+    "nom": "Les Clées",
+    "slug": null
+   },
+   {
+    "nom": "Premier",
+    "slug": null
+   },
+   {
+    "nom": "Vaulion",
+    "slug": null
+   },
+   {
+    "nom": "L'Abbaye",
+    "slug": "arboriste-l-abbaye"
+   },
+   {
+    "nom": "Le Lieu et Jougne",
+    "slug": null
+   },
+   {
+    "nom": "Longevilles-Mont-d'Or",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-yvonand",
+  "nom": "Yvonand",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 3537,
+  "tier": 2,
+  "npa": "1462",
+  "altitude": "436 m",
+  "superficie": "13,39 km2",
+  "densite": "264 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "La Mauguettaz, Niédens, Le Moulin, La Grand-Moille, Les Vursys.",
+  "population_detail": "3 537 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 75,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Yvonand",
+  "intro": "Cet article ne cite pas suffisamment ses sources (avril 2022). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Yvonand (/ivɔnã/) est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /ivɔnã/, est d'origine inconnue, les hypothèses avancées (notamment nom de personne germanique Evo et nant au sens de ruisseau) n'étant pas convaincantes. Sa première occurrence écrite date de 1010, sous la forme d'Evonant. Son nom en patois vaudois est Invouenan.",
+   "Histoire": "Les derniers chasseurs cueilleurs du mésolithique ont pu venir momentanément chasser dans la région (à l'abri de la Baume d'Ogens) dès environ 6785 avant notre ère. Dès 3500 av. J.-C. les premiers agriculteurs-éleveurs du Néolithique établirent leur village à l’abri sous roche du Vallon des Vaux et érigèrent des menhirs dont un à côté de l'église. Les premiers Celtes arrivent dès 750 et les Helvètes dès 450 av. J.-C. Aux environs de l'an 30, l'Helvétie est incorporée à l'Empire romain. Des routes sont construites, des villas laissant des vestiges, tels que la mosaïque d’Orphée de la Baumaz, et les fresques de Mordagne. Au Ve siècle, les Burgondes s'installent et le catholicisme l'emporte sur l'arianisme. Le Moyen Âge suivit avec son habitat troglodyte, de la Roche de la Baume semblable à l'habitat accroché à la falaise du Vallon des Vaux, vers 400-700 ap. J.-C. La première mention de la commune date de l'an 1010. Elle se trouve dans la charte de Rodolphe III rendant à son cousin, l'évêque de Lausanne, la moitié du village d'Evonant, pris autrefois par le seigneur Peudon. En 1011, il donna l'autre moitié à son épouse Hermengarde qui la redonna immédiatement à Dieu et à St Maurice de l'Église de Vienne en Isère. En 1310, le Seigneur de St-Martin du Chêne vendit une part de la dîme d'Yvonand lui appartenant depuis 1285 au seigneur d'Estavayer. En 1341, Humbert de Billens en vendit"
+  },
+  "voisins": [
+   {
+    "nom": "Cheyres-Châbles",
+    "slug": "arboriste-cheyres-chables"
+   },
+   {
+    "nom": "Rovray",
+    "slug": null
+   },
+   {
+    "nom": "Molondin",
+    "slug": null
+   },
+   {
+    "nom": "Donneloye",
+    "slug": null
+   },
+   {
+    "nom": "Cronay",
+    "slug": null
+   },
+   {
+    "nom": "Cuarny",
+    "slug": null
+   },
+   {
+    "nom": "Villars-Épeney",
+    "slug": null
+   },
+   {
+    "nom": "Cheseaux-Noréaz",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-grandson",
+  "nom": "Grandson",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 3390,
+  "tier": 2,
+  "npa": "1422",
+  "altitude": "Min. 435 mMax. 535 m",
+  "superficie": "7,86 km2",
+  "densite": "431 hab./km2",
+  "gentile": "Grandsonnois",
+  "langue": "Français",
+  "localites": "Corcelettes, Les Tuileries-de-Grandson, Péroset, La Poissine, Bru, La Perraudettaz",
+  "population_detail": "3 390 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 75,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Grandson",
+  "intro": "Grandson (/ɡʀãsɔ̃/) est une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois.",
+  "sections": {
+   "Toponymie": "L'origine du nom de la commune, qui se prononce /ɡʀãsɔ̃/, ne peut être déterminée avec certitude. Il pourrait dériver d'un nom de personne latin tel que *Grannicius, qui y aurait possédé un domaine. La première occurrence écrite du toponyme date de 1087 à 1092, sous la forme de Grantione. L'ancien nom allemand de la commune est Gransee (étymologie populaire évoquant la situation de la commune au bord du lac de Neuchâtel).",
+   "Histoire": "Le village appartient à Louis de Chalon, vassal de Charles le Téméraire, en son château de Grandson. Il est pris par les milices suisses le 30 avril 1475. Le 2 mars 1476 eut lieu la bataille de Grandson, qui vit la victoire des confédérés, alliés de Louis XI de France, sur Charles le Téméraire. Depuis la création du canton de Vaud en 1803 et jusqu'au 31 décembre 2007, Grandson a été chef-lieu du district du même nom avant que cette région ne devienne partie prenante du nouveau district du Jura-Nord vaudois à la suite de l'adoption de la nouvelle Constitution cantonale vaudoise par les citoyens de ce canton en 2003.",
+   "Culture et patrimoine": "Le menhir de Grandson, haut de quatre mètres et datant du Néolithique, se dresse au bord de la route conduisant à Fiez. Le château de Grandson est le deuxième plus grand château de Suisse. Il se situe au centre du bourg et accueille environ 30 000 visiteurs chaque année. L'église Saint-Jean-Baptiste était initialement un prieuré de la congrégation bénédictine de La Chaise-Dieu. Une partie importante de la décoration a survécu à la rigueur de la Réforme. On y trouve notamment une représentation de la mise au tombeau du XVe siècle. L'édifice a été restauré en 2007. La station lacustre de Corcelettes est également inscrite comme bien culturel suisse d'importance nationale. Un deuxième couvent existait dans ce bourg, le Couvent des Cordeliers. Il fut fondé par Othon Ier de Grandson qui reçut, le 12 décembre 1289, l'autorisation du pape Nicolas IV de l'ériger sur les bords de la rivière Liserne appelée maintenant Arnon. Il ne fut finalement pas construit le long de ce cours d'eau mais au bord du lac de Neuchâtel à l'entrée ouest de Grandson vers 1308. La ville compte encore plusieurs maisons d’origine médiévale, reflétant l’architecture civile de la fin de l’époque gothique. Au milieu du XVIe siècle, après le passage de la Réforme protestante en pays romand et lorsque la région de Grandson était administrée en alternance entre les États de Berne et de Fribourg, les biens du couvent "
+  },
+  "voisins": [
+   {
+    "nom": "Champagne",
+    "slug": null
+   },
+   {
+    "nom": "Bonvillars",
+    "slug": null
+   },
+   {
+    "nom": "Montagny-près-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Valeyres-sous-Montagny",
+    "slug": null
+   },
+   {
+    "nom": "Giez",
+    "slug": null
+   },
+   {
+    "nom": "Fiez",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-l-abbaye",
+  "nom": "L'Abbaye",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 1604,
+  "tier": 2,
+  "npa": "1342 Le Pont  1344 L'Abbaye  1346 Les Bioux",
+  "altitude": "1 004 m",
+  "superficie": "31,88 km2",
+  "densite": "50 hab./km2",
+  "gentile": "Baillet",
+  "langue": "Français",
+  "localites": "Les Bioux, Le Pont, L'Abbaye",
+  "population_detail": null,
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/L'Abbaye_(Vaud)",
+  "intro": "L'Abbaye est une commune suisse et un village du canton de Vaud, située dans le district du Jura-Nord vaudois.",
+  "sections": {
+   "Toponymie": "L'Abbaye est nommée d'après l'Abbaye du lac de Joux. Son nom est attesté pour la première fois en 1140 sous la forme « abbatem de Lacu ».",
+   "Histoire": "Le village de l'Abbaye doit son origine à l'abbaye de sainte Marie-Madeleine du Lac, de l'ordre des Prémontrés, fondée entre 1126 et 1134 à l'instigation d'Ebal Ier de Grandson. La bande aux trois coquilles figurant sur les armoiries de la commune provient des armes de cette famille. La conquête bernoise de 1536 sonne le glas de l'abbaye du Lac. Le dernier abbé, Claude Pollens dit Besson (Bessonis), jure fidélité aux nouveaux souverains. Il sera même un temps l'administrateur des biens de l'abbaye (1538). Par la suite, Bessonis se convertit au protestantisme, se marie et se retire à Cuarnens où il a obtenu en fief tout le domaine de la grange éponyme. Il ne renoncera à ses droits sur le couvent qu'en 1542. Les bâtiments du monastère sont abergés « à perpétuité » à Claude de Glâne, seigneur de Villardin (15 août 1544), puis à Jean de Valeyres (31 octobre 1569) et enfin à Jaques Berney en 1600. Les pierres taillées provenant des démolitions représentent un matériau de choix pour bâtir, et on ne se gêne pas pour l'utiliser. Berne d'ailleurs ne semble pas s'y opposer, car elle voit ainsi le moyen de faire disparaître les vestiges du culte catholique. Aujourd'hui il ne subsiste du couvent que le clocher gothique de l'église et une arcade du cloître du XVIe s., reconstruite en 1971. Le 7 octobre 1571, la rive droite des lacs, autrefois nommée « Combe-de-L'Abbaye », obtient sa séparat",
+   "Culture et patrimoine": " Site d'un ancien couvent de Prémontrés fondé en 1126 dont il ne subsiste que le clocher gothique de l'église ainsi qu'un ; Au lieu-dit Les Bioux, église réformée en bois érigée en 1698. ; Claude Berney (1913-1998), horloger, écrivain et homme politique."
+  },
+  "voisins": [
+   {
+    "nom": "Vallorbe",
+    "slug": "arboriste-vallorbe"
+   },
+   {
+    "nom": "Vaulion",
+    "slug": null
+   },
+   {
+    "nom": "Mont-la-Ville",
+    "slug": null
+   },
+   {
+    "nom": "L'Isle",
+    "slug": null
+   },
+   {
+    "nom": "Montricher",
+    "slug": null
+   },
+   {
+    "nom": "Le Chenit",
+    "slug": "arboriste-le-chenit"
+   },
+   {
+    "nom": "Le Lieu",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-lausanne",
+  "nom": "Lausanne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lausanne",
+  "population": 145596,
+  "tier": 2,
+  "npa": "1000—1007  1010—1012  1014—1015  1017—1018",
+  "altitude": "495 mMin. 372 mMax. 935 m",
+  "superficie": "41,38 km2",
+  "densite": "3 519 hab./km2",
+  "gentile": "Lausannois, Lausannoise",
+  "langue": "Français",
+  "localites": "Quartiers de Lausanne",
+  "population_detail": "145 596 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lausanne",
+  "intro": "Pour le bateau à vapeur du même nom, voir Lausanne (bateau à vapeur). Lausanne (/lɔ.zan/) est une ville suisse située sur la rive nord du Léman. Capitale du canton de Vaud, elle est également capitale olympique et chef-lieu du district de Lausanne. Elle est la quatrième ville du pays en nombre d'habitants après Zurich, Genève et Bâle. La commune de Lausanne compte 145 596 habitants au 31 décembre 2025, et l'agglomération lausannoise compte 438 438 habitants au 31 décembre 2021. En 2012, elle concentre 50 % de la population et 60 % des emplois du canton de Vaud. La ville de Lausanne dispose dans le district de l'Ouest lausannois d'un campus regroupant l'Université de Lausanne (UNIL) et l'École polytechnique fédérale de Lausanne (EPFL), qui compte quelque 26 000 étudiants,. L'agglomération héberge également des hautes écoles comme l'École hôtelière de Lausanne (EHL), l'École cantonale d'art de Lausanne (ECAL) et l'International Institute for Management Development (IMD). Lausanne se distingue par le grand nombre d'institutions internationales liées au sport qu'elle accueille. Dans la ville se trouve depuis 1915 le siège du Comité international olympique (CIO), et d'une cinquantaine de fédérations et organisations sportives internationales et nationales dont la Fédération internationale de gymnastique (FIG) ainsi que le Tribunal arbitral du sport (TAS), le bureau européen de l'Agence mondiale antidopage (AMA) et la Maison du sport international (MSI). La ville porte le titre officiel de « Capitale olympique » depuis 1993 et a organisé les Jeux olympiques d'hiver de la jeunesse en 2020. Le Tribunal fédéral (TF), l'autorité judiciaire suprême de la Confédération suisse, est établi à Lausanne.",
+  "sections": {
+   "Toponymie": "« Lausanne » (/lɔ.zan/) viendrait du celtique « lausa » (signifiant dalle, pierre plate) et du suffixe celtique « -onna », qui servait souvent à former des noms de cours d'eau. « Lausonna » a probablement désigné l'actuel Flon ou une partie de ce cours d'eau avant de s'appliquer au vicus celtique, puis romain de « Lousonna »,. Une autre explication est avancée par Georges Richard Wipf, pour qui le radical Laus- (Lous- vers l'an 100) désignerait le dieu celtique Lug, via une mutation du -g en -s que l'on retrouve dans d'autres toponymes. Associé au suffixe hydronymique celtique -onna ou peut-être au pré-celtique *an- (radical lié à l'eau), Lausanne désignerait donc l'Eau de Lug. Premières mentions : Lousonnensium (100-200) ; Leusoae (vers 200) ; Lacu Lausonio (vers 280) ; Lacus Losanenses (vers 350) ; civitas Lausanna (vers 400) ; in pago Lausonensi (866) ; actum Lausanne castro (890) ; Losanna (990). Le nom de la ville en arpitan (ou francoprovençal) est Lôsena. L'ancien nom allemand est Losannen.",
+   "Histoire": "Selon le Dictionnaire historique de la Suisse, l’actuelle commune de Lausanne est habitée dès 6000 avant J.-C. Un vicus gallo-romain nommé Lousonna est fondé à partir de 15 av. J.-C. au bord du lac, dans le secteur actuel du quartier de Vidy. À la croisée de nombreuses voies de communication, celui-ci s'étend jusqu'au milieu du IIIe siècle, puis il commence à décliner lors des invasions germaniques ; il est finalement abandonné au milieu du IVe siècle au profit de la colline de la Cité, qui peut être défendue grâce à ses escarpements. Lausanne est une des étapes de la via Francigena, chemin de pèlerinage menant à Rome. Elle est mentionnée à ce titre par Sigéric, en 990, avec la mention LIV Losanna (numéro d'étape en partant de Rome). De 1032 à 1536, l'évêque et le chapitre de Lausanne, autour de la cathédrale Notre-Dame, dominent un petit État ecclésiastique qui s'étend de la Veveyse à la Venoge, comprenant notamment le vignoble de Lavaux. En 1275, la cathédrale de Lausanne est consacrée à la Vierge Marie par le pape Grégoire X et l'empereur Rodolphe du Saint-Empire. La cathédrale est la première de style gothique à avoir été bâtie hors du territoire français. La ville devient alors un haut lieu de pèlerinage marial, attirant chaque année plus de 70 000 pèlerins, près de dix fois la population communale de l'époque. La cité vaudoise vit alors son apogée démographique et politiq",
+   "Culture et patrimoine": "Lieux catholiques et Vieux-catholiques du XXe siècle Les établissements scolaires publiques du cycle primaire et secondaire de la ville de Lausanne accueillent quelque 13 000 élèves. Les établissements privés en accueillent environ 750. La scolarité est régie par le système du canton de Vaud. L'école obligatoire comprend 11 années d'enseignement pour chaque enfant dès l'âge de 4 ans révolu au 31 juillet. Lausanne est considérée comme l'une des villes les plus vertes d'Europe,. Elle compte de nombreux parcs, dont notamment : Lausanne possède dix piscines, six en plein air et quatre couvertes. Parmi les piscines en plein air, deux grandes sont payantes : Bains de Bellerive au bord du lac Léman, et la piscine à vagues de Montchoisi, qui se transforme en patinoire en hiver, et quatre petites de quartier non payantes : Bellevaux, Boisy, Montétan, Vieux Moulin. Les piscines couvertes sont payantes, mais seule la piscine de Mon-Repos est accessible à tous les publics, et trois petites sont réservées aux sociétés : Les Bergières, Grand-Vennes, Vallée de la Jeunesse. La ville compte 310 fontaines. Elles ont fait l’objet d’un recensement en 2013, et un livre fut dédié à ces points d'eau, intitulé Le Guide des fontaines de Lausanne et environs, paru en 2016. La plus emblématique d'entre elles, étant la fontaine de la justice, située sur la place de la Palud. Lausanne compte 22 musées, don"
+  },
+  "voisins": [
+   {
+    "nom": "Bottens",
+    "slug": null
+   },
+   {
+    "nom": "Froideville",
+    "slug": "arboriste-froideville"
+   },
+   {
+    "nom": "Montpreveyres",
+    "slug": null
+   },
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   },
+   {
+    "nom": "Pully",
+    "slug": "arboriste-pully"
+   },
+   {
+    "nom": "Saint-Sulpice",
+    "slug": "arboriste-saint-sulpice"
+   },
+   {
+    "nom": "Chavannes-près-Renens",
+    "slug": "arboriste-chavannes-pres-renens"
+   },
+   {
+    "nom": "Renens",
+    "slug": "arboriste-renens"
+   },
+   {
+    "nom": "Prilly",
+    "slug": "arboriste-prilly"
+   },
+   {
+    "nom": "Romanel-sur-Lausanne",
+    "slug": "arboriste-romanel-sur-lausanne"
+   },
+   {
+    "nom": "Le Mont-sur-Lausanne",
+    "slug": "arboriste-le-mont-sur-lausanne"
+   },
+   {
+    "nom": "Épalinges",
+    "slug": "arboriste-epalinges"
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens"
+   },
+   {
+    "nom": "Cugy",
+    "slug": "arboriste-cugy-vd"
+   },
+   {
+    "nom": "Bretigny-sur-Morrens",
+    "slug": null
+   },
+   {
+    "nom": "Cheseaux-sur-Lausanne",
+    "slug": "arboriste-cheseaux-sur-lausanne"
+   },
+   {
+    "nom": "Morrens",
+    "slug": null
+   },
+   {
+    "nom": "Jouxtens-Mézery",
+    "slug": null
+   },
+   {
+    "nom": "Crissier",
+    "slug": "arboriste-crissier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-epalinges",
+  "nom": "Épalinges",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lausanne",
+  "population": 9860,
+  "tier": 2,
+  "npa": "1066",
+  "altitude": "804 m",
+  "superficie": "4,57 km2",
+  "densite": "2 158 hab./km2",
+  "gentile": "Palinzard",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "9 860 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Épalinges",
+  "intro": "Épalinges (/e.pa.lɛ̃ʒ/ Écoutezⓘ) est une commune suisse du canton de Vaud, située dans le district de Lausanne. Elle fait partie du nord de l’agglomération lausannoise.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce , dérive d'un surnom de personne latin, Hispanius ou Spanius, avec le suffixe latin -anicu. Sa première occurrence écrite date de 1182, sous la forme de Spanengis. La commune se nomme Palindzou en patois vaudois",
+   "Histoire": "Épalinges s'est créée, vraisemblablement au début du dernier millénaire, par des défrichements successifs sur la forêt du Jorat. La première trace écrite d’Épalinges remonte au XIIIe siècle. L'une des particularités de la ville est d'être presque entièrement enclavée dans la commune de Lausanne. La question du rattachement de la commune à Lausanne a d’ailleurs été un sujet de discussions, notamment au cours des années 1940. Après plusieurs débats au sein du Conseil, la question est définitivement tranchée le 15 mars 1945 par un refus massif.",
+   "Culture et patrimoine": " L’église des Croisettes, inaugurée le 13 novembre 1662, a été construite sur les plans de l'architecte David Edelstein, ; Dès 1976, Épalinges a accueilli l’Institut suisse de recherche expérimentale sur le cancer (ISREC), une fondation privée ; Épalinges accueille le Département de biochimie de l'Université de Lausanne (UNIL), une partie du Centre Ludwig de l ; Raymond Burki, dessinateur humoristique né le 2 septembre 1949 à Épalinges. ; Jean-Louis David, coiffeur et entrepreneur français, y a vécu de 2002 à 2019. ; Ingvar Kamprad, fondateur d'Ikea, y a vécu de 1976 à 2014. ; Henri Rieben, professeur honoraire de l'UNIL et président de la Fondation Jean Monnet, né le 23 mars 1921 à Épalinges, i ; Georges Simenon, écrivain belge, y a vécu de 1964 à 1972."
+  },
+  "voisins": [
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Le Mont-sur-Lausanne",
+    "slug": "arboriste-le-mont-sur-lausanne"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-le-mont-sur-lausanne",
+  "nom": "Le Mont-sur-Lausanne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lausanne",
+  "population": 9790,
+  "tier": 2,
+  "npa": "1052",
+  "altitude": "700 m",
+  "superficie": "9,82 km2",
+  "densite": "997 hab./km2",
+  "gentile": "Montain",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "9 790 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Mont-sur-Lausanne",
+  "intro": "Le Mont-sur-Lausanne (/lə mɔ̃.syʁ.lɔ.zan/ Écouterⓘ) est une ville et commune du canton de Vaud située dans le district de Lausanne, sur les pentes méridionales du Jorat. La commune est divisée en trois parties : le Petit Mont, le Grand Mont et les Planches. Quatre communes entourent le Mont-sur-Lausanne : la commune de Cugy (au nord), la commune d'Épalinges (à l'est), la commune de Romanel-sur-Lausanne (à l'ouest) et la commune de Lausanne (au sud).",
+  "sections": {
+   "Toponymie": "Le Mont-sur-Lausanne est mentionné une première fois en 1237 en tant que Monte super Lausannam. La présence d'un article dans le nom du lieu, en Suisse romande, signifie généralement que la localité s'est constitué après le Xe siècle.",
+   "Histoire": "Au Moyen Âge, Le Mont, divisé en plusieurs fiefs, dépendait de l'évêché de Lausanne, ses hommes étant astreints au service militaire sous la bannière de la Cité de Lausanne. Dès le XVe siècle, il existe au Mont un fief appartenant aux donzels de Mont, qui ont laissé peu de traces dans les archives. Ce fief est ensuite détenu par la famille de Cojonay, puis par les d'Arnay, en faveur desquels on reconnaît un fief noble en 1571. Leur succèdent en 1586 les Bergier, qui détiennent cette seigneurie jusqu'à la Révolution vaudoise en 1798. Au XVIIIe siècle, un grand gouverneur, un maréchal et trois petits gouverneurs (un par hameau) administraient la commune. Très longtemps, les habitants du Mont se sont consacrés essentiellement à l'agriculture. Le village comptait environ 1 000 habitants vers 1850 et 1900, puis croît par urbanisation progressive et gagne en population : 1 383 habitants en 1950, 2 692 en 1970, 5 182 en 2000. La commune devient donc zone résidentielle et industrielle et développe les quartiers de villas du Petit-Mont, des Planches et de la Perrause, ainsi que les zones industrielles du Rionzi, de Budron et de la Clochatte. En 2024, à la suite de sa croissance démographique, la commune devient officiellement une ville d'après la définition de l'Office fédéral de la statistique.",
+   "Culture et patrimoine": "Il existe un club de football, le Football Club Le Mont-sur-Lausanne depuis 1942."
+  },
+  "voisins": [
+   {
+    "nom": "Cugy",
+    "slug": "arboriste-cugy-vd"
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Épalinges",
+    "slug": "arboriste-epalinges"
+   },
+   {
+    "nom": "Romanel-sur-Lausanne",
+    "slug": "arboriste-romanel-sur-lausanne"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cheseaux-sur-lausanne",
+  "nom": "Cheseaux-sur-Lausanne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lausanne",
+  "population": 4861,
+  "tier": 2,
+  "npa": "1033",
+  "altitude": "603 m",
+  "superficie": "4,59 km2",
+  "densite": "1 059 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "4 861 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": null,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cheseaux-sur-Lausanne",
+  "intro": "Cet article ne cite pas suffisamment ses sources (février 2022). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Cheseaux-sur-Lausanne est une commune suisse du canton de Vaud, située dans le district de Lausanne à 8 km de Lausanne, 20 km d'Yverdon et 65 km de Genève.",
+  "sections": {
+   "Histoire": "Depuis le Ier siècle av. J.-C., Cheseaux a une situation géographique très avantageuse, située non loin de l'axe Nord-Sud utilisé pour transporter les marchandises depuis des villes d'Italie jusqu'à des villes du nord de l'Allemagne et de la Hanse. On a retrouvé les vestiges d'une villa sur la colline de Morrens. Au XIIe siècle, Cheseaux est sous le contrôle d'un seigneur local dont on a retrouvé les vestiges du château au pied de la colline de Morrens, non loin du Bouzenet. Au XIIIe siècle, les seigneurs changeront de résidence et s'installeront plus au centre du village en bâtissant un nouveau château (nommé actuellement « ancien château » par les habitants de Cheseaux). Au XVIe siècle, un nouveau château sera reconstruit sous la dynastie des De Loys, qui fut la dernière famille seigneuriale qui régna sur Cheseaux. Parmi eux, Jean Philippe de Chéseaux, passionné d'astronomie qui découvrira une nouvelle comète à laquelle le village de Cheseaux donnera son nom."
+  },
+  "voisins": [
+   {
+    "nom": "Sullens",
+    "slug": null
+   },
+   {
+    "nom": "Boussens",
+    "slug": null
+   },
+   {
+    "nom": "Étagnières",
+    "slug": null
+   },
+   {
+    "nom": "Morrens",
+    "slug": null
+   },
+   {
+    "nom": "Romanel-sur-Lausanne",
+    "slug": "arboriste-romanel-sur-lausanne"
+   },
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Crissier",
+    "slug": "arboriste-crissier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-romanel-sur-lausanne",
+  "nom": "Romanel-sur-Lausanne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lausanne",
+  "population": 4320,
+  "tier": 2,
+  "npa": "1032",
+  "altitude": "590 m",
+  "superficie": "2,88 km2",
+  "densite": "1 500 hab./km2",
+  "gentile": "Romanellois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "4 320 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 100,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Romanel-sur-Lausanne",
+  "intro": "Romanel-sur-Lausanne est une commune suisse du canton de Vaud, située dans le district de Lausanne. Elle est située entre Cheseaux, et Lausanne.",
+  "sections": {
+   "Toponymie": "Romanel est formé avec le nom de personne latin Romanus (que l'on trouve également en allemand sous la forme Ruman et qui a donné par exemple Romanshorn) et du suffixe diminutif -ellu, ou -ella. La forme composée Romanel-sur-Lausanne est une forme tardive qui sert à distinguer cette commune de Romanel-sur-Morges. Premières mentions : 1182, Romanel. — 1184, apud Romanes. — avant 1185, Romaneaus. — 1220, Petrus de Romanel.",
+   "Culture et patrimoine": "Une chapelle est attestée en 1373, sans doute dédiée à saint Vincent et alors dépendante de l'église de Saint-Laurent à Lausanne. L'édifice est reconstruit en 1717-1718 sur les plans de l'architecte lausannois Guillaume Delagrange. Le temple devient une annexe de Cheseaux-sur-Lausanne en 1837, de Prilly en 1846, puis à nouveau de Cheseaux en 1849. Le bâtiment reçoit une nouvelle façade en 1866, est restauré à l'intérieur en 1929, et à l'extérieur en 1952 et 1972. De gueules à la fontaine d'argent, au chef du même. Ces armoiries ont été adoptées en 1930. Les émaux rappellent que ce territoire relevait autrefois de la seigneurie de Lausanne. La fontaine héraldique évoque les sources alcalines de Romanel, connues déjà anciennement, puis oubliées mais retrouvées en 1879 à proximité du village, et alors baptisées « Source Providence »."
+  },
+  "voisins": [
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Le Mont-sur-Lausanne",
+    "slug": "arboriste-le-mont-sur-lausanne"
+   },
+   {
+    "nom": "Prilly",
+    "slug": "arboriste-prilly"
+   },
+   {
+    "nom": "Jouxtens-Mézery",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-pully",
+  "nom": "Pully",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 19536,
+  "tier": 2,
+  "npa": "1009 Pully  1068 Les Monts-de-Pully",
+  "altitude": "Min. 375 mMax. 800[1] m",
+  "superficie": "5,85 km2",
+  "densite": "3 339 hab./km2",
+  "gentile": "Pulliéran",
+  "langue": "Français",
+  "localites": "Les Monts-de-Pully, Trois Chasseurs",
+  "population_detail": "19 536 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Pully",
+  "intro": "Pour les autres significations, voir Pully (homonymie). Pully ( Écoutezⓘ ou ) est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron.",
+  "sections": {
+   "Histoire": "Plus tard, ce sont les Romains qui marqueront leur passage, en particulier un dénommé Pollius qui aurait donné son patronyme à Pully. Les vestiges d'une villa romaine censée lui avoir appartenu sont encore visibles, et constituent la principale attraction du musée romain de Pully. En 1886, Pully se dote d'un bureau de télégraphe, et la première télégraphiste nommée à ce poste fut Mme Charlotte Müller. Le 3 mai 1902, pour la première fois, le village de Pully a été éclairé à l'électricité. L'effet a été satisfaisant, chacun a pu se convaincre de l'immense supériorité de cet éclairage par rapport aux lampes à pétrole,. La Maison Pulliérane a fini d'être construite en novembre 1952, et a été inaugurée le 24 octobre 1953. Elle est l'œuvre notamment des architectes Robert Stoll et Robert Oguey, et de l'ingénieur Auguste Birschmeiler. Elle fut construite à l'emplacement de l'ancienne Grande Salle utilisée de 1902 à 1951 et qui appartenait au départ au Chœur d'homme et à l'Orchestre avant que la commune en devienne propriétaire en 1918,. Pour éviter que la masse imposante de la Maison Pulliérane ne compromette les lignes harmonieuses de l'historique Prieuré par du béton armé, il a été décidé, pour sa construction, d'utiliser notamment de la molasse ainsi que de la pierre de la Molière. La molasse fut extraite des carrières d'Ostermundigen, et la pierre de la Molière à Estavayer-le-Lac"
+  },
+  "voisins": [
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne"
+   },
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   },
+   {
+    "nom": "Belmont-sur-Lausanne",
+    "slug": "arboriste-belmont-sur-lausanne"
+   },
+   {
+    "nom": "Paudex",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-lutry",
+  "nom": "Lutry",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 10831,
+  "tier": 2,
+  "npa": "1090 La Croix (Lutry)  1093 La Conversion  1095 Lutry",
+  "altitude": "Min. 373 mMax. 835 m",
+  "superficie": "8,45 km2",
+  "densite": "1 282 hab./km2",
+  "gentile": "Lutryen ou Lutrien",
+  "langue": "Français",
+  "localites": "Châtelard-Lutry, Corsy, La Conversion, La Croix, Les Echerins, Savuit, Bossières",
+  "population_detail": "10 831 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lutry",
+  "intro": "Lutry est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron, elle fait partie de l'agglomération de la ville de Lausanne.",
+  "sections": {
+   "Histoire": "Les premiers habitants ont occupé les terres de Lutry au Néolithique (de 4500 à 4000 av. J.-C.). Actuellement, on peut y apercevoir certains vestiges que ces derniers avaient dressé, dont un alignement de 24 menhirs, dont 18 sont encore debout. Ils ont été découverts le long de la Lutrive en 1984 lors de la construction d'un parking. À l'époque de la Rome antique, un camp romain était établi ainsi qu'un village de pêcheurs nommé Lustriacum. Au XIe siècle, des Bénédictins se sont installés à Lutry où ils ont érigé un couvent qui est à l'origine du Temple de Lutry, toujours présent. Plus tard, au XIIIe siècle, un mur d'enceinte et deux tours (une détruite en 1708 et la tour du Bourg-Neuf qui est toujours présente) sont érigés. Avec cela, le village se développe. Ce mur d'enceinte n'empêchera pas le développement de certains quartiers (hors mur) comme celui du Bourg-Neuf, Friporte ou le Voisinand. En 1536, en pleine Réforme, le prieuré et le cloître sont détruits. Le château est également transformé vers sa forme actuelle. En 1824, les deux villages de Lutry et Savigny se séparent pour former désormais deux communes différentes. En 1854, le château de Lutry est donné à la ville par son propriétaire, Juste Charles Antoine de Crousaz. En 1948 est aménagée la plage de Curtinaux au bord du Léman avec la construction de deux vestiaires. Suivra en 1956, un plongeoir de trois mètres avec"
+  },
+  "voisins": [
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   },
+   {
+    "nom": "Bourg-en-Lavaux",
+    "slug": "arboriste-bourg-en-lavaux"
+   },
+   {
+    "nom": "Paudex",
+    "slug": null
+   },
+   {
+    "nom": "Belmont-sur-Lausanne",
+    "slug": "arboriste-belmont-sur-lausanne"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-oron",
+  "nom": "Oron",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lavaux-Oron",
+  "population": 6447,
+  "tier": 2,
+  "npa": "1078 Essertes  1607 Palézieux, Les Tavernes, Les Thioleyres  1608 Bussigny-sur-Oron, Chesalles-sur-Oron, Oron-le-Châtel  1610 Châtillens, Oron-la-Ville, Vuibroye  1612 Écoteaux",
+  "altitude": "633 m",
+  "superficie": "26,28 km2",
+  "densite": "245 hab./km2",
+  "gentile": "Oronais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "6 447 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 95,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Oron_(Vaud)",
+  "intro": "Oron est une commune suisse du canton de Vaud, située dans le district de Lavaux-Oron. Elle est formée le 1er janvier 2012, à la suite de la fusion de dix de ses localités : Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux et Vuibroye et d'une onzième le 1er janvier 2022 : Essertes.",
+  "sections": {
+   "Toponymie": "On trouve une première mention de Uromago vers 280. Sur des cartes militaire de l'Empire romain du IVe siècle, Oron-la-Ville est mentionnée Viromagus ou Uromagus (le marché aux bœufs). En 1018, elle est inscrite comme Auronum et Oron-le-Châtel en 1137 comme Oruns.",
+   "Histoire": "Dès septembre 2006, l'idée d'une fusion entre les 11 communes de Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Écoteaux, Les Tavernes, Les Thioleyres, Maracon, Oron-la-Ville, Oron-le-Châtel, Palézieux et Vuibroye est lancée. Entre 2007 et 2008, une enquête est menée auprès des habitants qui se révèlent favorables au projet. Les différents Conseils généraux et communaux accordent des crédits d'étude pour le projet et un comité de pilotage est créé. L'étude stratégique et opérationnelle se déroule de novembre 2008 à mai 2010. Cependant, en mai 2010, le Conseil général de Maracon décide, par 60% des voix, de se retirer de la fusion. La convention de fusion est adoptée le 28 juin 2010 par les législatifs des dix communes restantes. Le 28 novembre 2010, la population accepte par 78 % de votes favorables la fusion de leurs communes afin de créer au 1er janvier 2012 la commune d'Oron. Le 29 janvier 2019, le Conseil général de la commune d’Essertes a accepté le principe d’engager des pourparlers en vue d’une fusion avec la commune d’Oron. Les deux municipalités travaillent dès lors sur un projet de convention de fusion. Le 28 septembre 2020, la convention est acceptée par le Conseil communal d'Oron et le Conseil général d'Essertes. L'objet est soumis au vote de la population des deux communes le 29 novembre 2020 qui l'acceptent à près de 88 % des voix. La fusion est mise en œuvre ",
+   "Culture et patrimoine": "Sont inscrits dans la commune comme biens culturels suisses d'importance nationale : Une partie du village d'Oron-le-Châtel est inscrite à l'Inventaire fédéral des sites construits à protéger en Suisse. Comptoir Région Oron, une année sur deux ; ; Foire aux oignons, le deuxième week-end d'octobre ; ; L'Amérique à Oron, festival de littérature américaine. ; Prologue du Tour de Romandie 2020, reporté en 2021 en raison de la pandémie de maladie à coronarivus. Il fut remporté pa ; Château d'Oron. ; Cinéma d'Oron. ; Henri Guisan, général commandant en chef de l'Armée suisse lors de la Seconde Guerre mondiale, a habité et exploité un d ; Famille d'Oron qui ont construit le château et ont régné sur la seigneurie d'Oron de env. 1215 à 1388 : Rodolphe Ier d'O ; Rodolphe II d'Oron ; ; Rodolphe III d'Oron ; ; Girard III d'Oron ; ; François Ier d'Oron."
+  },
+  "voisins": []
+ }
+]

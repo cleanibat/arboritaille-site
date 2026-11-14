@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Chiètres (FR) : taille et abattage | Arboritaille",
+ "desc": "Arboriste-grimpeur à Chiètres (Kerzers, FR) : taille, abattage et plantation d'arbres. Réponses écrites en allemand. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Chiètres / Kerzers · Lac",
+ "h1": "Arboriste-grimpeur à <em>Chiètres</em> : taille, abattage et soins aux arbres",
+ "lead": "Chiètres, Kerzers en allemand, est une commune germanophone du district du Lac, à une cinquantaine de kilomètres de Courgenay. Nous y taillons, abattons et plantons vos arbres, avec devis écrit en allemand sur demande.",
+ "points": ["Visite et devis gratuits", "Devis et rapport en allemand possibles", "Accès direct par l'autoroute A1", "Taille raisonnée, jamais d'étêtage"],
+ "intro_eyebrow": "Vos arbres à Chiètres",
+ "intro_h2": "Un bourg germanophone à la croisée des voies",
+ "intro": "<p>Chiètres compte 5 546 habitants sur 12 km², soit 453 habitants au kilomètre carré. À cette densité, les parcelles sont en général mesurées et les arbres vivent près des maisons et des voisins.</p><p>Le nom vient du latin carceres, la clôture. Le village a brûlé deux fois, en 1339 et en 1476 lors du siège de Morat. Il est aujourd'hui desservi par les lignes Palézieux–Lyss et Berne–Neuchâtel, et par la sortie 30 de l'A1.</p><p>Entre 484 et 587 m d'altitude, la saison de végétation est longue. Les arbres de jardin grandissent vite : une taille de formation puis d'entretien, tous les trois à cinq ans, évite l'abattage prématuré.</p><p>La commune est germanophone. Nous répondons par écrit en allemand : devis, rapport, courriels. Sur place, nous montrons directement sur l'arbre ce que nous proposons.</p>",
+ "faits": [["Habitants", "5 546 (2025)"], ["Altitude", "511 m"], ["NPA", "3210"], ["Depuis Courgenay", "env. 50 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Chiètres.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de la commune de Chiètres avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Parcelles serrées", "texte": "À 453 habitants au kilomètre carré, l'arbre d'un jardin touche souvent la parcelle d'à côté. Nous dégageons les limites proprement et conseillons sur les distances à respecter lors d'une replantation."},
+  {"icone": "USERS", "titre": "Échanges en allemand", "texte": "Pour les propriétaires germanophones, devis, rapport et courriels peuvent être rédigés en allemand. La visite se déroule en français, avec explication directe sur l'arbre."},
+  {"icone": "SPROUT", "titre": "Planter à basse altitude", "texte": "Autour de 500 m d'altitude, la saison de végétation est longue et un arbre pousse vite. Nous proposons des essences qui resteront proportionnées à la parcelle et nous les plantons avec tuteurage tripode."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de formation, d'entretien et de dégagement des arbres de jardin à Chiètres, en limite de parcelle comme près des façades.",
+  "abattage-demontage": "Démontage par sections entre les maisons, abattage direct quand la place le permet. Bois débité ou évacué.",
+  "plantation-arbres": "Essences à développement modéré pour les parcelles de bourg, plantées et tuteurées.",
+  "rognage-souche": "Souche rognée sous le niveau du sol pour libérer la place dans un petit jardin."
+ },
+ "faq": [
+  {"q": "Répondez-vous en allemand pour un devis à Chiètres ?", "a": "Oui, par écrit. Le devis, le rapport et les courriels peuvent être rédigés en allemand. La visite sur place est gratuite et se fait en français, en montrant les coupes prévues sur l'arbre."},
+  {"q": "Comment venez-vous à Chiètres depuis Courgenay ?", "a": "Chiètres est à une cinquantaine de kilomètres de Courgenay à vol d'oiseau. L'autoroute A1 facilite l'accès. Le déplacement pour la visite et le devis est gratuit, sans engagement de votre part."},
+  {"q": "Mon arbre déborde chez le voisin : que faire ?", "a": "Une taille de dégagement en limite de propriété règle la plupart des cas. Nous coupons au bon endroit pour que l'arbre reste équilibré et cicatrise. Si l'arbre est protégé par le règlement communal, nous vérifions d'abord."},
+  {"q": "Faut-il une autorisation communale pour abattre à Chiètres ?", "a": "En zone à bâtir, c'est le règlement communal d'urbanisme qui désigne les arbres protégés. Hors zone à bâtir, la loi fribourgeoise protège les boisements d'intérêt écologique ou paysager. Nous nous renseignons auprès de la commune avant d'intervenir."},
+  {"q": "Que coûte un abattage d'arbre ?", "a": "Le prix dépend de la hauteur, de l'accès, de la présence de bâtiments et du traitement du bois. Nous ne chiffrons qu'après la visite gratuite. Le devis détaille chaque poste, rognage de souche compris si vous le souhaitez."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Chiètres ?",
+ "cta_lead": "Visite et devis gratuits. Réponse écrite en allemand possible."
+}

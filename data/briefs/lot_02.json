@@ -1,0 +1,774 @@
+[
+ {
+  "slug": "arboriste-schwadernau",
+  "nom": "Schwadernau",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 697,
+  "tier": 1,
+  "npa": "2556",
+  "altitude": "437 m",
+  "superficie": "4,14 km2",
+  "densite": "168 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "697 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Schwadernau",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Schwadernau est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Studen",
+    "slug": null
+   },
+   {
+    "nom": "Aegerten",
+    "slug": "arboriste-aegerten"
+   },
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg"
+   },
+   {
+    "nom": "Orpund",
+    "slug": null
+   },
+   {
+    "nom": "Scheuren",
+    "slug": "arboriste-scheuren"
+   },
+   {
+    "nom": "Meienried",
+    "slug": null
+   },
+   {
+    "nom": "Dotzigen",
+    "slug": null
+   },
+   {
+    "nom": "Büetigen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-scheuren",
+  "nom": "Scheuren",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 538,
+  "tier": 1,
+  "npa": "2556",
+  "altitude": "430 m",
+  "superficie": "2,1 km2",
+  "densite": "256 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "538 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Scheuren",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Scheuren est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Schwadernau",
+    "slug": "arboriste-schwadernau"
+   },
+   {
+    "nom": "Orpond",
+    "slug": "arboriste-orpond"
+   },
+   {
+    "nom": "Safnern",
+    "slug": "arboriste-safnern"
+   },
+   {
+    "nom": "Meienried",
+    "slug": null
+   },
+   {
+    "nom": "Dotzigen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-gleresse",
+  "nom": "Gléresse",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 508,
+  "tier": 1,
+  "npa": "2514",
+  "altitude": "433 m",
+  "superficie": "1,8 km2",
+  "densite": "282 hab./km2",
+  "gentile": "Gléressois",
+  "langue": "allemand",
+  "localites": "Schernelz, Bipschal",
+  "population_detail": "508 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Gléresse",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Gléresse, appelée Ligerz en allemand, est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne, au bord du lac de Bienne.",
+  "sections": {
+   "Culture et patrimoine": "Le village de Gléresse est caractéristique et bien préservé. Les façades des maisons sont groupées le long d'une rue et structurées par des portes voûtées et des séries de fenêtres. Musée de la vigne du lac de Bienne, abrité dans le bâtiment dit Hof. Cette ancienne résidence seigneuriale de style goth ; Le château de Gléresse. ; Dans les vignes au-dessus du village, l'église réformée Saint-Imier et Saint-Théodule est une construction en gothique t",
+   "Transports": "La commune compte un funiculaire reliant Gléresse à Prêles à travers les vignes de la région. Trois arrêts sont assurés dans le village de Gléresse. La commune se trouve également sur la ligne ferroviaire reliant Bienne à Neuchâtel ainsi que sur le tracé de la semi-autoroute A5."
+  },
+  "voisins": [
+   {
+    "nom": "Douanne-Daucher",
+    "slug": "arboriste-douanne-daucher"
+   },
+   {
+    "nom": "La Neuveville",
+    "slug": "arboriste-la-neuveville"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saint-imier",
+  "nom": "Saint-Imier",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 5144,
+  "tier": 1,
+  "npa": "2610 St-Imier, Les Pontins, Mont-Soleil",
+  "altitude": "820 m",
+  "superficie": "20,89 km2",
+  "densite": "246 hab./km2",
+  "gentile": "Imériens",
+  "langue": "Français",
+  "localites": "Les Pontins, Mont-Soleil, Le Cerneux-Veusil",
+  "population_detail": "5 144 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saint-Imier",
+  "intro": "Pour la commune française, voir Saint-Ismier. Saint-Imier (/sɛ̃timje/) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. La commune est notable pour avoir accueilli le Congrès de Saint-Imier, largement considéré comme l'acte de naissance du mouvement anarchiste. Depuis lors, la ville revêt une importance particulière pour les anarchistes, servant de lieu à de nombreuses commémorations et rencontres internationales, telles que Anarchy 2023. L'Observatoire astronomique de Mont-Soleil est situé sur les hauteurs du village",
+  "sections": {
+   "Histoire": "La première mention de Saint-Imier remonte à 884, sur une charte de l'Empereur Charles III le Gros qui confirme à l'abbaye de Moutier-Grandval certaines donations dont la cella Sancti Hymeri. La cité fut fondée par l'ermite Imier, originaire de Lugnez (Ajoie) et probablement mort vers 610, qui y fit édifier un oratoire dédié à saint Martin de Tours. L'oratoire a dû faire place à une chapelle en l'an 992, puis à une église en 1146. En 1228, le cartulaire de l'Évêché de Lausanne, dont dépendait la paroisse de Saint-Imier, mentionne deux églises à Saint-Imier : l'église paroissiale de Saint-Martin et la collégiale, imposant édifice considéré comme église de pèlerinage jusqu'à la Réforme. Entre 1793 et 1814, Saint-Imier est rattaché à la France (ancien département français du Mont-Terrible de 1793 à 1800, intégré ensuite au département du Haut-Rhin). En 1814, le département du Haut-Rhin perd les territoires qui avaient fait partie du Mont-Terrible, cédés à la Suisse, à l’exception de l'ancienne principauté de Montbéliard. En 1850-51, l’affaire Basswitz agite Saint-Imier et les villages alentour. Herrmann Basswitz, médecin d’origine prussienne et de confession juive, est apprécié de sa clientèle populaire et des libéraux de la région. Il est l’un des cofondateurs de l’hôpital de Saint-Imier. Avec le retour d’une majorité conservatrice au Conseil-exécutif du canton de Berne, des mesu",
+   "Monuments": " Ancienne collégiale, édifiée aux XIe-XIIe siècles. La partie supérieure du clocher-porche date des XIXe-XXe siècles. Res ; Tour Saint-Martin dite Tour de la Reine Berthe : au-dessous de la route cantonale, vestige d'une église paroissiale qui ; Église catholique-romaine : basilique néo-gothique de 1862-1866 : vitraux de 1942-1944 d'après des cartons d'Albin Schwe ; Église catholique-chrétienne, édifiée en 1912. Son architecture est influencée par le Jugendstil. Elle ne comprend qu'un ; Hôpital, ancien bâtiment principal construit en 1934 à l'ouest de la localité par Otto Salvisberg et Hans Brechbühler.",
+   "Transports": " Sur la ligne Bienne – La Chaux-de-Fonds (durant 17 ans, la Flèche du Jura relia les montagnes neuchâteloises au reste de ; Funiculaire Saint-Imier - Mont-Soleil. ; Départ de la ligne de bus B131, reliant la gare de St-Imier à celle de Tramelan"
+  },
+  "voisins": [
+   {
+    "nom": "Le Noirmont",
+    "slug": "arboriste-le-noirmont"
+   },
+   {
+    "nom": "Les Bois",
+    "slug": "arboriste-les-bois"
+   },
+   {
+    "nom": "Muriaux",
+    "slug": "arboriste-muriaux"
+   },
+   {
+    "nom": "Sonvilier",
+    "slug": "arboriste-sonvilier"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   },
+   {
+    "nom": "Villeret",
+    "slug": "arboriste-villeret"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-tramelan",
+  "nom": "Tramelan",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 4670,
+  "tier": 1,
+  "npa": "2720 Tramelan2722 Les Reussilles",
+  "altitude": "900 m",
+  "superficie": "24,82 km2",
+  "densite": "188 hab./km2",
+  "gentile": "Tramelot",
+  "langue": "Français",
+  "localites": "Tramelan, Le Cernil, Les Reussilles",
+  "population_detail": "4 670 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Tramelan",
+  "intro": "Tramelan est une commune suisse du canton de Berne, située dans le nord-est du massif du Jura, dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Toponymie": "L'origine du toponyme est incertaine. L'hypothèse traditionnelle qui le fait dériver de La Trame, un affluent de Birse, impliquerait une formation sémantique totalement inusuelle. Une autre hypothèse serait de le faire remonter à un nom de personne germanique de type *Tramilo, accompagné du suffixe toponymique germanique -ingōs. Le toponyme est formé vers le VIIe siècle. Sa première occurrence écrite date d'environ 1179, sous la forme de Trameleins. Son ancien nom allemand est Tramlingen (aussi : Trämlingen).",
+   "Histoire": "Une nécropole de 47 tombes, datant sans doute du haut Moyen Âge, a été découverte en 2006. La première trace écrite du village remonte à 1178. Tramelan fait partie de la seigneurie de l'Erguël jusqu'en 1797 et fait partie, à ce titre, des terres du prince-évêque de Bâle. Tramelan passe à la Réforme en 1530. De 1797 à 1815, Tramelan a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. La commune de Tramelan est issue de la fusion, en 1952, des communes de Tramelan-Dessous et de Tramelan-Dessus,.",
+   "Transports": " Chemins de fer du Jura : Ligne Le Noirmont – Tramelan – Tavannes ; Ligne de bus Tramelan – Les Genevez – Lajoux – Saulcy – Glovelier ; Ligne de bus Tramelan – Saint-Imier ; CarPostal : Ligne Tramelan – Saignelégier – Goumois"
+  },
+  "voisins": [
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Le Bémont",
+    "slug": "arboriste-le-bemont"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Les Genevez",
+    "slug": "arboriste-les-genevez"
+   },
+   {
+    "nom": "Montfaucon",
+    "slug": "arboriste-montfaucon"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier"
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-pery-la-heutte",
+  "nom": "Péry-La Heutte",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 1957,
+  "tier": 1,
+  "npa": "2603 Péry  2604 La Heutte",
+  "altitude": "635 m",
+  "superficie": "23,79 km2",
+  "densite": "82 hab./km2",
+  "gentile": "Pérysiens",
+  "langue": "Français",
+  "localites": "La Heutte, Péry, La Reuchenette, Rondchâtel",
+  "population_detail": null,
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Péry-La_Heutte",
+  "intro": "Péry-La Heutte est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La première mention de Péry est en 884 où le village s'appelle Villam Bedericam. En 1148, il s'appelait Peril, bien que son nom provienne d'un faux du XIIe siècle. La municipalité était autrefois connue sous son nom allemand Büderich, cependant, ce nom n'est plus utilisé. En 884, Charles le Gros accorde Péry à l'abbaye de Moutier-Grandval. L'abbaye était propriétaire du village et des terres environnantes jusqu'en 999, année de l'acquisition du village par le prince-évêque de Bâle. Il l'incorpora à la seigneurie d'Erguël et donna le village aux seigneurs de Péry qui régnaient depuis le château de Châtillon, aujourd'hui en ruine, situé sur une colline proche. À partir du XIVe siècle, les levées féodales de Péry faisaient partie de l'armée d'Erguël sous le commandement de Bienne. En 1530, Bienne encouragea le village à accepter la Réforme protestante. Le village de Rondchâtel était indépendant de Péry jusqu'en 1766. D'après son nom, il est probable qu'un château ait existé sur la colline, mais on en sait peu. Au milieu du XIVe siècle, le prince-évêque de Bâle, Johann II von Munsingen, accorda Rondchâtel à son frère Conrad, huissier de justice ecclésiastique de Bienne de 1340 à 1365. À partir de la fin du XIVe siècle, le fief de Rondchâtel appartenait aux familles de Nans et d'Orsans en Franche-Comté. Ils ont occupé le village jusqu'en 1766, date à laquelle le dernier héritier des"
+  },
+  "voisins": [
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Reconvilier",
+    "slug": "arboriste-reconvilier"
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   },
+   {
+    "nom": "Sauge",
+    "slug": "arboriste-sauge"
+   },
+   {
+    "nom": "Sonceboz-Sombeval",
+    "slug": "arboriste-sonceboz-sombeval"
+   },
+   {
+    "nom": "Sorvilier",
+    "slug": "arboriste-sorvilier"
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-sonceboz-sombeval",
+  "nom": "Sonceboz-Sombeval",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 1874,
+  "tier": 1,
+  "npa": "2605",
+  "altitude": "653 m",
+  "superficie": "15,01 km2",
+  "densite": "125 hab./km2",
+  "gentile": "Soncebozois",
+  "langue": "Français",
+  "localites": "Sonceboz, Sombeval",
+  "population_detail": "1 874 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Sonceboz-Sombeval",
+  "intro": "Sonceboz-Sombeval est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La commune est le fruit du regroupement de deux villages qui autrefois étaient séparés par une zone inondée (ancien marais créé par une petite météorite tombée, environ, en l'an 10503 avant J.-C.), le village de Sonceboz et celui de Sombeval. La première mention authentique de Sombeval remonte à 866, dans un document par lequel Lothaire II, roi de Lorraine, confirme à l'abbaye de Moutier-Grandval ses possessions situées en divers lieux. Sombeval y est nommé Summavallis. En 1303, le nom de Sonceboz (Suntzelbo) fait son apparition dans un document. En 1315, une reconnaissance, qui fait mention d'un moulin à Sonceboz, dit que l'église de Sombeval est dédiée à sainte Agathe. À l'époque des transports par diligences, Sonceboz-Sombeval était un relais important sur le tronçon Berne-Bâle. De 1797 à 1815, Sonceboz-Sombeval a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département français du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815.",
+   "Transports": " Carrefour ferroviaire avec les lignes CFF Bienne – La Chaux-de-Fonds et Sonceboz-Sombeval – Moutier. Durant 17 ans, la F ; Autoroute A16, sortie Sonceboz."
+  },
+  "voisins": [
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-corgemont",
+  "nom": "Corgémont",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 1801,
+  "tier": 1,
+  "npa": "2606",
+  "altitude": "663 m",
+  "superficie": "17,61 km2",
+  "densite": "102 hab./km2",
+  "gentile": "Curgismondains",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "1 801 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Corgémont",
+  "intro": "Corgémont est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "La première mention écrite du village apparaît sous le nom de Curisgimund. Par la suite, on rencontre les noms de Corjamont (1178), Cortgemund (1181), Corteimont (1228) et Coriemont (1326). Le nom se réfère probablement à « la cour d'un Gismund ou d'un Giamond ». De 1797 à 1815, Corgémont fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l'ancien évêché de Bâle fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Cortébert",
+    "slug": "arboriste-cortebert"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Sonceboz-Sombeval",
+    "slug": "arboriste-sonceboz-sombeval"
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-courtelary",
+  "nom": "Courtelary",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 1432,
+  "tier": 1,
+  "npa": "2608 Courtelary, Montagne-de-Courtelary",
+  "altitude": "695 m",
+  "superficie": "22,17 km2",
+  "densite": "65 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Courtelary",
+  "intro": "Courtelary est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. Elle abrite la Préfecture du Jura bernois.",
+  "sections": {
+   "Histoire": "La première mention écrite de Courtelary remonte à 962, avec le nom de Curtis Alerici. Par la suite apparurent d’autres toponymes : Curte Alesi (1175) et Cortaleri (1178). Le nom du lieu provient vraisemblablement de la cour d'un Bourguignon du nom d’Alaric. Courtelary appartenait alors à l’Abbaye de Moutier-Grandval, mais le chapitre de Saint-Imier possédait également des biens sur le territoire de Courtelary. Le village appartenait à l'Évêché de Bâle, mais l'influence de Bienne se fit de plus en plus sentir. En 1530, les Biennois introduisirent la réforme dans le vallon de Saint-Imier, contre la volonté des habitants. Les Biennois affermèrent le château à la ville de Soleure. En 1604, une cour de justice est installée à Courtelary. En 1606, le village devient le siège des baillis d’Erguël. Le 29 septembre 1733, une violente émeute éclate à Courtelary contre le bailli d’Erguël Benoît-Aimé Mestrezat dans le contexte des troubles opposant la population au prince-évêque de Bâle. Le bailli et son secrétaire Jean Georges Charles, craignant pour leurs vies, doivent se sauver par les fenêtres. Après que les troupes françaises eurent envahi l’évêché de Bâle en 1792, une assemblée législative du Pays d'Erguël se réunit sans succès à Courtelary dans le but de créer une république indépendante. De 1797 à 1815, Courtelary appartint à la France et fut le chef-lieu d'un canton du départemen",
+   "Transports": " Sur la ligne Bienne – La Chaux-de-Fonds ; durant 17 ans, la Flèche du Jura relie les Montagnes neuchâteloises au reste d ; Aérodrome de Courtelary"
+  },
+  "voisins": [
+   {
+    "nom": "Cormoret",
+    "slug": "arboriste-cormoret"
+   },
+   {
+    "nom": "Cortébert",
+    "slug": "arboriste-cortebert"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-orvin",
+  "nom": "Orvin",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 1284,
+  "tier": 1,
+  "npa": "2534 Orvin, Les Prés-d'Orvin",
+  "altitude": "669 m",
+  "superficie": "21,6 km2",
+  "densite": "59 hab./km2",
+  "gentile": "Orvinois",
+  "langue": "Français",
+  "localites": "Jorat, Les Prés-d'Orvin",
+  "population_detail": "1 284 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Orvin",
+  "intro": "Orvin, en allemand Ilfingen (désuet), est une commune suisse du canton de Berne située dans l'ancien district de Courtelary constitutif de l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Toponymie": "Lorsque Lothaire II de Lotharingie recense le village et la tribu dans son document à l'attention de l'abbaye de Moutier-Grandval, il nomme cette chapelle Ulvinc signifiant « chez les descendants d'Ulf » en référence au chef du village répondant au nom de « Ulf » (loup en vieil allemand), qui avait pris possession des terres lors de la migration des peuples germaniques. Le nom d'Ulvinc évolua au cours des siècles, prenant le nom d'Urvin à Orvin en français, et par Ulvingen à Ilfingen en allemand. Une autre explication trouverait ses origines via le patois : c'est la légende qui figure sur les armoiries de la commune, déjà sculptée au XVIIIe siècle sur les fonts baptismaux de l’église d'Orvin. La légende raconte qu'un chasseur se trouva nez à nez avec un ours qu'il traquait dans les roches imposantes délimitant le village au nord. Téméraire, il fit face et cria à l'ours : « Or, vin ! » qui signifie en patois : « Ours, viens ! » avant d'enfoncer son épieu dans le corps de l'animal.",
+   "Histoire": "La première mention du village remonte au 19 mars 866 dans un document signé de Lothaire II de Lotharingie réaffirmant la possession du village au sein de l'abbaye de Moutier-Grandval. De 1798 à 1815, Orvin a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Au début des années 1900, au Jorat, le fils du peintre Aurèle Robert, Léo-Paul Robert, un des peintres suisses les plus importants de sa génération, y fait construire une maison et y habitera notamment avec son fils Paul-André Robert. Léo-Paul Robert est notamment connu pour ses fresques dont l'une représente le Christ dans l'église protestante du village d'Orvin. L’église a d'ailleurs été classée monument historique en 1963, notamment en raison de sa magnifique charpente. Construite en 1722, elle a subi plusieurs rénovations en 1964, 1975 et la dernière en 1997. Un projet de fusion avec cinq autres communes avoisinantes (La Heutte, Péry, Plagne, Romont et Vauffelin) sous le nom de Rondchâtel, est abandonné après le refus en votation populaire de deux des six communes concernées dont Orvin, le 1er juin 2008. En 1295, en vertu d’un échange de biens entre les chanoines de Moutier et le pri",
+   "Transports": " Bus 70 de et vers la ville de Bienne via Évilard et parfois en prolongation de et vers Les Prés-d'Orvin. ; Bus 71 vers Romont en passant par Sauge en desservant les localités de Frinvillier, Vauffelin et Plagne."
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Evilard",
+    "slug": "arboriste-evilard"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   },
+   {
+    "nom": "Sauge",
+    "slug": "arboriste-sauge"
+   },
+   {
+    "nom": "Sonceboz-Sombeval",
+    "slug": "arboriste-sonceboz-sombeval"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-sonvilier",
+  "nom": "Sonvilier",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 1229,
+  "tier": 1,
+  "npa": "2615 Sonvilier, Montagne-de-Sonvilier",
+  "altitude": "802 m",
+  "superficie": "23,78 km2",
+  "densite": "52 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "1 229 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Sonvilier",
+  "intro": "Sonvilier (/sɔ̃vilje/) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "De 1797 à 1815, Sonvilier a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département français du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815. Le village est connu pour avoir brièvement accueilli l’anarchiste Mikhaïl Bakounine, en 1871. Le 12 novembre 1871, la Fédération jurassienne y est fondée à l'Hôtel de la Balance."
+  },
+  "voisins": [
+   {
+    "nom": "La Ferrière",
+    "slug": "arboriste-la-ferriere"
+   },
+   {
+    "nom": "Les Bois",
+    "slug": "arboriste-les-bois"
+   },
+   {
+    "nom": "Renan",
+    "slug": "arboriste-renan"
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-villeret",
+  "nom": "Villeret",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 938,
+  "tier": 1,
+  "npa": "2613",
+  "altitude": "740 m",
+  "superficie": "16,24 km2",
+  "densite": "58 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "938 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Villeret_(Berne)",
+  "intro": "Villeret (/vilʁɛ/) ou plus communément (/viʁɛ/) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Le nom de la commune apparaît pour la première fois en 1330 dans un document du prince-évêque Henri Disny ordonnant aux habitants de construire une maison forte à Villeret. De 1797 à 1815, Villeret a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien évêché de Bâle fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Cormoret",
+    "slug": "arboriste-cormoret"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Muriaux",
+    "slug": "arboriste-muriaux"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-renan",
+  "nom": "Renan",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 935,
+  "tier": 1,
+  "npa": "2616 Renan, La Cibourg",
+  "altitude": "907 m",
+  "superficie": "12,64 km2",
+  "densite": "74 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Les Convers",
+  "population_detail": "935 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Renan_(Berne)",
+  "intro": "Pour l’article ayant un titre homophone, voir Renens. Renan (/ʀənã/) est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /ʀənã/, est formé d'un nom de personne germanique du type Rūno et du suffixe germanique -ingōs, qui désigne un lieu. Il signifie chez les gens de Runo. Sa première occurrence écrite date de 1179, sous la forme de Runens. La commune se nomme Zarenna en dialecte du Jura bernois.",
+   "Histoire": "L'origine du village remonte au XIIIe siècle, à l'époque où les Burgondes défrichent les terres afin de s'installer. En 1375, Renan est pillé et brûlé par Enguerrand de Coucy, qui vient d'Alsace, avec ses bandes de mercenaires, réclamer l'héritage de sa mère au duc d'Autriche. En 1630, Jean-Henri d'Ostein, prince-évêque de Bâle, permet aux habitants de construire un temple. En 1639, Renan est à nouveau détruit par un incendie provoqué par les mercenaires du duc de Saxe-Weimar. De 1832 à 1834, le village donne asile à de nombreux réfugiés neuchâtelois qui y publient le journal \"Le Proscrit\"."
+  },
+  "voisins": [
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "La Ferrière",
+    "slug": "arboriste-la-ferriere"
+   },
+   {
+    "nom": "Sonvilier",
+    "slug": "arboriste-sonvilier"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-sauge",
+  "nom": "Sauge",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 829,
+  "tier": 1,
+  "npa": "2535 Frinvillier  2536 Plagne  2537 Vauffelin",
+  "altitude": "709 m",
+  "superficie": "13,44 km2",
+  "densite": "62 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Plagne, Vauffelin, Frinvillier",
+  "population_detail": "829 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Sauge_(Berne)",
+  "intro": "Sauge est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois. Elle est issue de la fusion de Plagne, Frinvillier et Vauffelin (Frinvillier faisant déjà partie de la commune de Vauffelin depuis sa création), effective depuis le 1er janvier 2014.",
+  "sections": {
+   "Histoire": "La fusion des six communes de La Heutte, Péry, Orvin, Plagne, Romont et Vauffelin échoue en 2008. Lors du vote de février 2013, les communes de Vauffelin et Plagne valident leur fusion pour former la nouvelle commune de Sauge, qui voit le jour le 1er janvier 2014. Les habitants de la commune de Vauffelin acceptent la fusion à main levée par 66 voix contre 2 alors qu'à Plagne, cette fois à bulletin secret, les citoyens l'acceptent par 85 oui, 15 non et une abstention. Le nom de la commune, qui compte environ 750 habitants à sa création, vient du chemin des Sauges qui relie Plagne à Vauffelin."
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Péry-La Heutte",
+    "slug": "arboriste-pery-la-heutte"
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-cortebert",
+  "nom": "Cortébert",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 675,
+  "tier": 1,
+  "npa": "2607",
+  "altitude": "680 m",
+  "superficie": "14,78 km2",
+  "densite": "46 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Cortébert",
+  "intro": "Cortébert est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Histoire": "Le nom du village est mentionné pour la première fois en 1178, sous l'appellation Cortaibert (ferme d'Aibert). Jusqu'à la fin du XVIIIe siècle, Cortébert a vécu de l'agriculture. Peu à peu, l'industrie horlogère a posé ses empreintes sur la localité, qui connut un essor remarquable durant la seconde moitié du XIXe siècle. De 1797 à 1815, Cortébert a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, le territoire de l’ancien Évêché de Bâle fut attribué au canton de Berne, en 1815."
+  },
+  "voisins": [
+   {
+    "nom": "Courtelary",
+    "slug": "arboriste-courtelary"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Corgémont",
+    "slug": "arboriste-corgemont"
+   },
+   {
+    "nom": "Nods",
+    "slug": "arboriste-nods"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-ferriere",
+  "nom": "La Ferrière",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Courtelary",
+  "population": 542,
+  "tier": 1,
+  "npa": "2333 La Ferrière, La Cibourg",
+  "altitude": "1 005 m",
+  "superficie": "14,16 km2",
+  "densite": "38 hab./km2",
+  "gentile": "Ferriérois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "542 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Ferrière_(Berne)",
+  "intro": "La Ferrière est une commune suisse du canton de Berne, située dans l'arrondissement administratif du Jura bernois.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce , dérive du latin ferrārĭa et désigne une forge. Ce n'est que sous l'occupation française en 1797 que la commune acquiert officiellement cette dénomination : le village semble auparavant avoir été connu sous le nom de Communauté des Montagnes du Haut-Erguel. La première occurrence écrite du toponyme date de 1663, sous la forme de Ferrière.",
+   "Histoire": "Fondé en 1590 par des habitants venus du Val-de-Ruz, ce lieu a longtemps été désigne comme étant la montagne de Saint-Imier. Le village a été incendié en 1639 par les troupes suédoises lors de la Guerre de Trente Ans. De 1797 à 1815, La Ferrière a appartenu à la France, dans le département du Mont-Terrible, puis dans celui du Haut-Rhin. À la suite d'une décision du Congrès de Vienne, en 1815, la commune a été attribuée au canton de Berne, comme toutes celles du District de Courtelary.",
+   "Transports": " Ligne La Chaux-de-Fonds – Le Noirmont – Glovelier des Chemins de fer du Jura. ; Ligne Noctambus Saingelégier - La Ferrière - La Chaux-de-Fonds (week-end uniquement)"
+  },
+  "voisins": [
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "Les Bois",
+    "slug": "arboriste-les-bois"
+   },
+   {
+    "nom": "Renan",
+    "slug": "arboriste-renan"
+   },
+   {
+    "nom": "Sonvilier",
+    "slug": "arboriste-sonvilier"
+   }
+  ]
+ }
+]

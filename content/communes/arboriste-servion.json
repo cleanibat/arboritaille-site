@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Servion (VD) : taille et abattage | Arboritaille",
+ "desc": "Examen de l'arbre, taille, abattage et rognage de souche à Servion et aux Cullayes (VD), à 774 m d'altitude. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Servion · Lavaux-Oron",
+ "h1": "Arboriste-grimpeur à <em>Servion</em> : examen, taille et abattage d'arbres",
+ "lead": "À Servion et aux Cullayes, la première étape est toujours la même : venir voir l'arbre. La visite est gratuite. Elle dit s'il faut tailler, sécuriser, abattre ou simplement laisser l'arbre tranquille.",
+ "points": ["Visite et devis gratuits", "Servion et Les Cullayes", "Examen de l'arbre avant toute coupe", "Devis écrit, méthode détaillée"],
+ "intro_eyebrow": "Vos arbres à Servion",
+ "intro_h2": "Regarder avant de couper : ce que nous vérifions sur place",
+ "intro": "<p>Servion compte 2 234 habitants sur 6,33 km², dans le district de Lavaux-Oron. La commune comprend le village de Servion et la localité des Cullayes. Elle se situe à 774 m d'altitude.</p><p>Lors de la visite, nous faisons le tour de l'arbre. Le pied d'abord : champignons, écorce décollée, sol soulevé. Puis le tronc et les fourches. Enfin la couronne : bois mort, feuillage clairsemé, branches trop longues.</p><p>Nous regardons aussi ce qui l'entoure : maison, ligne, chemin, limite de parcelle. Ce voisinage décide de la méthode : <a href=\"/elagage-taille-arbres\">taille</a> légère, <a href=\"/haubanage\">haubanage</a> ou <a href=\"/abattage-demontage\">démontage</a> à la corde.</p><p>Courgenay est à un peu moins de cent kilomètres à vol d'oiseau. Votre visite peut se grouper avec un rendez-vous à <a href=\"/arboriste-jorat-mezieres\">Jorat-Mézières</a> ou à <a href=\"/arboriste-savigny\">Savigny</a>, voisines.</p>",
+ "faits": [["Habitants", "2 234 (2025)"], ["Altitude", "774 m"], ["Superficie", "6,33 km²"], ["Depuis Courgenay", "env. 95 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Servion.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Servion avant d'intervenir.",
+ "contexte": [
+  {"icone": "SEARCH", "titre": "Tout commence au collet", "texte": "La plupart des défauts graves se lisent à la base du tronc. Un champignon, une cavité ou une fissure à cet endroit pèsent plus lourd dans la décision qu'une branche sèche en hauteur."},
+  {"icone": "MOUNT", "titre": "À 774 m d'altitude", "texte": "À cette altitude, une neige mouillée de début ou de fin d'hiver peut surprendre des branches encore feuillées. Nous repérons celles qui portent loin et les raccourcissons."},
+  {"icone": "HOME", "titre": "353 habitants au km²", "texte": "Une telle densité laisse supposer surtout des maisons avec jardin. Dans ce type d'habitat, l'arbre à examiner est souvent proche d'un toit, d'une haie ou d'une limite de parcelle. Le devis en tient compte."}
+ ],
+ "services": {
+  "diagnostic-expertise-arbre": "Examen visuel complet de l'arbre, du collet à la cime, et avis sur la suite à donner.",
+  "elagage-taille-arbres": "Taille légère, retrait du bois mort et raccourcissement des branches trop longues à Servion et aux Cullayes.",
+  "abattage-demontage": "Démontage à la corde quand l'arbre est malade ou menace un bâtiment. Bois débité ou évacué.",
+  "rognage-souche": "Souche rognée sous le niveau du sol, terrain prêt à être replanté ou engazonné."
+ },
+ "faq": [
+  {"q": "La visite à Servion est-elle gratuite ?", "a": "Oui. La visite et le devis sont gratuits et sans engagement, à Servion comme aux Cullayes. Nous répondons à votre demande sous 48 h ouvrées, puis fixons le rendez-vous avec vous."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Servion ?", "a": "Cela dépend de l'arbre. S'il est protégé par le règlement communal, la Municipalité doit l'autoriser par écrit et une plantation compensatoire est exigée. Nous vérifions ce point avant de vous proposer une date d'intervention."},
+  {"q": "Comment savoir si mon arbre est malade ?", "a": "Quelques signes doivent alerter : champignons au pied ou sur le tronc, écorce qui se détache, branches sèches en cime, feuilles plus petites ou plus rares. Un seul signe ne suffit pas toujours. La visite permet de trancher."},
+  {"q": "Et si l'arbre n'a besoin de rien ?", "a": "Nous vous le disons. Un arbre sain et bien placé n'a pas à être taillé par principe. Dans ce cas, nous indiquons seulement ce qu'il faudra surveiller et quand refaire un contrôle."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un doute sur un arbre à Servion ou aux Cullayes ?",
+ "cta_lead": "Nous venons le voir. Visite et devis gratuits."
+}

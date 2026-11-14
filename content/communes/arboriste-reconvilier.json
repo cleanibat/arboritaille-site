@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Reconvilier : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et rognage de souche à Reconvilier et Chaindon (BE), district de Moutier, par un arboriste-grimpeur venu de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Reconvilier · district de Moutier",
+ "h1": "Arboriste-grimpeur à <em>Reconvilier</em> : taille, abattage et soins aux arbres",
+ "lead": "Reconvilier et Chaindon ne forment qu'une commune, densément habitée : 2 454 habitants sur 8,25 km². Quand un arbre de jardin déborde chez le voisin ou sur la rue, nous venons de Courgenay le tailler ou le démonter.",
+ "points": ["Visite sur place et devis gratuits", "À une vingtaine de kilomètres de Courgenay", "Démontage à la corde entre deux maisons", "Chantier nettoyé le jour même"],
+ "intro_eyebrow": "Vos arbres à Reconvilier",
+ "intro_h2": "Près de 300 habitants au km² : des arbres et des voisins",
+ "intro": "<p>Mentionnée dès 884, Reconvilier s'est industrialisée avec l'horlogerie et la fabrique d'ébauches Bueche, Boillat et Cie. Le village et le hameau de Chaindon, autrefois d'égale importance, forment une seule commune à 731 m d'altitude.</p><p>Avec 297 habitants au km², Reconvilier est une commune densément habitée. Dans un tissu aussi dense, les jardins sont souvent mitoyens et un arbre adulte concerne vite deux propriétaires.</p><p>Notre travail commence souvent par là : rehausser une couronne qui ombrage le voisin, réduire une branche qui touche son toit, ou démonter un arbre coincé entre deux maisons sans rien abîmer.</p>",
+ "faits": [["Habitants", "2 454 (2025)"], ["Altitude", "731 m"], ["Densité", "297 hab./km²"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Reconvilier.</strong> La loi bernoise protège les haies et bosquets dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Reconvilier avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Arbres en limite de parcelle", "texte": "Un arbre planté il y a trente ans près de la clôture dépasse aujourd'hui chez le voisin. Nous rééquilibrons la couronne des deux côtés pour un résultat durable et accepté."},
+  {"icone": "CUT", "titre": "Réduire plutôt que supprimer", "texte": "Dans un quartier dense, un arbre trop grand n'est pas forcément à abattre. Une réduction de couronne bien faite rend de la lumière et de la sécurité sans perdre l'arbre."},
+  {"icone": "STUMP", "titre": "Souches dans les petits jardins", "texte": "Sur une parcelle de quelques ares, une souche occupe une place précieuse. Nous la rognons pour replanter, poser une terrasse ou semer du gazon."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Rehaussement, réduction ou éclaircie de couronne pour les arbres de jardin mitoyens de Reconvilier et Chaindon.",
+  "abattage-demontage": "Démontage à la corde entre deux maisons, sans machine lourde dans le jardin. Bois sorti à la main, terrain nettoyé.",
+  "rognage-souche": "Rognage de souche sous le niveau du sol pour libérer la place dans un petit jardin.",
+  "plantation-arbres": "Remplacement par un arbre de taille adaptée à la parcelle, qui ne posera pas le même problème dans vingt ans."
+ },
+ "faq": [
+  {"q": "Les branches de mon arbre dépassent chez le voisin à Reconvilier, que faire ?", "a": "La solution la plus simple est une taille concertée. Nous visitons gratuitement, proposons une réduction équilibrée et le voisin peut assister à la visite. Le devis précise ce qui est coupé de chaque côté."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Reconvilier ?", "a": "Pour une haie ou un bosquet, la loi bernoise impose une dérogation de la préfecture avant toute suppression. Pour un arbre isolé en zone à bâtir, le règlement communal de Reconvilier fixe les cas soumis à autorisation. Nous vérifions avant de fixer la date."},
+  {"q": "Pouvez-vous démonter un arbre coincé entre deux maisons ?", "a": "Oui, c'est un cas courant dans les quartiers denses. Nous grimpons, débitons l'arbre en pièces courtes et descendons chacune à la corde. Rien ne tombe librement et les façades restent intactes."},
+  {"q": "Intervenez-vous aussi à Chaindon ?", "a": "Oui, Chaindon fait partie de la commune de Reconvilier. Nous venons de Courgenay, à une vingtaine de kilomètres à vol d'oiseau, par l'A16 et sa sortie Loveresse."},
+  {"q": "Que planter à la place d'un arbre devenu trop grand ?", "a": "Un arbre dont la taille adulte correspond à votre parcelle : un petit fruitier ou un arbre d'ornement de hauteur modérée. Nous vous proposons des essences adaptées au sol et à l'altitude de 731 m, puis nous les plantons avec tuteurage."}
+ ],
+ "cta_img": "demontage_arbre_porrentruy",
+ "cta_h2": "Un arbre à réduire ou à démonter à Reconvilier ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées. Nous venons de Courgenay."
+}

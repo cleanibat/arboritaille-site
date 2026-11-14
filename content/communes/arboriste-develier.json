@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Develier (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Develier et Develier-Dessus (JU), dans la vallée de Delémont. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "reduction_tilleul_porrentruy",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Develier · District de Delémont",
+ "h1": "Arboriste-grimpeur à <em>Develier</em> : taille, abattage et soins aux arbres",
+ "lead": "Develier et Develier-Dessus comptent près de 1 400 habitants à 477 m d'altitude. Arbres de ferme, de jardin ou de bord de ruisseau : nous les taillons, les abattons ou les remplaçons, à une quinzaine de kilomètres de Courgenay.",
+ "points": [
+  "Visite et devis gratuits",
+  "Develier et Develier-Dessus",
+  "Arbres de berge taillés avec précaution",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Develier",
+ "intro_h2": "Develier et Develier-Dessus, ancien franc village de la vallée de Delémont",
+ "intro": "<p>Develier compte 1 397 habitants, répartis entre Develier et Develier-Dessus, à 477 m d'altitude dans le district de Delémont. Le nom vient d'un domaine rural, un groupe de fermes cité pour la première fois en 968.</p><p>Le ruisseau de la Pran traverse l'histoire du lieu : un hameau de six fermes avec ses forges y a vécu entre 550 et 750. Jusqu'en 1792, Develier était l'un des treize francs villages de la vallée de Delémont.</p><p>Près d'un cours d'eau, les arbres de berge penchent souvent vers l'eau, perdent des branches dans le lit et finissent par menacer un pont ou un jardin.</p><p>Nous les taillons depuis la couronne, sans machine lourde sur la rive. Pour les arbres de jardin et de ferme, la méthode est la même : <a href=\"/elagage-taille-arbres\">taille raisonnée</a>, jamais d'étêtage.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 397 (2025)"
+  ],
+  [
+   "Altitude",
+   "477 m"
+  ],
+  [
+   "Superficie",
+   "12,47 km²"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 15 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Develier.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Develier avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "TREE",
+   "titre": "Arbres de berge",
+   "texte": "Au bord d'un ruisseau, les racines sont parfois déchaussées et l'arbre penche. Nous travaillons à la corde depuis la couronne et descendons les sections côté terre, sans abîmer la rive."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Deux localités, un seul devis",
+   "texte": "Develier et Develier-Dessus dépendent de la même commune. La visite est gratuite dans les deux, et nous les programmons lors du même passage depuis Courgenay quand c'est possible."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Replanter après l'abattage",
+   "texte": "Un arbre abattu laisse un vide. Nous proposons une essence adaptée au sol humide d'un bord de ruisseau ou à un jardin plus sec, tuteurée et suivie les premières années."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et allègement des arbres de ferme, de jardin et de berge à Develier et Develier-Dessus.",
+  "abattage-demontage": "Démontage par sections au-dessus d'un ruisseau, d'une route ou d'une toiture, abattage direct quand le terrain est libre.",
+  "plantation-arbres": "Plantation d'un arbre de remplacement adapté à l'humidité du sol, avec tuteurage tripode et conseils de suivi."
+ },
+ "faq": [
+  {
+   "q": "Un arbre penche au-dessus du ruisseau à Develier : peut-on le couper ?",
+   "a": "Il faut d'abord savoir s'il est protégé et à qui appartient la berge. Nous regardons l'arbre sur place et nous renseignons auprès de la commune. Souvent, une réduction de la couronne côté eau suffit à le stabiliser."
+  },
+  {
+   "q": "Intervenez-vous à Develier-Dessus comme à Develier ?",
+   "a": "Oui. Les deux localités forment la même commune. La visite est gratuite dans chacune, et nous vous répondons sous 48 h ouvrées. Nous groupons les rendez-vous quand plusieurs habitants nous appellent."
+  },
+  {
+   "q": "Qui autorise l'abattage d'un arbre à Develier ?",
+   "a": "La commune, dans le cadre de la loi jurassienne. Hors zone à bâtir, supprimer une haie ou un bosquet exige une dérogation, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres concernés."
+  },
+  {
+   "q": "Quelle essence replanter près de l'eau ?",
+   "a": "Une essence qui tolère un sol humide et dont les racines tiennent la berge. Nous vous proposons deux ou trois choix adaptés à la place disponible et à la hauteur souhaitée. Le jeune arbre est tuteuré et paillé."
+  },
+  {
+   "q": "Que devient le bois après l'abattage ?",
+   "a": "Selon le devis, les branches sont broyées et les copeaux laissés sur place ou évacués. Le tronc peut être débité en bûches pour votre chauffage. Le terrain est remis en ordre avant notre départ."
+  }
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler ou à remplacer à Develier ?",
+ "cta_lead": "Visite et devis gratuits, à une quinzaine de kilomètres de Courgenay."
+}

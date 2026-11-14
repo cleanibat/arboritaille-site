@@ -1,0 +1,66 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-neuchatel",
+ "h1_plain": "Abattage et démontage d'arbres à Neuchâtel",
+ "title": "Abattage et démontage d'arbres à Neuchâtel (NE) | Arboritaille",
+ "desc": "Abattage et démontage d'arbres à Neuchâtel : autorisation communale dès 60 cm de circonférence, démontage à la corde sur les coteaux. Visite et devis gratuits.",
+ "eyebrow": "Abattage · Neuchâtel",
+ "h1": "Abattage et démontage d'arbres à <em>Neuchâtel</em>",
+ "lead": "À Neuchâtel, un arbre hors forêt de plus de 60 cm de circonférence ne s'abat pas sans autorisation communale. Nous mesurons, vérifions, puis démontons à la corde, sur les coteaux comme entre les immeubles.",
+ "points": [
+  "Visite et devis gratuits",
+  "Circonférence mesurée à 1 m du sol",
+  "Démontage à la corde sur les coteaux",
+  "Replantation possible après l'abattage"
+ ],
+ "intro_eyebrow": "Neuchâtel",
+ "intro_h2": "60 cm de circonférence : le chiffre à connaître avant d'abattre",
+ "intro": "<p>Soixante centimètres de tour, à un mètre du sol : c'est peu. Un arbre de jardin planté il y a quelques dizaines d'années dépasse souvent cette mesure.</p><p>À Neuchâtel, au-delà de ce seuil, l'abattage d'un arbre hors forêt demande une autorisation de la Direction des travaux publics. La règle vaut aussi à Peseux, Corcelles-Cormondrèche et Valangin depuis 2024, sauf sur le site de Chaumont.</p><p>Nous commençons par le mètre ruban. Puis nous examinons l'arbre : état sanitaire, stabilité, dégâts causés. Ces constats servent à motiver la demande, ou à proposer une autre voie quand l'arbre peut être conservé.</p><p>Vient ensuite l'intervention. Du bord du lac aux hauts de la ville, la pente et les murs imposent un démontage par sections, retenues à la corde. Rien ne part vers la parcelle du dessous.</p>",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Mesurer avant de décider",
+   "texte": "La circonférence se prend à 1 m du sol. Au-delà de 60 cm, l'arbre est protégé sur le territoire communal. En deçà, nous vérifions qu'il ne fait pas partie d'une haie ou d'un bosquet protégé par le canton."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Coteau, murs et escaliers",
+   "texte": "Sur le flanc du Jura, un jardin se rejoint souvent par un escalier ou une ruelle. Le bois est débité en pièces portables et sorti à la main, sans machine lourde."
+  },
+  {
+   "icone": "SEARCH",
+   "titre": "Abattre ou conserver",
+   "texte": "Un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a> précède parfois la demande. Si l'arbre est sain, une taille ou un <a href=\"/haubanage\">haubanage</a> peut suffire. S'il est dangereux, le constat écrit appuie le dossier."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Et après",
+   "texte": "Une fois la souche rognée, la place peut accueillir un nouvel arbre, mieux adapté à l'espace. Nous plantons avec un tuteurage tripode, comme sur notre photo prise à Neuchâtel."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Neuchâtel.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton.<br>Sur le territoire communal, le règlement d'aménagement (art. 148 et 151) protège les arbres hors forêt de plus de 60 cm de circonférence à 1 m du sol. Leur abattage ou un élagage important demande une autorisation de la Direction des travaux publics. Depuis 2024, la règle s'étend à Peseux, Corcelles-Cormondrèche et Valangin, sauf sur le site de Chaumont. Nous vérifions la situation de votre arbre avant d'intervenir.",
+ "faq": [
+  {
+   "q": "À partir de quelle taille un arbre est-il protégé à Neuchâtel ?",
+   "a": "Le règlement d'aménagement protège les arbres hors forêt de plus de 60 cm de circonférence, mesurée à 1 m du sol. Cela correspond à un tronc d'une vingtaine de centimètres de diamètre. Nous prenons la mesure lors de la visite."
+  },
+  {
+   "q": "Qui délivre l'autorisation d'abattage à Neuchâtel ?",
+   "a": "Le règlement confie la décision à la Direction des travaux publics. Nous vous fournissons les éléments utiles à la demande : mesure du tronc, état de l'arbre, motif. La date d'intervention est fixée une fois la réponse reçue."
+  },
+  {
+   "q": "Mon arbre est à Chaumont : la règle des 60 cm s'applique-t-elle ?",
+   "a": "Le règlement prévoit une exception pour le site de Chaumont. D'autres protections existent : haies et bosquets sont protégés par le canton, et en forêt aucun arbre ne s'abat sans martelage du service forestier. Nous vérifions le statut de la parcelle."
+  },
+  {
+   "q": "Un arbre mort ou dangereux peut-il être abattu sans attendre ?",
+   "a": "Nous ne partons pas de ce principe. En cas de danger, nous sécurisons d'abord l'arbre et la zone, puis nous prenons contact avec la Ville pour connaître la marche à suivre. Un constat écrit de l'état de l'arbre accompagne la demande."
+  },
+  {
+   "q": "Comment sortez-vous le bois d'un jardin en pente ?",
+   "a": "Les sections sont descendues à la corde jusqu'à un replat, puis débitées en pièces portables. Elles rejoignent la rue par l'escalier ou le chemin existant. Si vous gardez le bois, nous le rangeons à l'endroit convenu."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Neuchâtel ?",
+ "cta_lead": "Visite et devis gratuits. Nous mesurons le tronc et vous indiquons la démarche."
+}

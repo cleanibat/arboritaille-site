@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Brügg (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, démontage et abattage d'arbres à Brügg, voisine de Bienne, canton de Berne, pour particuliers, entreprises et gérances. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Brügg · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Brügg</em> : taille, abattage et soins aux arbres",
+ "lead": "Brügg touche Bienne et se trouve sur le parcours du bateau vers Soleure. Arbres de lotissement, d'entreprise ou de berge : nous venons voir sur place et vous remettons un devis écrit, gratuit, en français ou en allemand.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Entreprises et gérances : devis par arbre ou par site",
+  "Arbres de berge contrôlés et allégés",
+  "À environ trente-cinq kilomètres de Courgenay"
+ ],
+ "intro_eyebrow": "Vos arbres à Brügg",
+ "intro_h2": "Aux portes de Bienne, sur le parcours du bateau vers Soleure",
+ "intro": "<p>Brügg compte 4 714 habitants sur 4,99 km2, à 485 m d'altitude. La commune touche Bienne ; elle est desservie par la ligne ferroviaire Berne–Bienne et se trouve sur le parcours du bateau entre Bienne et Soleure.</p><p>Ce voisinage direct avec la ville en fait une commune de couronne, où l'on trouve en général lotissements, immeubles et zones d'activités. Les arbres qui nous occupent sont alors ceux des jardins, des parkings et des abords d'entreprises.</p><p>Au bord de l'eau, les essences de berge poussent vite et leur bois tendre se fend par grand vent. Une inspection depuis la couronne, suivie d'une taille d'allègement, limite les chutes de branches sur les chemins.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "4 714 (2025)"
+  ],
+  [
+   "Altitude",
+   "485 m"
+  ],
+  [
+   "Superficie",
+   "4,99 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Brügg.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : on peut les entretenir, pas les supprimer sans dérogation de la préfecture et compensation. Pour les arbres isolés et les allées de valeur, c'est le règlement communal qui fait foi. Nous vérifions la règle en vigueur à Brügg avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "USERS",
+   "titre": "Entreprises et gérances",
+   "texte": "Zones d'activités et immeubles locatifs ont des arbres d'alignement et de parking à suivre. Nous proposons une visite, un devis par arbre et un calendrier d'entretien sur plusieurs années."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Arbres de berge",
+   "texte": "Les essences qui poussent près de l'eau ont un bois tendre et cassent par grand vent. Un contrôle régulier et une taille d'allègement réduisent le risque pour les promeneurs et les bateaux."
+  },
+  {
+   "icone": "SCISS",
+   "titre": "Arbres de lotissement",
+   "texte": "Les arbres d'ornement plantés à la construction des maisons ont grandi avec elles. Une taille raisonnée rend de la lumière aux terrasses sans dénaturer leur silhouette ni les affaiblir."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin, de parking et d'alignement à Brügg.",
+  "abattage-demontage": "Démontage à la corde entre les maisons, abattage direct sur les terrains dégagés. Bois évacué ou débité en bûches.",
+  "collectivites-entreprises": "Entreprises, gérances et commune : visite du site, devis détaillé, planification et compte rendu.",
+  "rognage-souche": "Souche rognée sous le niveau du sol après un abattage, pour replanter ou retrouver une pelouse continue."
+ },
+ "faq": [
+  {
+   "q": "Vous déplacez-vous à Brügg pour un seul arbre ?",
+   "a": "Oui. Brügg est à environ trente-cinq kilomètres de Courgenay à vol d'oiseau. La visite est gratuite et nous la combinons si possible avec d'autres rendez-vous autour de Bienne."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Brügg ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Brügg. Nous vérifions pour vous si votre arbre est concerné et vous indiquons la démarche avant toute coupe."
+  },
+  {
+   "q": "Que proposez-vous aux entreprises et aux gérances ?",
+   "a": "Une visite du site, un inventaire des arbres à suivre et un devis par intervention. Les travaux peuvent être étalés sur plusieurs années pour lisser le budget. Le compte rendu peut être rédigé en allemand."
+  },
+  {
+   "q": "Un arbre au bord de l'eau penche vers le chemin, est-ce urgent ?",
+   "a": "Un arbre penché n'est pas forcément dangereux, mais un bois tendre fendu l'est. Nous venons l'examiner, nous sécurisons si nécessaire et nous vous proposons une taille d'allègement ou un démontage."
+  },
+  {
+   "q": "Travaillez-vous aussi à Bienne et à Port ?",
+   "a": "Oui. Bienne et Port touchent Brügg ; nous y avons démonté des saules, dont les photos figurent sur leurs pages. La distance depuis Courgenay est comparable et la visite reste gratuite."
+  }
+ ],
+ "cta_img": "demontage_saule_port",
+ "cta_h2": "Un arbre à tailler ou à abattre à Brügg ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

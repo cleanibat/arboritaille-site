@@ -1,0 +1,37 @@
+{
+ "title": "Lac de Neuchâtel : arboriste-grimpeur, taille, abattage | Arboritaille",
+ "desc": "Taille, élagage, abattage et plantation d'arbres sur les rives du lac de Neuchâtel, de Neuchâtel à Grandson. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-3", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Lac de Neuchâtel · Pays des Trois-Lacs",
+ "h1": "Arboriste-grimpeur sur les rives du <em>lac de Neuchâtel</em>",
+ "lead": "Aucun lac entièrement suisse n'est aussi étendu que le lac de Neuchâtel : 217,9 km². Sur son littoral, nous taillons, abattons et plantons les arbres des jardins, des immeubles et des espaces publics. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Littoral neuchâtelois et rive vaudoise", "Taille de transparence, sans étêtage", "Plantation de remplacement après abattage"],
+ "intro_eyebrow": "Vos arbres au bord du lac",
+ "intro_h2": "217,9 km² d'eau et un littoral nord qui s'est développé",
+ "intro": "<p>Le lac de Neuchâtel couvre 217,9 km² et fait partie du Pays des Trois-Lacs. Ses eaux rejoignent le lac de Bienne par le canal de la Thielle, puis l'Aar.</p><p>Son littoral nord s'est fortement développé avec l'achèvement du réseau autoroutier. Quand des quartiers se bâtissent en peu de temps, les arbres plantés à la même époque arrivent ensemble à l'âge adulte.</p><p>La rive orientale longe la frontière des langues et borde le Seeland. Si vous préférez l'allemand, nous vous répondons par écrit dans cette langue.</p><p>De <a href=\"/arboriste-neuchatel\">Neuchâtel</a> à <a href=\"/arboriste-grandson\">Grandson</a>, sur la rive vaudoise, la visite est gratuite. Elle sert à voir l'arbre, l'accès et les contraintes : vue, voisinage, lignes.</p>",
+ "faits": [["Superficie du lac", "217,9 km²"], ["Altitude du lac", "429 m"], ["Émissaire", "Canal de la Thielle"], ["Visite et devis", "Gratuits"]],
+ "reglement": "<strong>Autorisation d'abattage au bord du lac de Neuchâtel.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence.<br>Sur la rive vaudoise, l'abattage d'un arbre protégé demande une autorisation écrite de la Municipalité. Nous vérifions la règle de votre commune avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Grands conifères d'ornement", "texte": "Un cèdre ou un pin planté pour le décor atteint en quelques décennies des dimensions de parc. Ses charpentières sont allégées et son bois mort retiré, sans couper la cime."},
+  {"icone": "HOME", "titre": "La vue et le voisin", "texte": "Face à un lac, un arbre qui grandit finit par masquer une vue, la vôtre ou celle d'à côté. Une taille de transparence ou une réduction mesurée évite souvent l'abattage."},
+  {"icone": "WIND", "titre": "Rafales venues de l'eau", "texte": "Sur une telle étendue d'eau libre, le vent prend de la vitesse avant d'atteindre la rive. Nous contrôlons les arbres exposés et proposons un haubanage si une fourche faiblit."},
+  {"icone": "SPROUT", "titre": "Replanter après l'abattage", "texte": "Un arbre abattu peut être remplacé par une essence mieux proportionnée au jardin. Le jeune sujet est tuteuré en tripode, comme sur le chantier de plantation photographié à Neuchâtel."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de transparence, réduction mesurée et allègement des grands arbres d'ornement des jardins du littoral.",
+  "abattage-demontage": "Démontage par sections entre villas, immeubles et routes. Bois évacué, terrain nettoyé.",
+  "haubanage": "Haubans souples pour conserver un grand arbre dont une fourche ou une charpentière faiblit.",
+  "plantation-arbres": "Plantation de remplacement, essence choisie selon la place disponible, tuteurage tripode.",
+  "collectivites-entreprises": "Devis par arbre ou par lot pour les gérances, les entreprises et les communes riveraines."
+ },
+ "faq": [
+  {"q": "Sur quelles rives du lac de Neuchâtel intervenez-vous ?", "a": "Sur le littoral neuchâtelois et sur la rive vaudoise, à Grandson par exemple. Le canton de Fribourg fait aussi partie de notre zone d'intervention. La visite et le devis sont gratuits, quelle que soit la commune."},
+  {"q": "Peut-on tailler un arbre pour dégager la vue sur le lac ?", "a": "Oui, dans une certaine mesure. Nous éclaircissons la couronne ou la réduisons sur des branches latérales, sans étêter. Dans le canton de Vaud, un élagage qui dépasse l'entretien courant demande une autorisation de la Municipalité."},
+  {"q": "Faut-il une autorisation pour abattre un arbre au bord du lac de Neuchâtel ?", "a": "Cela dépend de la commune. À Neuchâtel, un arbre de plus de 60 cm de circonférence est protégé. Côté vaudois, l'autorisation relève de la Municipalité. Nous vérifions la règle applicable avant d'arrêter le calendrier du chantier."},
+  {"q": "Un grand cèdre perd des branches : est-ce grave ?", "a": "Pas toujours. Les branches basses d'un conifère sèchent naturellement. Une charpentière verte qui rompt est un signal plus sérieux. Nous examinons l'arbre et proposons un allègement, un hauban ou, en dernier recours, le démontage."},
+  {"q": "Remplacez-vous l'arbre que vous abattez ?", "a": "Si vous le souhaitez, oui. Dans le canton de Vaud, une plantation compensatoire est d'ailleurs exigée pour un arbre protégé. Nous choisissons avec vous une essence adaptée à la place disponible et la plantons avec tuteurage."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, abattre ou remplacer au bord du lac de Neuchâtel ?",
+ "cta_lead": "Visite sur place et devis écrit, gratuits et sans engagement."
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Épalinges (VD) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage par démontage et diagnostic d'arbres à Épalinges (VD), au nord de l'agglomération lausannoise, à 804 m. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Épalinges · District de Lausanne",
+ "h1": "Arboriste-grimpeur à <em>Épalinges</em> : taille, abattage et soins aux arbres",
+ "lead": "Épalinges est née de défrichements dans la forêt du Jorat. À 804 m, au nord de l'agglomération lausannoise, nous taillons et démontons les arbres devenus trop grands pour leur jardin. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Grands arbres en bordure de jardin", "Statut forêt ou jardin clarifié", "Démontage sans dégât pour le voisinage"],
+ "intro_eyebrow": "Vos arbres à Épalinges",
+ "intro_h2": "Une commune gagnée sur la forêt du Jorat",
+ "intro": "<p>Épalinges s'est créée par défrichements successifs sur la forêt du Jorat, sans doute au début du dernier millénaire. La forêt a reculé, la commune a grandi : 9 860 habitants aujourd'hui, sur 4,57 km² seulement.</p><p>Cette origine annonce un cas courant dans les communes de lisière. De grands arbres forestiers se retrouvent en bordure de jardin. Leur hauteur et leur ombre inquiètent quand la maison est proche.</p><p>À 804 m d'altitude, la neige compte davantage qu'au bord du Léman. Épalinges est pourtant presque entièrement enclavée dans Lausanne. Une couronne déséquilibrée ou une fourche fendue se repère avant l'hiver.</p><p>Nous venons de Courgenay, à une centaine de kilomètres à vol d'oiseau. Les visites se groupent avec celles de <a href=\"/arboriste-lausanne\">Lausanne</a> et de l'autre commune voisine, <a href=\"/arboriste-le-mont-sur-lausanne\">Le Mont-sur-Lausanne</a>.</p>",
+ "faits": [["Habitants", "9 860 (2025)"], ["Altitude", "804 m"], ["Superficie", "4,57 km²"], ["Depuis Courgenay", "env. 100 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Épalinges.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. En forêt, le service forestier décide. Nous vérifions la règle d'Épalinges avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Grands arbres près des maisons", "texte": "Un arbre de trente mètres à quelques pas d'une façade ne s'abat pas d'un bloc. Nous l'allégeons si son état le permet, ou nous le démontons de la cime vers le pied."},
+  {"icone": "DOC", "titre": "Lisière : qui décide ?", "texte": "Si l'arbre appartient à la forêt, le service forestier se prononce. S'il est dans le jardin, c'est la Municipalité. Nous posons la question avant de vous remettre un devis."},
+  {"icone": "USERS", "titre": "2 158 habitants au km²", "texte": "Dans une commune aussi dense, un chantier d'arbre concerne aussi les voisins. Nous balisons le périmètre, retenons chaque pièce à la corde et laissons les accès propres le soir même."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement et réduction des grands arbres de bordure, retrait du bois mort au-dessus des toits et des terrasses.",
+  "abattage-demontage": "Démontage de la cime vers le pied, sections retenues à la corde, sans rien laisser tomber chez le voisin.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un grand arbre proche d'une maison et avis écrit sur son état.",
+  "urgence-tempete-arbre-dangereux": "Mise en sécurité après un bris de branche dû à la neige ou au vent."
+ },
+ "faq": [
+  {"q": "Un grand arbre de lisière surplombe ma maison à Épalinges : que faire ?", "a": "Commencez par le faire examiner. Nous regardons le pied, le tronc et la couronne, puis nous vérifions s'il relève de la forêt ou du jardin. Selon le cas, nous proposons un allègement ou un démontage."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Épalinges ?", "a": "Oui pour un arbre protégé hors forêt : la Municipalité l'autorise par écrit et demande une plantation compensatoire. En forêt, la décision revient au service forestier. Nous vérifions le règlement communal avant de planifier."},
+  {"q": "Les branches de mon arbre dépassent chez le voisin : pouvez-vous intervenir ?", "a": "Oui. Nous raccourcissons les branches concernées sur des relais adaptés, pour que l'arbre cicatrise bien. Si la taille dépasse l'entretien courant, nous vérifions d'abord qu'aucune autorisation n'est requise."},
+  {"q": "Venez-vous à Épalinges depuis Courgenay ?", "a": "Oui. Courgenay est à une centaine de kilomètres à vol d'oiseau. Nous groupons les rendez-vous du nord de l'agglomération lausannoise. La visite est gratuite, le devis écrit suit sous 48 h ouvrées."},
+  {"q": "La neige a cassé une grosse branche, que faire ?", "a": "Éloignez-vous de l'arbre et appelez le 078 306 53 04. Une branche cassée reste parfois suspendue. Nous la descendons en sécurité, puis nous reprenons la coupe pour que la plaie se referme correctement."}
+ ],
+ "cta_img": "demontage_arbre_porrentruy",
+ "cta_h2": "Un grand arbre trop proche de la maison à Épalinges ?",
+ "cta_lead": "Nous venons l'examiner. Visite et devis gratuits, sans engagement."
+}

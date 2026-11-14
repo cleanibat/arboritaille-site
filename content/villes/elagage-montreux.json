@@ -1,0 +1,61 @@
+{
+ "service": "elagage-taille-arbres",
+ "commune": "arboriste-montreux",
+ "h1_plain": "Élagage et taille d'arbres à Montreux",
+ "title": "Élagage et taille d'arbres à Montreux (VD) | Arboritaille",
+ "desc": "Élagage et taille d'arbres à Montreux : grands arbres de parc, jardins de Clarens à Caux, règlement communal vérifié. Visite et devis gratuits.",
+ "eyebrow": "Élagage · Montreux",
+ "h1": "Élagage et taille d'arbres à <em>Montreux</em>",
+ "lead": "À Montreux, des quais aux villages des hauts, nous taillons en grimpe les arbres de jardin, de résidence et d'hôtel. L'entretien normal est libre ; au-delà, la Municipalité doit donner son accord.",
+ "points": [
+  "Taille douce des grands arbres de parc",
+  "De Clarens à Caux et aux Avants",
+  "Règlement communal vérifié",
+  "Visite et devis gratuits"
+ ],
+ "intro_eyebrow": "Montreux",
+ "intro_h2": "Tailler les grands arbres de Montreux sans les dénaturer",
+ "intro": "<p>Les premiers hôtels de Montreux ont été bâtis au bord du lac, sur des prairies et des vignobles. Un passé de villégiature laisse en général des parcs d'agrément, dont les arbres ont pris de l'ampleur.</p><p>Sur de tels sujets, la taille se limite à peu de chose : bois mort, branches longues allégées, façades et toitures dégagées. Les coupes restent petites et l'arbre garde sa silhouette.</p><p>La commune réunit 28 localités sur 33,37 km², de Clarens et Territet à Glion, Caux ou Les Avants. En général, la végétation démarre plus tard en altitude qu'au bord du lac.</p><p>Depuis 2024, la Commune recense ses arbres remarquables, dans les espaces publics comme privés. Raison de plus pour tailler avec retenue, après un examen de l'arbre lors de la visite gratuite.</p>",
+ "contexte": [
+  {
+   "icone": "TREE",
+   "titre": "Parcs d'hôtels et de résidences",
+   "texte": "Le chantier se cale sur la vie du lieu : horaires, accès des clients, bruit. Les branches descendent à la corde et la zone sous l'arbre est balisée pendant le travail."
+  },
+  {
+   "icone": "PIN",
+   "titre": "Les quais, cas particulier",
+   "texte": "Le règlement communal protège toute la végétation située sur les quais de Montreux. Au bord du lac, nous vérifions donc le statut de l'arbre avant de tailler."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "Villages des hauts",
+   "texte": "D'une localité à l'autre, l'accès change. Le matériel de grimpe se porte à pied jusqu'à l'arbre : précisez le chemin d'accès dans votre demande."
+  }
+ ],
+ "reglement": "<strong>Élagage et autorisation à Montreux.</strong> Le règlement communal sur la protection des arbres (1995) protège les arbres de 30 cm et plus de diamètre de tronc, mesurés à 1,30 m du sol, les cordons boisés, boqueteaux et haies vives, ainsi que toute la végétation des quais. La taille et l'élagage ne sont pas soumis à autorisation dans le cadre d'un entretien normal. Au-delà, une demande écrite est adressée à la Municipalité.<br>Texte : <a href=\"https://www.montreux.ch/fileadmin/documents/commune-de-montreux.ch/pdf/Reglements/Reglement_communal_sur_la_protection_des_arbres.pdf\">règlement publié par la Commune de Montreux</a>. La loi cantonale (LPrPNP, BLV 450.11) s'applique en plus ; le règlement-type cantonal retient 40 cm de circonférence à 1 m du sol. La Commune recense par ailleurs ses arbres remarquables depuis 2024 (<a href=\"https://www.montreux.ch/fileadmin/documents/commune-de-montreux.ch/pdf/Communiques_presse/2025/DEP_CP_Inventaire_arbres_remarquables.pdf\">communiqué du 8 octobre 2025</a>). Nous vérifions la règle applicable à votre arbre avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour tailler un arbre à Montreux ?",
+   "a": "Pas pour un entretien normal : le règlement communal le dit expressément. Une taille qui le dépasse fait l'objet d'une demande écrite à la Municipalité. Nous vous indiquons lors de la visite si le travail envisagé reste un entretien."
+  },
+  {
+   "q": "Taillez-vous les grands arbres d'un parc d'hôtel ou de résidence ?",
+   "a": "Oui. Nous montons à la corde, retirons le bois mort et allégeons les branches longues. Les horaires s'adaptent à l'activité du lieu, et le devis écrit décrit la taille prévue arbre par arbre."
+  },
+  {
+   "q": "Intervenez-vous à Glion, Caux ou aux Avants ?",
+   "a": "Oui, dans les 28 localités de la commune de Montreux, du bord du lac aux villages des hauts. Précisez l'accès à la parcelle dans votre demande : cela nous aide à préparer la visite, qui reste gratuite."
+  },
+  {
+   "q": "Quand tailler un arbre à Montreux ?",
+   "a": "Bois mort et branches gênantes s'enlèvent toute l'année. Pour une taille plus importante, nous évitons la montée de sève et la nidification, après un contrôle des nids. Le calendrier tient compte de la localité et de l'essence."
+  },
+  {
+   "q": "Peut-on rabattre un arbre pour retrouver la vue sur le lac ?",
+   "a": "Un rabattage sévère dépasse l'entretien normal. Dans le canton de Vaud, un écimage inconsidéré est assimilé à un abattage sans autorisation. Nous proposons plutôt d'ouvrir des fenêtres dans la couronne par une éclaircie ciblée."
+  }
+ ],
+ "cta_h2": "Un arbre à tailler à Montreux ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse écrite sous 48 h ouvrées."
+}

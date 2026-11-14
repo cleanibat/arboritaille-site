@@ -1,0 +1,4382 @@
+[
+ {
+  "canton": "JU",
+  "nom": "Alle",
+  "page": "Alle (Jura)",
+  "cellules": [
+   "Alle",
+   "6771",
+   "Porrentruy",
+   "+001 965,",
+   "+0010,6",
+   "185",
+   "mixte"
+  ],
+  "ofs": 6771,
+  "district": "Porrentruy",
+  "population": 1965,
+  "superficie": "+0010,6",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Basse-Allaine",
+  "page": "Basse-Allaine",
+  "cellules": [
+   "Basse-Allaine",
+   "6807",
+   "Porrentruy",
+   "+001 182,",
+   "+0023,05",
+   "51",
+   "mixte"
+  ],
+  "ofs": 6807,
+  "district": "Porrentruy",
+  "population": 1182,
+  "superficie": "+0023,05",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Basse-Vendline",
+  "page": "Basse-Vendline",
+  "cellules": [
+   "Basse-Vendline",
+   "6812",
+   "Porrentruy",
+   "+000741,",
+   "+0018,67",
+   "40",
+   "mixte"
+  ],
+  "ofs": 6812,
+  "district": "Porrentruy",
+  "population": 741,
+  "superficie": "+0018,67",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Boécourt",
+  "page": "Boécourt",
+  "cellules": [
+   "Boécourt",
+   "6702",
+   "Delémont",
+   "+000953,",
+   "+0012,35",
+   "77",
+   "municipale et bourgeoise"
+  ],
+  "ofs": 6702,
+  "district": "Delémont",
+  "population": 953,
+  "superficie": "+0012,35",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Boncourt",
+  "page": "Boncourt (Jura)",
+  "cellules": [
+   "Boncourt",
+   "6774",
+   "Porrentruy",
+   "+001 159,",
+   "+0009,01",
+   "129",
+   "mixte"
+  ],
+  "ofs": 6774,
+  "district": "Porrentruy",
+  "population": 1159,
+  "superficie": "+0009,01",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Bourrignon",
+  "page": "Bourrignon",
+  "cellules": [
+   "Bourrignon",
+   "6703",
+   "Delémont",
+   "+000259,",
+   "+0013,55",
+   "19",
+   "municipal"
+  ],
+  "ofs": 6703,
+  "district": "Delémont",
+  "population": 259,
+  "superficie": "+0013,55",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Bure",
+  "page": "Bure (Jura)",
+  "cellules": [
+   "Bure",
+   "6778",
+   "Porrentruy",
+   "+000660,",
+   "+0013,69",
+   "48",
+   "mixte"
+  ],
+  "ofs": 6778,
+  "district": "Porrentruy",
+  "population": 660,
+  "superficie": "+0013,69",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Châtillon",
+  "page": "Châtillon (Delémont)",
+  "cellules": [
+   "Châtillon",
+   "6704",
+   "Delémont",
+   "+000500,",
+   "+0005,31",
+   "94",
+   "municipal"
+  ],
+  "ofs": 6704,
+  "district": "Delémont",
+  "population": 500,
+  "superficie": "+0005,31",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Clos du Doubs",
+  "page": "Clos-du-Doubs",
+  "cellules": [
+   "Clos du Doubs",
+   "6808",
+   "Porrentruy",
+   "+001 289,",
+   "+0061,77",
+   "21",
+   "mixte"
+  ],
+  "ofs": 6808,
+  "district": "Porrentruy",
+  "population": 1289,
+  "superficie": "+0061,77",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Cœuve",
+  "page": "Cœuve",
+  "cellules": [
+   "Cœuve",
+   "6781",
+   "Porrentruy",
+   "+000720,",
+   "+0011,63",
+   "62",
+   "mixte"
+  ],
+  "ofs": 6781,
+  "district": "Porrentruy",
+  "population": 720,
+  "superficie": "+0011,63",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Cornol",
+  "page": "Cornol",
+  "cellules": [
+   "Cornol",
+   "6782",
+   "Porrentruy",
+   "+001 082,",
+   "+0010,44",
+   "104",
+   "mixte"
+  ],
+  "ofs": 6782,
+  "district": "Porrentruy",
+  "population": 1082,
+  "superficie": "+0010,44",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courchapoix",
+  "page": "Courchapoix",
+  "cellules": [
+   "Courchapoix",
+   "6706",
+   "Delémont",
+   "+000456,",
+   "+0006,39",
+   "71",
+   "mixte"
+  ],
+  "ofs": 6706,
+  "district": "Delémont",
+  "population": 456,
+  "superficie": "+0006,39",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courchavon",
+  "page": "Courchavon",
+  "cellules": [
+   "Courchavon",
+   "6783",
+   "Porrentruy",
+   "+000332,",
+   "+0006,19",
+   "54",
+   "mixte"
+  ],
+  "ofs": 6783,
+  "district": "Porrentruy",
+  "population": 332,
+  "superficie": "+0006,19",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courgenay",
+  "page": "Courgenay (Jura)",
+  "cellules": [
+   "Courgenay",
+   "6784",
+   "Porrentruy",
+   "+002 463,",
+   "+0018,43",
+   "134",
+   "mixte"
+  ],
+  "ofs": 6784,
+  "district": "Porrentruy",
+  "population": 2463,
+  "superficie": "+0018,43",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courrendlin",
+  "page": "Courrendlin",
+  "cellules": [
+   "Courrendlin",
+   "6708",
+   "Delémont",
+   "+003 737,",
+   "+0021,53",
+   "174",
+   "municipale et bourgeoise"
+  ],
+  "ofs": 6708,
+  "district": "Delémont",
+  "population": 3737,
+  "superficie": "+0021,53",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courroux",
+  "page": "Courroux",
+  "cellules": [
+   "Courroux",
+   "6709",
+   "Delémont",
+   "+003 439,",
+   "+0019,74",
+   "174",
+   "mixte"
+  ],
+  "ofs": 6709,
+  "district": "Delémont",
+  "population": 3439,
+  "superficie": "+0019,74",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courtedoux",
+  "page": "Courtedoux",
+  "cellules": [
+   "Courtedoux",
+   "6785",
+   "Porrentruy",
+   "+000749,",
+   "+0008,22",
+   "91",
+   "mixte"
+  ],
+  "ofs": 6785,
+  "district": "Porrentruy",
+  "population": 749,
+  "superficie": "+0008,22",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Courtételle",
+  "page": "Courtételle",
+  "cellules": [
+   "Courtételle",
+   "6710",
+   "Delémont",
+   "+002 784,",
+   "+0013,57",
+   "205",
+   "mixte"
+  ],
+  "ofs": 6710,
+  "district": "Delémont",
+  "population": 2784,
+  "superficie": "+0013,57",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Damphreux-Lugnez",
+  "page": "Damphreux-Lugnez",
+  "cellules": [
+   "Damphreux-Lugnez",
+   "6811",
+   "Porrentruy",
+   "+000376,",
+   "+0010,77",
+   "35",
+   "mixte"
+  ],
+  "ofs": 6811,
+  "district": "Porrentruy",
+  "population": 376,
+  "superficie": "+0010,77",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Delémont",
+  "page": "Delémont",
+  "cellules": [
+   "Delémont",
+   "6711",
+   "Delémont",
+   "+012 991,",
+   "+0021,99",
+   "591",
+   "municipale et bourgeoise"
+  ],
+  "ofs": 6711,
+  "district": "Delémont",
+  "population": 12991,
+  "superficie": "+0021,99",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Develier",
+  "page": "Develier",
+  "cellules": [
+   "Develier",
+   "6712",
+   "Delémont",
+   "+001 397,",
+   "+0012,47",
+   "112",
+   "mixte"
+  ],
+  "ofs": 6712,
+  "district": "Delémont",
+  "population": 1397,
+  "superficie": "+0012,47",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Ederswiler",
+  "page": "Ederswiler",
+  "cellules": [
+   "Ederswiler",
+   "6713",
+   "Delémont",
+   "+000111,",
+   "+0003,31",
+   "34",
+   "mixte"
+  ],
+  "ofs": 6713,
+  "district": "Delémont",
+  "population": 111,
+  "superficie": "+0003,31",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Fahy",
+  "page": "Fahy",
+  "cellules": [
+   "Fahy",
+   "6789",
+   "Porrentruy",
+   "+000328,",
+   "+0007,78",
+   "42",
+   "mixte"
+  ],
+  "ofs": 6789,
+  "district": "Porrentruy",
+  "population": 328,
+  "superficie": "+0007,78",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Fontenais",
+  "page": "Fontenais",
+  "cellules": [
+   "Fontenais",
+   "6790",
+   "Porrentruy",
+   "+001 645,",
+   "+0020,",
+   "82",
+   "mixte"
+  ],
+  "ofs": 6790,
+  "district": "Porrentruy",
+  "population": 1645,
+  "superficie": "+0020,",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Grandfontaine",
+  "page": "Grandfontaine (Jura)",
+  "cellules": [
+   "Grandfontaine",
+   "6792",
+   "Porrentruy",
+   "+000362,",
+   "+0008,98",
+   "40",
+   "mixte"
+  ],
+  "ofs": 6792,
+  "district": "Porrentruy",
+  "population": 362,
+  "superficie": "+0008,98",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Haute-Ajoie",
+  "page": "Haute-Ajoie",
+  "cellules": [
+   "Haute-Ajoie",
+   "6809",
+   "Porrentruy",
+   "+001 063,",
+   "+0040,93",
+   "26",
+   "mixte"
+  ],
+  "ofs": 6809,
+  "district": "Porrentruy",
+  "population": 1063,
+  "superficie": "+0040,93",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Haute-Sorne",
+  "page": "Haute-Sorne",
+  "cellules": [
+   "Haute-Sorne",
+   "6729",
+   "Delémont",
+   "+007 532,",
+   "+0071,06",
+   "106",
+   "mixte"
+  ],
+  "ofs": 6729,
+  "district": "Delémont",
+  "population": 7532,
+  "superficie": "+0071,06",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "La Baroche",
+  "page": "La Baroche",
+  "cellules": [
+   "La Baroche",
+   "6810",
+   "Porrentruy",
+   "+001 124,",
+   "+0031,07",
+   "36",
+   "mixte"
+  ],
+  "ofs": 6810,
+  "district": "Porrentruy",
+  "population": 1124,
+  "superficie": "+0031,07",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Lajoux",
+  "page": "Lajoux (Jura)",
+  "cellules": [
+   "Lajoux",
+   "6750",
+   "Franches-Montagnes",
+   "+000712,",
+   "+0012,38",
+   "58",
+   "mixte"
+  ],
+  "ofs": 6750,
+  "district": "Franches-Montagnes",
+  "population": 712,
+  "superficie": "+0012,38",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Le Bémont",
+  "page": "Le Bémont",
+  "cellules": [
+   "Le Bémont",
+   "6741",
+   "Franches-Montagnes",
+   "+000299,",
+   "+0011,67",
+   "26",
+   "municipale"
+  ],
+  "ofs": 6741,
+  "district": "Franches-Montagnes",
+  "population": 299,
+  "superficie": "+0011,67",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Le Noirmont",
+  "page": "Le Noirmont",
+  "cellules": [
+   "Le Noirmont",
+   "6754",
+   "Franches-Montagnes",
+   "+001 936,",
+   "+0020,39",
+   "95",
+   "municipale"
+  ],
+  "ofs": 6754,
+  "district": "Franches-Montagnes",
+  "population": 1936,
+  "superficie": "+0020,39",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Les Bois",
+  "page": "Les Bois",
+  "cellules": [
+   "Les Bois",
+   "6742",
+   "Franches-Montagnes",
+   "+001 246,",
+   "+0024,74",
+   "50",
+   "municipale"
+  ],
+  "ofs": 6742,
+  "district": "Franches-Montagnes",
+  "population": 1246,
+  "superficie": "+0024,74",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Les Breuleux",
+  "page": "Les Breuleux",
+  "cellules": [
+   "Les Breuleux",
+   "6743",
+   "Franches-Montagnes",
+   "+001 631,",
+   "+0010,81",
+   "151",
+   "mixte"
+  ],
+  "ofs": 6743,
+  "district": "Franches-Montagnes",
+  "population": 1631,
+  "superficie": "+0010,81",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Les Enfers",
+  "page": "Les Enfers",
+  "cellules": [
+   "Les Enfers",
+   "6745",
+   "Franches-Montagnes",
+   "+000145,",
+   "+0007,14",
+   "20",
+   "municipale"
+  ],
+  "ofs": 6745,
+  "district": "Franches-Montagnes",
+  "population": 145,
+  "superficie": "+0007,14",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Les Genevez",
+  "page": "Les Genevez",
+  "cellules": [
+   "Les Genevez",
+   "6748",
+   "Franches-Montagnes",
+   "+000518,",
+   "+0013,61",
+   "38",
+   "mixte"
+  ],
+  "ofs": 6748,
+  "district": "Franches-Montagnes",
+  "population": 518,
+  "superficie": "+0013,61",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Mervelier",
+  "page": "Mervelier",
+  "cellules": [
+   "Mervelier",
+   "6715",
+   "Delémont",
+   "+000523,",
+   "+0009,77",
+   "54",
+   "mixte"
+  ],
+  "ofs": 6715,
+  "district": "Delémont",
+  "population": 523,
+  "superficie": "+0009,77",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Mettembert",
+  "page": "Mettembert",
+  "cellules": [
+   "Mettembert",
+   "6716",
+   "Delémont",
+   "+000109,",
+   "+0002,32",
+   "47",
+   "mixte"
+  ],
+  "ofs": 6716,
+  "district": "Delémont",
+  "population": 109,
+  "superficie": "+0002,32",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Montfaucon",
+  "page": "Montfaucon (Jura)",
+  "cellules": [
+   "Montfaucon",
+   "6751",
+   "Franches-Montagnes",
+   "+000565,",
+   "+0018,24",
+   "31",
+   "mixte"
+  ],
+  "ofs": 6751,
+  "district": "Franches-Montagnes",
+  "population": 565,
+  "superficie": "+0018,24",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Moutier",
+  "page": "Moutier",
+  "cellules": [
+   "Moutier",
+   "6831",
+   "Moutier",
+   "+007 053,",
+   "+0019,58",
+   "360",
+   "mixte"
+  ],
+  "ofs": 6831,
+  "district": "Moutier",
+  "population": 7053,
+  "superficie": "+0019,58",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Movelier",
+  "page": "Movelier",
+  "cellules": [
+   "Movelier",
+   "6718",
+   "Delémont",
+   "+000422,",
+   "+0008,08",
+   "52",
+   "mixte"
+  ],
+  "ofs": 6718,
+  "district": "Delémont",
+  "population": 422,
+  "superficie": "+0008,08",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Muriaux",
+  "page": "Muriaux",
+  "cellules": [
+   "Muriaux",
+   "6753",
+   "Franches-Montagnes",
+   "+000513,",
+   "+0016,89",
+   "30",
+   "mixte"
+  ],
+  "ofs": 6753,
+  "district": "Franches-Montagnes",
+  "population": 513,
+  "superficie": "+0016,89",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Pleigne",
+  "page": "Pleigne",
+  "cellules": [
+   "Pleigne",
+   "6719",
+   "Delémont",
+   "+000368,",
+   "+0017,83",
+   "21",
+   "mixte"
+  ],
+  "ofs": 6719,
+  "district": "Delémont",
+  "population": 368,
+  "superficie": "+0017,83",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Porrentruy",
+  "page": "Porrentruy",
+  "cellules": [
+   "Porrentruy",
+   "6800",
+   "Porrentruy",
+   "+006 597,",
+   "+0014,75",
+   "447",
+   "municipale et bourgeoise"
+  ],
+  "ofs": 6800,
+  "district": "Porrentruy",
+  "population": 6597,
+  "superficie": "+0014,75",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Rossemaison",
+  "page": "Rossemaison",
+  "cellules": [
+   "Rossemaison",
+   "6721",
+   "Delémont",
+   "+000767,",
+   "+0001,89",
+   "406",
+   "mixte"
+  ],
+  "ofs": 6721,
+  "district": "Delémont",
+  "population": 767,
+  "superficie": "+0001,89",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Saignelégier",
+  "page": "Saignelégier",
+  "cellules": [
+   "Saignelégier",
+   "6757",
+   "Franches-Montagnes",
+   "+002 528,",
+   "+0031,64",
+   "80",
+   "mixte"
+  ],
+  "ofs": 6757,
+  "district": "Franches-Montagnes",
+  "population": 2528,
+  "superficie": "+0031,64",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Saint-Brais",
+  "page": "Saint-Brais",
+  "cellules": [
+   "Saint-Brais",
+   "6758",
+   "Franches-Montagnes",
+   "+000248,",
+   "+0015,15",
+   "16",
+   "Section de commune"
+  ],
+  "ofs": 6758,
+  "district": "Franches-Montagnes",
+  "population": 248,
+  "superficie": "+0015,15",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Saulcy",
+  "page": "Saulcy (Jura)",
+  "cellules": [
+   "Saulcy",
+   "6722",
+   "Delémont",
+   "+000274,",
+   "+0007,86",
+   "35",
+   "mixte"
+  ],
+  "ofs": 6722,
+  "district": "Delémont",
+  "population": 274,
+  "superficie": "+0007,86",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Soubey",
+  "page": "Soubey",
+  "cellules": [
+   "Soubey",
+   "6759",
+   "Franches-Montagnes",
+   "+000123,",
+   "+0013,47",
+   "9",
+   "municipale"
+  ],
+  "ofs": 6759,
+  "district": "Franches-Montagnes",
+  "population": 123,
+  "superficie": "+0013,47",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Soyhières",
+  "page": "Soyhières",
+  "cellules": [
+   "Soyhières",
+   "6724",
+   "Delémont",
+   "+000461,",
+   "+0007,5",
+   "61",
+   "municipale et bourgeoise"
+  ],
+  "ofs": 6724,
+  "district": "Delémont",
+  "population": 461,
+  "superficie": "+0007,5",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Val Terbi",
+  "page": "Val Terbi (commune)",
+  "cellules": [
+   "Val Terbi",
+   "6730",
+   "Delémont",
+   "+003 240,",
+   "+0046,71",
+   "69",
+   "mixte"
+  ],
+  "ofs": 6730,
+  "district": "Delémont",
+  "population": 3240,
+  "superficie": "+0046,71",
+  "tier": 1
+ },
+ {
+  "canton": "JU",
+  "nom": "Vendlincourt",
+  "page": "Vendlincourt",
+  "cellules": [
+   "Vendlincourt",
+   "6806",
+   "Porrentruy",
+   "+000554,",
+   "+0009,18",
+   "60",
+   "mixte"
+  ],
+  "ofs": 6806,
+  "district": "Porrentruy",
+  "population": 554,
+  "superficie": "+0009,18",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Boudry",
+  "page": "Boudry (Neuchâtel)",
+  "cellules": [
+   "Boudry",
+   "6404",
+   "Littoral",
+   "+006 341,",
+   "+0016,77",
+   "378"
+  ],
+  "ofs": 6404,
+  "district": "Littoral",
+  "population": 6341,
+  "superficie": "+0016,77",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Brot-Plamboz",
+  "page": "Brot-Plamboz",
+  "cellules": [
+   "Brot-Plamboz",
+   "6433",
+   "Montagnes",
+   "+000300,",
+   "+0016,03",
+   "19"
+  ],
+  "ofs": 6433,
+  "district": "Montagnes",
+  "population": 300,
+  "superficie": "+0016,03",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Cornaux",
+  "page": "Cornaux",
+  "cellules": [
+   "Cornaux",
+   "6451",
+   "Littoral",
+   "+001 684,",
+   "+0004,72",
+   "357"
+  ],
+  "ofs": 6451,
+  "district": "Littoral",
+  "population": 1684,
+  "superficie": "+0004,72",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Cortaillod",
+  "page": "Cortaillod",
+  "cellules": [
+   "Cortaillod",
+   "6408",
+   "Littoral",
+   "+004 769,",
+   "+0003,69",
+   "1292"
+  ],
+  "ofs": 6408,
+  "district": "Littoral",
+  "population": 4769,
+  "superficie": "+0003,69",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Cressier",
+  "page": "Cressier (Neuchâtel)",
+  "cellules": [
+   "Cressier",
+   "6452",
+   "Littoral",
+   "+002 072,",
+   "+0008,55",
+   "242"
+  ],
+  "ofs": 6452,
+  "district": "Littoral",
+  "population": 2072,
+  "superficie": "+0008,55",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "La Brévine",
+  "page": "La Brévine",
+  "cellules": [
+   "La Brévine",
+   "6432",
+   "Montagnes",
+   "+000614,",
+   "+0041,82",
+   "15"
+  ],
+  "ofs": 6432,
+  "district": "Montagnes",
+  "population": 614,
+  "superficie": "+0041,82",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "La Chaux-de-Fonds",
+  "page": "La Chaux-de-Fonds",
+  "cellules": [
+   "La Chaux-de-Fonds",
+   "6421",
+   "Montagnes",
+   "+037 858,",
+   "+0055,66",
+   "680"
+  ],
+  "ofs": 6421,
+  "district": "Montagnes",
+  "population": 37858,
+  "superficie": "+0055,66",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "La Chaux-du-Milieu",
+  "page": "La Chaux-du-Milieu",
+  "cellules": [
+   "La Chaux-du-Milieu",
+   "6435",
+   "Montagnes",
+   "+000494,",
+   "+0017,28",
+   "29"
+  ],
+  "ofs": 6435,
+  "district": "Montagnes",
+  "population": 494,
+  "superficie": "+0017,28",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "La Côte-aux-Fées",
+  "page": "La Côte-aux-Fées",
+  "cellules": [
+   "La Côte-aux-Fées",
+   "6504",
+   "Val-de-Travers",
+   "+000467,",
+   "+0012,85",
+   "36"
+  ],
+  "ofs": 6504,
+  "district": "Val-de-Travers",
+  "population": 467,
+  "superficie": "+0012,85",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "La Grande Béroche",
+  "page": "La Grande Béroche",
+  "cellules": [
+   "La Grande Béroche",
+   "6417",
+   "Littoral",
+   "+009 363,",
+   "+0042,21",
+   "222"
+  ],
+  "ofs": 6417,
+  "district": "Littoral",
+  "population": 9363,
+  "superficie": "+0042,21",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "La Sagne",
+  "page": "La Sagne",
+  "cellules": [
+   "La Sagne",
+   "6423",
+   "Montagnes",
+   "+001 090,",
+   "+0025,55",
+   "43"
+  ],
+  "ofs": 6423,
+  "district": "Montagnes",
+  "population": 1090,
+  "superficie": "+0025,55",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Laténa",
+  "page": "Laténa",
+  "cellules": [
+   "Laténa",
+   "6513",
+   "Littoral",
+   "+011 752,",
+   "+0026,02",
+   "452"
+  ],
+  "ofs": 6513,
+  "district": "Littoral",
+  "population": 11752,
+  "superficie": "+0026,02",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Le Cerneux-Péquignot",
+  "page": "Le Cerneux-Péquignot",
+  "cellules": [
+   "Le Cerneux-Péquignot",
+   "6434",
+   "Montagnes",
+   "+000313,",
+   "+0015,67",
+   "20"
+  ],
+  "ofs": 6434,
+  "district": "Montagnes",
+  "population": 313,
+  "superficie": "+0015,67",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Le Landeron",
+  "page": "Le Landeron",
+  "cellules": [
+   "Le Landeron",
+   "6455",
+   "Littoral",
+   "+004 685,",
+   "+0010,31",
+   "454"
+  ],
+  "ofs": 6455,
+  "district": "Littoral",
+  "population": 4685,
+  "superficie": "+0010,31",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Le Locle",
+  "page": "Le Locle",
+  "cellules": [
+   "Le Locle",
+   "6436",
+   "Montagnes",
+   "+010 912,",
+   "+0034,66",
+   "315"
+  ],
+  "ofs": 6436,
+  "district": "Montagnes",
+  "population": 10912,
+  "superficie": "+0034,66",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Les Planchettes",
+  "page": "Les Planchettes",
+  "cellules": [
+   "Les Planchettes",
+   "6422",
+   "Montagnes",
+   "+000187,",
+   "+0011,73",
+   "16"
+  ],
+  "ofs": 6422,
+  "district": "Montagnes",
+  "population": 187,
+  "superficie": "+0011,73",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Les Ponts-de-Martel",
+  "page": "Les Ponts-de-Martel",
+  "cellules": [
+   "Les Ponts-de-Martel",
+   "6437",
+   "Montagnes",
+   "+001 234,",
+   "+0018,23",
+   "68"
+  ],
+  "ofs": 6437,
+  "district": "Montagnes",
+  "population": 1234,
+  "superficie": "+0018,23",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Les Verrières",
+  "page": "Les Verrières",
+  "cellules": [
+   "Les Verrières",
+   "6511",
+   "Val-de-Travers",
+   "+000660,",
+   "+0028,68",
+   "23"
+  ],
+  "ofs": 6511,
+  "district": "Val-de-Travers",
+  "population": 660,
+  "superficie": "+0028,68",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Lignières",
+  "page": "Lignières (Neuchâtel)",
+  "cellules": [
+   "Lignières",
+   "6456",
+   "Littoral",
+   "+001 101,",
+   "+0012,51",
+   "88"
+  ],
+  "ofs": 6456,
+  "district": "Littoral",
+  "population": 1101,
+  "superficie": "+0012,51",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Milvignes",
+  "page": "Milvignes",
+  "cellules": [
+   "Milvignes",
+   "6416",
+   "Littoral",
+   "+009 367,",
+   "+0008,78",
+   "1067"
+  ],
+  "ofs": 6416,
+  "district": "Littoral",
+  "population": 9367,
+  "superficie": "+0008,78",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Neuchâtel",
+  "page": "Neuchâtel",
+  "cellules": [
+   "Neuchâtel",
+   "6458",
+   "Littoral",
+   "+045 466,",
+   "+0030,08",
+   "1512"
+  ],
+  "ofs": 6458,
+  "district": "Littoral",
+  "population": 45466,
+  "superficie": "+0030,08",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Rochefort",
+  "page": "Rochefort (Neuchâtel)",
+  "cellules": [
+   "Rochefort",
+   "6413",
+   "Littoral",
+   "+001 383,",
+   "+0025,84",
+   "54"
+  ],
+  "ofs": 6413,
+  "district": "Littoral",
+  "population": 1383,
+  "superficie": "+0025,84",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Val-de-Ruz",
+  "page": "Val-de-Ruz",
+  "cellules": [
+   "Val-de-Ruz",
+   "6487",
+   "Val-de-Ruz",
+   "+017 543,",
+   "+0124,26",
+   "141"
+  ],
+  "ofs": 6487,
+  "district": "Val-de-Ruz",
+  "population": 17543,
+  "superficie": "+0124,26",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "Val-de-Travers",
+  "page": "Val-de-Travers",
+  "cellules": [
+   "Val-de-Travers",
+   "6512",
+   "Val-de-Travers",
+   "+010 710,",
+   "+0124,91",
+   "86"
+  ],
+  "ofs": 6512,
+  "district": "Val-de-Travers",
+  "population": 10710,
+  "superficie": "+0124,91",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "lac de Bienne",
+  "page": "Lac de Bienne",
+  "cellules": [
+   "Partie du lac de Bienne",
+   "9178",
+   "",
+   "+00 0000,",
+   "+0000,52",
+   "0"
+  ],
+  "ofs": 9178,
+  "district": null,
+  "population": 0,
+  "superficie": "+0000,52",
+  "tier": 1
+ },
+ {
+  "canton": "NE",
+  "nom": "lac de Neuchâtel",
+  "page": "Lac de Neuchâtel",
+  "cellules": [
+   "Partie du lac de Neuchâtel",
+   "9155",
+   "",
+   "+00 0000,",
+   "+0085,48",
+   "0"
+  ],
+  "ofs": 9155,
+  "district": null,
+  "population": 0,
+  "superficie": "+0085,48",
+  "tier": 1
+ },
+ {
+  "canton": "FR",
+  "nom": "Attalens",
+  "page": "Attalens",
+  "cellules": [
+   "Attalens",
+   "2321",
+   "Veveyse",
+   "+003 690,",
+   "+0009,76",
+   "378"
+  ],
+  "ofs": 2321,
+  "district": "Veveyse",
+  "population": 3690,
+  "superficie": "+0009,76",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Avry",
+  "page": "Avry",
+  "cellules": [
+   "Avry",
+   "2174",
+   "Sarine",
+   "+001 970,",
+   "+0005,83",
+   "338"
+  ],
+  "ofs": 2174,
+  "district": "Sarine",
+  "population": 1970,
+  "superficie": "+0005,83",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Bas-Intyamon",
+  "page": "Bas-Intyamon",
+  "cellules": [
+   "Bas-Intyamon",
+   "2162",
+   "Gruyère",
+   "+001 759,",
+   "+0033,31",
+   "53"
+  ],
+  "ofs": 2162,
+  "district": "Gruyère",
+  "population": 1759,
+  "superficie": "+0033,31",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Belfaux",
+  "page": "Belfaux",
+  "cellules": [
+   "Belfaux",
+   "2175",
+   "Sarine",
+   "+003 488,",
+   "+0008,88",
+   "393"
+  ],
+  "ofs": 2175,
+  "district": "Sarine",
+  "population": 3488,
+  "superficie": "+0008,88",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Belmont-Broye",
+  "page": "Belmont-Broye",
+  "cellules": [
+   "Belmont-Broye",
+   "2053",
+   "Broye",
+   "+006 287,",
+   "+0025,81",
+   "244"
+  ],
+  "ofs": 2053,
+  "district": "Broye",
+  "population": 6287,
+  "superficie": "+0025,81",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Bois-d'Amont",
+  "page": "Bois-d'Amont (Fribourg)",
+  "cellules": [
+   "Bois-d'Amont",
+   "2238",
+   "Sarine",
+   "+002 489,",
+   "+0012,28",
+   "203"
+  ],
+  "ofs": 2238,
+  "district": "Sarine",
+  "population": 2489,
+  "superficie": "+0012,28",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Bossonnens",
+  "page": "Bossonnens",
+  "cellules": [
+   "Bossonnens",
+   "2323",
+   "Veveyse",
+   "+001 661,",
+   "+0004,1",
+   "405"
+  ],
+  "ofs": 2323,
+  "district": "Veveyse",
+  "population": 1661,
+  "superficie": "+0004,1",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Broc",
+  "page": "Broc (Fribourg)",
+  "cellules": [
+   "Broc",
+   "2124",
+   "Gruyère",
+   "+002 957,",
+   "+0010,04",
+   "295"
+  ],
+  "ofs": 2124,
+  "district": "Gruyère",
+  "population": 2957,
+  "superficie": "+0010,04",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Bulle",
+  "page": "Bulle (Fribourg)",
+  "cellules": [
+   "Bulle",
+   "2125",
+   "Gruyère",
+   "+027 276,",
+   "+0023,87",
+   "1143"
+  ],
+  "ofs": 2125,
+  "district": "Gruyère",
+  "population": 27276,
+  "superficie": "+0023,87",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Châtel-Saint-Denis",
+  "page": "Châtel-Saint-Denis",
+  "cellules": [
+   "Châtel-Saint-Denis",
+   "2325",
+   "Veveyse",
+   "+008 931,",
+   "+0047,89",
+   "186"
+  ],
+  "ofs": 2325,
+  "district": "Veveyse",
+  "population": 8931,
+  "superficie": "+0047,89",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Cheyres-Châbles",
+  "page": "Cheyres-Châbles",
+  "cellules": [
+   "Cheyres-Châbles",
+   "2055",
+   "Broye",
+   "+002 545,",
+   "+0009,87",
+   "258"
+  ],
+  "ofs": 2055,
+  "district": "Broye",
+  "population": 2545,
+  "superficie": "+0009,87",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Chiètres",
+  "page": "Chiètres",
+  "cellules": [
+   "Chiètres",
+   "2265",
+   "Lac",
+   "+005 546,",
+   "+0012,23",
+   "453"
+  ],
+  "ofs": 2265,
+  "district": "Lac",
+  "population": 5546,
+  "superficie": "+0012,23",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Corminboeuf",
+  "page": "Corminboeuf",
+  "cellules": [
+   "Corminboeuf",
+   "2183",
+   "Sarine",
+   "+003 120,",
+   "+0007,24",
+   "431"
+  ],
+  "ofs": 2183,
+  "district": "Sarine",
+  "population": 3120,
+  "superficie": "+0007,24",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Cormondes",
+  "page": "Cormondes",
+  "cellules": [
+   "Cormondes",
+   "2262",
+   "Lac",
+   "+005 139,",
+   "+0020,12",
+   "255"
+  ],
+  "ofs": 2262,
+  "district": "Lac",
+  "population": 5139,
+  "superficie": "+0020,12",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Cottens",
+  "page": "Cottens (Fribourg)",
+  "cellules": [
+   "Cottens",
+   "2186",
+   "Sarine",
+   "+001 605,",
+   "+0004,97",
+   "323"
+  ],
+  "ofs": 2186,
+  "district": "Sarine",
+  "population": 1605,
+  "superficie": "+0004,97",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Courtepin",
+  "page": "Courtepin",
+  "cellules": [
+   "Courtepin",
+   "2254",
+   "Lac",
+   "+005 847,",
+   "+0021,85",
+   "268"
+  ],
+  "ofs": 2254,
+  "district": "Lac",
+  "population": 5847,
+  "superficie": "+0021,85",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Cugy",
+  "page": "Cugy (Fribourg)",
+  "cellules": [
+   "Cugy",
+   "2011",
+   "Broye",
+   "+002 067,",
+   "+0009,86",
+   "210"
+  ],
+  "ofs": 2011,
+  "district": "Broye",
+  "population": 2067,
+  "superficie": "+0009,86",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Estavayer",
+  "page": "Estavayer",
+  "cellules": [
+   "Estavayer",
+   "2054",
+   "Broye",
+   "+010 812,",
+   "+0040,36",
+   "268"
+  ],
+  "ofs": 2054,
+  "district": "Broye",
+  "population": 10812,
+  "superficie": "+0040,36",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Fétigny-Ménières",
+  "page": "Fétigny-Ménières",
+  "cellules": [
+   "Fétigny-Ménières",
+   "2056",
+   "Broye",
+   "+001 738,",
+   "+0008,46",
+   "205"
+  ],
+  "ofs": 2056,
+  "district": "Broye",
+  "population": 1738,
+  "superficie": "+0008,46",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Fribourg",
+  "page": "Fribourg (ville suisse)",
+  "cellules": [
+   "Fribourg",
+   "2196",
+   "Sarine",
+   "+039 599,",
+   "+0009,3",
+   "4258"
+  ],
+  "ofs": 2196,
+  "district": "Sarine",
+  "population": 39599,
+  "superficie": "+0009,3",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Gibloux",
+  "page": "Gibloux (commune)",
+  "cellules": [
+   "Gibloux",
+   "2236",
+   "Sarine",
+   "+008 719,",
+   "+0036,06",
+   "242"
+  ],
+  "ofs": 2236,
+  "district": "Sarine",
+  "population": 8719,
+  "superficie": "+0036,06",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Givisiez",
+  "page": "Givisiez",
+  "cellules": [
+   "Givisiez",
+   "2197",
+   "Sarine",
+   "+003 507,",
+   "+0003,46",
+   "1014"
+  ],
+  "ofs": 2197,
+  "district": "Sarine",
+  "population": 3507,
+  "superficie": "+0003,46",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Granges-Paccot",
+  "page": "Granges-Paccot",
+  "cellules": [
+   "Granges-Paccot",
+   "2198",
+   "Sarine",
+   "+003 989,",
+   "+0004,",
+   "997"
+  ],
+  "ofs": 2198,
+  "district": "Sarine",
+  "population": 3989,
+  "superficie": "+0004,",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Grolley-Ponthaux",
+  "page": "Grolley-Ponthaux",
+  "cellules": [
+   "Grolley-Ponthaux",
+   "2239",
+   "Sarine",
+   "+002 898,",
+   "+0011,25",
+   "258"
+  ],
+  "ofs": 2239,
+  "district": "Sarine",
+  "population": 2898,
+  "superficie": "+0011,25",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Gruyères",
+  "page": "Gruyères (Fribourg)",
+  "cellules": [
+   "Gruyères",
+   "2135",
+   "Gruyère",
+   "+002 353,",
+   "+0028,38",
+   "83"
+  ],
+  "ofs": 2135,
+  "district": "Gruyère",
+  "population": 2353,
+  "superficie": "+0028,38",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Haut-Intyamon",
+  "page": "Haut-Intyamon",
+  "cellules": [
+   "Haut-Intyamon",
+   "2121",
+   "Gruyère",
+   "+001 772,",
+   "+0060,45",
+   "29"
+  ],
+  "ofs": 2121,
+  "district": "Gruyère",
+  "population": 1772,
+  "superficie": "+0060,45",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Hauterive",
+  "page": "Hauterive (Fribourg)",
+  "cellules": [
+   "Hauterive",
+   "2233",
+   "Sarine",
+   "+002 674,",
+   "+0011,94",
+   "224"
+  ],
+  "ofs": 2233,
+  "district": "Sarine",
+  "population": 2674,
+  "superficie": "+0011,94",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "La Brillaz",
+  "page": "La Brillaz",
+  "cellules": [
+   "La Brillaz",
+   "2234",
+   "Sarine",
+   "+002 239,",
+   "+0010,29",
+   "218"
+  ],
+  "ofs": 2234,
+  "district": "Sarine",
+  "population": 2239,
+  "superficie": "+0010,29",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "La Roche",
+  "page": "La Roche (Fribourg)",
+  "cellules": [
+   "La Roche",
+   "2149",
+   "Gruyère",
+   "+002 083,",
+   "+0024,09",
+   "86"
+  ],
+  "ofs": 2149,
+  "district": "Gruyère",
+  "population": 2083,
+  "superficie": "+0024,09",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Le Mouret",
+  "page": "Le Mouret",
+  "cellules": [
+   "Le Mouret",
+   "2220",
+   "Sarine",
+   "+003 326,",
+   "+0018,54",
+   "179"
+  ],
+  "ofs": 2220,
+  "district": "Sarine",
+  "population": 3326,
+  "superficie": "+0018,54",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Les Montets",
+  "page": "Les Montets",
+  "cellules": [
+   "Les Montets",
+   "2050",
+   "Broye",
+   "+001 587,",
+   "+0010,31",
+   "154"
+  ],
+  "ofs": 2050,
+  "district": "Broye",
+  "population": 1587,
+  "superficie": "+0010,31",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Marly",
+  "page": "Marly (Fribourg)",
+  "cellules": [
+   "Marly",
+   "2206",
+   "Sarine",
+   "+009 566,",
+   "+0007,7",
+   "1242"
+  ],
+  "ofs": 2206,
+  "district": "Sarine",
+  "population": 9566,
+  "superficie": "+0007,7",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Marsens",
+  "page": "Marsens",
+  "cellules": [
+   "Marsens",
+   "2140",
+   "Gruyère",
+   "+002 093,",
+   "+0007,81",
+   "268"
+  ],
+  "ofs": 2140,
+  "district": "Gruyère",
+  "population": 2093,
+  "superficie": "+0007,81",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Matran",
+  "page": "Matran",
+  "cellules": [
+   "Matran",
+   "2208",
+   "Sarine",
+   "+002 094,",
+   "+0002,86",
+   "732"
+  ],
+  "ofs": 2208,
+  "district": "Sarine",
+  "population": 2094,
+  "superficie": "+0002,86",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Misery-Courtion",
+  "page": "Misery-Courtion",
+  "cellules": [
+   "Misery-Courtion",
+   "2272",
+   "Lac",
+   "+002 393,",
+   "+0011,41",
+   "210"
+  ],
+  "ofs": 2272,
+  "district": "Lac",
+  "population": 2393,
+  "superficie": "+0011,41",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Mont-Vully",
+  "page": "Mont-Vully",
+  "cellules": [
+   "Mont-Vully",
+   "2284",
+   "Lac",
+   "+004 551,",
+   "+0017,53",
+   "260"
+  ],
+  "ofs": 2284,
+  "district": "Lac",
+  "population": 4551,
+  "superficie": "+0017,53",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Montagny",
+  "page": "Montagny (Fribourg)",
+  "cellules": [
+   "Montagny",
+   "2029",
+   "Broye",
+   "+003 105,",
+   "+0017,52",
+   "177"
+  ],
+  "ofs": 2029,
+  "district": "Broye",
+  "population": 3105,
+  "superficie": "+0017,52",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Morat",
+  "page": "Morat",
+  "cellules": [
+   "Morat",
+   "2275",
+   "Lac",
+   "+009 525,",
+   "+0036,41",
+   "262"
+  ],
+  "ofs": 2275,
+  "district": "Lac",
+  "population": 9525,
+  "superficie": "+0036,41",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Neyruz",
+  "page": "Neyruz",
+  "cellules": [
+   "Neyruz",
+   "2211",
+   "Sarine",
+   "+002 874,",
+   "+0005,54",
+   "519"
+  ],
+  "ofs": 2211,
+  "district": "Sarine",
+  "population": 2874,
+  "superficie": "+0005,54",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Pont-en-Ogoz",
+  "page": "Pont-en-Ogoz",
+  "cellules": [
+   "Pont-en-Ogoz",
+   "2122",
+   "Gruyère",
+   "+002 050,",
+   "+0010,02",
+   "205"
+  ],
+  "ofs": 2122,
+  "district": "Gruyère",
+  "population": 2050,
+  "superficie": "+0010,02",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Prez",
+  "page": "Prez (Fribourg)",
+  "cellules": [
+   "Prez",
+   "2237",
+   "Sarine",
+   "+002 487,",
+   "+0016,02",
+   "155"
+  ],
+  "ofs": 2237,
+  "district": "Sarine",
+  "population": 2487,
+  "superficie": "+0016,02",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Riaz",
+  "page": "Riaz",
+  "cellules": [
+   "Riaz",
+   "2148",
+   "Gruyère",
+   "+002 924,",
+   "+0007,76",
+   "377"
+  ],
+  "ofs": 2148,
+  "district": "Gruyère",
+  "population": 2924,
+  "superficie": "+0007,76",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Romont",
+  "page": "Romont (Fribourg)",
+  "cellules": [
+   "Romont",
+   "2096",
+   "Glâne",
+   "+006 276,",
+   "+0010,89",
+   "576"
+  ],
+  "ofs": 2096,
+  "district": "Glâne",
+  "population": 6276,
+  "superficie": "+0010,89",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Rue",
+  "page": "Rue (Fribourg)",
+  "cellules": [
+   "Rue",
+   "2097",
+   "Glâne",
+   "+002 638,",
+   "+0020,03",
+   "132"
+  ],
+  "ofs": 2097,
+  "district": "Glâne",
+  "population": 2638,
+  "superficie": "+0020,03",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Saint-Aubin",
+  "page": "Saint-Aubin (Fribourg)",
+  "cellules": [
+   "Saint-Aubin",
+   "2041",
+   "Broye",
+   "+002 106,",
+   "+0007,88",
+   "267"
+  ],
+  "ofs": 2041,
+  "district": "Broye",
+  "population": 2106,
+  "superficie": "+0007,88",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Semsales",
+  "page": "Semsales",
+  "cellules": [
+   "Semsales",
+   "2336",
+   "Veveyse",
+   "+001 591,",
+   "+0029,36",
+   "54"
+  ],
+  "ofs": 2336,
+  "district": "Veveyse",
+  "population": 1591,
+  "superficie": "+0029,36",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Siviriez",
+  "page": "Siviriez",
+  "cellules": [
+   "Siviriez",
+   "2099",
+   "Glâne",
+   "+002 711,",
+   "+0020,28",
+   "134"
+  ],
+  "ofs": 2099,
+  "district": "Glâne",
+  "population": 2711,
+  "superficie": "+0020,28",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Treyvaux",
+  "page": "Treyvaux",
+  "cellules": [
+   "Treyvaux",
+   "2226",
+   "Sarine",
+   "+001 643,",
+   "+0011,44",
+   "144"
+  ],
+  "ofs": 2226,
+  "district": "Sarine",
+  "population": 1643,
+  "superficie": "+0011,44",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Ursy",
+  "page": "Ursy",
+  "cellules": [
+   "Ursy",
+   "2102",
+   "Glâne",
+   "+004 073,",
+   "+0017,13",
+   "238"
+  ],
+  "ofs": 2102,
+  "district": "Glâne",
+  "population": 4073,
+  "superficie": "+0017,13",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Val-de-Charmey",
+  "page": "Val-de-Charmey",
+  "cellules": [
+   "Val-de-Charmey",
+   "2163",
+   "Gruyère",
+   "+002 725,",
+   "+0112,15",
+   "24"
+  ],
+  "ofs": 2163,
+  "district": "Gruyère",
+  "population": 2725,
+  "superficie": "+0112,15",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Villars-sur-Glâne",
+  "page": "Villars-sur-Glâne",
+  "cellules": [
+   "Villars-sur-Glâne",
+   "2228",
+   "Sarine",
+   "+012 644,",
+   "+0005,49",
+   "2303"
+  ],
+  "ofs": 2228,
+  "district": "Sarine",
+  "population": 12644,
+  "superficie": "+0005,49",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Villaz",
+  "page": "Villaz (Fribourg)",
+  "cellules": [
+   "Villaz",
+   "2117",
+   "Glâne",
+   "+002 421,",
+   "+0015,45",
+   "157"
+  ],
+  "ofs": 2117,
+  "district": "Glâne",
+  "population": 2421,
+  "superficie": "+0015,45",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Villorsonnens",
+  "page": "Villorsonnens",
+  "cellules": [
+   "Villorsonnens",
+   "2114",
+   "Glâne",
+   "+001 593,",
+   "+0015,47",
+   "103"
+  ],
+  "ofs": 2114,
+  "district": "Glâne",
+  "population": 1593,
+  "superficie": "+0015,47",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Vuadens",
+  "page": "Vuadens",
+  "cellules": [
+   "Vuadens",
+   "2160",
+   "Gruyère",
+   "+002 580,",
+   "+0010,44",
+   "247"
+  ],
+  "ofs": 2160,
+  "district": "Gruyère",
+  "population": 2580,
+  "superficie": "+0010,44",
+  "tier": 2
+ },
+ {
+  "canton": "FR",
+  "nom": "Vuisternens-devant-Romont",
+  "page": "Vuisternens-devant-Romont",
+  "cellules": [
+   "Vuisternens-devant-Romont",
+   "2113",
+   "Glâne",
+   "+002 410,",
+   "+0024,06",
+   "100"
+  ],
+  "ofs": 2113,
+  "district": "Glâne",
+  "population": 2410,
+  "superficie": "+0024,06",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Assens",
+  "page": "Assens (Vaud)",
+  "cellules": [
+   "Assens",
+   "5511",
+   "Gros-de-Vaud",
+   "+001 749,",
+   "+0005,35",
+   "327"
+  ],
+  "ofs": 5511,
+  "district": "Gros-de-Vaud",
+  "population": 1749,
+  "superficie": "+0005,35",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Avenches",
+  "page": "Avenches",
+  "cellules": [
+   "Avenches",
+   "5451",
+   "Broye-Vully",
+   "+004 945,",
+   "+0017,56",
+   "282"
+  ],
+  "ofs": 5451,
+  "district": "Broye-Vully",
+  "population": 4945,
+  "superficie": "+0017,56",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Belmont-sur-Lausanne",
+  "page": "Belmont-sur-Lausanne",
+  "cellules": [
+   "Belmont-sur-Lausanne",
+   "5581",
+   "Lavaux-Oron",
+   "+003 890,",
+   "+0002,65",
+   "1468"
+  ],
+  "ofs": 5581,
+  "district": "Lavaux-Oron",
+  "population": 3890,
+  "superficie": "+0002,65",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Blonay - Saint-Légier",
+  "page": "Blonay-Saint-Légier",
+  "cellules": [
+   "Blonay - Saint-Légier",
+   "5892",
+   "Riviera-Pays-d'Enhaut",
+   "+012 608,",
+   "+0031,24",
+   "404"
+  ],
+  "ofs": 5892,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 12608,
+  "superficie": "+0031,24",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Bourg-en-Lavaux",
+  "page": "Bourg-en-Lavaux",
+  "cellules": [
+   "Bourg-en-Lavaux",
+   "5613",
+   "Lavaux-Oron",
+   "+005 561,",
+   "+0009,65",
+   "576"
+  ],
+  "ofs": 5613,
+  "district": "Lavaux-Oron",
+  "population": 5561,
+  "superficie": "+0009,65",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Bussigny",
+  "page": "Bussigny",
+  "cellules": [
+   "Bussigny",
+   "5624",
+   "Ouest lausannois",
+   "+012 120,",
+   "+0004,82",
+   "2515"
+  ],
+  "ofs": 5624,
+  "district": "Ouest lausannois",
+  "population": 12120,
+  "superficie": "+0004,82",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Chardonne",
+  "page": "Chardonne",
+  "cellules": [
+   "Chardonne",
+   "5882",
+   "Riviera-Pays-d'Enhaut",
+   "+003 383,",
+   "+0010,32",
+   "328"
+  ],
+  "ofs": 5882,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 3383,
+  "superficie": "+0010,32",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Château-d'Œx",
+  "page": "Château-d'Œx",
+  "cellules": [
+   "Château-d'Œx",
+   "5841",
+   "Riviera-Pays-d'Enhaut",
+   "+003 681,",
+   "+0113,71",
+   "32"
+  ],
+  "ofs": 5841,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 3681,
+  "superficie": "+0113,71",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Chavannes-près-Renens",
+  "page": "Chavannes-près-Renens",
+  "cellules": [
+   "Chavannes-près-Renens",
+   "5627",
+   "Ouest lausannois",
+   "+010 720,",
+   "+0001,65",
+   "6497"
+  ],
+  "ofs": 5627,
+  "district": "Ouest lausannois",
+  "population": 10720,
+  "superficie": "+0001,65",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Chavornay",
+  "page": "Chavornay (Vaud)",
+  "cellules": [
+   "Chavornay",
+   "5749",
+   "Jura-Nord vaudois",
+   "+005 375,",
+   "+0019,29",
+   "279"
+  ],
+  "ofs": 5749,
+  "district": "Jura-Nord vaudois",
+  "population": 5375,
+  "superficie": "+0019,29",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Cheseaux-sur-Lausanne",
+  "page": "Cheseaux-sur-Lausanne",
+  "cellules": [
+   "Cheseaux-sur-Lausanne",
+   "5582",
+   "Lausanne",
+   "+004 861,",
+   "+0004,59",
+   "1059"
+  ],
+  "ofs": 5582,
+  "district": "Lausanne",
+  "population": 4861,
+  "superficie": "+0004,59",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Chexbres",
+  "page": "Chexbres",
+  "cellules": [
+   "Chexbres",
+   "5601",
+   "Lavaux-Oron",
+   "+002 270,",
+   "+0002,14",
+   "1061"
+  ],
+  "ofs": 5601,
+  "district": "Lavaux-Oron",
+  "population": 2270,
+  "superficie": "+0002,14",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Corcelles-près-Payerne",
+  "page": "Corcelles-près-Payerne",
+  "cellules": [
+   "Corcelles-près-Payerne",
+   "5816",
+   "Broye-Vully",
+   "+003 110,",
+   "+0012,13",
+   "256"
+  ],
+  "ofs": 5816,
+  "district": "Broye-Vully",
+  "population": 3110,
+  "superficie": "+0012,13",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Corseaux",
+  "page": "Corseaux",
+  "cellules": [
+   "Corseaux",
+   "5883",
+   "Riviera-Pays-d'Enhaut",
+   "+002 323,",
+   "+0001,06",
+   "2192"
+  ],
+  "ofs": 5883,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 2323,
+  "superficie": "+0001,06",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Corsier-sur-Vevey",
+  "page": "Corsier-sur-Vevey",
+  "cellules": [
+   "Corsier-sur-Vevey",
+   "5884",
+   "Riviera-Pays-d'Enhaut",
+   "+003 459,",
+   "+0006,75",
+   "512"
+  ],
+  "ofs": 5884,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 3459,
+  "superficie": "+0006,75",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Crissier",
+  "page": "Crissier",
+  "cellules": [
+   "Crissier",
+   "5583",
+   "Ouest lausannois",
+   "+011 101,",
+   "+0005,51",
+   "2015"
+  ],
+  "ofs": 5583,
+  "district": "Ouest lausannois",
+  "population": 11101,
+  "superficie": "+0005,51",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Cudrefin",
+  "page": "Cudrefin",
+  "cellules": [
+   "Cudrefin",
+   "5456",
+   "Broye-Vully",
+   "+001 915,",
+   "+0015,82",
+   "121"
+  ],
+  "ofs": 5456,
+  "district": "Broye-Vully",
+  "population": 1915,
+  "superficie": "+0015,82",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Cugy",
+  "page": "Cugy (Vaud)",
+  "cellules": [
+   "Cugy",
+   "5516",
+   "Gros-de-Vaud",
+   "+002 814,",
+   "+0002,9",
+   "970"
+  ],
+  "ofs": 5516,
+  "district": "Gros-de-Vaud",
+  "population": 2814,
+  "superficie": "+0002,9",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Échallens",
+  "page": "Échallens",
+  "cellules": [
+   "Échallens",
+   "5518",
+   "Gros-de-Vaud",
+   "+006 817,",
+   "+0006,66",
+   "1024"
+  ],
+  "ofs": 5518,
+  "district": "Gros-de-Vaud",
+  "population": 6817,
+  "superficie": "+0006,66",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Écublens",
+  "page": "Écublens (Vaud)",
+  "cellules": [
+   "Écublens",
+   "5635",
+   "Ouest lausannois",
+   "+013 747,",
+   "+0005,71",
+   "2408"
+  ],
+  "ofs": 5635,
+  "district": "Ouest lausannois",
+  "population": 13747,
+  "superficie": "+0005,71",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Épalinges",
+  "page": "Épalinges",
+  "cellules": [
+   "Épalinges",
+   "5584",
+   "Lausanne",
+   "+009 860,",
+   "+0004,57",
+   "2158"
+  ],
+  "ofs": 5584,
+  "district": "Lausanne",
+  "population": 9860,
+  "superficie": "+0004,57",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Forel",
+  "page": "Forel (Vaud)",
+  "cellules": [
+   "Forel",
+   "5604",
+   "Lavaux-Oron",
+   "+002 109,",
+   "+0018,51",
+   "114"
+  ],
+  "ofs": 5604,
+  "district": "Lavaux-Oron",
+  "population": 2109,
+  "superficie": "+0018,51",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Froideville",
+  "page": "Froideville (Gros-de-Vaud)",
+  "cellules": [
+   "Froideville",
+   "5523",
+   "Gros-de-Vaud",
+   "+002 712,",
+   "+0007,08",
+   "383"
+  ],
+  "ofs": 5523,
+  "district": "Gros-de-Vaud",
+  "population": 2712,
+  "superficie": "+0007,08",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Grandson",
+  "page": "Grandson",
+  "cellules": [
+   "Grandson",
+   "5561",
+   "Jura-Nord vaudois",
+   "+003 390,",
+   "+0007,86",
+   "431"
+  ],
+  "ofs": 5561,
+  "district": "Jura-Nord vaudois",
+  "population": 3390,
+  "superficie": "+0007,86",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Jongny",
+  "page": "Jongny",
+  "cellules": [
+   "Jongny",
+   "5885",
+   "Riviera-Pays-d'Enhaut",
+   "+001 918,",
+   "+0002,16",
+   "888"
+  ],
+  "ofs": 5885,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 1918,
+  "superficie": "+0002,16",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Jorat-Menthue",
+  "page": "Jorat-Menthue",
+  "cellules": [
+   "Jorat-Menthue",
+   "5804",
+   "Gros-de-Vaud",
+   "+001 566,",
+   "+0017,65",
+   "89"
+  ],
+  "ofs": 5804,
+  "district": "Gros-de-Vaud",
+  "population": 1566,
+  "superficie": "+0017,65",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Jorat-Mézières",
+  "page": "Jorat-Mézières",
+  "cellules": [
+   "Jorat-Mézières",
+   "5806",
+   "Lavaux-Oron",
+   "+003 210,",
+   "+0011,07",
+   "290"
+  ],
+  "ofs": 5806,
+  "district": "Lavaux-Oron",
+  "population": 3210,
+  "superficie": "+0011,07",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "La Tour-de-Peilz",
+  "page": "La Tour-de-Peilz",
+  "cellules": [
+   "La Tour-de-Peilz",
+   "5889",
+   "Riviera-Pays-d'Enhaut",
+   "+013 046,",
+   "+0003,24",
+   "4027"
+  ],
+  "ofs": 5889,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 13046,
+  "superficie": "+0003,24",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "L'Abbaye",
+  "page": "L'Abbaye (Vaud)",
+  "cellules": [
+   "L'Abbaye",
+   "5871",
+   "Jura-Nord vaudois",
+   "+001 604,",
+   "+0031,88",
+   "50"
+  ],
+  "ofs": 5871,
+  "district": "Jura-Nord vaudois",
+  "population": 1604,
+  "superficie": "+0031,88",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Lausanne",
+  "page": "Lausanne",
+  "cellules": [
+   "Lausanne",
+   "5586",
+   "Lausanne",
+   "+145 596,",
+   "+0041,38",
+   "3519"
+  ],
+  "ofs": 5586,
+  "district": "Lausanne",
+  "population": 145596,
+  "superficie": "+0041,38",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Le Chenit",
+  "page": "Le Chenit",
+  "cellules": [
+   "Le Chenit",
+   "5872",
+   "Jura-Nord vaudois",
+   "+004 787,",
+   "+0099,25",
+   "48"
+  ],
+  "ofs": 5872,
+  "district": "Jura-Nord vaudois",
+  "population": 4787,
+  "superficie": "+0099,25",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Le Mont-sur-Lausanne",
+  "page": "Le Mont-sur-Lausanne",
+  "cellules": [
+   "Le Mont-sur-Lausanne",
+   "5587",
+   "Lausanne",
+   "+009 790,",
+   "+0009,82",
+   "997"
+  ],
+  "ofs": 5587,
+  "district": "Lausanne",
+  "population": 9790,
+  "superficie": "+0009,82",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Lucens",
+  "page": "Lucens",
+  "cellules": [
+   "Lucens",
+   "5675",
+   "Broye-Vully",
+   "+004 879,",
+   "+0017,7",
+   "276"
+  ],
+  "ofs": 5675,
+  "district": "Broye-Vully",
+  "population": 4879,
+  "superficie": "+0017,7",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Lutry",
+  "page": "Lutry",
+  "cellules": [
+   "Lutry",
+   "5606",
+   "Lavaux-Oron",
+   "+010 831,",
+   "+0008,45",
+   "1282"
+  ],
+  "ofs": 5606,
+  "district": "Lavaux-Oron",
+  "population": 10831,
+  "superficie": "+0008,45",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Montanaire",
+  "page": "Montanaire",
+  "cellules": [
+   "Montanaire",
+   "5693",
+   "Gros-de-Vaud",
+   "+002 857,",
+   "+0033,48",
+   "85"
+  ],
+  "ofs": 5693,
+  "district": "Gros-de-Vaud",
+  "population": 2857,
+  "superficie": "+0033,48",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Montilliez",
+  "page": "Montilliez",
+  "cellules": [
+   "Montilliez",
+   "5540",
+   "Gros-de-Vaud",
+   "+001 856,",
+   "+0011,87",
+   "156"
+  ],
+  "ofs": 5540,
+  "district": "Gros-de-Vaud",
+  "population": 1856,
+  "superficie": "+0011,87",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Montreux",
+  "page": "Montreux",
+  "cellules": [
+   "Montreux",
+   "5886",
+   "Riviera-Pays-d'Enhaut",
+   "+027 182,",
+   "+0033,37",
+   "815"
+  ],
+  "ofs": 5886,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 27182,
+  "superficie": "+0033,37",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Moudon",
+  "page": "Moudon",
+  "cellules": [
+   "Moudon",
+   "5678",
+   "Broye-Vully",
+   "+006 827,",
+   "+0015,69",
+   "435"
+  ],
+  "ofs": 5678,
+  "district": "Broye-Vully",
+  "population": 6827,
+  "superficie": "+0015,69",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Orbe",
+  "page": "Orbe (Vaud)",
+  "cellules": [
+   "Orbe",
+   "5757",
+   "Jura-Nord vaudois",
+   "+008 005,",
+   "+0012,02",
+   "666"
+  ],
+  "ofs": 5757,
+  "district": "Jura-Nord vaudois",
+  "population": 8005,
+  "superficie": "+0012,02",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Oron",
+  "page": "Oron (Vaud)",
+  "cellules": [
+   "Oron",
+   "5805",
+   "Lavaux-Oron",
+   "+006 447,",
+   "+0026,28",
+   "245"
+  ],
+  "ofs": 5805,
+  "district": "Lavaux-Oron",
+  "population": 6447,
+  "superficie": "+0026,28",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Payerne",
+  "page": "Payerne",
+  "cellules": [
+   "Payerne",
+   "5822",
+   "Broye-Vully",
+   "+010 938,",
+   "+0024,19",
+   "452"
+  ],
+  "ofs": 5822,
+  "district": "Broye-Vully",
+  "population": 10938,
+  "superficie": "+0024,19",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Penthalaz",
+  "page": "Penthalaz",
+  "cellules": [
+   "Penthalaz",
+   "5495",
+   "Gros-de-Vaud",
+   "+003 197,",
+   "+0003,87",
+   "826"
+  ],
+  "ofs": 5495,
+  "district": "Gros-de-Vaud",
+  "population": 3197,
+  "superficie": "+0003,87",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Penthaz",
+  "page": "Penthaz",
+  "cellules": [
+   "Penthaz",
+   "5496",
+   "Gros-de-Vaud",
+   "+001 911,",
+   "+0003,83",
+   "499"
+  ],
+  "ofs": 5496,
+  "district": "Gros-de-Vaud",
+  "population": 1911,
+  "superficie": "+0003,83",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Prilly",
+  "page": "Prilly",
+  "cellules": [
+   "Prilly",
+   "5589",
+   "Ouest lausannois",
+   "+013 037,",
+   "+0002,19",
+   "5953"
+  ],
+  "ofs": 5589,
+  "district": "Ouest lausannois",
+  "population": 13037,
+  "superficie": "+0002,19",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Puidoux",
+  "page": "Puidoux",
+  "cellules": [
+   "Puidoux",
+   "5607",
+   "Lavaux-Oron",
+   "+003 013,",
+   "+0022,89",
+   "132"
+  ],
+  "ofs": 5607,
+  "district": "Lavaux-Oron",
+  "population": 3013,
+  "superficie": "+0022,89",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Pully",
+  "page": "Pully",
+  "cellules": [
+   "Pully",
+   "5590",
+   "Lavaux-Oron",
+   "+019 536,",
+   "+0005,85",
+   "3339"
+  ],
+  "ofs": 5590,
+  "district": "Lavaux-Oron",
+  "population": 19536,
+  "superficie": "+0005,85",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Renens",
+  "page": "Renens",
+  "cellules": [
+   "Renens",
+   "5591",
+   "Ouest lausannois",
+   "+021 793,",
+   "+0002,96",
+   "7363"
+  ],
+  "ofs": 5591,
+  "district": "Ouest lausannois",
+  "population": 21793,
+  "superficie": "+0002,96",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Romanel-sur-Lausanne",
+  "page": "Romanel-sur-Lausanne",
+  "cellules": [
+   "Romanel-sur-Lausanne",
+   "5592",
+   "Lausanne",
+   "+004 320,",
+   "+0002,88",
+   "1500"
+  ],
+  "ofs": 5592,
+  "district": "Lausanne",
+  "population": 4320,
+  "superficie": "+0002,88",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Saint-Sulpice",
+  "page": "Saint-Sulpice (Vaud)",
+  "cellules": [
+   "Saint-Sulpice",
+   "5648",
+   "Ouest lausannois",
+   "+005 191,",
+   "+0001,86",
+   "2791"
+  ],
+  "ofs": 5648,
+  "district": "Ouest lausannois",
+  "population": 5191,
+  "superficie": "+0001,86",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Sainte-Croix",
+  "page": "Sainte-Croix (Vaud)",
+  "cellules": [
+   "Sainte-Croix",
+   "5568",
+   "Jura-Nord vaudois",
+   "+005 156,",
+   "+0039,42",
+   "131"
+  ],
+  "ofs": 5568,
+  "district": "Jura-Nord vaudois",
+  "population": 5156,
+  "superficie": "+0039,42",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Savigny",
+  "page": "Savigny (Vaud)",
+  "cellules": [
+   "Savigny",
+   "5611",
+   "Lavaux-Oron",
+   "+003 600,",
+   "+0016,02",
+   "225"
+  ],
+  "ofs": 5611,
+  "district": "Lavaux-Oron",
+  "population": 3600,
+  "superficie": "+0016,02",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Servion",
+  "page": "Servion",
+  "cellules": [
+   "Servion",
+   "5799",
+   "Lavaux-Oron",
+   "+002 234,",
+   "+0006,33",
+   "353"
+  ],
+  "ofs": 5799,
+  "district": "Lavaux-Oron",
+  "population": 2234,
+  "superficie": "+0006,33",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Valbroye",
+  "page": "Valbroye",
+  "cellules": [
+   "Valbroye",
+   "5831",
+   "Broye-Vully",
+   "+003 409,",
+   "+0033,57",
+   "102"
+  ],
+  "ofs": 5831,
+  "district": "Broye-Vully",
+  "population": 3409,
+  "superficie": "+0033,57",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Vallorbe",
+  "page": "Vallorbe",
+  "cellules": [
+   "Vallorbe",
+   "5764",
+   "Jura-Nord vaudois",
+   "+004 413,",
+   "+0023,19",
+   "190"
+  ],
+  "ofs": 5764,
+  "district": "Jura-Nord vaudois",
+  "population": 4413,
+  "superficie": "+0023,19",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Vevey",
+  "page": "Vevey",
+  "cellules": [
+   "Vevey",
+   "5890",
+   "Riviera-Pays-d'Enhaut",
+   "+020 147,",
+   "+0002,38",
+   "8465"
+  ],
+  "ofs": 5890,
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 20147,
+  "superficie": "+0002,38",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Vully-les-Lacs",
+  "page": "Vully-les-Lacs",
+  "cellules": [
+   "Vully-les-Lacs",
+   "5464",
+   "Broye-Vully",
+   "+003 689,",
+   "+0022,13",
+   "167"
+  ],
+  "ofs": 5464,
+  "district": "Broye-Vully",
+  "population": 3689,
+  "superficie": "+0022,13",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Yverdon-les-Bains",
+  "page": "Yverdon-les-Bains",
+  "cellules": [
+   "Yverdon-les-Bains",
+   "5938",
+   "Jura-Nord vaudois",
+   "+030 590,",
+   "+0011,28",
+   "2712"
+  ],
+  "ofs": 5938,
+  "district": "Jura-Nord vaudois",
+  "population": 30590,
+  "superficie": "+0011,28",
+  "tier": 2
+ },
+ {
+  "canton": "VD",
+  "nom": "Yvonand",
+  "page": "Yvonand",
+  "cellules": [
+   "Yvonand",
+   "5939",
+   "Jura-Nord vaudois",
+   "+003 537,",
+   "+0013,39",
+   "264"
+  ],
+  "ofs": 5939,
+  "district": "Jura-Nord vaudois",
+  "population": 3537,
+  "superficie": "+0013,39",
+  "tier": 2
+ },
+ {
+  "canton": "BE",
+  "nom": "Belprahon",
+  "page": "Belprahon",
+  "cellules": [
+   "Belprahon",
+   "Moutier",
+   "681",
+   "+000264,"
+  ],
+  "ofs": 681,
+  "district": "Moutier",
+  "population": 264,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Champoz",
+  "page": "Champoz",
+  "cellules": [
+   "Champoz",
+   "Moutier",
+   "683",
+   "+000160,"
+  ],
+  "ofs": 683,
+  "district": "Moutier",
+  "population": 160,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Corcelles",
+  "page": "Corcelles (Berne)",
+  "cellules": [
+   "Corcelles",
+   "Moutier",
+   "687",
+   "+000189,"
+  ],
+  "ofs": 687,
+  "district": "Moutier",
+  "population": 189,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Corgémont",
+  "page": "Corgémont",
+  "cellules": [
+   "Corgémont",
+   "Courtelary",
+   "431",
+   "+001 801,"
+  ],
+  "ofs": 431,
+  "district": "Courtelary",
+  "population": 1801,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Cormoret",
+  "page": "Cormoret",
+  "cellules": [
+   "Cormoret",
+   "Courtelary",
+   "432",
+   "+000504,"
+  ],
+  "ofs": 432,
+  "district": "Courtelary",
+  "population": 504,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Cortébert",
+  "page": "Cortébert",
+  "cellules": [
+   "Cortébert",
+   "Courtelary",
+   "433",
+   "+000675,"
+  ],
+  "ofs": 433,
+  "district": "Courtelary",
+  "population": 675,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Court",
+  "page": "Court (Berne)",
+  "cellules": [
+   "Court",
+   "Moutier",
+   "690",
+   "+001 387,"
+  ],
+  "ofs": 690,
+  "district": "Moutier",
+  "population": 1387,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Courtelary",
+  "page": "Courtelary",
+  "cellules": [
+   "Courtelary",
+   "Courtelary",
+   "434",
+   "+001 432,"
+  ],
+  "ofs": 434,
+  "district": "Courtelary",
+  "population": 1432,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Crémines",
+  "page": "Crémines",
+  "cellules": [
+   "Crémines",
+   "Moutier",
+   "691",
+   "+000527,"
+  ],
+  "ofs": 691,
+  "district": "Moutier",
+  "population": 527,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Elay",
+  "page": "Elay",
+  "cellules": [
+   "Elay (Seehof)",
+   "Moutier",
+   "709",
+   "+0 00063,"
+  ],
+  "ofs": 709,
+  "district": "Moutier",
+  "population": 63,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Eschert",
+  "page": "Eschert",
+  "cellules": [
+   "Eschert",
+   "Moutier",
+   "692",
+   "+000370,"
+  ],
+  "ofs": 692,
+  "district": "Moutier",
+  "population": 370,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Grandval",
+  "page": "Grandval (Berne)",
+  "cellules": [
+   "Grandval",
+   "Moutier",
+   "694",
+   "+000398,"
+  ],
+  "ofs": 694,
+  "district": "Moutier",
+  "population": 398,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "La Ferrière",
+  "page": "La Ferrière (Berne)",
+  "cellules": [
+   "La Ferrière",
+   "Courtelary",
+   "435",
+   "+000542,"
+  ],
+  "ofs": 435,
+  "district": "Courtelary",
+  "population": 542,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "La Neuveville",
+  "page": "La Neuveville",
+  "cellules": [
+   "La Neuveville",
+   "La Neuveville",
+   "723",
+   "+003 781,"
+  ],
+  "ofs": 723,
+  "district": "La Neuveville",
+  "population": 3781,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "La Scheulte",
+  "page": "La Scheulte",
+  "cellules": [
+   "La Scheulte (Schelten)",
+   "Moutier",
+   "708",
+   "+0 00037,"
+  ],
+  "ofs": 708,
+  "district": "Moutier",
+  "population": 37,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Loveresse",
+  "page": "Loveresse",
+  "cellules": [
+   "Loveresse",
+   "Moutier",
+   "696",
+   "+000367,"
+  ],
+  "ofs": 696,
+  "district": "Moutier",
+  "population": 367,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Mont-Tramelan",
+  "page": "Mont-Tramelan",
+  "cellules": [
+   "Mont-Tramelan",
+   "Courtelary",
+   "437",
+   "+000114,"
+  ],
+  "ofs": 437,
+  "district": "Courtelary",
+  "population": 114,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Nods",
+  "page": "Nods (Berne)",
+  "cellules": [
+   "Nods",
+   "La Neuveville",
+   "724",
+   "+000776,"
+  ],
+  "ofs": 724,
+  "district": "La Neuveville",
+  "population": 776,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Orvin",
+  "page": "Orvin",
+  "cellules": [
+   "Orvin",
+   "Courtelary",
+   "438",
+   "+001 284,"
+  ],
+  "ofs": 438,
+  "district": "Courtelary",
+  "population": 1284,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Perrefitte",
+  "page": "Perrefitte",
+  "cellules": [
+   "Perrefitte",
+   "Moutier",
+   "701",
+   "+000486,"
+  ],
+  "ofs": 701,
+  "district": "Moutier",
+  "population": 486,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Péry-La Heutte",
+  "page": "Péry-La Heutte",
+  "cellules": [
+   "Péry-La Heutte",
+   "(Courtelary)",
+   "450",
+   "+001 957,"
+  ],
+  "ofs": 450,
+  "district": "(Courtelary)",
+  "population": 1957,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Petit-Val",
+  "page": "Petit-Val",
+  "cellules": [
+   "Petit-Val",
+   "(Moutier)",
+   "716",
+   "+000464,"
+  ],
+  "ofs": 716,
+  "district": "(Moutier)",
+  "population": 464,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Plateau de Diesse",
+  "page": "Plateau de Diesse",
+  "cellules": [
+   "Plateau de Diesse",
+   "(La Neuveville)",
+   "726",
+   "+002 251,"
+  ],
+  "ofs": 726,
+  "district": "(La Neuveville)",
+  "population": 2251,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Rebévelier",
+  "page": "Rebévelier",
+  "cellules": [
+   "Rebévelier",
+   "Moutier",
+   "715",
+   "+0 00029,"
+  ],
+  "ofs": 715,
+  "district": "Moutier",
+  "population": 29,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Reconvilier",
+  "page": "Reconvilier",
+  "cellules": [
+   "Reconvilier",
+   "Moutier",
+   "703",
+   "+002 454,"
+  ],
+  "ofs": 703,
+  "district": "Moutier",
+  "population": 2454,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Renan",
+  "page": "Renan (Berne)",
+  "cellules": [
+   "Renan",
+   "Courtelary",
+   "441",
+   "+000935,"
+  ],
+  "ofs": 441,
+  "district": "Courtelary",
+  "population": 935,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Roches",
+  "page": "Roches (Berne)",
+  "cellules": [
+   "Roches",
+   "Moutier",
+   "704",
+   "+000204,"
+  ],
+  "ofs": 704,
+  "district": "Moutier",
+  "population": 204,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Romont",
+  "page": "Romont (Berne)",
+  "cellules": [
+   "Romont",
+   "Courtelary",
+   "442",
+   "+000237,"
+  ],
+  "ofs": 442,
+  "district": "Courtelary",
+  "population": 237,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Saicourt",
+  "page": "Saicourt",
+  "cellules": [
+   "Saicourt",
+   "Moutier",
+   "706",
+   "+000657,"
+  ],
+  "ofs": 706,
+  "district": "Moutier",
+  "population": 657,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Saint-Imier",
+  "page": "Saint-Imier",
+  "cellules": [
+   "Saint-Imier",
+   "Courtelary",
+   "443",
+   "+005 144,"
+  ],
+  "ofs": 443,
+  "district": "Courtelary",
+  "population": 5144,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Sauge",
+  "page": "Sauge (Berne)",
+  "cellules": [
+   "Sauge",
+   "(Courtelary)",
+   "449",
+   "+000829,"
+  ],
+  "ofs": 449,
+  "district": "(Courtelary)",
+  "population": 829,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Saules",
+  "page": "Saules (Berne)",
+  "cellules": [
+   "Saules",
+   "Moutier",
+   "707",
+   "+000151,"
+  ],
+  "ofs": 707,
+  "district": "Moutier",
+  "population": 151,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Sonceboz-Sombeval",
+  "page": "Sonceboz-Sombeval",
+  "cellules": [
+   "Sonceboz-Sombeval",
+   "Courtelary",
+   "444",
+   "+001 874,"
+  ],
+  "ofs": 444,
+  "district": "Courtelary",
+  "population": 1874,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Sonvilier",
+  "page": "Sonvilier",
+  "cellules": [
+   "Sonvilier",
+   "Courtelary",
+   "445",
+   "+001 229,"
+  ],
+  "ofs": 445,
+  "district": "Courtelary",
+  "population": 1229,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Sorvilier",
+  "page": "Sorvilier",
+  "cellules": [
+   "Sorvilier",
+   "Moutier",
+   "711",
+   "+000311,"
+  ],
+  "ofs": 711,
+  "district": "Moutier",
+  "population": 311,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Tavannes",
+  "page": "Tavannes (Berne)",
+  "cellules": [
+   "Tavannes",
+   "Moutier",
+   "713",
+   "+003 469,"
+  ],
+  "ofs": 713,
+  "district": "Moutier",
+  "population": 3469,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Tramelan",
+  "page": "Tramelan",
+  "cellules": [
+   "Tramelan",
+   "Courtelary",
+   "446",
+   "+004 670,"
+  ],
+  "ofs": 446,
+  "district": "Courtelary",
+  "population": 4670,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Valbirse",
+  "page": "Valbirse",
+  "cellules": [
+   "Valbirse",
+   "(Moutier)",
+   "717",
+   "+004 043,"
+  ],
+  "ofs": 717,
+  "district": "(Moutier)",
+  "population": 4043,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Villeret",
+  "page": "Villeret (Berne)",
+  "cellules": [
+   "Villeret",
+   "Courtelary",
+   "448",
+   "+000938,"
+  ],
+  "ofs": 448,
+  "district": "Courtelary",
+  "population": 938,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Aegerten",
+  "page": "Aegerten",
+  "cellules": [
+   "Aegerten",
+   "731",
+   "+002 499,"
+  ],
+  "ofs": 731,
+  "district": null,
+  "population": 2499,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Belmont",
+  "page": "Bellmund",
+  "cellules": [
+   "Belmont (Bellmund)",
+   "732",
+   "+001 805,"
+  ],
+  "ofs": 732,
+  "district": null,
+  "population": 1805,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Bienne",
+  "page": "Bienne",
+  "cellules": [
+   "Bienne (Biel)",
+   "371",
+   "+057 462,"
+  ],
+  "ofs": 371,
+  "district": null,
+  "population": 57462,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Brügg",
+  "page": "Brügg",
+  "cellules": [
+   "Brügg",
+   "733",
+   "+004 714,"
+  ],
+  "ofs": 733,
+  "district": null,
+  "population": 4714,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Douanne-Daucher",
+  "page": "Douanne-Daucher",
+  "cellules": [
+   "Douanne-Daucher (Twann-Tüscherz)",
+   "756",
+   "+001 239,"
+  ],
+  "ofs": 756,
+  "district": null,
+  "population": 1239,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Evilard",
+  "page": "Evilard",
+  "cellules": [
+   "Evilard (Leubringen)",
+   "372",
+   "+002 706,"
+  ],
+  "ofs": 372,
+  "district": null,
+  "population": 2706,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Gléresse",
+  "page": "Gléresse",
+  "cellules": [
+   "Gléresse (Ligerz)",
+   "740",
+   "+000508,"
+  ],
+  "ofs": 740,
+  "district": null,
+  "population": 508,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Ipsach",
+  "page": "Ipsach",
+  "cellules": [
+   "Ipsach",
+   "739",
+   "+003 873,"
+  ],
+  "ofs": 739,
+  "district": null,
+  "population": 3873,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Longeau",
+  "page": "Longeau (Berne)",
+  "cellules": [
+   "Longeau (Lengnau)",
+   "387",
+   "+005 808,"
+  ],
+  "ofs": 387,
+  "district": null,
+  "population": 5808,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Meinisberg",
+  "page": "Meinisberg",
+  "cellules": [
+   "Meinisberg",
+   "390",
+   "+001 513,"
+  ],
+  "ofs": 390,
+  "district": null,
+  "population": 1513,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Mörigen",
+  "page": "Mörigen",
+  "cellules": [
+   "Mörigen",
+   "742",
+   "+000862,"
+  ],
+  "ofs": 742,
+  "district": null,
+  "population": 862,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Nidau",
+  "page": "Nidau",
+  "cellules": [
+   "Nidau",
+   "743",
+   "+007 160,"
+  ],
+  "ofs": 743,
+  "district": null,
+  "population": 7160,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Orpond",
+  "page": "Orpond",
+  "cellules": [
+   "Orpond (Orpund)",
+   "744",
+   "+003 375,"
+  ],
+  "ofs": 744,
+  "district": null,
+  "population": 3375,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Perles",
+  "page": "Perles (Berne)",
+  "cellules": [
+   "Perles (Pieterlen)",
+   "392",
+   "+005 255,"
+  ],
+  "ofs": 392,
+  "district": null,
+  "population": 5255,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Port",
+  "page": "Port (Berne)",
+  "cellules": [
+   "Port",
+   "745",
+   "+003 976,"
+  ],
+  "ofs": 745,
+  "district": null,
+  "population": 3976,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Safnern",
+  "page": "Safnern",
+  "cellules": [
+   "Safnern",
+   "746",
+   "+002 049,"
+  ],
+  "ofs": 746,
+  "district": null,
+  "population": 2049,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Scheuren",
+  "page": "Scheuren",
+  "cellules": [
+   "Scheuren",
+   "747",
+   "+000538,"
+  ],
+  "ofs": 747,
+  "district": null,
+  "population": 538,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Schwadernau",
+  "page": "Schwadernau",
+  "cellules": [
+   "Schwadernau",
+   "748",
+   "+000697,"
+  ],
+  "ofs": 748,
+  "district": null,
+  "population": 697,
+  "superficie": null,
+  "tier": 1
+ },
+ {
+  "canton": "BE",
+  "nom": "Sutz-Lattrigen",
+  "page": "Sutz-Lattrigen",
+  "cellules": [
+   "Sutz-Lattrigen",
+   "750",
+   "+001 409,"
+  ],
+  "ofs": 750,
+  "district": null,
+  "population": 1409,
+  "superficie": null,
+  "tier": 1
+ }
+]

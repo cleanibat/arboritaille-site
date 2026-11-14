@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Movelier (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Movelier (JU), village de 422 habitants à 690 m d'altitude. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Movelier · District de Delémont",
+ "h1": "Arboriste-grimpeur à <em>Movelier</em> : taille, abattage et soins aux arbres",
+ "lead": "Movelier compte 422 habitants à 690 m d'altitude, à une quinzaine de kilomètres de Courgenay. Hivers plus longs, vent et neige : nous taillons et sécurisons les arbres de ce village de hauteur, sur devis gratuit.",
+ "points": [
+  "Visite et devis gratuits",
+  "Village à 690 m, saison courte",
+  "Arbres chargés de neige sécurisés",
+  "À une quinzaine de kilomètres de Courgenay"
+ ],
+ "intro_eyebrow": "Vos arbres à Movelier",
+ "intro_h2": "À 690 m d'altitude, un petit village de hauteur",
+ "intro": "<p>Movelier (Moderswil, de son ancien nom allemand) compte 422 habitants sur 8,08 km², dans le district de Delémont. À 690 m d'altitude, le village se situe près de 300 m plus haut que Delémont, à 414 m.</p><p>Cette différence se sent sur les arbres. À cette altitude, la neige tient plus longtemps, la végétation démarre plus tard et les hivers sont plus rudes qu'en fond de vallée.</p><p>Les conifères et les feuillus de hauteur supportent la neige, mais une couronne trop dense ou une fourche fragile casse sous la charge. Un allègement avant l'hiver limite ce risque.</p><p>Movelier est à une quinzaine de kilomètres de Courgenay. Nous venons voir l'arbre, puis vous recevez un devis écrit et gratuit, pour une <a href=\"/elagage-taille-arbres\">taille</a> ou un abattage.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "422 (2025)"
+  ],
+  [
+   "Altitude",
+   "690 m"
+  ],
+  [
+   "Superficie",
+   "8,08 km²"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 15 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Movelier.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Movelier avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "MOUNT",
+   "titre": "Près de 700 m d'altitude",
+   "texte": "La saison de végétation est plus courte qu'en plaine. Nous taillons les feuillus plus tard au printemps ou en fin d'été, et nous programmons les gros travaux avant les premières neiges."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Neige et vent sur les couronnes",
+   "texte": "Une branche chargée de neige lourde peut céder et tomber sur un toit ou une voiture. Nous retirons le bois mort et allégeons les couronnes trop denses pour qu'elles résistent à l'hiver."
+  },
+  {
+   "icone": "WARN",
+   "titre": "Après une chute de neige",
+   "texte": "Une branche fendue qui tient encore est un danger. Nous venons la retirer en sécurité, à la corde, et vérifions le reste de l'arbre pour éviter une seconde casse."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des couronnes et retrait du bois mort avant l'hiver pour les arbres de jardin et de ferme de Movelier.",
+  "abattage-demontage": "Démontage à la corde près des maisons, abattage direct en terrain dégagé. Bois débité en bûches pour votre chauffage si vous le souhaitez.",
+  "urgence-tempete-arbre-dangereux": "Branche cassée sous la neige, arbre fendu ou déraciné : nous sécurisons les lieux et retirons ce qui menace."
+ },
+ "faq": [
+  {
+   "q": "Quand tailler les arbres à Movelier, avec l'altitude ?",
+   "a": "Un peu plus tard qu'en plaine pour les feuillus, une fois le risque de fort gel passé, ou en fin d'été. Les travaux lourds se planifient avant les premières neiges. Nous adaptons la date à l'essence et à la météo."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Movelier ?",
+   "a": "Selon la zone, oui. Hors zone à bâtir, haies, bosquets et arbres isolés sont protégés par la loi jurassienne. En zone à bâtir, le règlement communal de Movelier fixe les arbres protégés. Nous nous renseignons auprès de la commune avant de couper."
+  },
+  {
+   "q": "Une branche a cassé sous la neige et pend au-dessus de la route : que faire ?",
+   "a": "Ne pas s'en approcher et nous appeler. Nous la retirons à la corde en sécurité, puis nous contrôlons le reste de la couronne. Si la commune est concernée par la route, nous la prévenons avec vous."
+  },
+  {
+   "q": "Mon sapin près de la maison est-il trop grand ?",
+   "a": "Un conifère proche d'une maison pose surtout la question de la stabilité et de la neige. Nous l'examinons : enracinement, cime, branches au-dessus du toit. Souvent, un dégagement de la toiture suffit ; sinon, nous proposons un démontage."
+  },
+  {
+   "q": "Vous déplacez-vous l'hiver à Movelier ?",
+   "a": "Oui, tant que l'accès est dégagé et que les conditions permettent de grimper en sécurité. L'hiver est d'ailleurs la bonne saison pour tailler les haies et de nombreux feuillus. Le devis fixe la période prévue."
+  }
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à tailler ou à sécuriser à Movelier ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

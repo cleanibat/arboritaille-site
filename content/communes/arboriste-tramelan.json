@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Tramelan : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Tramelan (BE), à 900 m d'altitude, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Tramelan · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Tramelan</em> : taille, abattage et soins aux arbres",
+ "lead": "Tramelan est à une vingtaine de kilomètres de Courgenay, à 900 m d'altitude. Nous y taillons, démontons et plantons des arbres habitués à la neige et au vent, pour les particuliers, les gérances et les collectivités. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Allègement des branches chargées de neige", "Haubanage plutôt qu'abattage quand c'est possible", "Démontage soigné près des bâtiments"],
+ "intro_eyebrow": "Vos arbres à Tramelan",
+ "intro_h2": "À 900 m, des arbres qui vivent avec la neige et le vent",
+ "intro": "<p>Tramelan, 4 670 habitants, s'étend sur 24,82 km² dans le nord-est du massif du Jura. La commune actuelle est née en 1952 de la réunion de Tramelan-Dessous et de Tramelan-Dessus ; Le Cernil et Les Reussilles en font partie.</p><p>À 900 m, les hivers sont longs et la neige lourde. Les conifères et les érables, fréquents à cette hauteur dans le Jura, encaissent des charges importantes. Les ruptures surviennent en fin d'hiver, quand la neige mouillée s'accroche aux branches.</p><p>Nous proposons une taille qui allège les branches exposées sans dénuder l'arbre, un <a href=\"/haubanage\">haubanage</a> quand une fourche est fragile, et un démontage soigné quand l'arbre est condamné.</p>",
+ "faits": [["Habitants", "4 670 (2025)"], ["Altitude", "900 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 20 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Tramelan.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Tramelan avant d'intervenir.",
+ "contexte": [
+  {"icone": "WIND", "titre": "Neige lourde et vent", "texte": "À 900 m, la neige de fin d'hiver pèse sur les branches longues et horizontales. Nous les raccourcissons sur une branche secondaire pour répartir la charge sans ouvrir de grosses plaies."},
+  {"icone": "CABLE", "titre": "Haubanage", "texte": "Une fourche fendue ou un tronc double n'impose pas l'abattage. Un hauban souple relie les charpentières et limite le mouvement : l'arbre reste en place et continue de pousser."},
+  {"icone": "HOME", "titre": "Deux anciens villages", "texte": "Tramelan-Dessous et Tramelan-Dessus ont fusionné en 1952. Dans les rues anciennes d'un village, les arbres sont souvent proches des maisons, des routes et des lignes, et se dégagent régulièrement."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des couronnes exposées à la neige, dégagement des façades et des accès pour les maisons de Tramelan, du Cernil et des Reussilles.",
+  "abattage-demontage": "Démontage par morceaux près des bâtiments, abattage direct en terrain ouvert. Bois débité pour le chauffage ou évacué.",
+  "haubanage": "Consolidation des fourches fragiles par haubans souples, solution pour conserver un grand arbre à 900 m d'altitude.",
+  "urgence-tempete-arbre-dangereux": "Arbre cassé par la neige ou le vent, branche suspendue au-dessus d'un toit : nous sécurisons puis remettons en état."
+ },
+ "faq": [
+  {"q": "À quelle distance de Courgenay se trouve Tramelan ?", "a": "Une vingtaine de kilomètres à vol d'oiseau. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées. Le devis écrit décrit chaque arbre et la méthode retenue."},
+  {"q": "Un sapin de jardin a perdu une grosse branche sous la neige, que faire ?", "a": "Nous coupons proprement la partie arrachée pour que la plaie se referme, puis allégeons les branches voisines qui portent la même charge. Si le tronc est atteint, un diagnostic décide entre conservation et démontage."},
+  {"q": "Intervenez-vous aux Reussilles et au Cernil ?", "a": "Oui, ces localités font partie de la commune de Tramelan. L'accès en hiver est pris en compte dans le devis ; nous planifions les chantiers hors des périodes de neige lourde quand c'est possible."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Tramelan ?", "a": "Dans le canton de Berne, les haies et bosquets sont protégés et le règlement communal désigne les arbres de valeur. Nous nous renseignons auprès de l'administration de Tramelan avant de fixer la date d'un abattage."},
+  {"q": "Quelle période pour tailler à 900 m d'altitude ?", "a": "L'hiver hors gel sévère ou l'été après la pousse. Nous évitons le printemps, période de montée de sève et de nidification. Les haies se taillent de préférence entre octobre et mars."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à alléger, haubaner ou abattre à Tramelan ?",
+ "cta_lead": "Visite et devis gratuits. Courgenay est à une vingtaine de kilomètres."
+}

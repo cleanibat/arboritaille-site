@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Courchapoix : taille et abattage | Arboritaille",
+ "desc": "Taille et abattage d'arbres à Courchapoix (JU), ancien village d'éleveurs devenu village de pendulaires. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Courchapoix · District de Delémont",
+ "h1": "Arboriste-grimpeur à <em>Courchapoix</em> : taille, abattage et soins aux arbres",
+ "lead": "Courchapoix, 456 habitants à 496 m d'altitude, vivait de l'agriculture et de l'élevage. Aujourd'hui, la plupart de ses habitants travaillent ailleurs. Nous venons tailler, abattre ou expertiser vos arbres, sur devis gratuit.",
+ "points": [
+  "Visite et devis gratuits",
+  "Rendez-vous convenus selon vos horaires",
+  "Arbres de ferme et de jardin",
+  "Haies agricoles protégées, entretien en hiver"
+ ],
+ "intro_eyebrow": "Vos arbres à Courchapoix",
+ "intro_h2": "D'un village d'éleveurs à un village de pendulaires",
+ "intro": "<p>Courchapoix compte 456 habitants sur 6,39 km², à 496 m d'altitude dans le district de Delémont. Le nom apparaît en 1428 sous la forme de Courchappoy, et le village a opté pour le canton du Jura le 7 septembre 1975.</p><p>Au début du XXe siècle, on y pratiquait l'agriculture et l'élevage, et l'on y tissait la soie. En 2000, plus des deux tiers des actifs travaillaient hors de la commune, qui comptait une seule entreprise.</p><p>Ce passage d'un village paysan à un village d'habitants qui partent le matin change la relation aux arbres. Fruitiers et grands arbres de ferme restent souvent en place, mais le temps pour les entretenir manque.</p><p>Nous prenons ce relais : visite à un horaire convenu avec vous, devis écrit, intervention planifiée. Courchapoix est à environ vingt-cinq kilomètres de Courgenay.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "456 (2025)"
+  ],
+  [
+   "Altitude",
+   "496 m"
+  ],
+  [
+   "Superficie",
+   "6,39 km²"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 25 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Courchapoix.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Courchapoix avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "USERS",
+   "titre": "Des horaires qui s'adaptent",
+   "texte": "Quand toute la maisonnée travaille à l'extérieur, nous convenons d'un créneau de visite compatible avec vos horaires. Le devis arrive par courriel, et l'intervention peut avoir lieu en votre absence si l'accès est convenu."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "L'héritage des fermes",
+   "texte": "Une ancienne exploitation laisse souvent des fruitiers haute-tige et des arbres d'ombrage près des bâtiments. Une taille d'entretien légère, en hiver, les conserve pour la génération suivante."
+  },
+  {
+   "icone": "LEAF",
+   "titre": "Haies entre les pâtures",
+   "texte": "Hors zone à bâtir, les haies entre les pâtures sont protégées par la loi jurassienne. Nous les recépons par tronçons en hiver et ne les supprimons pas sans dérogation."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des fruitiers et des grands arbres de ferme de Courchapoix, dégagement des toitures et des accès.",
+  "abattage-demontage": "Abattage direct dans les prés, démontage à la corde près des bâtiments et des lignes. Bois débité pour votre chauffage si vous le souhaitez.",
+  "diagnostic-expertise-arbre": "Avis écrit sur la tenue d'un vieil arbre de ferme : conserver, tailler, haubaner ou abattre, avec le prix de chaque option."
+ },
+ "faq": [
+  {
+   "q": "Nous travaillons tous les deux hors de Courchapoix : comment organiser la visite ?",
+   "a": "Nous convenons d'un créneau compatible avec vos horaires. Si vous préférez, vous nous indiquez l'arbre par téléphone ou photo, et nous passons seuls le voir, puis nous vous envoyons le devis par courriel."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Courchapoix ?",
+   "a": "Souvent, oui. Hors zone à bâtir, la loi jurassienne protège haies, bosquets et arbres isolés. En zone à bâtir, le règlement communal de Courchapoix désigne les arbres protégés. Nous nous renseignons auprès de la commune avant de couper."
+  },
+  {
+   "q": "Les vieux fruitiers de la ferme valent-ils encore une taille ?",
+   "a": "Dans la plupart des cas, oui. Un fruitier haute-tige ancien reste productif et utile à la faune si l'on retire le bois mort et les branches qui se croisent. Quand il est creux et instable, nous proposons un jeune arbre de remplacement."
+  },
+  {
+   "q": "Pouvez-vous intervenir en notre absence ?",
+   "a": "Oui, si le devis est signé et l'accès convenu à l'avance. Nous laissons le terrain propre. Pour un premier chantier, nous préférons toutefois vous rencontrer une fois sur place, lors de la visite."
+  },
+  {
+   "q": "Quand entretenir une haie entre deux prés ?",
+   "a": "En hiver, durant le repos de la végétation, pour protéger les oiseaux. Nous recépons un tronçon à la fois afin que la haie reste dense. Hors zone à bâtir, sa suppression demanderait une dérogation communale."
+  }
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à tailler ou à abattre à Courchapoix ?",
+ "cta_lead": "Visite et devis gratuits, à un horaire convenu avec vous."
+}

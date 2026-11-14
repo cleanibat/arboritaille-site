@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Sagne (NE) : taille et abattage | Arboritaille",
+ "desc": "Taille douce, abattage et rognage de souche à La Sagne (NE), commune rurale à 1 113 m. Arboriste-grimpeur depuis Courgenay, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · La Sagne · Montagnes neuchâteloises",
+ "h1": "Arboriste-grimpeur à <em>La Sagne</em> : taille douce, abattage et rognage de souche",
+ "lead": "La Sagne, 1 090 habitants à 1 113 m, est une commune rurale des Montagnes neuchâteloises. Arbres de ferme, de jardin ou de bord de route : nous les taillons, les soignons ou les démontons, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Taille douce, sans étêtage", "Rognage de souche après abattage", "À une cinquantaine de kilomètres de Courgenay"],
+ "intro_eyebrow": "Vos arbres à La Sagne",
+ "intro_h2": "Quatre bassins sur la place, 25 km² de campagne autour",
+ "intro": "<p>Sur la place du village, une fontaine à quatre bassins coule depuis 1721. Le premier était réservé au bétail, le dernier aux lessives. La Sagne garde ce caractère rural : 1 090 habitants pour 25,55 km².</p><p>Avec 43 habitants au kilomètre carré, les maisons sont espacées. Autour d'une ferme isolée, quelques grands arbres servent souvent d'abri contre le vent et la neige.</p><p>Ces arbres-là valent la peine d'être gardés. Nous retirons le bois mort, raccourcissons les branches trop longues et conservons la silhouette. L'<a href=\"/abattage-demontage\">abattage</a> n'intervient que si l'arbre devient dangereux.</p>",
+ "faits": [["Habitants", "1 090"], ["Altitude", "1 113 m"], ["Superficie", "25,55 km²"], ["Depuis Courgenay", "env. 50 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Sagne.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à La Sagne avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "L'arbre d'abri de la ferme", "texte": "Planté côté vent, il protège la façade depuis des décennies. Quand il vieillit, mieux vaut l'entretenir par petites coupes que le supprimer et exposer le bâtiment."},
+  {"icone": "SCISS", "titre": "Pourquoi nous n'étêtons pas", "texte": "Couper la tête d'un arbre l'affaiblit et provoque des rejets mal attachés. Nous réduisons sur des branches latérales : l'arbre garde sa forme et referme ses plaies."},
+  {"icone": "STUMP", "titre": "La souche qui reste", "texte": "Après un abattage, la souche gêne la tonte ou le passage. Le rognage la transforme en copeaux sous le niveau du sol, sans arrachage ni ornières."},
+  {"icone": "CLOCK", "titre": "Une saison courte à 1 113 m", "texte": "La végétation démarre tard. La plantation se fait de préférence à l'automne ou dès le dégel, la taille des feuillus pendant le repos hivernal."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et raccourcissement des branches trop longues sur les arbres de ferme et de jardin de La Sagne.",
+  "abattage-demontage": "Abattage direct en terrain ouvert, démontage par sections près des toits. Bois laissé en bûches ou évacué.",
+  "rognage-souche": "Souche réduite en copeaux sous le niveau du sol. Le terrain peut être remis en herbe ou replanté.",
+  "plantation-arbres": "Remplacement d'un arbre d'abri par une essence adaptée à l'altitude, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à La Sagne ?", "a": "La loi neuchâteloise protège haies et bosquets sur tout le canton. Pour un arbre isolé, c'est le règlement communal qui tranche. Nous vérifions la règle en vigueur à La Sagne avant de programmer l'abattage."},
+  {"q": "Peut-on garder un vieil arbre près d'une ferme à La Sagne ?", "a": "Souvent, oui. Si le tronc et l'ancrage sont sains, une taille légère et le retrait du bois mort suffisent. Si une fourche s'ouvre, un hauban peut la retenir. Nous vous le disons après avoir vu l'arbre."},
+  {"q": "Que devient la souche après l'abattage ?", "a": "Vous choisissez. Elle peut rester en place, coupée au ras du sol, ou être rognée. Le rognage laisse des copeaux mêlés de terre, que nous évacuons ou étalons selon ce que prévoit le devis."},
+  {"q": "Vous déplacez-vous jusqu'à La Sagne pour une simple visite ?", "a": "Oui. La commune est à une cinquantaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite et sans engagement. Nous répondons à votre demande sous 48 h ouvrées pour convenir d'une date."}
+ ],
+ "cta_img": "abattage_sequoia",
+ "cta_h2": "Un arbre à entretenir ou une souche à rogner à La Sagne ?",
+ "cta_lead": "Visite sur place et devis écrit, gratuits et sans engagement."
+}

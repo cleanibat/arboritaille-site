@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Meinisberg (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, démontage et abattage d'arbres à Meinisberg, au bord du canal de Nidau-Büren et de la réserve du Häftli, canton de Berne. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Meinisberg · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Meinisberg</em> : taille, abattage et soins aux arbres",
+ "lead": "Meinisberg borde le canal de Nidau-Büren et la réserve naturelle du Häftli. Ici, la faune compte autant que les arbres : nous intervenons hors nidification et à la corde. Visite et devis gratuits.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Contrôle des nids avant toute intervention au printemps",
+  "Arbres de berge sécurisés sans dégât sur le terrain",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Meinisberg",
+ "intro_h2": "Au bord du canal et de la réserve du Häftli",
+ "intro": "<p>Meinisberg, autrefois Montmenil en français, borde le canal de Nidau-Büren et la réserve naturelle du Häftli. La commune compte 1 513 habitants sur 4,42 km2, entre 445 et 565 m d'altitude.</p><p>À proximité d'une réserve, les oiseaux et la petite faune comptent autant que les arbres. Nous vérifions l'absence de nids avant toute intervention au printemps et reportons à l'automne ce qui peut attendre.</p><p>Les essences de bord d'eau poussent vite et vieillissent mal : bois tendre, branches qui se fendent. Une taille de sécurité régulière évite qu'une pièce tombe sur un chemin ou dans le canal.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 513 (2025)"
+  ],
+  [
+   "Altitude",
+   "445 à 565 m"
+  ],
+  [
+   "Superficie",
+   "4,42 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Meinisberg.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). Leur entretien est permis ; leur suppression demande une dérogation de la préfecture, avec compensation écologique. Les arbres isolés et allées de valeur relèvent du règlement communal. Nous vérifions la règle en vigueur à Meinisberg avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "SPROUT",
+   "titre": "Nids et couvées",
+   "texte": "La loi fédérale sur la chasse protège les oiseaux et leurs couvées. Entre mars et juillet, nous inspectons la couronne avant de couper et nous reportons si un nid est occupé."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Essences de berge",
+   "texte": "Près de l'eau, le bois tendre casse par grand vent et les branches mortes restent accrochées. Un passage de contrôle et une taille d'allègement évitent les chutes imprévues."
+  },
+  {
+   "icone": "LEAF",
+   "titre": "Bois mort à laisser ou à retirer",
+   "texte": "Un arbre mort loin de tout passage peut rester debout et servir d'abri. Près d'un chemin ou d'une maison, nous le démontons. Nous vous conseillons au cas par cas."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de sécurité et allègement des arbres de berge et de jardin de Meinisberg, hors période de nidification.",
+  "abattage-demontage": "Démontage à la corde près de l'eau ou des maisons, abattage direct quand la place le permet. Terrain respecté.",
+  "diagnostic-expertise-arbre": "Arbre creux ou dépérissant au bord du canal : nous évaluons le risque et vous remettons un avis écrit.",
+  "plantation-arbres": "Choix d'une essence adaptée à un sol humide ou à un jardin de village, plantation et tuteurage."
+ },
+ "faq": [
+  {
+   "q": "Peut-on abattre un arbre près de la réserve du Häftli à Meinisberg ?",
+   "a": "Cela dépend de sa situation. Les haies et bosquets sont protégés par le canton de Berne, les arbres isolés par le règlement communal. Nous vérifions avec la commune et choisissons une période hors nidification."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre de jardin à Meinisberg ?",
+   "a": "Possiblement, si le règlement communal de Meinisberg protège cet arbre. Nous nous renseignons pour vous avant de fixer une date et vous indiquons la démarche à suivre."
+  },
+  {
+   "q": "Pourquoi éviter la taille au printemps ?",
+   "a": "Parce que les oiseaux nichent de mars à juillet et que leurs couvées sont protégées. Les ornithologues recommandent d'entretenir haies et bosquets de novembre à mars. Nous suivons ce calendrier sauf urgence."
+  },
+  {
+   "q": "Un arbre mort doit-il forcément être abattu ?",
+   "a": "Non. Loin de tout passage, un arbre mort abrite insectes et oiseaux et peut rester debout. Près d'un chemin, d'une route ou d'une maison, il devient un risque et nous le démontons."
+  },
+  {
+   "q": "Vous déplacez-vous depuis Courgenay pour un devis ?",
+   "a": "Oui. Meinisberg est à une trentaine de kilomètres de Courgenay à vol d'oiseau. La visite et le devis sont gratuits, et nous répondons en allemand par écrit si vous le souhaitez."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre à tailler ou à abattre à Meinisberg ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

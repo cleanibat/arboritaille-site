@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Fontenais (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Fontenais, Villars-sur-Fontenais et Bressaucourt, à moins de dix kilomètres de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Fontenais · Villars-sur-Fontenais, Bressaucourt",
+ "h1": "Arboriste-grimpeur à <em>Fontenais</em> : taille, abattage et soins aux arbres",
+ "lead": "Fontenais réunit trois localités voisines de Porrentruy : Fontenais, Villars-sur-Fontenais et Bressaucourt. Depuis Courgenay, à moins de dix kilomètres, nous venons tailler, abattre ou planter vos arbres après une visite gratuite.",
+ "points": ["Visite et devis gratuits", "Trois localités, une commune", "20 km² pour trois localités", "Haies et grands arbres de ferme"],
+ "intro_eyebrow": "Vos arbres à Fontenais",
+ "intro_h2": "Trois villages réunis sur vingt kilomètres carrés",
+ "intro": "<p>Fontenais compte 1 645 habitants, à 458 m d'altitude, dans le district de Porrentruy. Depuis le 1er janvier 2013, la commune comprend aussi Bressaucourt, en plus de Fontenais et de Villars-sur-Fontenais.</p><p>Vingt kilomètres carrés pour trois localités : la densité est de 82 habitants au kilomètre carré. Une grande part du territoire se trouve donc, en général, hors zone à bâtir, où haies et bosquets relèvent de la loi cantonale.</p><p>Dans les villages, les arbres à suivre sont ceux des jardins et des fermes. Un arbre qui frotte une toiture, un fruitier fatigué, une haie devenue trop haute : une visite suffit pour fixer la bonne intervention.</p><p>Courgenay et Fontenais sont voisines. La visite se programme donc vite, et le devis écrit vous parvient sous 48 h ouvrées.</p>",
+ "faits": [["Habitants", "1 645 (2025)"], ["Altitude", "458 m"], ["Superficie", "20 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Fontenais.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Fontenais avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Fontenais, Villars, Bressaucourt", "texte": "Trois noms, une seule administration communale. Nous nous déplaçons dans chaque localité avec la même visite gratuite, et c'est la commune de Fontenais qui répond pour les autorisations."},
+  {"icone": "LEAF", "titre": "Hors zone à bâtir", "texte": "Avec 82 habitants au kilomètre carré, la commune est peu dense. Les haies et bosquets hors zone à bâtir ne se suppriment pas librement : nous les entretenons en hiver, par tronçons."},
+  {"icone": "HOME", "titre": "Arbres de jardin et de ferme", "texte": "Près des maisons, nous dégageons toitures et façades par une taille ciblée. Près des fermes, les grands arbres d'ombrage sont allégés plutôt que rabattus."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction ou dégagement de toiture pour les arbres de jardin et de ferme des trois localités de Fontenais.",
+  "abattage-demontage": "Abattage direct quand la place le permet, démontage à la corde près des bâtiments. Bois débité ou évacué, terrain nettoyé.",
+  "plantation-arbres": "Remplacement d'un fruitier ou plantation d'un arbre d'ombrage adapté au jardin, avec tuteurage tripode.",
+  "rognage-souche": "Après l'abattage, la souche est rognée sous le niveau du sol pour replanter ou engazonner."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Villars-sur-Fontenais et à Bressaucourt ?", "a": "Oui. Les deux localités font partie de la commune de Fontenais, Bressaucourt depuis la fusion de 2013. La visite est gratuite dans les trois villages, à moins de dix kilomètres de Courgenay."},
+  {"q": "Qui donne l'autorisation d'abattre un arbre à Fontenais ?", "a": "La commune de Fontenais, pour ses trois localités. En zone à bâtir, son règlement désigne les arbres protégés. Hors zone à bâtir, haies et bosquets dépendent de la loi cantonale et d'une dérogation communale. Nous nous renseignons avant de couper."},
+  {"q": "Quand entretenir une haie hors zone à bâtir à Fontenais ?", "a": "En hiver, hors période de nidification, et par tronçons. Dans le canton du Jura, une haie hors zone à bâtir ne se supprime pas sans dérogation. Nous respectons ce cadre et vous conseillons sur la hauteur à conserver."},
+  {"q": "Que faites-vous d'un arbre penché vers la maison ?", "a": "Nous regardons d'abord s'il est stable : racines, tronc, bois mort. Souvent, une réduction de couronne du côté de la maison suffit. Si l'arbre est dangereux, nous le démontons pièce par pièce, à la corde."},
+  {"q": "Fontenais est-elle loin de Courgenay ?", "a": "Non, les deux communes se touchent. À vol d'oiseau, cinq kilomètres environ les séparent. La visite est gratuite et nous vous répondons sous 48 h ouvrées avec une proposition de date."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Fontenais ?",
+ "cta_lead": "Visite et devis gratuits dans les trois localités de la commune."
+}

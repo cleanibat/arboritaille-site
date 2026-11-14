@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Scheulte (BE) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et démontage d'arbres à La Scheulte (Schelten), commune bernoise voisine de Mervelier. Visite et devis gratuits, réponse possible en allemand.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · La Scheulte / Schelten · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>La Scheulte</em> : taille, abattage et arbres de ferme",
+ "lead": "La Scheulte, Schelten en allemand, compte 37 habitants à 746 m d'altitude. La rivière du même nom coule dans le val Terbi et se jette dans la Birse. Nous y taillons et abattons vos arbres, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Réponse écrite possible en allemand", "Fermes et arbres isolés", "Environ 35 km depuis Courgenay"],
+ "intro_eyebrow": "Vos arbres à La Scheulte",
+ "intro_h2": "Une commune de fermes, un col et une rivière du même nom",
+ "intro": "<p>La Scheulte compte 37 habitants pour 5,56 km², soit 6,7 habitants au km². Le village est à 746 m. Le col du même nom a été aménagé par l'armée en 1917 pour acheminer des troupes en Ajoie.</p><p>Avant 1914, des paysans réformés de langue allemande se sont installés sur les fermes. La commune a pris cette année-là le nom allemand de Schelten. Nous répondons par écrit en allemand si vous le souhaitez.</p><p>La Scheulte est aussi le nom d'une rivière, qui coule dans le val Terbi et se jette dans la Birse à Delémont. Les arbres de rive demandent de l'attention : racines déchaussées, bois tombé dans le lit.</p><p>Depuis Courgenay, comptez environ 35 km à vol d'oiseau. Nous groupons la visite avec Elay ou Mervelier quand c'est possible.</p>",
+ "faits": [["Habitants", "37 (2025)"], ["Altitude", "746 m"], ["NPA", "2827"], ["Depuis Courgenay", "env. 35 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Scheulte.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à La Scheulte avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Arbres de ferme", "texte": "Les arbres plantés près des fermes finissent par toucher les toits et ombrager les façades. Une taille de dégagement ou une réduction mesurée règle la gêne sans dénaturer l'arbre."},
+  {"icone": "DOC", "titre": "Deutsch oder Französisch", "texte": "Les langues de La Scheulte sont l'allemand et le français. Nous répondons par écrit dans la langue de votre choix ; le devis détaille le travail, l'évacuation et le nettoyage."},
+  {"icone": "WIND", "titre": "Exposition au vent", "texte": "Près d'un col, le vent est en général plus présent. Les arbres isolés exposés développent souvent une couronne déséquilibrée ; un allègement du côté exposé réduit le risque de casse sur les bâtiments."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Dégagement des toits et façades, allègement des couronnes exposées au vent, pour les arbres de ferme de La Scheulte.",
+  "abattage-demontage": "Démontage par sections à la corde près des bâtiments, abattage dirigé en terrain libre.",
+  "urgence-tempete-arbre-dangereux": "Arbre penché, fendu ou déraciné : sécurisation puis démontage, délai convenu au téléphone.",
+  "diagnostic-expertise-arbre": "Examen de l'ancrage et de la couronne d'un arbre douteux, avis écrit en français ou en allemand."
+ },
+ "faq": [
+  {"q": "La Scheulte, Schelten : à qui s'adresser pour un arbre ?", "a": "À nous, depuis Courgenay, en français ou en allemand par écrit. La visite est gratuite ; nous venons voir l'arbre, les accès et les contraintes, puis vous recevez un devis écrit."},
+  {"q": "Quelle autorisation pour abattre à La Scheulte ?", "a": "La commune est bernoise : les haies et bosquets sont protégés par la loi cantonale, et le règlement communal fixe les arbres isolés protégés. Nous vérifions auprès de La Scheulte avant toute coupe."},
+  {"q": "Un arbre en bord de ruisseau peut-il être abattu librement ?", "a": "Pas forcément. Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel, et les arbres isolés dépendent du règlement communal. Nous examinons la situation, interrogeons la commune et proposons souvent une taille plutôt qu'une coupe."},
+  {"q": "Trente-cinq kilomètres, est-ce trop loin pour une visite gratuite ?", "a": "Non. La visite reste gratuite. Pour limiter les trajets, nous la planifions avec d'autres rendez-vous du côté d'Elay, de Mervelier ou du val Terbi, et nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Que faire d'un arbre penché au-dessus d'un bâtiment ?", "a": "Ne pas attendre la tempête. La visite est gratuite : nous évaluons l'ancrage, proposons un haubanage, une réduction ou un démontage, et sécurisons rapidement si le risque est immédiat."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à voir à La Scheulte ?",
+ "cta_lead": "Visite et devis gratuits, réponse écrite en français ou en allemand."
+}

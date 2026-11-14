@@ -1,0 +1,61 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-montreux",
+ "h1_plain": "Abattage et démontage d'arbres à Montreux",
+ "title": "Abattage et démontage d'arbres à Montreux (VD) | Arboritaille",
+ "desc": "Abattage d'arbres à Montreux : demande écrite à la Municipalité, démontage à la corde du bord du lac aux hauts. Visite et devis gratuits.",
+ "eyebrow": "Abattage · Montreux",
+ "h1": "Abattage et démontage d'arbres à <em>Montreux</em>",
+ "lead": "À Montreux, l'abattage d'un arbre protégé passe par une demande écrite à la Municipalité. Nous préparons le dossier avec vous et démontons l'arbre à la corde, du bord du lac aux villages des hauts.",
+ "points": [
+  "Démontage à la corde, par sections",
+  "Demande à la Municipalité préparée avec vous",
+  "Plantation de compensation possible",
+  "Visite et devis gratuits"
+ ],
+ "intro_eyebrow": "Montreux",
+ "intro_h2": "Vingt-huit localités, et rarement la place de coucher un arbre",
+ "intro": "<p>Montreux réunit 27 182 habitants et 28 localités sur 33,37 km². L'arbre à abattre peut se trouver derrière un immeuble de Clarens, dans un jardin de Chernex ou sur une parcelle de Glion.</p><p>Partout, la question est la même : où l'arbre peut-il tomber ? Près d'une maison, d'un mur ou d'une route, la réponse est souvent « nulle part ». Il est alors démonté de haut en bas, à la corde.</p><p>Le règlement communal prévoit que, dans la mesure du possible, la taille soit ordonnée à la place de l'abattage ou de l'arrachage. Nous regardons donc d'abord si une <a href=\"/elagage-taille-arbres\">taille</a> ou un <a href=\"/haubanage\">haubanage</a> suffit.</p><p>Montreux est à environ 110 kilomètres de Courgenay. Nous planifions le chantier à l'avance et cherchons à grouper les rendez-vous de la Riviera.</p>",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Vingt jours au pilier public",
+   "texte": "Selon le règlement communal, la demande qui entraîne une compensation est affichée vingt jours au pilier public. La Municipalité statue ensuite sur la demande et sur les oppositions éventuelles."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Plantation de compensation",
+   "texte": "Toute autorisation est assortie de plantations de compensation, aux frais du requérant, selon des directives fixées de cas en cas par la Municipalité. Nous pouvons <a href=\"/plantation-arbres\">planter l'arbre de remplacement</a>."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Hôtels, résidences, copropriétés",
+   "texte": "Le chantier se cale sur la vie du lieu : accès des clients, horaires, stationnement. Le périmètre est balisé et le bois évacué au fur et à mesure."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Montreux.</strong> Le règlement communal sur la protection des arbres (1995) protège les arbres de 30 cm et plus de diamètre de tronc, mesurés à 1,30 m du sol, les cordons boisés, boqueteaux et haies vives, ainsi que toute la végétation des quais. Tout abattage ou arrachage fait l'objet d'une demande écrite à la Municipalité, avec plantation de compensation.<br>Texte : <a href=\"https://www.montreux.ch/fileadmin/documents/commune-de-montreux.ch/pdf/Reglements/Reglement_communal_sur_la_protection_des_arbres.pdf\">règlement publié par la Commune de Montreux</a>. La loi cantonale (LPrPNP, BLV 450.11) s'applique en plus ; le règlement-type cantonal retient 40 cm de circonférence à 1 m du sol. Nous vérifions la règle applicable à votre arbre avant d'intervenir.",
+ "faq": [
+  {
+   "q": "À partir de quelle dimension un arbre est-il protégé à Montreux ?",
+   "a": "Le règlement communal de 1995 retient 30 cm de diamètre de tronc, mesuré à 1,30 m du sol. La loi cantonale s'y ajoute, et le règlement-type vaudois part de 40 cm de circonférence à 1 m. Nous vérifions le seuil applicable avant le devis."
+  },
+  {
+   "q": "Comment demander l'autorisation d'abattre un arbre à Montreux ?",
+   "a": "Par une demande écrite adressée à la Municipalité. Lorsqu'une compensation est prévue, la demande est affichée vingt jours au pilier public. La Municipalité statue ensuite, y compris sur les oppositions éventuelles."
+  },
+  {
+   "q": "La Commune peut-elle refuser l'abattage ?",
+   "a": "Oui. Le règlement prévoit que la taille soit ordonnée à la place de l'abattage lorsque c'est possible. D'où l'intérêt d'un examen préalable : nous décrivons l'état de l'arbre et les solutions pour le conserver."
+  },
+  {
+   "q": "Comment abattre un arbre sur une parcelle en pente ou sans accès ?",
+   "a": "En le démontant. Nous grimpons dans l'arbre et descendons chaque section à la corde, vers un point de dépose choisi lors de la visite. Le bois est ensuite débité et sorti à la main si aucun véhicule n'approche."
+  },
+  {
+   "q": "Un arbre menace après un coup de vent : que faire ?",
+   "a": "Éloignez-vous de l'arbre et prévenez la Commune. Dans le canton de Vaud, en cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. <a href=\"/urgence-tempete-arbre-dangereux\">Contactez-nous</a> pour sécuriser l'arbre."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Montreux ?",
+ "cta_lead": "Nous examinons l'arbre et préparons la demande avec vous. Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Villaz (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage, rognage de souche et plantation d'arbres à Villaz, dans la Glâne fribourgeoise. Arboriste-grimpeur venu de Courgenay, devis gratuit.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Villaz · Glâne",
+ "h1": "Arboriste-grimpeur à <em>Villaz</em> : taille, abattage et soins aux arbres",
+ "lead": "Villaz, dans la Glâne, est née en 2020 de la réunion de Villaz-Saint-Pierre et de La Folliaz. Taille, abattage, rognage de souche ou plantation : nous nous déplaçons depuis Courgenay, visite et devis gratuits.",
+ "points": [
+  "Visite et devis gratuits",
+  "Taille raisonnée, jamais d'étêtage",
+  "Devis détaillé poste par poste",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Villaz",
+ "intro_h2": "Villaz-Saint-Pierre et La Folliaz, une seule commune depuis 2020",
+ "intro": "<p>Créée le 1er janvier 2020, Villaz réunit les anciennes communes de Villaz-Saint-Pierre et de La Folliaz. Elle compte 2 421 habitants sur 15,45 km², à 729 m d'altitude, dans le district de la Glâne.</p><p>Avec environ 157 habitants au kilomètre carré, la commune garde un caractère villageois. Ce sont surtout les arbres des jardins, les fruitiers et les haies de limite qui réclament des soins dans ce type d'habitat.</p><p>Villaz est à environ septante-cinq kilomètres de Courgenay. Nous groupons les visites dans la Glâne et vous confirmons une date par écrit. Le devis distingue taille, abattage, évacuation et rognage.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 421 (2025)"
+  ],
+  [
+   "Altitude",
+   "729 m"
+  ],
+  [
+   "District",
+   "Glâne"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 75 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Villaz.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Villaz avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "HOME",
+   "titre": "Jardins de village",
+   "texte": "Dans les jardins, l'arbre pousse près de la maison, du garage ou de la clôture. Nous réduisons la couronne du côté concerné en gardant l'équilibre de l'arbre, plutôt que de le rabattre."
+  },
+  {
+   "icone": "SCISS",
+   "titre": "Tailler plutôt qu'abattre",
+   "texte": "Un arbre qui gêne n'est pas forcément à abattre. Une réduction ou un rehaussement de couronne règle souvent le problème pour plusieurs années, à moindre coût, et l'arbre reste en place."
+  },
+  {
+   "icone": "MOUNT",
+   "titre": "À 729 m d'altitude",
+   "texte": "À cette altitude, la végétation démarre un peu plus tard qu'en plaine. Nous taillons les feuillus en repos de végétation et réservons les plantations à l'automne ou à la fin de l'hiver, hors gel."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, réduction ou rehaussement de couronne pour les arbres de jardin de Villaz. Coupes propres, silhouette conservée.",
+  "abattage-demontage": "Démontage par sections près des maisons, abattage direct quand la place le permet. Bois débité ou évacué.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol pour regazonner ou replanter sans attendre."
+ },
+ "faq": [
+  {
+   "q": "Vous déplacez-vous à Villaz pour un seul arbre ?",
+   "a": "Oui. Villaz est à environ septante-cinq kilomètres de Courgenay. Nous groupons les visites de la Glâne sur une même journée, ce qui permet de venir pour un seul arbre sans facturer le déplacement de la visite."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Villaz ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés ; hors zone à bâtir, les boisements d'intérêt paysager ou écologique demandent une dérogation de la commune. Nous nous renseignons avant toute coupe."
+  },
+  {
+   "q": "Mon arbre fait trop d'ombre, faut-il l'abattre ?",
+   "a": "Rarement. Un éclaircissage de la couronne laisse passer la lumière, un rehaussement dégage la vue et la pelouse. Nous proposons d'abord ces solutions ; l'abattage ne vient qu'en dernier recours."
+  },
+  {
+   "q": "Combien de temps dure une intervention ?",
+   "a": "Une taille d'entretien sur un arbre de jardin prend en général une demi-journée, nettoyage compris. Un démontage complet avec évacuation demande une journée ou plus selon la taille de l'arbre et l'accès."
+  },
+  {
+   "q": "Pouvez-vous enlever la souche ?",
+   "a": "Oui, par rognage. La machine réduit la souche en copeaux sous le niveau du sol. Vous pouvez ensuite regazonner ou replanter. Le rognage est chiffré séparément sur le devis."
+  }
+ ],
+ "cta_img": "abattage_sequoia",
+ "cta_h2": "Un arbre à voir à Villaz ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

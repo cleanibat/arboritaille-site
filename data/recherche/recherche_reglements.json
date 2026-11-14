@@ -1,0 +1,223 @@
+{
+ "synthese": "Cadre fédéral : la LFo (RS 921.0) exclut de la forêt les haies, allées, jardins et parcs (art. 2 al. 3) et soumet « tout abattage d'arbres en forêt » à l'autorisation du service forestier, les cantons pouvant prévoir des exceptions (art. 21). La LPN (RS 451) impose de protéger « tout particulièrement » les haies et les bosquets (art. 18 al. 1bis). Il n'existe aucune interdiction fédérale de taille datée du 1er avril au 31 juillet : la LChP (RS 922.0, art. 7 al. 1, 4 et 5) protège les oiseaux et charge les cantons de les protéger contre les dérangements et pendant la couvaison ; l'OPD (annexe 4 ch. 6.1.3) exige seulement, pour les haies agricoles subventionnées, un entretien « durant la période de repos de la végétation », par tronçons d'un tiers au plus. La fenêtre « 1er avril-31 juillet » est une recommandation SVS/BirdLife-Vogelwarte, et la règle « renoncer aux abattages du 1er mars au 31 juillet » n'a été trouvée comme consigne officielle qu'à Bâle-Ville.\nJura : LPNP (RSJU 451) – les arbres isolés, allées, bosquets et haies sont des monuments naturels (art. 8) ; les haies et bosquets hors zone à bâtir sont protégés, réduction de surface et coupes rases interdites (art. 39) ; dérogations par la commune d'entente avec l'Office de l'environnement, qui fixe la compensation (art. 40) ; amende jusqu'à 20 000 fr. (art. 70). En zone à bâtir, c'est le règlement communal qui compte : à Delémont (RCC 2017, art. 33-35) tout arbre de 20 cm de diamètre et plus est protégé et son abattage ou élagage sévère est soumis à autorisation avec plantation compensatoire. En forêt, la LFOR (RSJU 921.11, art. 41, version 2015) soumet l'abattage à l'autorisation de l'ingénieur forestier d'arrondissement (martelage), sauf exploitation annuelle inférieure à 25 m3 par propriétaire.\nNeuchâtel : LCPN (RSN 461.10, art. 12) – les haies sont protégées sur tout le canton ; l'arrêté 461.106 (2006) interdit d'essoucher, de fragmenter, de recéper ou d'abattre plus du tiers d'une haie ou d'un bosquet tous les trois ans ; tout projet d'intervention passe préalablement par la section nature du SFFN, les dérogations étant accordées par le département (objets d'importance nationale/régionale) ou le Conseil communal (locale) ; amende jusqu'à 40 000 fr. (art. 55 LCPN). En forêt, il est « interdit d'abattre un arbre non martelé » (LCFo RSN 921.1 art. 51). Ville de Neuchâtel : arbres hors forêt de plus de 60 cm de circonférence à 1 m protégés, abattage ou élagage important soumis à autorisation de la Direction des Travaux publics (RA art. 148 et 151), étendu à Peseux, Corcelles-Cormondrèche et Valangin en 2024.\nBerne (Jura bernois, Bienne) : LCPN bernoise (BSG 426.11, art. 27-28) – haies et bosquets protégés dans leur état actuel, dérogations par le préfet (compétence que la révision en cours propose de transférer au LANAT) ; l'ordonnance (BSG 426.111 art. 13 et 16) autorise l'entretien et l'éclaircissage, mais au plus la moitié d'une haie recépée en trois ans ; les arbres isolés et allées remarquables sont des objets botaniques relevant du canton ou des communes (art. 29-30) ; amende de 100 à 50 000 fr. En forêt, « tout abattage d'arbres requiert une autorisation » sauf usage personnel (LCFo BSG 921.11 art. 10). Saint-Imier : haies, bosquets et arbres portés au plan de protection maintenus, abattage autorisé par la Municipalité seulement en cas de danger, avec compensation (RAC art. 72-73). Bienne : règlement de construction de 1998 en révision, aucune disposition sur les arbres n'a pu être vérifiée.\nSoleure : NHV (BGS 435.141 § 20) – haies non supprimables ni réductibles, « le rabattage approprié est permis » ; dérogations par l'autorité communale de construction en zone à bâtir, par le BJD hors zone, avec remplacement ; entretien en règle générale d'octobre à mars (Heckenrichtlinie 2015). Bâle-Ville : Baumschutzgesetz (SG 789.700) – arbres protégés dès 50 cm de circonférence à 1 m dans les zones de protection, 90 cm ailleurs ; abattage soumis à autorisation (Stadtgärtnerei, ou Bauinspektorat si lié à une construction), étêtage compromettant la vitalité soumis à autorisation (§ 14), replantation, amende ; pas d'abattage du 1er mars au 31 juillet. Bâle-Campagne : NLG (SGS 790 § 13 al. 3) interdit de supprimer haies, bosquets et végétation riveraine ; pas de loi cantonale sur les arbres isolés, règles communales (p. ex. Binningen, règlement en cours).\nNon vérifiés faute de texte accessible : Porrentruy (RCC 2018 scanné), La Chaux-de-Fonds, Bienne (articles « arbres »), et la version actuelle de la LFOR jurassienne et de l'OPN/JU 451.11.",
+ "points": [
+  {
+   "fait": "LFo art. 21 : « Tout abattage d'arbres en forêt est soumis à l'autorisation du service forestier. Les cantons peuvent prévoir des exceptions. » Art. 2 al. 3 : les groupes d'arbres isolés, haies, allées, jardins, parcs et espaces verts ne sont pas considérés comme forêts.",
+   "source": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "LPN art. 18 al. 1bis : il y a lieu de protéger tout particulièrement les rives, roselières, marais, associations végétales forestières rares, les haies, les bosquets, les pelouses sèches ; al. 1ter : atteintes techniques inévitables → reconstitution ou remplacement adéquat.",
+   "source": "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "LChP art. 7 : tous les oiseaux non chassables sont protégés (al. 1) ; les cantons assurent une protection suffisante contre les dérangements (al. 4) et règlent la protection des oiseaux adultes pendant la couvaison (al. 5). Aucune date fédérale d'interdiction de taille n'y figure.",
+   "source": "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "OPD annexe 4 ch. 6.1.3 (haies, bosquets champêtres et berges boisées SPB) : entretien approprié des ligneux tous les huit ans au moins, « durant la période de repos de la végétation », par tronçon sur un tiers de la surface au plus. Pas de dates fixes du type 1er avril-31 juillet.",
+   "source": "https://www.fedlex.admin.ch/eli/cc/2013/765/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Fiche SVS/BirdLife Suisse et Station ornithologique de Sempach (2001, rév. 2014) : la taille des arbustes et haies devrait se faire hors période de nidification, « am besten im Winter (November bis März) » ; il s'agit d'une recommandation, pas d'une interdiction datée.",
+   "source": "https://www.allschwil.ch/de/aktuelles/meldungen-news/Merkblatt-Vogelschutz-Schnitt-von-Straeuchern-und-Hecken.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Jura, LPNP RSJU 451 (16.06.2010) art. 8 al. 2 : les monuments naturels (objets botaniques) comprennent les arbres et arbustes isolés, les allées, les bosquets et les haies ; art. 38 : les grands arbres isolés, groupes d'arbres marquants et allées doivent subsister dans leur vocation paysagère.",
+   "source": "https://www.lexfind.ch/tolv/50930/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Jura, LPNP art. 39 : haies et bosquets hors zone à bâtir protégés ; interdit d'en réduire la surface, d'opérer des coupes rases, d'y terrasser ou déposer des matériaux ; entretien à charge des propriétaires/exploitants selon exigences du Service de l'économie rurale et de l'Office de l'environnement. Art. 40 : les communes peuvent, d'entente avec l'Office de l'environnement, octroyer des dérogations ; l'Office fixe la reconstitution/remplacement. Art. 70 : amende jusqu'à 20 000 fr.",
+   "source": "https://www.lexfind.ch/tolv/50930/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Jura, Cour administrative ADM 143/2010 (24.05.2011) : l'abattage d'arbres (fruitiers) hors zone à bâtir ne nécessitait pas de permis de construire ; une remise en état fondée sur la LPNP relève de l'Office de l'environnement, respectivement du Gouvernement, et non de la commune.",
+   "source": "https://files.entscheidsuche.ch/chunks/JU/TC/005/ADM-2010-143_2011-05-24.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Jura, guide pratique cantonal (Conférence de concertation) : supprimer une haie ou un bosquet exige « une autorisation préalable de l'OEPN [...] dans tous les cas », liée à une compensation, plus une autorisation communale si l'objet figure au PAL ; coupe d'arbres ou élagage sévère en berge boisée : autorisation OEPN ; entretien uniquement mécanique, hors nidification, « en hiver (octobre à mars) » ; toute coupe de bois en forêt requiert un permis gratuit, sauf besoins personnels jusqu'à 25 m3 dans sa propre forêt.",
+   "source": "https://www.jura.ch/Htdocs/Files/Departements/DEE/ENV/Documents/Nature_Paysage/PDF/PNPGuidepratiqueConferencedeconcertation1.pdf?download=1",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Jura, Loi sur les forêts LFOR RSJU 921.11 (20.05.1998), version au 31.12.2015 : art. 41 al. 1 « Tout abattage d'arbres en forêt est soumis à l'autorisation de l'ingénieur forestier d'arrondissement » (responsable des martelages) ; al. 2 exceptions : coupes martelées selon plan de gestion approuvé et « exploitation annuelle de moins de vingt-cinq mètres cubes par propriétaire » ; art. 42 coupes rases interdites ; art. 57 le garde forestier de triage martèle les coupes dans les forêts privées. Version actuelle sur rsju.jura.ch à vérifier.",
+   "source": "https://www.lexaris.de/book/version/documentflat/head/267139",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Delémont, Règlement communal sur les constructions (adopté 21.05.2017, approuvé 12.09.2017) art. 33 al. 3 : dans la zone à bâtir, sur fonds publics et privés, sont protégés les haies structurantes, allées d'arbres et arbres isolés « dont le tronc présente un diamètre supérieur ou égal à 20 cm », ainsi que certains arbres plus petits (espèce rare, groupe/allée, verger haute tige, arbre structurant, arbre compensatoire). Art. 34 : « L'abattage ou l'élagage sévère de tout objet protégé [...] est soumis à autorisation » selon l'ordonnance du Conseil communal, appliquée par le Service UETP. Art. 35 : plantation compensatoire obligatoire ou contribution au fonds communal pour les arbres.",
+   "source": "https://geo.jura.ch/doc/RCC/6711_RCC_Delemont.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Delémont RCC art. 36-41 (zone agricole) : toutes les haies et bosquets en zone agricole sont protégés ; interdits : réduction de surface, déracinement, coupes rases, changement de structure ; entretien « pendant la période de repos de la végétation (du 1er août au 31 mars) » ; arbres isolés et allées : « La taille ou la coupe n'est autorisée que pour des raisons sanitaires ou de sécurité », abattage autorisable par le Conseil communal avec remplacement préalable par des arbres d'au moins 2,5 m.",
+   "source": "https://geo.jura.ch/doc/RCC/6711_RCC_Delemont.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Porrentruy : le RCC (dépôt public 2018, approuvé 04.09.2018) existe sur geo.jura.ch mais il s'agit d'un scan sans couche texte exploitable ; ses articles sur les haies et arbres n'ont pas pu être vérifiés.",
+   "source": "https://geo.jura.ch/doc/RCC/6800_RCC_Porrentruy.pdf",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Neuchâtel, LCPN RSN 461.10 (22.06.1994, état 01.01.2026) art. 12 al. 1 : « Les haies sont protégées sur l'ensemble du territoire cantonal. » Art. 35-37 : dérogations si intérêt public prépondérant, accordées par le département (objet d'importance nationale/régionale) ou par le Conseil communal (importance locale), avec reconstitution/remplacement ou somme compensatoire. Art. 55 : amende jusqu'à 40 000 fr.",
+   "source": "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461.10.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Neuchâtel, Arrêté concernant la protection des haies, des bosquets, des murs de pierres sèches et des dolines, RSN 461.106 (19.04.2006) : haies = bandes boisées, bosquets = massifs boisés non assujettis à la législation forestière (art. 2) ; art. 5 « Il est interdit d'essoucher une haie ou un bosquet ou d'en couper les racines, ainsi que de fragmenter une haie dans sa longueur, d'en recéper ou d'en abattre plus du tiers tous les trois ans » ; non visés : haies de moins de 10 ans sur dépôts provisoires, haies mono- ou majoritairement non autochtones ; art. 8-9 : dérogations par le DDTE, tout projet d'intervention soumis préalablement à la section nature du service de la faune, des forêts et de la nature.",
+   "source": "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461106.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Neuchâtel, réponse du Conseil d'État à la question 23.401 (04.12.2023) : les haies, bosquets, murs et dolines correspondant aux définitions de l'arrêté sont protégés sur tout le canton, en zone à bâtir et hors zone ; en zone à bâtir, une fois les objets mis sous protection via le PAL, le Conseil communal statue sur les dérogations (art. 36 let. b LCPN) ; hors zone à bâtir le canton reste compétent (art. 36 let. a) ; une modification de la LCPN est annoncée.",
+   "source": "https://www.ne.ch/autorites/GC/objets/Documents/Questions/2023/23401.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Neuchâtel, LCFo RSN 921.1 (06.02.1996, état 01.01.2026) art. 51 : « Les arbres de futaie destinés à être abattus doivent être préalablement martelés par un agent du service forestier. Il est interdit d'abattre un arbre non martelé. »",
+   "source": "https://rsn.ne.ch/DATA/program/books/20222/pdf/9211.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Ville de Neuchâtel, Règlement d'aménagement (1998, état 01.11.2024) art. 148 : sont protégés hors forêt, sur fonds public ou privé, les arbres d'alignement et isolés de l'inventaire communal, « les arbres, en dehors des haies et bosquets, ayant une circonférence supérieure à 60 cm mesurée à 1.0 m du sol » et les arbres compensatoires ; art. 151 : ils « ne peuvent être abattus ou être l'objet d'un élagage important sans autorisation de la Direction des Travaux publics » ; art. 138 : les arbres de futaie à abattre dans les haies et bosquets doivent être martelés par l'agent du Service des forêts. L'arrêté 604 du 15.01.2024 (sanctionné 27.05.2024) étend ces articles à Corcelles-Cormondrèche, Peseux et Valangin (sauf Chaumont).",
+   "source": "https://sitn.ne.ch/web/reglements/6458/01/RA_03_19990705_20240605.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "La Chaux-de-Fonds : aucun texte communal sur l'abattage d'arbres n'a pu être localisé (le règlement d'aménagement communal de 2001 n'est pas accessible en ligne via les sources consultées) ; à vérifier auprès de la Ville avant publication.",
+   "source": "https://sitn.ne.ch/web/reglements/NE/PAC_20250129_ZUPGrandesCrosettes_Reglement.pdf",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Berne, Loi sur la protection de la nature LCPN BSG 426.11 (15.09.1992, état 01.01.2023) art. 27 : « Les haies et les bosquets sont protégés dans leur état actuel » ; le préfet ou la préfète statue sur les dérogations à l'interdiction de les détruire ; art. 28 : haies = peuplements rectilignes de buissons indigènes, bosquets = surfaces de buissons indigènes ; art. 29-30 : les arbres isolés, groupes d'arbres et allées significatifs sont des objets botaniques dont la protection relève du canton (importance nationale/régionale) ou des communes (locale) ; amende de 100 à 50 000 fr., jusqu'à 100 000 fr. dans les cas graves.",
+   "source": "https://be.lexwork.naz.ch/fr/dta/426.11.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Berne, Ordonnance sur la protection de la nature NSchV BSG 426.111 (état 01.01.2023) art. 13 : le préfet peut autoriser la suppression d'une haie ou d'un bosquet si son maintien n'est plus exigible après pesée des intérêts ou si un intérêt public prépondérant l'exige, avec obligation de compensation écologique ; art. 16 : l'entretien conforme au but de protection, notamment l'éclaircissage périodique, est autorisé ; « en trois ans, au plus la moitié d'une haie ou d'un bosquet peut être recépée, le même tronçon au plus tôt après cinq ans ; les grands arbres sont à conserver le plus longtemps possible ».",
+   "source": "https://www.belex.sites.be.ch/api/de/versions/2696/pdf_file",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Berne : une révision partielle de la LCPN mise en consultation (2024) propose de transférer la compétence des dérogations haies/bosquets des préfectures à l'Office de l'agriculture et de la nature (LANAT) ; entrée en vigueur non confirmée.",
+   "source": "https://www.rrgr-service.apps.be.ch/api/rr/documents/document/51f0741cc00442e1863607b95f9cf65d-332/13/Beilage-Synopse-12.06.2024-de.pdf",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Berne, Loi cantonale sur les forêts LCFo BSG 921.11 (05.05.1997, état 01.04.2021) art. 10 : « Tout abattage d'arbres en forêt requiert une autorisation » ; les propriétaires peuvent abattre sans autorisation pour leur usage personnel dans les limites fixées par ordonnance ; le martelage des coupes et l'autorisation d'abattage figurent parmi les tâches du service forestier.",
+   "source": "https://www.lexfind.ch/tolv/202025/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Saint-Imier, Règlement municipal de l'affectation du sol et de construction RAC (26.08.2013) art. 72 : sauf entretien périodique et sectoriel (tailler, éclaircir), les haies et bosquets portés au plan des périmètres de protection doivent être maintenus ; dérogations par la Préfecture (art. 27 al. 2 LCPN), avec compensation ; art. 73 : arbres isolés, groupes et allées au plan protégés, « La Municipalité de Saint-Imier peut autoriser leur abattage si leur état constitue un danger pour les personnes, les animaux et des biens de valeur », autorisation liée à compensation ; art. 28 : hors zone à bâtir, bâtiments à 6 m et ouvrages de génie civil à 3 m des haies et bosquets.",
+   "source": "https://www.saint-imier.ch/wp-content/uploads/2024/03/st-imier_-reglements-communaux-7_28.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Bienne : le Règlement de construction (Baureglement) de la Ville de Biel/Bienne date du 07.06.1998 (SGR 721.1) et fait l'objet d'une révision (BMBV, dépôt 2023) ; aucune disposition spécifique sur l'abattage d'arbres privés n'a pu être consultée. Une décision de la Direction des travaux publics du canton (BVD 110-2025-38, 12.06.2025) montre que la Ville a interdit provisoirement l'abattage d'un chêne dans le cadre d'un permis de construire.",
+   "source": "https://entscheidsuche.ch/docs/BE_BVD/BE_VB_001_110-2025-38_2025-06-12.pdf",
+   "confiance": "faible"
+  },
+  {
+   "fait": "Soleure, Verordnung über den Natur- und Heimatschutz NHV BGS 435.141 § 20 : « Hecken und andere Lebensräume von bedrohten Tier- und Pflanzenarten dürfen weder entfernt noch vermindert werden. Das sachgemässe Zurückschneiden ist gestattet. » Dérogations pour motifs importants : autorité communale de construction en zone à bâtir, Bau- und Justizdepartement hors zone, avec remplacement ; le Kreisförster constate les suppressions illicites ; distance de construction aux haies 4 m en zone à bâtir, 10 m hors zone.",
+   "source": "https://lexfind.ch/tolv/224493/de",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Soleure, Heckenrichtlinie du BJD (1997, rév. 2015) : les travaux d'entretien des haies sont en règle générale à exécuter pendant le repos de la végétation « (Oktober bis März) », par tronçons d'au plus un tiers de la longueur par an ; décision sur dérogations et remplacement par la Baubehörde dans la procédure de permis.",
+   "source": "https://so.ch/fileadmin/internet/bjd/bjd-arp/Natur_und_Landschutz/pdf/Heckenrichtlinie.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Bâle-Ville, Baumschutzgesetz BSchG SG 789.700 (16.10.1980, état 01.07.2020) : § 3 dans les zones de protection des arbres (hachures vertes du plan de zones) sont protégés les arbres dont le tronc mesure à 1 m du sol « einen Umfang von über 50 cm (rund 16 cm Durchmesser) » ; § 4 ailleurs « über 90 cm (rund 30 cm Durchmesser) » ; § 6 « Ein geschützter Baum darf nur gefällt werden, wenn eine besondere Bewilligung hiezu vorliegt » (motifs : danger, soin du peuplement, hygiène de l'habitat, intérêt disproportionné) ; § 7 autorisation générale pour l'entretien courant d'un grand peuplement ; § 9 replantation ; § 14 taille seulement selon les règles de l'art, un étêtage menaçant la vitalité ou l'équilibre de la couronne nécessite une autorisation ; § 23 amende ; § 2 : à Riehen et Bettingen seules les dispositions sur les zones de protection s'appliquent.",
+   "source": "https://bs.lexwork.naz.ch/de/dta/789.700.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Bâle-Ville, Baumschutzverordnung BSV SG 789.710 (19.12.2000) : § 1 les arbres fruitiers ne sont pas soumis à la loi (sauf noyers, châtaigniers, mûriers, sorbiers, cerisiers d'ornement et sauvages) ; § 2 la Stadtgärtnerei est l'autorité compétente ; § 5 abattage lié à un projet de construction décidé par le Bauinspektorat avec le permis ; § 6 autres demandes et autorisation générale déposées auprès de la Stadtgärtnerei, qui décide ; § 8 opposition dans les 30 jours dès publication.",
+   "source": "https://www.lexfind.ch/tolv/17621/de",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Bâle-Ville, page officielle « Bäume auf privatem Grund » : « Deshalb ist auf Fällarbeiten vom 1. März bis 31. Juli zu verzichten » ; cette mesure de protection des oiseaux vaut pour tous les arbres, pas seulement les protégés ; bases citées : OPN art. 20 al. 2, LChP art. 2 et 7.",
+   "source": "https://www.bs.ch/themen/umwelt-und-bauen/balkon-und-garten/baeume-auf-privatem-grund",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Bâle-Campagne, Gesetz über den Natur- und Landschaftsschutz NLG SGS 790 (20.11.1991, état 01.01.2007) § 13 al. 3 : « Es ist untersagt, Hecken, Feldgehölze und Ufervegetation zu beseitigen oder zum Absterben zu bringen » ; la Direction compétente peut accorder des exceptions si les intérêts publics ou agricoles prédominent ; § 14 obligation de remplacement. Pas de loi cantonale sur les arbres isolés ; la protection des arbres relève des communes (p. ex. règlement de Binningen en 2e lecture en octobre 2025, entrée en vigueur non confirmée).",
+   "source": "https://bl.clex.ch/api/de/versions/3999/pdf_file_with_annexes",
+   "confiance": "moyenne"
+  },
+  {
+   "fait": "Formulation publiable JURA : « Dans le canton du Jura, les haies, bosquets, arbres isolés et allées sont des monuments naturels protégés par la loi cantonale sur la protection de la nature et du paysage (LPNP, RSJU 451, art. 8, 38-40). Hors zone à bâtir, supprimer ou réduire une haie ou un bosquet exige une dérogation accordée par la commune d'entente avec l'Office de l'environnement, avec compensation ; en zone à bâtir, de nombreuses communes (p. ex. Delémont, dès 20 cm de diamètre de tronc) soumettent l'abattage et l'élagage sévère à autorisation communale. En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LFOR RSJU 921.11). Nous vérifions les règles communales avant chaque intervention et planifions l'entretien des haies hors période de nidification, en hiver. »",
+   "source": "https://www.lexfind.ch/tolv/50930/fr",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Formulation publiable NEUCHÂTEL : « Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN RSN 461.10 art. 12 ; arrêté RSN 461.106) : il est interdit de les essoucher, de les fragmenter ou d'en recéper ou abattre plus du tiers tous les trois ans, et toute intervention doit être annoncée au préalable à la section nature du service de la faune, des forêts et de la nature, qui indique si une dérogation (canton ou Conseil communal) est nécessaire. Plusieurs communes protègent en outre les arbres isolés : à Neuchâtel, tout arbre de plus de 60 cm de circonférence à 1 m du sol ne peut être abattu ou fortement élagué sans autorisation communale. En forêt, il est interdit d'abattre un arbre non martelé par le service forestier (LCFo art. 51). »",
+   "source": "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461106.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Formulation publiable BERNE (Jura bernois, Bienne) : « Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel par la loi cantonale sur la protection de la nature (LCPN BSG 426.11 art. 27) ; leur entretien (taille, éclaircissage, recépage d'au plus la moitié en trois ans) est autorisé, mais leur suppression nécessite une dérogation de la préfecture avec compensation écologique. Les arbres isolés, groupes d'arbres et allées de valeur sont protégés via les règlements communaux (p. ex. Saint-Imier, abattage autorisé par la Municipalité uniquement en cas de danger) ; à Bienne, se référer au règlement de construction de la Ville. En forêt, tout abattage requiert une autorisation du service forestier (LCFo BSG 921.11 art. 10). »",
+   "source": "https://be.lexwork.naz.ch/fr/dta/426.11.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Formulation publiable SOLEURE et BÂLE : « Dans le canton de Soleure, les haies ne peuvent être ni supprimées ni réduites ; seul le rabattage approprié est permis, et toute suppression exige une dérogation de la commune (zone à bâtir) ou du canton, avec remplacement (NHV BGS 435.141 § 20). À Bâle-Ville, tout arbre dépassant 50 cm de circonférence (zones de protection) ou 90 cm (reste du territoire), mesuré à 1 m du sol, ne peut être abattu ni étêté sévèrement sans autorisation de la Stadtgärtnerei, et le canton demande de renoncer aux abattages du 1er mars au 31 juillet pour protéger les oiseaux (Baumschutzgesetz SG 789.700). À Bâle-Campagne, haies, bosquets et végétation riveraine sont protégés par la loi cantonale (NLG SGS 790 § 13) et la protection des arbres isolés dépend de chaque commune. »",
+   "source": "https://bs.lexwork.naz.ch/de/dta/789.700.pdf",
+   "confiance": "haute"
+  },
+  {
+   "fait": "Formulation publiable transversale (taille et oiseaux) : « Aucune loi fédérale ne fixe de dates d'interdiction de taille des haies ; la loi sur la chasse (LChP art. 7) protège les oiseaux et leurs couvées et les cantons règlent cette protection. Les services cantonaux (Jura, Soleure) et les ornithologues (BirdLife, Station ornithologique) recommandent d'entretenir haies et bosquets durant le repos de la végétation, d'octobre à mars ; Bâle-Ville demande de renoncer aux abattages du 1er mars au 31 juillet. Nous programmons donc les tailles et recépages de haies en hiver et vérifions l'absence de nids avant toute intervention en période de nidification. »",
+   "source": "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/fr",
+   "confiance": "haute"
+  }
+ ],
+ "sources": [
+  "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/fr",
+  "https://www.fedlex.admin.ch/eli/cc/1966/1637_1694_1679/fr",
+  "https://www.fedlex.admin.ch/eli/cc/1991/249_249_249/fr",
+  "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/fr",
+  "https://www.fedlex.admin.ch/eli/cc/2013/765/fr",
+  "https://www.allschwil.ch/de/aktuelles/meldungen-news/Merkblatt-Vogelschutz-Schnitt-von-Straeuchern-und-Hecken.pdf",
+  "https://www.lexfind.ch/tolv/50930/fr",
+  "https://www.lexaris.de/book/version/documentflat/head/267139",
+  "https://www.lexaris.de/book/version/documentflat/head/268703",
+  "https://www.jura.ch/Htdocs/Files/Departements/DEE/ENV/Documents/Nature_Paysage/PDF/PNPGuidepratiqueConferencedeconcertation1.pdf?download=1",
+  "https://files.entscheidsuche.ch/chunks/JU/TC/005/ADM-2010-143_2011-05-24.pdf",
+  "https://geo.jura.ch/doc/RCC/6711_RCC_Delemont.pdf",
+  "https://geo.jura.ch/doc/RCC/6800_RCC_Porrentruy.pdf",
+  "https://www.delemont.ch/Htdocs/Files/v/28138.pdf/02Vivre/Actualite/20230713_rcc_modifications_tableau_v12_consultation.pdf",
+  "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461.10.pdf",
+  "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461106.pdf",
+  "https://www.ne.ch/autorites/GC/objets/Documents/Questions/2023/23401.pdf",
+  "https://rsn.ne.ch/DATA/program/books/20222/pdf/9211.pdf",
+  "https://sitn.ne.ch/web/reglements/6458/01/RA_03_19990705_20240605.pdf",
+  "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/votre_commune/reglementation/Reglementation_2021/604_CG_Arrete_protection_plantation_arbres_commission_nature_et_paysage_150124.pdf",
+  "https://be.lexwork.naz.ch/fr/dta/426.11.pdf",
+  "https://be.lexwork.naz.ch/de/dta/426.11.pdf",
+  "https://www.belex.sites.be.ch/api/de/versions/2696/pdf_file",
+  "https://www.lexfind.ch/tolv/202025/fr",
+  "https://www.rrgr-service.apps.be.ch/api/rr/documents/document/51f0741cc00442e1863607b95f9cf65d-332/13/Beilage-Synopse-12.06.2024-de.pdf",
+  "https://www.saint-imier.ch/wp-content/uploads/2024/03/st-imier_-reglements-communaux-7_28.pdf",
+  "https://entscheidsuche.ch/docs/BE_BVD/BE_VB_001_110-2025-38_2025-06-12.pdf",
+  "https://www.biel-bienne.ch/public/upload/assets/22345/230323_BMBV_EB_d_Auflage.pdf?fp=1",
+  "https://lexfind.ch/tolv/224493/de",
+  "https://so.ch/fileadmin/internet/bjd/bjd-arp/Natur_und_Landschutz/pdf/Heckenrichtlinie.pdf",
+  "https://so.ch/fileadmin/internet/bjd/bjd-arp/Natur_und_Landschutz/pdf/Heckenmerkblatt_OPR_ARP_Mai_2021.pdf",
+  "https://bs.lexwork.naz.ch/de/dta/789.700.pdf",
+  "https://www.lexfind.ch/tolv/17621/de",
+  "https://www.bs.ch/themen/umwelt-und-bauen/balkon-und-garten/baeume-auf-privatem-grund",
+  "https://bl.clex.ch/api/de/versions/3999/pdf_file_with_annexes",
+  "https://www.binningen.ch/public/upload/assets/13532/04.0_46_ER_B%20Baumschutzreglement%2C%202.%20Lesung.pdf?fp=1"
+ ]
+}

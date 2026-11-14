@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Rebévelier (BE) : taille, abattage | Arboritaille",
+ "desc": "Taille et abattage d'arbres à Rebévelier et aux Cerniers, commune bernoise à 960 m d'altitude. Visite et devis gratuits, à quinze kilomètres de Courgenay.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Rebévelier · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Rebévelier</em> : taille, abattage et résineux de montagne",
+ "lead": "Rebévelier et Les Cerniers forment une commune bernoise de 29 habitants, à 960 m, entourée de communes jurassiennes. Courgenay est à une quinzaine de kilomètres. Nous y taillons et abattons vos arbres, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Une quinzaine de kilomètres depuis Courgenay", "Droit bernois, voisinage jurassien", "Résineux et arbres de ferme à 960 m"],
+ "intro_eyebrow": "Vos arbres à Rebévelier",
+ "intro_h2": "À 960 m, une commune bernoise entourée de voisines jurassiennes",
+ "intro": "<p>Rebévelier et sa localité des Cerniers comptent 29 habitants sur 3,55 km². À 960 m, le village est au niveau de Lajoux, sa voisine, et près de 500 m au-dessus de Haute-Sorne.</p><p>Lors des votes de 1974 à 1976 sur la création du canton du Jura, la commune a demandé à passer du district de Delémont à celui de Moutier pour rester bernoise. Aujourd'hui, trois de ses quatre voisines sont jurassiennes.</p><p>Pour vos arbres, cela signifie le droit bernois : protection des haies et bosquets par la loi cantonale, arbres isolés selon le règlement communal. À Saulcy ou à Lajoux, de l'autre côté de la limite, la loi jurassienne s'applique.</p><p>À cette altitude, dans le Jura, les hivers sont longs et la neige lourde. Épicéas et érables sont fréquents en montagne jurassienne. Nous en tenons compte dans le calendrier et la méthode.</p>",
+ "faits": [["Habitants", "29 (2025)"], ["Altitude", "960 m"], ["NPA", "2717"], ["Depuis Courgenay", "env. 15 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Rebévelier.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et les allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle de Rebévelier avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Berne, pas Jura", "texte": "Rebévelier est bernoise, ses voisines Lajoux et Saulcy sont jurassiennes. Nous appliquons la bonne loi de chaque côté de la limite et vous indiquons la démarche à suivre."},
+  {"icone": "MOUNT", "titre": "Neige et résineux", "texte": "À 960 m, un épicéa planté près d'une ferme monte haut et porte la neige. Nous démontons ceux qui menacent un toit et allégeons les autres, par le haut, à la corde."},
+  {"icone": "PIN", "titre": "Quinze kilomètres de Courgenay", "texte": "Rebévelier est à une quinzaine de kilomètres de Courgenay à vol d'oiseau, moins que la plupart des communes bernoises. Le déplacement reste court et la visite se fixe facilement."}
+ ],
+ "services": {
+  "abattage-demontage": "Démontage de résineux près des fermes de Rebévelier et des Cerniers, cime puis tronc par sections, bois débité sur place.",
+  "elagage-taille-arbres": "Allègement des couronnes chargées de neige, suppression du bois mort, dégagement des toits.",
+  "urgence-tempete-arbre-dangereux": "Arbre cassé par la neige ou le vent : sécurisation rapide depuis Courgenay, à une quinzaine de kilomètres.",
+  "plantation-arbres": "Plantation d'essences adaptées à 960 m, avec tuteurage tripode et consignes d'arrosage."
+ },
+ "faq": [
+  {"q": "Rebévelier applique-t-elle le droit bernois ou jurassien pour les arbres ?", "a": "Le droit bernois. Rebévelier a choisi de rester dans le canton de Berne dans les années 1970. Haies et bosquets sont protégés par la loi bernoise ; les arbres isolés par le règlement communal. Nous vérifions avant d'intervenir."},
+  {"q": "Venez-vous aussi aux Cerniers ?", "a": "Oui. Les Cerniers font partie de la commune de Rebévelier. La visite est gratuite ; nous repérons l'accès pour le matériel et la sortie du bois, puis vous recevez un devis écrit."},
+  {"q": "Peut-on abattre un grand épicéa près d'une ferme ?", "a": "Oui, par démontage : nous montons, coupons la cime puis le tronc par sections, et descendons chaque pièce à la corde ou la laissons tomber dans une zone dégagée. Le bois est débité sur place."},
+  {"q": "Quand tailler à 960 m d'altitude ?", "a": "La fenêtre est courte : de la chute des feuilles au débourrement, hors gel marqué, soit à peu près de novembre à avril. Les résineux et le bois mort se traitent en toute saison."},
+  {"q": "Quelle est la distance depuis Courgenay ?", "a": "Une quinzaine de kilomètres à vol d'oiseau. Pour un arbre dangereux, nous convenons d'un délai au téléphone ; pour le reste, la visite gratuite se fixe à votre convenance et le devis suit par écrit."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un épicéa ou un arbre de ferme à voir à Rebévelier ?",
+ "cta_lead": "Visite et devis gratuits, à une quinzaine de kilomètres de Courgenay."
+}

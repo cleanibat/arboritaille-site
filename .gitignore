@@ -1,3 +1,6 @@
 data/*.html
 data/wiki_listes_raw.json
 .DS_Store
+data/communes_faits.json
+data/fetch_facts.log
+__pycache__/

@@ -1,0 +1,45 @@
+{
+ "title": "Arboriste-grimpeur à Porrentruy (JU) : taille et abattage | Arboritaille",
+ "desc": "Taille de tilleuls et de platanes, démontage et abattage à la grue à Porrentruy, chef-lieu de district en Ajoie, voisin de Courgenay. Visite et devis gratuits.",
+ "hero_img": "reduction_tilleul_porrentruy", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Porrentruy · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Porrentruy</em> : taille, abattage et soins aux arbres",
+ "lead": "Porrentruy est le chef-lieu du district et la ville voisine de Courgenay. Tilleuls, platanes, arbres de jardin ou de cour d'immeuble : nous les taillons, les démontons et les remplaçons sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Interventions photographiées en ville", "Abattage à la grue possible", "Gérances et collectivités : devis par lot"],
+ "intro_eyebrow": "Vos arbres à Porrentruy",
+ "intro_h2": "La ville d'Ajoie où nos photos ont été prises",
+ "intro": "<p>Porrentruy compte 6 597 habitants, à 443 m d'altitude, en Ajoie. Chef-lieu du district, c'est la quatrième commune du canton du Jura par sa population. Courgenay la touche directement.</p><p>L'église Saint-Pierre occupe la colline sud de la ville. Le sanglier, emblème de Porrentruy, figure sur les armoiries et en statue devant la mairie. On le rencontre encore dans les forêts avoisinantes.</p><p>C'est à Porrentruy que plusieurs de nos chantiers ont été photographiés : réduction d'un tilleul, entretien de platanes, démontage d'un arbre à la corde et abattage à la grue. Les images ci-dessous en témoignent.</p><p>En ville, on travaille au-dessus de trottoirs, de voitures et de toits. Chaque branche est retenue à la corde ; quand l'accès le permet, une grue lève les sections entières. Le périmètre est balisé.</p>",
+ "faits": [["Habitants", "6 597 (2025)"], ["Altitude", "443 m"], ["Superficie", "14,75 km²"], ["Depuis Courgenay", "env. 5 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Porrentruy.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Porrentruy auprès de la Ville avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Tilleuls et platanes", "texte": "En ville, un grand feuillu étend souvent sa couronne au-dessus de la rue. Nous l'allégeons ou le réduisons par étapes, comme sur le tilleul et les platanes photographiés ici, jamais par étêtage."},
+  {"icone": "CRANE", "titre": "Abattage à la grue", "texte": "Quand un arbre ne peut pas être démonté en sécurité au-dessus d'un bâtiment, une grue lève les sections une à une. Nous l'avons fait à Porrentruy ; l'opération se prépare à l'avance, occupation de la rue comprise."},
+  {"icone": "USERS", "titre": "Gérances, collectivités et institutions", "texte": "Immeubles, écoles, administrations : nous remettons un devis par bâtiment ou par lot, planifions avec le concierge ou le service concerné et informons les habitants de la date."},
+  {"icone": "HOME", "titre": "Jardins des quartiers", "texte": "Dans les quartiers de villas, les arbres plantés il y a des décennies ont souvent atteint leur taille adulte. Taille de dégagement, bois mort, haies : la visite est gratuite, même pour un seul arbre."}
+ ],
+ "galerie_h2": "Nos interventions à Porrentruy",
+ "galerie": [
+  ["reduction_tilleul_porrentruy", "Réduction de couronne d'un tilleul à Porrentruy par un arboriste-grimpeur", "Réduction d'un tilleul à Porrentruy, par étapes, en conservant la silhouette."],
+  ["entretien_platanes_porrentruy", "Entretien de platanes à Porrentruy", "Entretien de platanes à Porrentruy : bois mort et dégagement."],
+  ["demontage_arbre_porrentruy", "Démontage d'un arbre à la corde à Porrentruy", "Démontage d'un arbre à Porrentruy, pièce par pièce, à la corde."],
+  ["abattage_arbre_porrentruy-6", "Abattage d'un arbre à la grue à Porrentruy", "Abattage à la grue à Porrentruy : les sections sont levées au-dessus des bâtiments."],
+  ["abattage_arbre_porrentruy-3", "Tronc débité après un abattage à Porrentruy", "Après l'abattage à Porrentruy, le tronc est débité sur place."]
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement, réduction ou rehaussement de couronne pour les tilleuls, platanes et arbres de jardin de Porrentruy. Coupes propres, silhouette conservée.",
+  "abattage-demontage": "Démontage à la corde entre les bâtiments, abattage à la grue quand l'arbre surplombe une rue ou un toit. Bois débité ou évacué.",
+  "collectivites-entreprises": "Collectivités, gérances et entreprises de Porrentruy : devis par lot, planning d'entretien et interventions coordonnées avec vos services.",
+  "diagnostic-expertise-arbre": "Un arbre ancien vous inquiète dans une cour ou un jardin de Porrentruy ? Nous évaluons son état et proposons une suite mesurée.",
+  "rognage-souche": "Après un abattage, la souche est rognée sous le niveau du sol pour replanter ou engazonner la place libérée."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Porrentruy ?", "a": "La loi jurassienne protège haies, bosquets, arbres isolés et allées ; en zone à bâtir, le règlement communal de Porrentruy désigne les arbres soumis à autorisation. Nous nous renseignons auprès de la Ville avant d'intervenir et préparons la demande avec vous."},
+  {"q": "Avez-vous déjà travaillé à Porrentruy ?", "a": "Oui. Les photos de cette page y ont été prises : réduction d'un tilleul, entretien de platanes, démontage et abattage à la grue. La ville est à moins de dix kilomètres de Courgenay, où nous sommes installés."},
+  {"q": "Quand utilisez-vous une grue ?", "a": "Quand l'arbre surplombe un bâtiment, une rue ou une ligne et qu'un démontage à la corde serait trop long ou trop risqué. La grue lève chaque section vers un camion. Le coût est intégré au devis."},
+  {"q": "Travaillez-vous pour les gérances et les collectivités à Porrentruy ?", "a": "Oui. Nous visitons le site, listons les arbres et remettons un devis par bâtiment ou par lot. Les interventions sont planifiées avec vos concierges ou vos services, et les habitants sont prévenus de la date."},
+  {"q": "Quand tailler un tilleul ou un platane en ville ?", "a": "De l'automne à la fin de l'hiver, hors période de nidification. Nous allégeons la couronne ou la réduisons par étapes, jamais par étêtage, pour garder un arbre sain et une silhouette naturelle."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-6",
+ "cta_h2": "Un arbre à tailler, à démonter ou à abattre à Porrentruy ?",
+ "cta_lead": "Visite et devis gratuits, pour un jardin, un immeuble ou un bâtiment public."
+}

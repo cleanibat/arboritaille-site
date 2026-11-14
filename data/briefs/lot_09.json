@@ -1,0 +1,817 @@
+[
+ {
+  "slug": "arboriste-pleigne",
+  "nom": "Pleigne",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 368,
+  "tier": 1,
+  "npa": "2807",
+  "altitude": "809 m",
+  "superficie": "17,83 km2",
+  "densite": "21 hab./km2",
+  "gentile": "Pleignet",
+  "langue": "Français",
+  "localites": "Bavelier, Lucelle",
+  "population_detail": null,
+  "distance_courgenay_km": 10,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Pleigne",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Pleigne est une commune suisse du canton du Jura.",
+  "sections": {
+   "Toponymie": "La commune se nomme Plenna en 1179, Blennes en 1213, Blendess en 1361, Blen en 1400.",
+   "Histoire": "La première mention de Pleigne apparait en 1179, et fut gouverné par plusieurs seigneurs avant de passer aux mains de l'Evéché de Bâle. Sous l'Ancien-Régime, Pleigne (anciennement Pleine) formait une mairie avec Mettembert (anciennement Mettemberg) et Movelier (anciennement Moderschwiler). La commune de Pleigne comptait sur son territoire l'Abbaye de Lucelle, renommée à son époque, qui contribua à faire connaitre le village. Les ruines du Löwenbourg et son musée est également situé sur le territoire de Pleigne. L'Abbaye de Lucelle possédait la majorité des terres de la commune. Elle acquérait des biens et les échangeait, accroissant sa fortune. Et en 1765, le monastère abandonna les droits qui lui restait en faveur de la commune, qui devint une des plus riche de l'Evéché. En 1637, pendant la guerre des Trente ans, le village fut complétement anéanti. Au fil des siècles, la population de Pleigne n'a cessé de décroitre. Pour exemple, le village comptait 463 en 1880, 451 en 1920, 434 en 1950, 408 en 2000 et 365 au Noël 2024,."
+  },
+  "voisins": [
+   {
+    "nom": "Bourrignon",
+    "slug": "arboriste-bourrignon"
+   },
+   {
+    "nom": "Delémont",
+    "slug": "arboriste-delemont"
+   },
+   {
+    "nom": "Ederswiler",
+    "slug": "arboriste-ederswiler"
+   },
+   {
+    "nom": "Kiffis",
+    "slug": null
+   },
+   {
+    "nom": "La Baroche",
+    "slug": "arboriste-la-baroche"
+   },
+   {
+    "nom": "Lucelle",
+    "slug": null
+   },
+   {
+    "nom": "Mettembert",
+    "slug": "arboriste-mettembert"
+   },
+   {
+    "nom": "Movelier",
+    "slug": "arboriste-movelier"
+   },
+   {
+    "nom": "Roggenburg",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saulcy",
+  "nom": "Saulcy",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 274,
+  "tier": 1,
+  "npa": "2873",
+  "altitude": "913 m",
+  "superficie": "7,86 km2",
+  "densite": "35 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Saulcy, La Racine, Le Cras-des-Mottes, Pré-Voirmais, Le Cerneux, Les Cerniers de Saulcy",
+  "population_detail": "274 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 10,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saulcy_(Jura)",
+  "intro": "Cet article ne cite pas suffisamment ses sources (février 2018). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Saulcy est un village et une commune suisse du canton du Jura. Situé à la porte des Franches-Montagnes, Saulcy fait toutefois partie du district de Delémont. Cette petite commune de 274 habitants est située à 913 mètres d'altitude.",
+  "sections": {
+   "Toponymie": "Le nom de la commune dérive du latin salicetum, qui désigne une saussaie, soit un lieu planté de saules. L'étymologie est la même que plusieurs communes françaises telles que Saulcy et Saulces-aux-Bois. La première occurrence écrite du toponyme remonte à 1327, sous la forme de Sasis. Sa forme orthographique moderne est due à une relatinisation savante. Son ancien nom allemand est Selzach.",
+   "Histoire": "Saulcy est mentionné en 1327. À ce moment-là, il s'agit plus d'un groupe de fermes que d'un village. Quant au hameau de la Racine, il est attesté dès 1181. La partie basse du village est la plus ancienne. Le territoire de Saulcy faisait partie du diocèse de Bâle. Durant la guerre de Trente Ans (1618-1648), l'agglomération a été fortement touchée. Le groupement de fermes fut pillé et après la mort des hommes aptes au combat, la localité a été abattue par la peste. Durant le temps où la peste ravageait Saulcy, les gens déposaient leurs défunts devant la porte, et une dame récupérait les cadavres pour les emmener dans des fosses communes. Celles-ci ont donné le nom à une rue : Clos des Fosses. Le village connût un certain exode. Depuis le XVIIe siècle, la Borne du Cellier marque la limite du territoire de la commune. Plus ancienne borne du village, elle se trouve en bordure du pâturage du Nirveux en direction de Bollement. Le village dépendait jusqu'en 1793 de Glovelier. En 1793, les premières élections de Saulcy ont eu lieu, ce qui en a fait une commune pour la première fois. De 1793 à 1815, Saulcy a fait partie de la France, appartenant au département du Mont-Terrible, puis à celui du Haut-Rhin. À l'occasion du Congrès de Vienne, en 1815, la commune de Saulcy a été attribuée au canton de Berne. Elle appartient au nouveau canton du Jura depuis 1979. Les habitants vivaient de mani"
+  },
+  "voisins": [
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne"
+   },
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Rebévelier",
+    "slug": "arboriste-rebevelier"
+   },
+   {
+    "nom": "Saint-Brais",
+    "slug": "arboriste-saint-brais"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-bourrignon",
+  "nom": "Bourrignon",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 259,
+  "tier": 1,
+  "npa": "2803",
+  "altitude": "770 m",
+  "superficie": "13,55 km2",
+  "densite": "19 hab./km2",
+  "gentile": "Boret",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "259 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": null,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bourrignon",
+  "intro": "Bourrignon (ancien nom allemand : Bürgis dont il reste une trace, par la dénomination de la montagne La Bürgisberg, qui la surplombe) est une commune suisse du canton du Jura, située dans le district de Delémont.",
+  "sections": {
+   "Histoire": "Bourrignon est l'un des treize francs villages de la seigneurie de Delémont, l'un des bailliages de l'évêché de Bâle jusqu'en 1792. Sous l'occupation française, il fait partie du département français du Mont-Terrible puis de celui du Haut-Rhin. Bourrignon est ensuite rattachée au bailliage puis district bernois de Delémont (1815-1978). Depuis le 1er janvier 1979, Bourrignon fait partie du canton du Jura.",
+   "Monuments": "L'église actuelle de Bourrignon a été reconstruite en 1747-1749. L'autel est daté de 1753, et le chemin de croix (tableaux de François Ignace Tavanne) de 1777. Les fronts baptismaux sont eux du XVIe siècle. Lors de sa restauration en 1974-1977, on y découvrit un dépôt de monnaies du XVIIe siècle.",
+   "Transports": "Bourrignon est desservie par la ligne de bus Delémont - Lucelle, à 24 min de Delémont."
+  },
+  "voisins": [
+   {
+    "nom": "La Baroche",
+    "slug": "arboriste-la-baroche"
+   },
+   {
+    "nom": "Pleigne",
+    "slug": "arboriste-pleigne"
+   },
+   {
+    "nom": "Delémont",
+    "slug": "arboriste-delemont"
+   },
+   {
+    "nom": "Develier",
+    "slug": "arboriste-develier"
+   },
+   {
+    "nom": "Boécourt",
+    "slug": "arboriste-boecourt"
+   },
+   {
+    "nom": "Mettembert",
+    "slug": "arboriste-mettembert"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-ederswiler",
+  "nom": "Ederswiler",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 111,
+  "tier": 1,
+  "npa": "2813",
+  "altitude": "553 m",
+  "superficie": "3,31 km2",
+  "densite": "34 hab./km2",
+  "gentile": null,
+  "langue": "Allemand, français",
+  "localites": null,
+  "population_detail": "111 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Ederswiler",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Ederswiler est une commune suisse du canton du Jura. Elle est l'unique commune germanophone du canton du Jura, puisque 85 % de sa population est de langue maternelle allemande. Toutefois, une part importante de la population comprend le français et il est enseigné aux élèves.",
+  "sections": {
+   "Histoire": "Ederswiler est mentionné pour la première fois en 1323 sous le nom d'Ernswilre. Le village appartenait à la paroisse de Roggenburg, qui dépendait de l'évêque de Bâle. Il a donné la paroisse comme fief aux comtes de Thierstein de 1389 à 1454. De 1793 à 1815, Ederswiler a appartenu à la France et a d'abord fait partie du département du Mont-Terrible, à partir de 1800 elle a été rattachée au département du Haut-Rhin. Lors du Congrès de Vienne, en 1815, le territoire est rattaché au canton de Berne. Lors des plébiscites jurassiens de 1974, Ederswiler s'est prononcé contre la création d'un canton du Jura par 42 voix contre 35. Cependant, la commune n'avait pas de frontière commune avec le Laufonnais, de sorte qu'elle ne pouvait pas déterminer elle-même son appartenance cantonale, comme le faisaient toutes les communes frontalières. Le 1er janvier 1979, le passage du canton de Berne au canton du Jura nouvellement créé était donc inévitable. Pendant longtemps, il a été question d'échanger des territoires : Ederswiler devait revenir dans le canton de Berne, tandis que la commune de Vellerat, qui pour les mêmes raisons n'avait pas pu rejoindre le canton du Jura, devait en faire partie. Cependant, après que la population de la vallée de Laufon eut voté en faveur du rattachement au canton de Bâle-Campagne en 1989, Ederswiler n'avait plus de frontières communes avec le canton de Berne."
+  },
+  "voisins": [
+   {
+    "nom": "Pleigne",
+    "slug": "arboriste-pleigne"
+   },
+   {
+    "nom": "Movelier",
+    "slug": "arboriste-movelier"
+   },
+   {
+    "nom": "Roggenburg",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-mettembert",
+  "nom": "Mettembert",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 109,
+  "tier": 1,
+  "npa": "2806",
+  "altitude": "660 m",
+  "superficie": "2,32 km2",
+  "densite": "47 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Mettembert",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Mettembert (ancien nom allemand : Mettemberg) est une commune suisse du canton du Jura.",
+  "sections": {
+   "Histoire": "Mettembert était une courtine de l'abbaye de Petit-Lucelle, puis du chapitre des augustins de Bâle avant d'être reprise par l'évêque de Bâle en 1287 et de faire partie de sa seigneurie de Delémont. Mettembert sera rattaché aux départements français du Mont-Terrible puis du Haut-Rhin entre 1793 et 1813. La commune passa ensuite au canton de Berne en 1815. En 1853, la commune devint \"Commune mixte\". Depuis 1979, Mettembert fait partie du district de Delémont, dans la canton du Jura. En 1984, les citoyens décidèrent de franciser le nom de la commune. Mettemberg devient alors Mettembert.",
+   "Transports": "Un bus circule toutes les heures en direction de Soyhières et de Pleigne ce qui met Mettembert à une dizaine de minutes de Delémont avec un changement de bus à Soyhières. L'A16 (Bienne-Boncourt) est accessible par la sortie de Delémont-Est. En train, à partir de Delémont, on peut facilement grâce aux trains ICN et régionaux rejoindre Bâle, Bienne et Porrentruy."
+  },
+  "voisins": [
+   {
+    "nom": "Delémont",
+    "slug": "arboriste-delemont"
+   },
+   {
+    "nom": "Pleigne",
+    "slug": "arboriste-pleigne"
+   },
+   {
+    "nom": "Movelier",
+    "slug": "arboriste-movelier"
+   },
+   {
+    "nom": "Soyhières",
+    "slug": "arboriste-soyhieres"
+   },
+   {
+    "nom": "Bourrignon",
+    "slug": "arboriste-bourrignon"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saignelegier",
+  "nom": "Saignelégier",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 2528,
+  "tier": 1,
+  "npa": "2350 Saignelégier  2353 Les Pommerats  2354 Goumois",
+  "altitude": "978 m",
+  "superficie": "31,64 km2",
+  "densite": "80 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Chaumont, La Theurre, Les Cerlatez, Goumois, Les Pommerats",
+  "population_detail": "2 528 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saignelégier",
+  "intro": "Saignelégier est une commune suisse du canton du Jura et chef-lieu du district des Franches-Montagnes.",
+  "sections": {
+   "Toponymie": "Le nom de la commune signifie « marais de Légier » : il se compose du substantif sagne (marais, marécage, herbes de marais) et d'un nom de personne, Légier ou Léger. Sa première occurrence écrite date de 1294, sous la forme de Saignelegier. La commune se nomme Sèneleudjî en patois taignon. Son ancien nom allemand est Sankt Leodegar, le premier élément du toponyme ayant été confondu avec saint.",
+   "Histoire": "Le village est mentionné pour la première fois en 1382 sous le nom de Sonnelegilier, puis de Saigneligier en 1454. Saignelégier dépendit d'abord de la paroisse de Montfaucon. Une chapelle y était établie dès 1397. Sa position au centre des Franches-Montagnes fit de Saignelégier le lieu où se traitaient les affaires et se rendait la justice ; le curé de Montfaucon s'y installa en 1594. Saignelégier fut érigé en paroisse indépendante en 1629. Le village est devenu la résidence des châtelains de la Seigneurie de la Franche-Montagne des Bois au XVIIe siècle. De 1793 à 1815, Saignelégier a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du Congrès de Vienne, le territoire de l'ancien Évêché de Bâle fut attribué au canton de Berne, en 1815. Au XIXe siècle, Saignelégier est devenu le siège de la préfecture du district des Franches-Montagnes. Depuis le 1er janvier 1979, Saignelégier fait partie du canton du Jura. Depuis le 1er janvier 2009, Saignelégier a absorbé les communes de Goumois et des Pommerats. Les armoiries des nobles de Spiegelberg (miroir, montagne) sont devenues plus tard celles du district des Franches-Montagnes et de la commune de Saignelégier. Familles originaires de la commune : Aubry, Brossard, Cattin, Chappatte, Chipret, Ecabert, ",
+   "Culture et patrimoine": " Jean-Pierre Portschy (1749-1828), général des armées de la République française, y est né. ; Saignelégier est le village d'enfance de la comédienne et humoriste Zouc, qui vit le jour dans la ville voisine de Saint ; Marché-concours de Saignelégier, organisé chaque année, le 2e week-end d'août.",
+   "Transports": "La commune est au centre de deux axes de communication (Delémont - La Chaux-de-Fonds et Tavannes - Goumois). La ligne de chemin de fer Saignelégier – La Chaux-de-Fonds a été ouverte le 7 décembre 1892. Une liaison en direction de Glovelier suivit le 21 mai 1904. La localité est également desservie par des bus. Chemins de fer du Jura : Ligne ferroviaire La Chaux-de-Fonds – Le Noirmont – Saignelégier – Glovelier ; Ligne de bus Saignelégier – Montfaucon – Glovelier ; CarPostal : Ligne Tramelan – Saignelégier – Goumois"
+  },
+  "voisins": [
+   {
+    "nom": "Charmauvillers",
+    "slug": null
+   },
+   {
+    "nom": "Fessevillers",
+    "slug": null
+   },
+   {
+    "nom": "Goumois",
+    "slug": null
+   },
+   {
+    "nom": "Indevillers",
+    "slug": null
+   },
+   {
+    "nom": "Le Bémont",
+    "slug": "arboriste-le-bemont"
+   },
+   {
+    "nom": "Le Noirmont",
+    "slug": "arboriste-le-noirmont"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Les Enfers",
+    "slug": "arboriste-les-enfers"
+   },
+   {
+    "nom": "Muriaux",
+    "slug": "arboriste-muriaux"
+   },
+   {
+    "nom": "Soubey",
+    "slug": "arboriste-soubey"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-le-noirmont",
+  "nom": "Le Noirmont",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 1936,
+  "tier": 1,
+  "npa": "2340",
+  "altitude": "971 m",
+  "superficie": "20,39 km2",
+  "densite": "95 hab./km2",
+  "gentile": "Noirmontain",
+  "langue": "Français",
+  "localites": "Le Noirmont, Les Barrières",
+  "population_detail": "1 936 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Noirmont",
+  "intro": "Ne doit pas être confondu avec Le Noirmont (montagne). Cet article ne cite pas suffisamment ses sources (septembre 2022). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Le Noirmont (ancien nom allemand : Schwarzenberg) est une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Histoire": "Le nom du Noirmont est mentionné pour la première fois en 1397. L’origine du lieu remonte au règne d’Imier de Ramstein, prince-évêque de Bâle qui, en 1384, décida d’exempter d’impôt les défricheurs de nouvelles terres. De 1793 à 1815, Le Noirmont a appartenu à la France, dans le département du Mont-Terrible, puis dans celui du Haut-Rhin. À la suite d'une décision du congrès de Vienne, en 1815, la commune a été attribuée au canton de Berne, comme toutes celles du district des Franches-Montagnes. Le 29 octobre 1944 fut une tragique journée pour le village, la gare fut bombardée. Plusieurs maisons étaient en flammes. Les habitants de ces fermes — cinq ou six familles — sortaient de la messe et accouraient sur place. « Quelques jours après cette tragédie, des rumeurs circulaient. Elles disaient que le wagon mitraillé était destiné à l’Allemagne et qu’il venait de la Dixi, au Locle, fabrique de munitions. » Depuis le 1er janvier 1979, Le Noirmont fait partie du canton du Jura.",
+   "Transports": " Ligne La Chaux-de-Fonds – Le Noirmont – Glovelier ; Ligne Le Noirmont – Tramelan – Tavannes"
+  },
+  "voisins": [
+   {
+    "nom": "Charmauvillers",
+    "slug": null
+   },
+   {
+    "nom": "Charquemont",
+    "slug": null
+   },
+   {
+    "nom": "Les Bois",
+    "slug": "arboriste-les-bois"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Muriaux",
+    "slug": "arboriste-muriaux"
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier"
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-breuleux",
+  "nom": "Les Breuleux",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 1631,
+  "tier": 1,
+  "npa": "2345 Les Breuleux, La Chaux-des-Breuleux",
+  "altitude": "1 038 m",
+  "superficie": "10,81 km2",
+  "densite": "151 hab./km2",
+  "gentile": "Breulotier",
+  "langue": "Français",
+  "localites": "Les Breuleux, La Chaux-des-Breuleux, Les Vacheries",
+  "population_detail": null,
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Breuleux",
+  "intro": "Les Breuleux sont une commune suisse du canton du Jura, située dans le nord-est du massif du Jura, dans le district des Franches-Montagnes.",
+  "sections": {
+   "Toponymie": "Le toponyme, dérivé franc-comtois du verbe brûler, signifie littéralement « les brûlis », soit les « terrains défrichés par le feu ». Il est mentionné pour la première fois en 1429, sous le nom de Les Bruilluit. Le toponyme est passé par Les Brulluy en 1440, puis Bruleux en 1526 avant de prendre sa forme actuelle en 1534. L'ancien nom allemand de la commune est Brandisholz.",
+   "Histoire": "De 1793 à 1815, le village des Breuleux a été annexé par la France, dans le département du Mont-Terrible, puis dans celui du Haut-Rhin. À la suite du congrès de Vienne, en 1815, la commune a été attribuée au canton de Berne, comme toutes celles du district de Franches-Montagnes. Le 12 juin 1926, une tornade a causé d'importants dégâts, détruisant plusieurs maisons. Le 5 avril 2019, la commune des Breuleux a accepté à 90,4 % la fusion avec la commune de La Chaux-des-Breuleux. La fusion aura effet le 1er janvier 2023. Familles originaires de la commune : Baume, Beuret, Beurret, Boillat, Bonnemain, Bouverat, Clémence, Crevoiserat, Crevoisier, Donzé, Froidevaux, Huelin, Jeandupeux, Parret, Pelletier, Peltier, Petermann, Theurillat, Rasiti.",
+   "Transports": " Chemins de fer du Jura : Ligne Le Noirmont – Tramelan – Tavannes ; Ligne de bus Les Breuleux – Saint-Imier"
+  },
+  "voisins": [
+   {
+    "nom": "Cormoret",
+    "slug": "arboriste-cormoret"
+   },
+   {
+    "nom": "Courtelary",
+    "slug": "arboriste-courtelary"
+   },
+   {
+    "nom": "Le Noirmont",
+    "slug": "arboriste-le-noirmont"
+   },
+   {
+    "nom": "Mont-Tramelan",
+    "slug": "arboriste-mont-tramelan"
+   },
+   {
+    "nom": "Muriaux",
+    "slug": "arboriste-muriaux"
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   },
+   {
+    "nom": "Villeret",
+    "slug": "arboriste-villeret"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-bois",
+  "nom": "Les Bois",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 1246,
+  "tier": 1,
+  "npa": "2336",
+  "altitude": "1 034 m",
+  "superficie": "24,74 km2",
+  "densite": "50 hab./km2",
+  "gentile": "Rudisylvain",
+  "langue": "Français",
+  "localites": "Les Bois, Le Boéchet, Le Cerneux-Godat, Les Prailats",
+  "population_detail": null,
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Bois",
+  "intro": "Les Bois sont une commune suisse du canton du Jura, située dans le district des Franches-Montagnes. Il s'agissait du plus grand village des Franches-Montagnes en superficie, avant la fusion de Saignelégier.",
+  "sections": {
+   "Toponymie": "L'ancien nom allemand de la commune est Rüdisholz.",
+   "Histoire": "Le village des Bois est mentionné pour la première fois en 1484. La commune s'est appelée Les Bois Jean Ruedin jusqu'en 1792. De 1793 à 1815, la commune des Bois a appartenu à la France, dans le département du Mont-Terrible, puis dans celui du Haut-Rhin. À la suite d'une décision du Congrès de Vienne, en 1815, la commune des Bois a été attribuée au canton de Berne. Les habitants du Cerneux-Godat ont vainement tenté à deux reprises, en 1815 et en 1871, de s’ériger en commune. Depuis le 1er janvier 1979, la commune fait partie du canton du Jura.",
+   "Culture et patrimoine": " Église paroissiale Sainte-Foy, construite en 1832-1833 ; Maison-Rouge, fondation pour le cheval ; Cimetière des Pestiférés, ; Baitchai ; Les 4 foulées ; Élisabeth Baume-Schneider, femme politique ; Rodolphe Cattin, horloger"
+  },
+  "voisins": [
+   {
+    "nom": "Charquemont",
+    "slug": null
+   },
+   {
+    "nom": "Fournet-Blancheroche",
+    "slug": null
+   },
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "La Ferrière",
+    "slug": "arboriste-la-ferriere"
+   },
+   {
+    "nom": "Le Noirmont",
+    "slug": "arboriste-le-noirmont"
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier"
+   },
+   {
+    "nom": "Sonvilier",
+    "slug": "arboriste-sonvilier"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-lajoux",
+  "nom": "Lajoux",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 712,
+  "tier": 1,
+  "npa": "2718 Lajoux, Fornet-Dessus",
+  "altitude": "960 m",
+  "superficie": "12,38 km2",
+  "densite": "58 hab./km2",
+  "gentile": "Djoulais",
+  "langue": "Français",
+  "localites": "Lajoux, Fornet-Dessus",
+  "population_detail": "712 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lajoux_(Jura)",
+  "intro": "Lajoux (prononcé ) est une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce , dérive du mot latin d'origine celtique ou préceltique juris, qui désigne une hauteur boisée ou une forêt de montagne. Il s'accompagnait jusqu'au XVIIIe siècle d'un second élément, Mertenat, correspondant à un nom de personne ou de famille exerçant le métier de forgeron. La plus ancienne occurrence écrite du toponyme date de 1404, sous la forme de la Jous Mertinatt. Son ancien exonyme allemand est Die Jur .",
+   "Histoire": "La première mention du village date de 1404, sous le nom de La Jous Mertinatt ou la Joulz de Mertenait puis sous le nom de La Joux Mertenat. Le hameau de Fornet-Dessus remonte, quant à lui, à 1181. De 1793 à 1815, Lajoux a appartenu à la France, dans le département du Mont-Terrible, puis dans celui du Haut-Rhin. À la suite d'une décision du Congrès de Vienne, en 1815, la commune a été attribuée au canton de Berne et incorporée au district de Moutier. Lors des plébiscites de 1975, les citoyens et citoyennes de Lajoux ont choisi de rejoindre le canton du Jura. Depuis le 1er janvier 1979, Lajoux fait partie du district des Franches-Montagnes.",
+   "Culture et patrimoine": " Église, avec vitraux du peintre Coghuf. Les 8 vitraux de l'église de Lajoux mesurent 1,10 m sur 2,60 m et sont relatifs ; À droite : deux vitraux de Coghuf, église de Lajoux. ; Les grottes de Lajoux dont le gouffre de Lajoux ou « creux à Koby » qui est le plus profond du canton du Jura. ; Nicolas Crevoisier, inventeur de la girolle ; Sylvère Rebetez, peintre ; Yves Voirol, peintre"
+  },
+  "voisins": [
+   {
+    "nom": "Les Genevez",
+    "slug": "arboriste-les-genevez"
+   },
+   {
+    "nom": "Montfaucon",
+    "slug": "arboriste-montfaucon"
+   },
+   {
+    "nom": "Petit-Val",
+    "slug": "arboriste-petit-val"
+   },
+   {
+    "nom": "Rebévelier",
+    "slug": "arboriste-rebevelier"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Saint-Brais",
+    "slug": "arboriste-saint-brais"
+   },
+   {
+    "nom": "Saulcy",
+    "slug": "arboriste-saulcy"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-montfaucon",
+  "nom": "Montfaucon",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 565,
+  "tier": 1,
+  "npa": "2362 Montfaucon, Montfavergier",
+  "altitude": "996 m",
+  "superficie": "18,24 km2",
+  "densite": "31 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Montfaucon, Montfavergier, Le Prépetitjean",
+  "population_detail": "565 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Montfaucon_(Jura)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Montfaucon est une commune suisse du canton du Jura.",
+  "sections": {
+   "Histoire": "Au Moyen Âge, tous les habitants du haut-plateau des Franches-Montagnes étaient rattachés à la « paroisse-mère » de Montfaucon. Une bulle d'Innocent II de 1139 confirmant les possessions du chapitre de Saint-Ursanne mentionne les paroisses de Montfaucon, Epauvillers, Chercenay (Soubey) et Planei (Saint-Brais). Goumois est citée en 1177. L'aspiration des autres communautés francs-montagnardes à l'autonomie entraîna la fondation de nouvelles paroisses au Noirmont (1596), aux Bois (1619), à Saignelégier (1629), aux Breuleux (1661) et aux Pommerats (1783). De 1793 à 1815, Montfaucon a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du Congrès de Vienne (1815), le territoire de la principauté épiscopale de Bâle est attribué au canton de Berne, en 1815. Depuis le 1er janvier 1979, Montfaucon fait partie du canton du Jura. La commune de Montfavergier est rattaché à la commune de Montfaucon depuis le 1er janvier 2009."
+  },
+  "voisins": [
+   {
+    "nom": "Clos du Doubs",
+    "slug": "arboriste-clos-du-doubs"
+   },
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Le Bémont",
+    "slug": "arboriste-le-bemont"
+   },
+   {
+    "nom": "Les Enfers",
+    "slug": "arboriste-les-enfers"
+   },
+   {
+    "nom": "Les Genevez",
+    "slug": "arboriste-les-genevez"
+   },
+   {
+    "nom": "Saint-Brais",
+    "slug": "arboriste-saint-brais"
+   },
+   {
+    "nom": "Soubey",
+    "slug": "arboriste-soubey"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-genevez",
+  "nom": "Les Genevez",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 518,
+  "tier": 1,
+  "npa": "2714 Les Genevez, Le Prédame",
+  "altitude": "1 035 m",
+  "superficie": "13,61 km2",
+  "densite": "38 hab./km2",
+  "gentile": "Djenevézais",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Genevez",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Les Genevez sont une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Histoire": "Le plus ancien document faisant mention des Genevez date de 1381. Il fait partie d'un inventaire des biens de l'abbaye voisine de Bellelay, fondée en 1136. Depuis cette date, jusqu'en 1798, les Genevez forment la Courtine de Bellelay avec Lajoux, les deux Fornets et les Cerniers de Rebévelier. L'abbé de Bellelay était lui-même vassal du prince-évêque de Bâle, dont la principauté formait le Jura et le Jura bernois actuels, ainsi que le Laufonnais, actuellement bâlois. Avant de devenir jurassiens, Les Genevez faisaient partie de district de Moutier avant de rejoindre celui des Franches-Montagnes."
+  },
+  "voisins": [
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Montfaucon",
+    "slug": "arboriste-montfaucon"
+   },
+   {
+    "nom": "Saicourt",
+    "slug": "arboriste-saicourt"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-muriaux",
+  "nom": "Muriaux",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 513,
+  "tier": 1,
+  "npa": "2338 Muriaux, Les Emibois2345 Le Peuchapatte, Le Cerneux-Veusil",
+  "altitude": "947 m",
+  "superficie": "16,89 km2",
+  "densite": "30 hab./km2",
+  "gentile": "Muriatais",
+  "langue": "Français",
+  "localites": "Muriaux, Le Peuchapatte, Le Cerneux-Veusil, Le Roselet, Les Chenevières, Les Emibois",
+  "population_detail": "513 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Muriaux",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Muriaux (/myʀjo/) est une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /myʀjo/, est d'origine incertaine. Il pourrait remonter au verbe latin mirari (regarder), sous la forme *mīrătōrĭu, soit un miroir ou un endroit d’où on regarde, ce qui serait cohérent avec l'ancien nom allemand de la commune, Spiegelberg, qui désigne un point de vue, un lieu d'observation. La première occurrence écrite du toponyme, Murival, date de 1301.",
+   "Histoire": "La commune du Peuchapatte est rattachée à la commune de Muriaux depuis le 1er janvier 2009.",
+   "Transports": "Ligne La Chaux-de-Fonds – Le Noirmont – Glovelier des Chemins de fer du Jura."
+  },
+  "voisins": [
+   {
+    "nom": "Le Noirmont",
+    "slug": "arboriste-le-noirmont"
+   },
+   {
+    "nom": "Les Breuleux",
+    "slug": "arboriste-les-breuleux"
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier"
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier"
+   },
+   {
+    "nom": "Villeret",
+    "slug": "arboriste-villeret"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-le-bemont",
+  "nom": "Le Bémont",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 299,
+  "tier": 1,
+  "npa": "2360",
+  "altitude": "988 m",
+  "superficie": "11,67 km2",
+  "densite": "26 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "Le Bémont, Les Rouges-Terres",
+  "population_detail": "299 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 20,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Bémont",
+  "intro": "Le Bémont (ancien nom allemand : Hübschenberg) est une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Histoire": "Le village est mentionné pour la première fois en 1330 (Le Belmont). Le Bémont fait partie de la seigneurie des Franches-Montagnes jusqu'en 1792, des départements français du Mont-Terrible puis du Haut-Rhin jusqu'en 1814, du bailliage puis district bernois des Franches-Montagnes de 1815 à 1978, et enfin du canton du Jura. Le Bémont est une commune encore essentiellement agricole en 1990.",
+   "Culture et patrimoine": "Depuis la route conduisant du Bémont aux Rouges-Terres, on accède à la réserve naturelle de l'Étang des Royes, créée en 1969. L'ancienne scierie des Royes était située sur territoire de la commune du Bémont, alors que l’étang fait partie de la commune de Saignelégier. Érigée en 1719 et reconstruite en 1897, la chapelle de La Bosse est dédiée à Jeanne Froidevaux (1596-1625), sœur Marie-Hyacinthe. Baitchai"
+  },
+  "voisins": [
+   {
+    "nom": "Les Enfers",
+    "slug": "arboriste-les-enfers"
+   },
+   {
+    "nom": "Montfaucon",
+    "slug": "arboriste-montfaucon"
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier"
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-saint-brais",
+  "nom": "Saint-Brais",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 248,
+  "tier": 1,
+  "npa": "2364",
+  "altitude": "967 m",
+  "superficie": "15,15 km2",
+  "densite": "16 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "248 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 10,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Saint-Brais",
+  "intro": "Saint-Brais est une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /sɛ̃ bʀɛ/, désigne saint Brice. Sa première occurrence écrite date de 1275, sous la forme de Sem Bris. Son ancien nom allemand est Sankt Brix.",
+   "Histoire": "Saint-Brais possède trois grottes situées à la jonction du plateau franc-montagnard et de l'extrémité occidentale de la vallée de Delémont (entre 950 et 1 000 m d'altitude). De 1935 aux années 1960, elles furent explorées par Frédéric-Edouard Koby. Il y fit diverses découvertes qui rendirent les lieux célèbres. En 1955, une incisive supérieure gauche d'un homme du Moustérien faisait de la grotte II le premier site suisse à livrer un reste humain néandertalien (vers 40000 à 35000 av. J.-C.). Elle constitue, avec le maxillaire de Cotencher, les deux seuls restes de cet hominidé retrouvés en Suisse. Cette dent était accompagnée d'une abondante faune pléistocène, notamment des ours des cavernes. La grotte I a livré quelques silex taillés et outils en os attribués d'une part à la fin de l'époque glaciaire (vers 10000 av. J.-C.), d'autre part au Néolithique. Les trois grottes ont fourni un important ensemble de céramiques de la fin de l'âge du Bronze moyen et du début du Bronze final (1450-1200 av. J.-C.). En l'absence d'observations stratigraphiques plus fines, on ignore si plusieurs groupes humains se succédèrent par hasard en ces lieux ou si ces derniers servaient régulièrement d'abris lors d'expéditions en montagne d'une population établie dans la vallée de Delémont. La commune de Saint-Brais est citée en 1275 comme dépendance du village de Planey, mentionné en 1139 parmi les pos"
+  },
+  "voisins": [
+   {
+    "nom": "Clos du Doubs",
+    "slug": "arboriste-clos-du-doubs"
+   },
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne"
+   },
+   {
+    "nom": "Lajoux",
+    "slug": "arboriste-lajoux"
+   },
+   {
+    "nom": "Les Enfers",
+    "slug": "arboriste-les-enfers"
+   },
+   {
+    "nom": "Montfaucon",
+    "slug": "arboriste-montfaucon"
+   },
+   {
+    "nom": "Saulcy",
+    "slug": "arboriste-saulcy"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-les-enfers",
+  "nom": "Les Enfers",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Franches-Montagnes",
+  "population": 145,
+  "tier": 1,
+  "npa": "2363",
+  "altitude": "955 m",
+  "superficie": "7,14 km2",
+  "densite": "20 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "145 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Les_Enfers",
+  "intro": "Cet article ne cite pas suffisamment ses sources (février 2023). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Les Enfers sont une commune suisse du canton du Jura, située dans le district des Franches-Montagnes.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce /lezãfɛʀ/, désigne une localité située au bord d'un « enfer », soit un précipice (du latin infernu, qui se trouve par dessous, lieu bas). Deux légendes populaires donnent une autre origine au nom du village. Selon la première, le nom provient du XIVe siècle, durant lequel un important défrichement a lieu dans les Franches-Montagnes. Ce défrichement aurait mis le feu à une tourbière pendant plusieurs semaines, voire plusieurs années. L'important incendie aurait donné son nom au village. La seconde proviendrait d'une erreur calligraphique lors de la retranscription de « L'Envers de Montfaucon »,."
+  },
+  "voisins": [
+   {
+    "nom": "Le Bémont",
+    "slug": "arboriste-le-bemont"
+   },
+   {
+    "nom": "Montfaucon",
+    "slug": "arboriste-montfaucon"
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier"
+   },
+   {
+    "nom": "Saint-Brais",
+    "slug": "arboriste-saint-brais"
+   },
+   {
+    "nom": "Soubey",
+    "slug": "arboriste-soubey"
+   }
+  ]
+ }
+]

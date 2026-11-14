@@ -1,0 +1,384 @@
+[
+ {
+  "slug": "arboriste-vevey",
+  "nom": "Vevey",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 20147,
+  "tier": 2,
+  "npa": "1800",
+  "altitude": "383 m",
+  "superficie": "2,38 km2",
+  "densite": "8 465 hab./km2",
+  "gentile": "Veveysan",
+  "langue": "Français",
+  "localites": "Vevey",
+  "population_detail": "20 147 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Vevey",
+  "intro": "Pour l’article homonyme, voir Vevey (bateau). Pour l’article ayant un titre homophone, voir Vevay (Indiana). Vevey (/və.vɛ/ Écoutezⓘ) est une ville et une commune suisse du canton de Vaud située sur la rive nord-est du Léman. Sixième commune du canton par sa population, elle est le chef-lieu du district de la Riviera-Pays-d'Enhaut. Au 31 décembre 2025, la commune de Vevey compte 20 147 habitants.",
+  "sections": {
+   "Histoire": "Au XXe siècle av. J.-C., deux stations lacustres sur pilotis sont déjà installées à Vevey, une dans le quartier de Sainte-Claire et une autre au Creux de plan. En 1898, lors du percement du boulevard Saint-Martin, une nécropole d'une trentaine de tombes de l'âge de la Tène est mise au jour au lieu-dit « En Crédeyles ». Aucune autre trace d'habitation de cette période n’a pour l'instant été trouvée sur le territoire de la commune. À l’époque romaine, Auguste commence à faire construire une voie de communication commerciale et militaire depuis l'Italie. Cette voie, qui part de Milan, passe par le col du Grand-Saint-Bernard pour rejoindre le Léman. À Vevey, elle se divise en deux, l'une se dirige vers le nord pour aller à Aventicum, l'autre part vers l'ouest et longe le lac puis le Rhône jusqu'à Lugdunum. Grâce à cette voie de communication, une agglomération, définie comme étant un vicus, voit le jour entre les rivières Veveyse et Oyonne dans le centre-ville actuel sur une surface d'environ 20 ha. La localité porte alors le nom de Ouikos dans la Géographie de Ptolémée. Indiquée comme étape, elle se nomme Vibisco dans l'itinéraire d'Antonin, Vivisco sur la table de Peutinger et Bibiscon dans l'Anonyme de Ravenne. Des ruines romaines datant du début du IIe à l’extrême fin du IVe siècle, notamment un temple et un quartier artisanal, ont été mises au jour dans le quartier de Sainte-C",
+   "Culture et patrimoine": "Plusieurs édifices et monuments veveysans sont reconnus d'importance nationale. D'autres sont reconnus d'importance cantonale. L'ancienne maison d'Herwarth (démolie et remplacée par le Casino du Rivage), faisait partie également du patrimoine remarquable de Vevey. Cette résidence de prestige, avec cour d'honneur, a été bâtie entre les années 1713 et 1728, sans doute par le banquier Aimé Grenier. Celui-ci vend en 1728 cette demeure « nouvellement bâtie » à Jacques-Philippe d'Herwarth, qui y apporte des modifications, comprenant notamment ses armoiries au fronton, ainsi que divers aménagements et décors intérieurs. Collaborent à ces travaux le sculpteur Philippe Chéret artiste originaire de Montpellier et le peintre piémontais Giuseppe Antonio Petrini. Ce dernier y réalise des plafonds peints illustrant une monumentale architecture feinte, décors qui ne sont pas sans rappeler ceux du grand salon d'Hauteville. Jacques-Philippe d'Herwarth acquiert en effet en 1734 la seigneurie de Saint-Légier et y fait reconstruire le prestigieux château d'Hauteville. L'ancienne maison d'Herwarth est transformée en douane cantonale en 1817 par l'architecte lausannois Henri Perregaux, puis est entièrement démolie en 1896. Le marché couvert de Vevey est baptisé Galeries du Rivage dès son achèvement, en 1935. L'inventaire du Recensement architectural du canton de Vaud lui attribue une note 2, corresp"
+  },
+  "voisins": [
+   {
+    "nom": "Corseaux",
+    "slug": "arboriste-corseaux"
+   },
+   {
+    "nom": "Corsier-sur-Vevey",
+    "slug": "arboriste-corsier-sur-vevey"
+   },
+   {
+    "nom": "Blonay-Saint-Légier",
+    "slug": null
+   },
+   {
+    "nom": "La Tour-de-Peilz",
+    "slug": "arboriste-la-tour-de-peilz"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-la-tour-de-peilz",
+  "nom": "La Tour-de-Peilz",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 13046,
+  "tier": 2,
+  "npa": "1814",
+  "altitude": "382 m",
+  "superficie": "3,24 km2",
+  "densite": "4 027 hab./km2",
+  "gentile": "Boéland",
+  "langue": "Français",
+  "localites": "La Tour-de-Peilz",
+  "population_detail": "13 046 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 110,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Tour-de-Peilz",
+  "intro": "La Tour-de-Peilz Écouterⓘ est une ville et une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut.",
+  "sections": {
+   "Histoire": "Le sol de La Tour-de-Peilz a livré des vestiges celtes, romains et burgondes. On peut fixer l'origine des premières habitations à la Becque. Vers le milieu du XIIe siècle, ce territoire dépend de l'évêque de Sion, qui l'a donné en fief aux comtes du Genevois. Ces derniers inféodent la partie nord aux seigneurs de Fruence, et la partie méridionale à des ministériaux qui prennent le nom de La Tour (première mention en 1160). Le traité de Burier y est signé en 3 juillet 1219 instituant la présence de la maison de Savoie en Pays de Vaud. Vers 1250, Pierre II de Savoie acquiert le château et son territoire. Son successeur, le comte Philippe Ier de Savoie, y fonde en 1282 une ville neuve dotée de franchises, confirmées en 1288 par son successeur Amédée V. Pour renforcer sa position, il fait débuter un agrandissement du château (1282-1288) et contribue à l'édification d'une enceinte urbaine (dès 1284 en bois, 1288 en maçonnerie). Pendant les guerres de Bourgogne le 8 juin 1476, la ville est prise et pillée par les troupes confédérées. Après la conquête du pays de Vaud par les Bernois en 1536, La Tour-de-Peilz fait partie du bailliage de Chillon (soit Vevey dès 1735), organisation politique qui prévaut jusqu'au 24 janvier 1798, date de la révolution vaudoise.",
+   "Culture et patrimoine": " Château de La Tour-de-Peilz. Situé au bord du lac, le château a été construit entre 1251-57 par Pierre II de Savoie et d ; Villa Karma à Burier. ; Domaine de Burier, maison de maîtres. ; Domaine de La Doges, maison de maître avec son rural, sa tour, ses pavillons d'entrée et son parc, aujourd'hui siège de ; La Villa Kenwin, bien culturel suisse d'importance nationale. ; Église Saint-Théodule, aujourd'hui temple protestant. Mentionnée depuis le 12 s. et reconstruite aux 16e et 18e s. Le mu ; Près de l'église Saint-Théodule (Place du Temple), fontaine de la Liberté avec buste d'Helvétia du peintre et sculpteur ; Villa Augusta (1856-1857) construite par Philippe Franel pour la princesse Augusta de Liegnitz née comtesse de Harach et ; Château de la Becque avec écurie. ; Château de Sully. ; Ensemble résidentiel de Bellaria. ; La Faraz ; maison de maître et son parc."
+  },
+  "voisins": [
+   {
+    "nom": "Montreux",
+    "slug": "arboriste-montreux"
+   },
+   {
+    "nom": "Vevey",
+    "slug": "arboriste-vevey"
+   },
+   {
+    "nom": "Blonay-Saint-Légier",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-blonay-saint-legier",
+  "nom": "Blonay - Saint-Légier",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 12608,
+  "tier": 2,
+  "npa": "1806 et 1807",
+  "altitude": "622 m",
+  "superficie": "31,24 km2",
+  "densite": "404 hab./km2",
+  "gentile": null,
+  "langue": "Français",
+  "localites": "L'Alliaz, La Chiésaz, Clies, Les Chevalleyres, Fayau(x), Hauteville, Lally, Ondallaz",
+  "population_detail": "12 608 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Blonay-Saint-Légier",
+  "intro": "Blonay - Saint-Légier est une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut. La commune est issue de la fusion des communes de Blonay et Saint-Légier-La Chiésaz le 1er janvier 2022. La commune possède plusieurs clubs : FSG Blonay (Fédération Suisse de Gymnastique), Blonay Basket, Riviera Rugby, Ski Club Blonay, FC St-Légier (club de foot).",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Corsier-sur-Vevey",
+    "slug": "arboriste-corsier-sur-vevey"
+   },
+   {
+    "nom": "Vevey",
+    "slug": "arboriste-vevey"
+   },
+   {
+    "nom": "La Tour-de-Peilz",
+    "slug": "arboriste-la-tour-de-peilz"
+   },
+   {
+    "nom": "Montreux",
+    "slug": "arboriste-montreux"
+   },
+   {
+    "nom": "Châtel-Saint-Denis",
+    "slug": "arboriste-chatel-saint-denis"
+   },
+   {
+    "nom": "Haut-Intyamon",
+    "slug": "arboriste-haut-intyamon"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-chateau-d-x",
+  "nom": "Château-d'Œx",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 3681,
+  "tier": 2,
+  "npa": "1660",
+  "altitude": "970 m",
+  "superficie": "113,71 km2",
+  "densite": "32 hab./km2",
+  "gentile": "Damounais",
+  "langue": "Français",
+  "localites": "Château-d'Œx, La Lécherette, L'Étivaz, Les Moulins, Les Granges, Gérignoz",
+  "population_detail": null,
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Château-d'Œx",
+  "intro": "La mise en forme de cet article est à améliorer (janvier 2025). Les points d'amélioration suivants sont les cas les plus fréquents. Le détail des points à revoir est peut-être précisé sur la page de discussion. Pour une aide détaillée, merci de consulter Aide:Wikification. Si vous pensez que ces points ont été résolus, vous pouvez retirer ce bandeau et améliorer la mise en forme d'un autre article. Château-d'Œx, (prononcé traditionnellement , mais aujourd’hui fréquemment ) est une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut.",
+  "sections": {
+   "Histoire": "La première trace d'habitat saisonnier est un abri de chasseurs-cueilleurs situé à 1200 mètres d'altitude au pied du Vanil Noir datant de la période mésolithique. Des fouilles archéologiques y ont été conduites entre 1989 et 1999. A l'été 2011, la Division archéologie et le Musée cantonal d’archéologie et d’histoire de Lausanne ont reconduit des recherches sur le site. Les noms de lieux-dits comme Combe (vallée), Joeur (forêt), Man (rocher), indiquent une présence celtique. L'étymologie du nom d'Oex est débattue et parfois présentée comme d'origine celtique (Ogo, haut-pays). L'historien britannique David Birmingham indique que le manque de fer et la pauvreté des sols expliqueraient les raisons de l'absence de romanisation. Dès le Xe siècle, le pays d'Ogoz (de la Tine à Gessenay)recouvre Château-d'Oex sous l'autorité du Comté de Gruyère. Au XIe siècle, une tour militaire est construite au sommet de la colline de La Motte. Sous l'autorité du Prieuré clunisien de Rougemont, l'église Saint-Donat est édifiée et mentionnée pour la première fois en 1175. Certaines sources la place près de la Villa d'Oex, sur le lieu-dit \"Ou Chanoz\" (Au Chêne). Conservée au Musée du Pays-d'Enhaut, la Pancarte de Rougemont est le manuscrit plus ancien retrouvé dans la vallée et concerne également Château-d'Oex. Le document date 1115 et rapporte un accord de patronage entre le prieuré de Rougemont et les",
+   "Culture et patrimoine": "De 1996 à 2004, Château-d'Œx a accueilli le World Music Festiv'Alpe. La grue fait partie du blason de plusieurs communes de la Gruyère, de par la ressemblance phonétique de «grue» et «gruyère». Le musée du Pays-d'Enhaut : mobilier local, outils et collection de papier découpé avec les œuvres de Johann Jakob H ; La bibliothèque du Pays-d'Enhaut ; Le cinéma Eden ; L'espace Ballon ; Festival International de Ballons (ballons à air chaud) ; Festival le Bois Qui Chante ; Festival au Pays des Enfants ; Meeting International VW ; Ernest Ruchonnet, né le 14 mars 1832 à Château-d'Œx et mort le 29 juin 1904 à Broc. Conseiller d'État (1873-1881), direc ; Le chef d'orchestre Victor Desarzens, né le 27 octobre 1908 à Château-d'Œx et décédé le 13 février 1986 à Villette (Lava ; L'acteur Billy Kearns y a passé la fin de sa vie. ; L'acteur anglais David Niven y a séjourné très longtemps. Il y est mort le 29 juillet 1983. Sa tombe se trouve au cimeti"
+  },
+  "voisins": [
+   {
+    "nom": "Grandvillard",
+    "slug": null
+   },
+   {
+    "nom": "Gsteig bei Gstaad",
+    "slug": null
+   },
+   {
+    "nom": "Haut-Intyamon",
+    "slug": "arboriste-haut-intyamon"
+   },
+   {
+    "nom": "Ormont-Dessous",
+    "slug": null
+   },
+   {
+    "nom": "Ormont-Dessus",
+    "slug": null
+   },
+   {
+    "nom": "Rossinière",
+    "slug": null
+   },
+   {
+    "nom": "Rougemont",
+    "slug": null
+   },
+   {
+    "nom": "Saanen",
+    "slug": null
+   },
+   {
+    "nom": "Val-de-Charmey",
+    "slug": "arboriste-val-de-charmey"
+   },
+   {
+    "nom": "Villeneuve",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-corsier-sur-vevey",
+  "nom": "Corsier-sur-Vevey",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 3459,
+  "tier": 2,
+  "npa": "1804 Corsier-sur-Vevey  1808 Les Monts-de-Corsier  1809 Fenil-sur-Corsier",
+  "altitude": "421 m",
+  "superficie": "6,75 km2",
+  "densite": "512 hab./km2",
+  "gentile": "Corsiéran",
+  "langue": "Français",
+  "localites": "Fenil-sur-Corsier, Les Monts-de-Corsier",
+  "population_detail": "3 459 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Corsier-sur-Vevey",
+  "intro": "Corsier-sur-Vevey est une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut.",
+  "sections": {
+   "Histoire": "Corsier faisait partie de la paroisse du même nom, tout comme les localités de Chardonne, Corseaux et Jongny. Corsier faisait partie au Moyen Âge de la principauté épiscopale de Lausanne, avec les autres paroisses de Lavaux. La paroisse dépendait du bailliage de Lausanne depuis l'invasion bernoise de 1536 jusqu'en 1798. Puis les communes ont été séparées.",
+   "Culture et patrimoine": "L'ancienne église Saint-Maurice, aujourd'hui temple protestant, est déjà mentionnée en 1079. Son chœur à deux travées voûtées d'ogives a remplacé au début du XVe siècle une abside, peut-être carolingienne. La nef rectangulaire a été voûtée d'arêtes en 1605, tandis que les chapelles médiévales sont alors transformées en bas-côtés. Le clocher roman, à arcatures aveugles et baies géminées, est couronné d'une flèche de pierre octogonale et de lucarnes du premier quart du XVe siècle. Le chœur comporte un décor peint remarquable, d'un grand raffinement, exécuté vers 1420-1430, sans doute à l'initiative de la maison de Savoie (restauré en 1996). Il illustre le Tétramorphe sur ciel étoilé aux voûtains de la deuxième travée, un Christ en gloire au chevet, et des anges porteurs d'une croix de consécration sur les parois. Vitraux de 1958 par Bernard Viglino. Le village de Corsier-sur-Vevey comprend d'autres bâtiments classés comme biens culturels suisses d'importance nationale : le café de la Place et le manoir de Ban. Il compte également plusieurs bâtiments classés comme biens culturels d'importance régionale, à savoir les immeubles aux numéros 2, 4 et 6 de la rue du Château, ainsi que le temple de Corsier-sur-Vevey. À la rue du Château 6 on trouve également le siège de l'UWW -United World Wrestling- L'ancien péage de Bellière (1831) aux Monts-de-Corsier à la frontière avec le canton de "
+  },
+  "voisins": [
+   {
+    "nom": "Chardonne",
+    "slug": "arboriste-chardonne"
+   },
+   {
+    "nom": "Corseaux",
+    "slug": "arboriste-corseaux"
+   },
+   {
+    "nom": "Jongny",
+    "slug": "arboriste-jongny"
+   },
+   {
+    "nom": "Blonay-Saint-Légier",
+    "slug": null
+   },
+   {
+    "nom": "Vevey",
+    "slug": "arboriste-vevey"
+   },
+   {
+    "nom": "Châtel-Saint-Denis",
+    "slug": "arboriste-chatel-saint-denis"
+   },
+   {
+    "nom": "Attalens",
+    "slug": "arboriste-attalens"
+   },
+   {
+    "nom": "Remaufens",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-chardonne",
+  "nom": "Chardonne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 3383,
+  "tier": 2,
+  "npa": "1801 Le Mont-Pèlerin  1803 Chardonne",
+  "altitude": "586 m",
+  "superficie": "10,32 km2",
+  "densite": "328 hab./km2",
+  "gentile": "Chardonneret",
+  "langue": "Français",
+  "localites": "Le Mont-Pèlerin",
+  "population_detail": "3 383 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Chardonne",
+  "intro": "Pour l’écrivain français, voir Jacques Chardonne. Chardonne (/ʃaʀdɔn/) est une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut.",
+  "sections": {
+   "Toponymie": "Le toponyme, qui se prononce /ʃaʀdɔn/, est attesté vers l'an mil : ad Carduna — en 1142 : Rodulfus de Chardona — 1324 : Chardone. Ce nom de lieu peut avoir plusieurs origines. Celle d'un adjectif féminin cardona, dérivé du nom de personne latin Cardo ou alors le même mot cardona qui en gaulois veut dire « domaine de Cardonos ». La commune se nomme Tsèrdena en patois vaudois.",
+   "Histoire": "Possession de l'abbaye de Saint-Maurice jusqu'en 1079, Chardonne fait partie du bailliage de Lausanne de 1536 à 1798, mais le bailli d'Oron y avait des compétences. Plus précisément, Chardonne fait partie de la châtellenie ainsi que de la paroisse politique de Corsier, terre de l'évêché de Lausanne. Fief de la famille de Blonay, une partie de Chavannes fut inféodée en 1226 à l'abbaye de Hautcrêt et une autre aux seigneurs d'Oron en 1284. Jusqu'en 1798, l'exécutif (appelé « conseil ») était composé de 6 membres et d'un gouverneur. Relevant du bailliage d'Oron dès 1707 pour les causes civiles, Chavannes fournissait cinq des douze conseillers de la commune générale de Corsier (auj. Corsier-sur-Vevey). Anciennement liée avec Jongny et Corseaux à la paroisse de Corsier, Chardonne rejoint le district de Vevey en 1798, mais reste lié aux autres villages. Finalement, le décret du Grand Conseil du 19 décembre 1833, divise l'ancienne paroisse politique de Corsier en quatre communes indépendantes et Chardonne devient alors une commune à part entière.",
+   "Culture et patrimoine": "Chaque année à Chardonne, un marché de vin est organisé fin mai ainsi que les caves portes ouvertes mi-novembre. D'argent à trois chardons fleuris au naturel, mouvant d'un mont à trois coupeaux de sinople' sur les chardons dextre et senestre deux chardonnerets affrontés au naturel. Ces armoiries apparaissent au XVIIIe siècle et résultent d'une interprétation étymologique populaire."
+  },
+  "voisins": [
+   {
+    "nom": "Corseaux",
+    "slug": "arboriste-corseaux"
+   },
+   {
+    "nom": "Corsier-sur-Vevey",
+    "slug": "arboriste-corsier-sur-vevey"
+   },
+   {
+    "nom": "Jongny",
+    "slug": "arboriste-jongny"
+   },
+   {
+    "nom": "Saint-Saphorin",
+    "slug": null
+   },
+   {
+    "nom": "Puidoux",
+    "slug": "arboriste-puidoux"
+   },
+   {
+    "nom": "Granges",
+    "slug": null
+   },
+   {
+    "nom": "Attalens",
+    "slug": "arboriste-attalens"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-corseaux",
+  "nom": "Corseaux",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 2323,
+  "tier": 2,
+  "npa": "1802",
+  "altitude": "445 m",
+  "superficie": "1,06 km2",
+  "densite": "2 192 hab./km2",
+  "gentile": "Corsalin",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "2 323 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Corseaux",
+  "intro": "Pour l’article ayant un titre homophone, voir Corso. Corseaux est une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut.",
+  "sections": {
+   "Toponymie": "Corseaux est attestée comme « Corsaly » en 1100, « Corjal » en 1147, « Corsial » vers 1147-1163, « Corsel » vers 1200, « Corsales » en 1233, « Corsauz » en 1301 et « Corsaul » ou « Corsau ». Le nom vient du latin « cursus » signifiant « terrain allongé » ou « cours » avec le suffixe « -ale » signifiant « lieu où un objet se trouve en abondance ». La signification de « Corseaux » est ainsi « lieu où se trouvent des terrains de vigne en terrasses ».",
+   "Histoire": "Les premières traces d'activité humaine remontent au Néolithique. Plusieurs tombes furent découvertes dans les années 1970 et 1980 (aux Gonelles puis sur l'actuel emplacement du collège). La première mention écrite de Corseaux se trouve sur un document daté du XIIe siècle. Tout au long de son histoire, Corseaux fut très lié à la paroisse de Corsier, comme l'étaient les villages de Chardonne et de Jongny. Chacun de ces villages avait sa propre organisation mais ce n'est que le 19 décembre 1833 que, par décret du Grand Conseil, l'ancienne paroisse politique de Corsier fut divisée en 4 communes.",
+   "Culture et patrimoine": " Villa Le Lac, construite par Le Corbusier en 1923. ; L'atelier de Grandi (chemin Entre-Deux-Villes 7, Corseaux). Atelier d'artiste construit en 1939 par l'architecte Alberto ; Marguerite de Lalancy (1885-1971), photographe, y a vécu. ; Graham Greene (1904-1991), écrivain, y passa la fin de sa vie et y fut inhumé. ; James Mason (1909-1984), acteur britannique. ; Italo De Grandi (1912-1988) et Vincent de Grandi, peintres."
+  },
+  "voisins": [
+   {
+    "nom": "Chardonne",
+    "slug": "arboriste-chardonne"
+   },
+   {
+    "nom": "Corsier-sur-Vevey",
+    "slug": "arboriste-corsier-sur-vevey"
+   },
+   {
+    "nom": "Vevey",
+    "slug": "arboriste-vevey"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-jongny",
+  "nom": "Jongny",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 1918,
+  "tier": 2,
+  "npa": "1805",
+  "altitude": "639 m",
+  "superficie": "2,16 km2",
+  "densite": "888 hab./km2",
+  "gentile": "Jongnyssois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "1 918 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Jongny",
+  "intro": "Jongny est une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut. Elle fait partie de la Riviera vaudoise et du cercle scolaire de Corsier.",
+  "sections": {
+   "Histoire": "Jongny était déjà connu du temps des Romains, comme en témoigne le sentier et le chemin Romain dans les hauts de la Commune ainsi que son nom se terminant en « y ». Plus récemment, elle faisait partie de la paroisse de Corsier-sur-Vevey, tout comme Chardonne et Corseaux. Ce n'est que le 19 décembre 1833 que, par décret du Grand Conseil, l'ancienne paroisse politique de Corsier fut divisée en 4 communes. Actuellement, de nombreux entités intercommunales existent toujours entre ces quatre communes, notamment : Cercle scolaire de Corsier ; Le Bureau technique intercommunal ; Les pompiers, Service de défense incendie et secours SDIS Pelerin intégré en 2014 au SDIS Rivera au sein de l'Associatio"
+  },
+  "voisins": [
+   {
+    "nom": "Chardonne",
+    "slug": "arboriste-chardonne"
+   },
+   {
+    "nom": "Corsier-sur-Vevey",
+    "slug": "arboriste-corsier-sur-vevey"
+   },
+   {
+    "nom": "Attalens",
+    "slug": "arboriste-attalens"
+   }
+  ]
+ }
+]

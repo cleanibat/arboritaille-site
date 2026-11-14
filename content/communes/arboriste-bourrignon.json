@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Bourrignon (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Bourrignon (JU), village à 770 m sous la Bürgisberg. Visite et devis gratuits depuis Courgenay, sans engagement.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Bourrignon · district de Delémont",
+ "h1": "Arboriste-grimpeur à <em>Bourrignon</em> : taille, abattage et soins aux arbres",
+ "lead": "Bourrignon, 259 habitants à 770 m, est dominée par la Bürgisberg, la montagne qui a gardé l'ancien nom allemand du village. Dans cette commune voisine de Delémont et de Pleigne, nous taillons, abattons et plantons vos arbres sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Déplacement depuis Courgenay", "Démontage à la corde près du bâti ancien", "Haies et bosquets entretenus en hiver"],
+ "intro_eyebrow": "Vos arbres à Bourrignon",
+ "intro_h2": "Sous la Bürgisberg, une église du XVIIIe siècle et des arbres à ménager",
+ "intro": "<p>Bourrignon s'appelait Bürgis en allemand. Le nom survit dans la Bürgisberg, la montagne qui surplombe le village. La commune compte 259 habitants sur 13,55 km², dans le district de Delémont.</p><p>L'église a été reconstruite en 1747-1749, l'autel date de 1753 et le chemin de croix de 1777. Autour d'un tel bâti, nous travaillons avec soin : cordes, démontage par sections, aucune machine lourde sur les abords.</p><p>Avec moins de vingt habitants au kilomètre carré, le territoire est rural. Haies, bosquets et arbres isolés y sont protégés par la loi jurassienne hors zone à bâtir.</p><p>À 770 m, les hivers sont plus marqués qu'en plaine. Les feuillus se taillent pendant le repos de la végétation, les résineux en toute saison. Le bus Delémont – Lucelle dessert le village ; nous venons depuis Courgenay.</p>",
+ "faits": [["Habitants", "259 (2025)"], ["Altitude", "770 m"], ["District", "Delémont"], ["Superficie", "13,55 km²"]],
+ "reglement": "<strong>Autorisation d'abattage à Bourrignon.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Bourrignon avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Autour de l'église", "texte": "Près de l'église, reconstruite en 1747-1749, et des maisons voisines, un arbre se démonte pièce par pièce, à la corde, pour protéger toits et façades. Le bois descend sans chute libre."},
+  {"icone": "MOUNT", "titre": "Une montagne au-dessus du village", "texte": "La Bürgisberg surplombe Bourrignon. Les arbres des pentes et des lisières proches des habitations demandent une attention particulière après le vent ou la neige. Nous sécurisons ceux qui menacent."},
+  {"icone": "LEAF", "titre": "Zone agricole protégée", "texte": "Hors zone à bâtir, haies et bosquets ne se suppriment pas sans dérogation. Nous les entretenons par tronçons, en hiver, et vous expliquons la démarche auprès de la commune."},
+  {"icone": "CLOCK", "titre": "Le bon moment", "texte": "À 770 m, la fenêtre de taille des feuillus va de la chute des feuilles au débourrement. Les urgences se traitent sans attendre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin et de ferme de Bourrignon, silhouette conservée.",
+  "abattage-demontage": "Démontage par sections près de l'église et des maisons, abattage direct en terrain dégagé.",
+  "haubanage": "Consolidation d'une fourche ou d'une charpentière fragile pour conserver un arbre âgé plutôt que l'abattre.",
+  "plantation-arbres": "Plantation d'un arbre d'ombrage ou d'un fruitier adapté à 770 m, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Bourrignon ?", "a": "Cela dépend de la zone. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation communale. En zone à bâtir, le règlement de Bourrignon désigne les arbres protégés. Nous vérifions pour vous."},
+  {"q": "D'où venez-vous pour intervenir à Bourrignon ?", "a": "De Courgenay, où Arboritaille a son siège. La visite est gratuite et le devis écrit, sans engagement. Vous recevez une réponse sous 48 heures ouvrées à votre demande."},
+  {"q": "Peut-on conserver un vieil arbre fendu plutôt que l'abattre ?", "a": "Souvent, oui. Un haubanage relie les branches maîtresses et limite le risque de rupture. Nous examinons d'abord l'arbre, puis vous proposons la solution la plus sûre dans le devis."},
+  {"q": "Que faites-vous du bois et des branches ?", "a": "Selon le devis, les branches sont broyées sur place ou évacuées. Le bois est débité en bûches pour votre chauffage ou emporté. Le terrain est remis en ordre avant notre départ."},
+  {"q": "Travaillez-vous aussi près de l'église de Bourrignon ?", "a": "Oui, sur demande du propriétaire ou de la commune. Autour d'un bâtiment ancien, nous démontons l'arbre par sections et descendons chaque pièce à la corde, sans machine lourde sur les abords."}
+ ],
+ "cta_img": "demontage_arbre_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à abattre à Bourrignon ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement, depuis Courgenay."
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Cortébert : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Cortébert (BE), district de Courtelary, par un arboriste-grimpeur de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Cortébert · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Cortébert</em> : taille, abattage et soins aux arbres",
+ "lead": "Cortébert, 675 habitants à 680 m, a vécu de l'agriculture jusqu'au XVIIIe siècle avant de se tourner vers l'horlogerie. Depuis Courgenay, à environ vingt-cinq kilomètres, nous taillons, démontons et plantons vos arbres. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Fruitiers et arbres de ferme entretenus", "Grands arbres d'ornement réduits sans étêtage", "Protection cantonale des haies vérifiée"],
+ "intro_eyebrow": "Vos arbres à Cortébert",
+ "intro_h2": "Un village agricole devenu horloger, et les arbres de ses deux époques",
+ "intro": "<p>Cortébert est mentionné dès 1178 sous le nom de Cortaibert, la ferme d'Aibert. Il a vécu de l'agriculture jusqu'à la fin du XVIIIe siècle, puis l'horlogerie s'y est installée et l'a fait grandir dans la seconde moitié du XIXe siècle.</p><p>Ces deux époques laissent souvent deux types d'arbres. Autour des anciennes fermes, des arbres de cour et des fruitiers âgés. Autour des maisons et ateliers du XIXe siècle, des arbres d'ornement plantés à l'époque et aujourd'hui de grande taille.</p><p>Avec 46 habitants au km² sur 14,78 km², la commune est peu dense. Haies et bosquets y relèvent de la protection cantonale, et nous le vérifions avant chaque chantier.</p>",
+ "faits": [["Habitants", "675"], ["Altitude", "680 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 25 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Cortébert.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Cortébert avant d'intervenir.",
+ "contexte": [
+  {"icone": "SPROUT", "titre": "Fruitiers et arbres de ferme", "texte": "Les vieux fruitiers et les arbres de cour des anciennes fermes demandent une taille légère : bois mort, branches qui se croisent, allègement des charpentières trop longues. Jamais de rabattage sévère."},
+  {"icone": "TREE", "titre": "Arbres d'ornement du XIXe siècle", "texte": "Un arbre planté lors de l'essor horloger aurait aujourd'hui plus d'un siècle. Quand un tel arbre dépasse la maison, une réduction de couronne sur branches secondaires remplace l'étêtage, qui l'affaiblirait."},
+  {"icone": "LEAF", "titre": "Haies et bosquets", "texte": "Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel. Entretien permis en hiver, suppression soumise à dérogation de la préfecture."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille douce des fruitiers et des arbres de cour, réduction raisonnée des grands arbres d'ornement de Cortébert.",
+  "abattage-demontage": "Démontage par morceaux près des bâtiments anciens, abattage direct en terrain ouvert, bois débité ou évacué.",
+  "diagnostic-expertise-arbre": "Examen d'un arbre centenaire pour décider entre conservation, allègement et démontage, avec avis écrit.",
+  "plantation-arbres": "Remplacement d'un vieux fruitier ou d'un arbre d'ornement par une essence adaptée au sol et à l'altitude."
+ },
+ "faq": [
+  {"q": "Comment entretenir un vieux fruitier à Cortébert ?", "a": "Par une taille légère en hiver, hors gel : suppression du bois mort, des branches qui se croisent et des gourmands. Nous évitons les grosses coupes, qui ouvrent la porte aux champignons sur un arbre âgé."},
+  {"q": "Un arbre centenaire près de la maison doit-il être abattu ?", "a": "Pas sans examen. Nous contrôlons la couronne, le tronc et la base. Un arbre ancien se conserve souvent par un allègement et, si besoin, un haubanage. L'abattage reste réservé aux arbres dangereux ou condamnés."},
+  {"q": "Vous déplacez-vous à Cortébert pour un seul arbre ?", "a": "Oui. Cortébert est à environ vingt-cinq kilomètres de Courgenay et, quand c'est possible, nous groupons les visites du district de Courtelary. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Puis-je supprimer une haie entre deux parcelles ?", "a": "Dans le canton de Berne, une haie se taille et s'éclaircit librement, mais sa suppression demande une dérogation de la préfecture avec compensation. Nous vous conseillons avant toute décision."},
+  {"q": "Que faites-vous du bois ?", "a": "Selon le devis, les branches sont broyées ou évacuées et le tronc débité en bûches pour votre chauffage. Le terrain est nettoyé avant notre départ."}
+ ],
+ "cta_img": "reduction_tilleul_porrentruy",
+ "cta_h2": "Un fruitier à tailler ou un grand arbre à réduire à Cortébert ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement."
+}

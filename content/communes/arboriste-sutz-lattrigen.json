@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Sutz-Lattrigen (BE) : taille d'arbres | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Sutz-Lattrigen, commune germanophone, canton de Berne. Devis possible en allemand, visite gratuite.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Sutz-Lattrigen · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Sutz-Lattrigen</em> : taille, abattage et soins aux arbres",
+ "lead": "Sutz-Lattrigen se trouve à 450 m d'altitude ; plus de 92 % de ses habitants sont de langue allemande. Nous y taillons et démontons les arbres de jardin et de ferme, avec un devis gratuit, en allemand si vous le souhaitez.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Devis et courriers rédigés en allemand sur demande",
+  "Taille mesurée des arbres adultes",
+  "Démontage à la corde près des bâtiments"
+ ],
+ "intro_eyebrow": "Vos arbres à Sutz-Lattrigen",
+ "intro_h2": "Une commune à plus de 92 % germanophone, des réponses écrites en allemand",
+ "intro": "<p>Sutz-Lattrigen est une commune de 1 409 habitants, sur 3,6 km2, à 450 m d'altitude. Plus de 92 % des habitants sont de langue allemande.</p><p>Cela ne change rien à notre façon de travailler : la visite est gratuite, le devis est écrit et il peut être rédigé en allemand. Sur place, nous expliquons chaque coupe en français et nous nous assurons que tout soit compris.</p><p>Avec 391 habitants au km2, la commune est peu dense. Dans ce type de village, les arbres sont en général ceux des jardins et des abords de fermes : des sujets adultes, qui demandent une taille mesurée plutôt qu'un rabattage.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "1 409 (2025)"
+  ],
+  [
+   "Altitude",
+   "450 m"
+  ],
+  [
+   "Superficie",
+   "3,6 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Sutz-Lattrigen.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Sutz-Lattrigen avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Offerte auf Deutsch",
+   "texte": "Le devis, la confirmation de rendez-vous et le compte rendu de chantier peuvent être rédigés en allemand. Les échanges sur place se font en français, avec le temps nécessaire."
+  },
+  {
+   "icone": "TREE",
+   "titre": "Arbres adultes, taille mesurée",
+   "texte": "Un arbre de quarante ou cinquante ans ne supporte pas un rabattage sévère. Nous enlevons au plus un tiers du volume, en coupant sur des branches secondaires, et nous étalons si besoin."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Autour des fermes",
+   "texte": "Près d'un bâtiment agricole, un arbre planté il y a longtemps prend de l'ampleur. Nous dégageons toits et accès, retirons le bois mort et conservons l'ombre utile."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, éclaircie et réduction mesurée pour les arbres adultes des jardins et des fermes de Sutz-Lattrigen.",
+  "abattage-demontage": "Démontage à la corde près des bâtiments, abattage direct sur terrain dégagé. Bois débité en bûches ou évacué.",
+  "plantation-arbres": "Remplacement d'un arbre vieillissant par une essence adaptée au sol et à la place disponible, avec tuteurage.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol, pour replanter ou retrouver une surface plane."
+ },
+ "faq": [
+  {
+   "q": "Können wir auf Deutsch kommunizieren ? Pouvons-nous échanger en allemand à Sutz-Lattrigen ?",
+   "a": "Oui, par écrit : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur le chantier, nous parlons français et montrons ce que nous allons couper avant de commencer."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Sutz-Lattrigen ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Sutz-Lattrigen. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
+  },
+  {
+   "q": "Peut-on rabattre fortement un vieil arbre pour le rajeunir ?",
+   "a": "Non. Un rabattage sévère affaiblit l'arbre, provoque des rejets fragiles et ouvre la porte aux champignons. Une réduction mesurée, étalée sur deux ou trois ans si nécessaire, donne un meilleur résultat."
+  },
+  {
+   "q": "Vous déplacez-vous pour un seul arbre ?",
+   "a": "Oui. Sutz-Lattrigen est à environ trente-cinq kilomètres de Courgenay à vol d'oiseau. La visite est gratuite ; nous la groupons si possible avec d'autres rendez-vous du district de Bienne."
+  },
+  {
+   "q": "Que devient le bois après un abattage ?",
+   "a": "Selon le devis, les branches sont broyées ou évacuées et le tronc est débité en bûches pour votre chauffage, ou emporté. Le terrain est nettoyé avant notre départ."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-15",
+ "cta_h2": "Un arbre à tailler ou à abattre à Sutz-Lattrigen ?",
+ "cta_lead": "Visite et devis gratuits, en français ou en allemand. Réponse sous 48 h ouvrées."
+}

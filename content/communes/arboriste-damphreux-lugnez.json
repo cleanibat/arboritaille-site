@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Damphreux-Lugnez : taille, haies | Arboritaille",
+ "desc": "Taille, élagage, abattage et entretien de haies à Damphreux-Lugnez (Jura) par un arboriste-grimpeur venu de Courgenay. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Damphreux-Lugnez · Ajoie",
+ "h1": "Arboriste-grimpeur à <em>Damphreux-Lugnez</em> : taille, abattage et entretien des haies",
+ "lead": "Damphreux-Lugnez réunit deux villages d'Ajoie, à une dizaine de kilomètres de Courgenay. Nous y taillons, abattons et plantons des arbres pour les particuliers, les exploitations et la commune. Visite sur place et devis gratuits.",
+ "points": ["Visite et devis gratuits", "À une dizaine de kilomètres de Courgenay", "Haies et bosquets entretenus en hiver", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Damphreux-Lugnez",
+ "intro_h2": "Deux villages, une seule commune depuis 2023",
+ "intro": "<p>Damphreux-Lugnez est née le 1er janvier 2023 de la fusion de Damphreux et de Lugnez. La commune appartient au district de Porrentruy et compte 376 habitants pour près de onze kilomètres carrés.</p><p>Avec 35 habitants au kilomètre carré, l'essentiel du territoire n'est pas bâti. Dans une campagne de ce type, les arbres se trouvent en général autour des fermes, le long des chemins et dans les haies.</p><p>Ces arbres demandent peu, mais au bon moment : une taille légère de temps en temps, un contrôle après un coup de vent, un abattage quand le tronc est creux. Nous vous disons ce qui peut attendre.</p>",
+ "faits": [["Habitants", "376 (2025)"], ["Superficie", "10,77 km²"], ["District", "Porrentruy"], ["Depuis Courgenay", "env. 10 km"]],
+ "reglement": "<strong>Haies et arbres à Damphreux-Lugnez : la règle.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Damphreux-Lugnez avant d'intervenir.",
+ "contexte": [
+  {"icone": "LEAF", "titre": "Haies en zone agricole", "texte": "Hors zone à bâtir, la loi jurassienne protège haies et bosquets. Nous les entretenons par tronçons, pendant le repos de la végétation, sans les réduire ni les supprimer."},
+  {"icone": "HOME", "titre": "Arbres de ferme", "texte": "Un grand arbre près d'une grange ou d'un hangar finit par toucher la toiture. Une réduction de couronne mesurée éloigne les branches du bâtiment et garde l'ombre sur la cour."},
+  {"icone": "WIND", "titre": "Après un coup de vent", "texte": "En terrain ouvert, un arbre isolé prend le vent de tous les côtés. Si une branche casse ou si le tronc penche, nous sécurisons d'abord, puis nous décidons de la suite avec vous."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien, retrait du bois mort et réduction de couronne pour les arbres de ferme et de jardin, à Damphreux comme à Lugnez.",
+  "abattage-demontage": "Abattage direct en terrain dégagé, démontage à la corde près d'un bâtiment ou d'une ligne. Bois laissé en bûches ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Arbre couché sur un chemin, branche fendue au-dessus d'une cour : nous sécurisons la zone, puis nous dégageons.",
+  "rognage-souche": "Souche rognée sous le niveau du sol pour remettre la surface en herbe ou replanter au même endroit."
+ },
+ "faq": [
+  {"q": "Vous déplacez-vous à Damphreux comme à Lugnez ?", "a": "Oui. Les deux villages de Damphreux-Lugnez sont à une dizaine de kilomètres de Courgenay. La visite est gratuite et se fait sur rendez-vous, en votre présence. Vous recevez ensuite un devis écrit, sans engagement."},
+  {"q": "Faut-il une autorisation pour supprimer une haie à Damphreux-Lugnez ?", "a": "Hors zone à bâtir, oui. La loi cantonale protège haies et bosquets, et leur suppression demande une dérogation de la commune, d'entente avec l'Office de l'environnement. L'entretien courant reste possible. Nous vérifions la situation de votre parcelle avant d'intervenir."},
+  {"q": "Quand entretenir une haie champêtre ?", "a": "Nous programmons les tailles et les recépages en hiver, pendant le repos de la végétation et hors période de nidification. Si une intervention s'impose au printemps, nous vérifions d'abord l'absence de nids."},
+  {"q": "Que devient le bois après un abattage ?", "a": "C'est vous qui choisissez, et le devis le précise. Le tronc peut être débité en bûches et laissé sur place pour votre chauffage. Les branches sont broyées ou évacuées. Le terrain est nettoyé avant notre départ."},
+  {"q": "Travaillez-vous pour les exploitations agricoles et la commune ?", "a": "Oui. Nous intervenons pour les particuliers, les entreprises et les collectivités. Pour un chemin, une cour de ferme ou un espace communal, nous établissons un devis par arbre ou par tronçon de haie, après une visite gratuite."}
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre ou une haie à entretenir à Damphreux-Lugnez ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Nous venons de Courgenay, à une dizaine de kilomètres."
+}

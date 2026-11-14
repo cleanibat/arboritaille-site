@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste-grimpeur à Châtel-Saint-Denis (FR) | Arboritaille",
+ "desc": "Taille, abattage, démontage et haubanage d'arbres à Châtel-Saint-Denis et aux Paccots (FR), de 701 m à plus de 2 000 m. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Châtel-Saint-Denis · Veveyse",
+ "h1": "Arboriste-grimpeur à <em>Châtel-Saint-Denis</em> : taille, abattage et soins aux arbres",
+ "lead": "Chef-lieu de la Veveyse, Châtel-Saint-Denis compte 8 931 habitants et s'étend sur près de 48 km², du bourg aux Paccots. Nous taillons, abattons et sécurisons vos arbres à toutes les altitudes de la commune.",
+ "points": ["Visite et devis gratuits", "Du bourg aux Paccots", "Arbres de montagne et de jardin", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Châtel-Saint-Denis",
+ "intro_h2": "De 701 m à 2 014 m : un chef-lieu qui monte jusqu'aux sommets",
+ "intro": "<p>Châtel-Saint-Denis est le chef-lieu du district de la Veveyse. Après l'achat de la seigneurie, ratifié en 1297, Amédée V de Savoie fait bâtir un nouveau bourg. Il abandonne le promontoire escarpé du Vieux Châtel, à la confluence des Veveyse de Châtel et de Fégire.</p><p>Le territoire est vaste : 47,89 km² et plus de 1 300 m d'écart entre le point bas, à 701 m, et le point haut, à 2 014 m. Les Paccots ont leur propre code postal, le 1619.</p><p>Cette amplitude impose des approches différentes. En ville, taille de jardin et démontage près des bâtiments. En altitude, résineux chargés de neige, chablis après tempête et accès parfois rude. Nous adaptons matériel et calendrier.</p>",
+ "faits": [["Habitants", "8 931 (2025)"], ["Altitude", "1 208 m (701 à 2 014 m)"], ["Superficie", "47,89 km²"], ["Depuis Courgenay", "env. 100 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Châtel-Saint-Denis.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. En forêt, l'abattage est soumis à l'autorisation du service forestier. Nous vérifions la règle communale avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Neige, vent et résineux", "texte": "Au-dessus de 1 000 m, les résineux subissent la neige lourde et les coups de vent. Nous démontons les sujets déstabilisés et allégeons les couronnes trop denses, en travaillant à la corde depuis l'arbre."},
+  {"icone": "HOME", "titre": "Le bourg et ses quartiers", "texte": "Dans le bourg et les quartiers de Châtel-Saint-Denis, les arbres côtoient toitures, routes et lignes. Réduction de couronne, dégagement de façade et démontage en espace restreint sont les travaux à prévoir dans ce cadre."},
+  {"icone": "USERS", "titre": "Chef-lieu, collectivités et gérances", "texte": "Une commune de près de 9 000 habitants gère en général de nombreux arbres publics. Nous proposons aux collectivités et aux gérances un état des lieux, une priorisation et des devis par lot."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne et dégagement de façade dans le bourg, allègement des résineux chargés de neige en altitude.",
+  "abattage-demontage": "Démontage en espace restreint près des bâtiments, abattage de résineux déstabilisés sur les hauts de la commune.",
+  "urgence-tempete-arbre-dangereux": "Démontage prioritaire d'un arbre tombé ou déraciné sur une toiture, une route ou une ligne.",
+  "haubanage": "Haubans dans la couronne pour conserver un arbre de valeur dont une fourche faiblit.",
+  "collectivites-entreprises": "État des lieux des arbres publics, priorisation et devis par lot pour la commune et les gérances."
+ },
+ "faq": [
+  {"q": "Intervenez-vous aux Paccots comme à Châtel-Saint-Denis ?", "a": "Oui, sur toute la commune, du bourg aux Paccots. En altitude, nous tenons compte de la neige et de l'accès pour fixer la date. La visite est gratuite et le devis écrit vous parvient sous 48 h ouvrées."},
+  {"q": "Vous venez de Courgenay : est-ce réaliste pour un seul arbre ?", "a": "Oui. Châtel-Saint-Denis est à une centaine de kilomètres de Courgenay, dans notre zone d'intervention. La visite sur place et le devis détaillé sont gratuits, quelle que soit la taille du chantier."},
+  {"q": "Un arbre est tombé sur la route ou le toit : que faire ?", "a": "Sécurisez le périmètre, prévenez les secours si des personnes sont en danger, puis appelez-nous. Nous démontons l'arbre tombé ou déstabilisé en priorité et établissons le devis en parallèle, photos à l'appui."},
+  {"q": "Faut-il une autorisation pour abattre à Châtel-Saint-Denis ?", "a": "En zone à bâtir, le règlement communal d'urbanisme s'applique. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune, avec compensation. En forêt, tout abattage est soumis à l'autorisation du service forestier. Nous vérifions pour vous."},
+  {"q": "Quand tailler un arbre aux Paccots ou sur les hauts ?", "a": "Après la fonte et avant le débourrement, ou en fin d'été. Nous évitons les grandes coupes en plein hiver quand la neige rend l'accès difficile. Pour les résineux, nous privilégions les périodes sèches."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à tailler ou à sécuriser à Châtel-Saint-Denis ?",
+ "cta_lead": "Visite et devis gratuits, du bourg aux Paccots."
+}

@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Lucens (VD) : taille et abattage | Arboritaille",
+ "desc": "Élagage, abattage, rognage de souche et plantation d'arbres à Lucens et dans ses sept localités, de Brenles à Sarzens (VD). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Lucens · Broye-Vully",
+ "h1": "Arboriste-grimpeur à <em>Lucens</em> : taille, abattage et soins aux arbres",
+ "lead": "Lucens réunit depuis 2017 sept localités autour de son château, de Brenles à Sarzens. Nous y entretenons, abattons ou remplaçons vos arbres, dans le bourg comme dans les autres villages.",
+ "points": ["Visite et devis gratuits", "Sept localités, un seul interlocuteur", "Rognage de souche après abattage", "Taille d'hiver des haies et fruitiers"],
+ "intro_eyebrow": "Vos arbres à Lucens",
+ "intro_h2": "Un bourg, un château et six villages alentour",
+ "intro": "<p>Lucens compte 4 879 habitants sur 17,7 km², à 496 m d'altitude, dans le district de la Broye-Vully. Réunie à Oulens en 2011, elle a fusionné le 1er janvier 2017 avec Brenles, Chesalles-sur-Moudon, Cremin, Forel et Sarzens.</p><p>Le château de Lucens a servi de résidence aux évêques de Lausanne dès la fin du XIIIe siècle. Dans un bourg ancien, les arbres manquent en général de place et finissent par toucher toitures ou façades.</p><p>Dans les villages de campagne, les arbres sont le plus souvent ceux des fermes et des vergers. La <a href=\"/elagage-taille-arbres\">taille</a> s'y fait en hiver, le bois reste souvent au propriétaire, les branches sont broyées sur place.</p><p>Nous venons de Courgenay, à environ 80 kilomètres à vol d'oiseau, et groupons les rendez-vous de la Broye. La visite est gratuite, le devis écrit.</p>",
+ "faits": [["Habitants", "4 879 (2025)"], ["Altitude", "496 m"], ["District", "Broye-Vully"], ["Depuis Courgenay", "env. 80 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Lucens.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Lucens avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "Arbres serrés dans le bourg", "texte": "Dans un bourg bâti de longue date, un arbre adulte n'a pas toujours la place de s'étendre. Nous réduisons la couronne par étapes et dégageons toitures et lignes sans étêter."},
+  {"icone": "STUMP", "titre": "Souche à rogner", "texte": "Après un abattage dans un jardin de Lucens ou d'Oulens, la souche gêne la tonte ou une nouvelle plantation. Nous la rognons sous le niveau du sol avec une machine compacte."},
+  {"icone": "SPROUT", "titre": "Vergers et haies des villages", "texte": "Autour des fermes, fruitiers et haies vives demandent en général une taille d'hiver. À Brenles, Cremin ou Sarzens, nous travaillons par tronçons, hors période de nidification."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres du bourg de Lucens et des villages alentour.",
+  "abattage-demontage": "Démontage à la corde près des bâtiments, abattage dirigé en terrain libre, bois débité ou évacué.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol avec une machine compacte qui passe par un portail de jardin.",
+  "plantation-arbres": "Remplacement d'un fruitier ou plantation d'un arbre d'ombrage adapté au sol et à la place disponible, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Intervenez-vous dans toutes les localités de Lucens ?", "a": "Oui : Lucens, Brenles, Chesalles-sur-Moudon, Cremin, Forel, Oulens et Sarzens. Un seul devis peut couvrir plusieurs arbres sur plusieurs sites, avec un planning groupé qui limite les déplacements."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Lucens ?", "a": "Dans le canton de Vaud, oui pour les arbres protégés : la Municipalité délivre une autorisation écrite et demande une plantation compensatoire. Le seuil dépend du règlement communal du patrimoine arboré. Nous nous renseignons avant d'intervenir."},
+  {"q": "Pouvez-vous enlever la souche après l'abattage ?", "a": "Oui. Le rognage se fait avec une machine qui passe par un portail de jardin. La souche est réduite en copeaux sous le niveau du sol, le trou comblé, le terrain prêt à être replanté ou engazonné."},
+  {"q": "Quand tailler une haie ou un fruitier à Lucens ?", "a": "En hiver, hors gel, pendant le repos de la végétation. Pour les haies, nous évitons la période de nidification et vérifions l'absence de nids avant toute coupe au printemps."},
+  {"q": "Combien de temps pour recevoir un devis ?", "a": "Après la visite gratuite, vous recevez un devis écrit sous 48 h ouvrées. Il précise la méthode, l'évacuation du bois et des branches, et la période d'intervention conseillée."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à entretenir à Lucens ou dans ses villages ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement, pour un arbre ou pour plusieurs."
+}

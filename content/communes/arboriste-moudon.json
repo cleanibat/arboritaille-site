@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Moudon (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, démontage et abattage d'arbres à Moudon (VD), des berges de la Broye aux cours du vieux bourg. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Moudon · Broye-Vully",
+ "h1": "Arboriste-grimpeur à <em>Moudon</em> : taille, démontage et abattage d'arbres",
+ "lead": "À Moudon, la Broye traverse la commune et le vieux bourg occupe une colline fortifiée. Arbres de berge, de cour ou de jardin : nous les taillons ou les démontons à la corde, sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "Démontage à la corde en cour fermée", "Règlement communal vérifié", "À environ 85 km de Courgenay"],
+ "intro_eyebrow": "Vos arbres à Moudon",
+ "intro_h2": "La Broye et un vieux bourg sur sa colline",
+ "intro": "<p>La Broye traverse Moudon. Le « vieux bourg », lui, tient en une seule rue, qui franchit une colline fortifiée. La vieille ville figure à l'inventaire ISOS.</p><p>Ces deux lieux posent deux problèmes distincts. Le long d'un cours d'eau, les arbres poussent vite et penchent souvent vers le courant. Dans une ville haute médiévale, les cours sont souvent closes et rien ne peut tomber librement.</p><p>Moudon compte 6 827 habitants à 514 m, sur 15,69 km², avec la localité de Bressonnaz. Ancienne ville romaine, puis savoyarde et bernoise, elle conserve de nombreux monuments.</p><p>Depuis Courgenay, il y a environ 85 km à vol d'oiseau. La visite reste gratuite. Elle nous sert à voir l'arbre, l'accès et ce que prévoit le règlement communal.</p>",
+ "faits": [["Habitants", "6 827 (2025)"], ["Altitude", "514 m"], ["Superficie", "15,69 km²"], ["Depuis Courgenay", "env. 85 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Moudon.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Moudon avant d'intervenir.",
+ "contexte": [
+  {"icone": "LEAF", "titre": "Arbres de berge", "texte": "Au bord d'une rivière, les crues peuvent déchausser les racines. Nous contrôlons l'ancrage, allégeons le côté qui penche et retirons les branches prêtes à tomber dans le lit."},
+  {"icone": "HOME", "titre": "Cours du vieux bourg", "texte": "Passage étroit, murs anciens, toits serrés : le grimpeur découpe l'arbre en petites sections, descendues une à une. Le bois sort par le couloir ou le porche, à la main."},
+  {"icone": "DOC", "titre": "Site protégé, arbre protégé ?", "texte": "L'inscription de la vieille ville à l'ISOS concerne le site bâti. Pour l'arbre, c'est le règlement communal du patrimoine arboré qui s'applique. Nous le consultons avant le devis."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des arbres de berge, taille d'entretien dans les jardins et les cours de Moudon, sans étêtage.",
+  "abattage-demontage": "Démontage en petites sections dans les cours fermées, abattage direct quand le terrain est ouvert.",
+  "diagnostic-expertise-arbre": "Contrôle de l'ancrage et du tronc d'un arbre qui penche, avant de décider d'une taille ou d'un abattage.",
+  "plantation-arbres": "Plantation compensatoire après abattage autorisé, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Moudon ?", "a": "Oui si l'arbre est protégé : l'autorisation écrite vient de la Municipalité, et une plantation compensatoire est exigée. Le seuil de protection dépend du règlement communal. Nous le vérifions pour vous avant d'intervenir."},
+  {"q": "Pouvez-vous démonter un arbre dans une cour de la vieille ville de Moudon ?", "a": "Oui. Le grimpeur travaille depuis l'arbre et descend chaque section à la corde. Aucune machine n'a besoin d'entrer dans la cour. Le bois est sorti à la main par l'accès existant."},
+  {"q": "Un arbre penche vers la Broye : que faire ?", "a": "Faites-le examiner. Si l'ancrage tient, alléger le côté qui penche suffit souvent. Si les racines sont déchaussées, l'arbre doit être démonté avant qu'il ne tombe dans la rivière. La visite est gratuite."},
+  {"q": "Quatre-vingt-cinq kilomètres : venez-vous vraiment jusqu'à Moudon ?", "a": "Oui. Le centre du canton de Vaud fait partie de notre zone d'intervention. La visite et le devis sont gratuits. Nous répondons à votre demande sous 48 h ouvrées pour convenir d'un rendez-vous."}
+ ],
+ "cta_img": "demontage_d-arbre_retention",
+ "cta_h2": "Un arbre à tailler ou à démonter à Moudon ?",
+ "cta_lead": "Visite sur place et devis écrit, gratuits et sans engagement."
+}

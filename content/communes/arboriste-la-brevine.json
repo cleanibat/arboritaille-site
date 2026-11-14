@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à La Brévine (NE) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à La Brévine (NE), à 1 113 m, dans la vallée connue pour ses records de froid. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · La Brévine · Montagnes neuchâteloises",
+ "h1": "Arboriste-grimpeur à <em>La Brévine</em> : tailler, abattre et planter malgré le froid",
+ "lead": "La Brévine, 614 habitants à 1 113 m, est connue dans toute la Suisse pour ses records de froid. Taille, abattage, plantation : nous adaptons le calendrier et le choix des essences à ce climat. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Pas de taille sur bois gelé", "Essences rustiques pour la plantation", "À une soixantaine de kilomètres de Courgenay"],
+ "intro_eyebrow": "Vos arbres à La Brévine",
+ "intro_h2": "La « Petite Sibérie » : des arbres face au lac de froid",
+ "intro": "<p>Le 12 janvier 1987, la station météorologique de La Brévine a mesuré −41,8 °C. Par nuit claire et sans vent, l'air froid s'accumule dans la vallée : c'est le « lac de froid ».</p><p>Pour un arbre, ces écarts sont une épreuve. Par grand gel, le bois devient cassant et l'écorce peut se fendre. Nous ne taillons pas dans ces conditions : les coupes attendent un temps plus doux.</p><p>La commune compte 614 habitants sur 41,82 km², soit 15 au kilomètre carré. Le village a brûlé en 1831 et garde peu de maisons anciennes.</p><p><a href=\"/plantation-arbres\">Planter</a> ici demande des essences qui supportent le froid et les gelées tardives. Nous vous conseillons lors de la visite, selon le sol et l'exposition de votre terrain.</p>",
+ "faits": [["Habitants", "614 (2025)"], ["Altitude", "1 113 m"], ["Superficie", "41,82 km²"], ["Depuis Courgenay", "env. 60 km"]],
+ "reglement": "<strong>Autorisation d'abattage à La Brévine.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à La Brévine avant d'intervenir.",
+ "contexte": [
+  {"icone": "CLOCK", "titre": "Le thermomètre décide", "texte": "La date du chantier dépend de la météo de la semaine. Si une vague de froid s'installe, nous reportons la taille plutôt que de couper dans un bois gelé."},
+  {"icone": "SPROUT", "titre": "Planter rustique", "texte": "Là où le gel peut revenir tard au printemps, les essences de montagne à débourrement tardif s'en sortent mieux. Le jeune arbre est tuteuré sur trois pieux et suivi les premières années."},
+  {"icone": "WARN", "titre": "Fentes de gel et branches cassées", "texte": "Une fente le long du tronc ou une charpentière brisée ne condamnent pas toujours l'arbre. Nous retirons la partie dangereuse, puis nous examinons ce qui peut être conservé."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille pendant le repos de la végétation, par temps doux. Bois mort et branches cassées retirés en toute saison.",
+  "plantation-arbres": "Choix d'une essence adaptée au froid de La Brévine, plantation soignée et tuteurage tripode.",
+  "abattage-demontage": "Abattage direct ou démontage par sections selon la place disponible. Bois débité à la longueur souhaitée.",
+  "urgence-tempete-arbre-dangereux": "Branche brisée par le gel ou la neige, arbre fendu : mise en sécurité, puis devis pour la suite."
+ },
+ "faq": [
+  {"q": "Peut-on tailler un arbre en plein hiver à La Brévine ?", "a": "Oui, mais pas par grand froid. Un bois gelé casse au lieu de se couper proprement. Nous choisissons des journées plus douces, entre la chute des feuilles et le débourrement, et reportons le chantier si nécessaire."},
+  {"q": "Quelles essences planter à La Brévine ?", "a": "Des essences de montagne, habituées au froid et aux gelées tardives. Le choix dépend aussi du sol et de l'exposition de la parcelle. Nous vous proposons deux ou trois options après avoir vu le terrain, sans engagement."},
+  {"q": "Faut-il une autorisation pour abattre un arbre ?", "a": "Dans le canton de Neuchâtel, haies et bosquets sont protégés partout et les arbres isolés relèvent du règlement communal. Nous vérifions la règle de la commune avant d'intervenir et vous indiquons la démarche éventuelle."},
+  {"q": "Le tronc s'est fendu pendant l'hiver : l'arbre est-il perdu ?", "a": "Pas nécessairement. Beaucoup d'arbres referment une fente de gel. Tout dépend de sa profondeur et de l'état du bois autour. Un diagnostic sur place permet de trancher entre surveillance, haubanage et abattage."},
+  {"q": "Soixante kilomètres depuis Courgenay : vous déplacez-vous ?", "a": "Oui. La visite est gratuite et le devis écrit. Nous répondons à votre demande sous 48 h ouvrées pour convenir d'une date, en tenant compte de l'enneigement et de l'accès à votre terrain."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, abattre ou planter à La Brévine ?",
+ "cta_lead": "Visite et devis gratuits. Le chantier est programmé hors des grands froids."
+}

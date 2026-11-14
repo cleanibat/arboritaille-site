@@ -1,0 +1,36 @@
+{
+ "title": "Arboriste à Blonay - Saint-Légier (VD) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Blonay - Saint-Légier (VD), des jardins proches de Vevey aux hameaux. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Blonay - Saint-Légier · Riviera",
+ "h1": "Arboriste-grimpeur à <em>Blonay - Saint-Légier</em> : taille, abattage et soins aux arbres",
+ "lead": "Blonay - Saint-Légier, commune née en 2022 au-dessus de Vevey, réunit 12 608 habitants sur plus de 31 km². Des jardins proches de la ville aux hameaux éloignés, nous taillons, abattons et plantons vos arbres.",
+ "points": ["Visite et devis gratuits", "Blonay, Saint-Légier et les huit localités", "Taille d'allègement avant l'hiver", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Blonay - Saint-Légier",
+ "intro_h2": "De la limite de Vevey à celle du canton de Fribourg : 31 km² à couvrir",
+ "intro": "<p>Blonay et Saint-Légier-La Chiésaz ont fusionné le 1er janvier 2022. La commune de Blonay - Saint-Légier compte 12 608 habitants et couvre 31,24 km², environ treize fois la surface de Vevey, sa voisine.</p><p>Le territoire touche Vevey et La Tour-de-Peilz d'un côté, <a href=\"/arboriste-chatel-saint-denis\">Châtel-Saint-Denis</a>, dans le canton de Fribourg, de l'autre. Entre les deux : huit localités, de Hauteville à Ondallaz.</p><p>Avec 404 habitants au kilomètre carré, l'habitat laisse de la place aux jardins. Les arbres y deviennent grands, et les questions suivent : ombre, branches sur le toit, limite de propriété.</p><p>À 622 m, neige lourde et vent pèsent en général davantage qu'au bord du lac, près de 240 m plus bas. Une <a href=\"/elagage-taille-arbres\">taille d'allègement</a> faite à temps évite bien des <a href=\"/urgence-tempete-arbre-dangereux\">branches cassées</a>.</p>",
+ "faits": [["Habitants", "12 608 (2025)"], ["Altitude", "622 m"], ["Superficie", "31,24 km²"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Blonay - Saint-Légier.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune.<br>La demande est affichée au pilier public et une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Blonay - Saint-Légier avant d'intervenir.",
+ "contexte": [
+  {"icone": "MOUNT", "titre": "Plus haut que le lac", "texte": "Entre la rive du Léman et les 622 m de la commune, le climat change. En règle générale, neige mouillée et gel tardif concernent davantage les jardins situés en hauteur."},
+  {"icone": "PIN", "titre": "Huit localités", "texte": "L'Alliaz, La Chiésaz, Clies, Les Chevalleyres, Fayaux, Hauteville, Lally, Ondallaz : indiquez-nous la localité et l'accès. Le matériel est choisi selon la route et la place disponible."},
+  {"icone": "DOC", "titre": "Une commune récente", "texte": "La fusion date de 2022. Avant tout abattage, nous demandons quel règlement du patrimoine arboré s'applique à votre parcelle et quelles pièces la Municipalité attend."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'allègement, réduction de couronne et retrait du bois mort pour les arbres de jardin, avant la neige ou après une tempête.",
+  "abattage-demontage": "Abattage dirigé quand le terrain est dégagé, démontage à la corde près des maisons. Bois débité ou évacué.",
+  "urgence-tempete-arbre-dangereux": "Branche cassée, arbre incliné ou fendu : mise en sécurité après évaluation sur photos puis sur place.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol après abattage, pour replanter ou ressemer le gazon.",
+  "plantation-arbres": "Choix d'une essence adaptée à l'altitude de votre parcelle, plantation et tuteurage."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Blonay comme à Saint-Légier ?", "a": "Oui, sur tout le territoire de Blonay - Saint-Légier, y compris dans les localités éloignées du centre comme L'Alliaz ou Ondallaz. Précisez l'adresse lors de votre demande : nous organisons la visite, gratuite, en fonction de l'accès."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Blonay - Saint-Légier ?", "a": "Pour un arbre protégé, une autorisation écrite de la Municipalité est nécessaire dans le canton de Vaud, et une plantation compensatoire est exigée. Nous vérifions le règlement applicable à votre parcelle avant d'intervenir."},
+  {"q": "Quand faire alléger un arbre avant l'hiver ?", "a": "L'automne convient pour retirer le bois mort et raccourcir les branches trop longues, celles qui cassent sous la neige lourde. La taille reste mesurée : nous conservons la forme de l'arbre et ne coupons que le nécessaire."},
+  {"q": "Une branche est tombée après un coup de vent : que faire ?", "a": "Éloignez-vous de l'arbre et ne coupez rien sous tension. Envoyez-nous des photos avec l'adresse. Nous vous disons si la situation demande une mise en sécurité rapide ou si elle peut attendre une visite planifiée."},
+  {"q": "Vous déplacez-vous depuis Courgenay ?", "a": "Oui. Blonay - Saint-Légier se trouve à une centaine de kilomètres de Courgenay à vol d'oiseau. Nous regroupons les visites de la Riviera sur une même journée. Le devis est écrit, gratuit et sans engagement."}
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler ou à abattre à Blonay - Saint-Légier ?",
+ "cta_lead": "Visite et devis gratuits, réponse écrite sous 48 h ouvrées."
+}

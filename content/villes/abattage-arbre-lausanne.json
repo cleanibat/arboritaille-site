@@ -1,0 +1,61 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-lausanne",
+ "h1_plain": "Abattage et démontage d'arbres à Lausanne",
+ "title": "Abattage et démontage d'arbres à Lausanne (VD) | Arboritaille",
+ "desc": "Abattage d'arbres à Lausanne : dossier pour le Service des parcs et domaines, démontage à la corde en cour ou en pente. Visite et devis gratuits.",
+ "eyebrow": "Abattage · Lausanne",
+ "h1": "Abattage et démontage d'arbres à <em>Lausanne</em>",
+ "lead": "À Lausanne, abattre un arbre protégé demande une autorisation de la Municipalité. Nous préparons la demande avec vous, puis démontons l'arbre à la corde, par sections, là où la place manque.",
+ "points": [
+  "Démontage par sections, à la corde",
+  "Dossier pour le Service des parcs et domaines",
+  "Plantation compensatoire possible",
+  "Visite et devis gratuits"
+ ],
+ "intro_eyebrow": "Lausanne",
+ "intro_h2": "Abattre à Lausanne : la demande d'abord, le chantier ensuite",
+ "intro": "<p>À Lausanne, un abattage commence par un formulaire. La Ville protège les arbres d'essence majeure, les cordons boisés, les boqueteaux et les haies vives. Le propriétaire obtient l'accord de la Municipalité avant toute coupe.</p><p>La demande recevable est affichée trente jours au pilier public, place de la Palud. La Ville annonce un délai moyen de huit à dix semaines. Un abattage se prévoit donc plusieurs mois à l'avance.</p><p>Vient ensuite le chantier. Avec 145 596 habitants sur 41,38 km², la place au sol est comptée : une rue, une cour ou un mur bordent souvent l'arbre. Nous le démontons de haut en bas.</p><p>Depuis Courgenay, à une centaine de kilomètres, visite et chantier se planifient à l'avance. Si l'arbre peut rester, nous proposons d'abord une <a href=\"/elagage-taille-arbres\">taille</a> ou un <a href=\"/haubanage\">haubanage</a>.</p>",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Une fiche par arbre",
+   "texte": "La Ville demande pour chaque arbre l'essence, la circonférence à 1 m du sol, l'état sanitaire et la position. Nous relevons ces données lors de la visite et vous les remettons par écrit."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Compensation",
+   "texte": "Toute autorisation est assortie d'une plantation compensatoire, proportionnelle à la valeur de l'arbre abattu. Si replanter sur la parcelle est impossible, une contribution est due. Nous pouvons <a href=\"/plantation-arbres\">planter l'arbre de remplacement</a>."
+  },
+  {
+   "icone": "WARN",
+   "titre": "Rue, trottoir, stationnement",
+   "texte": "En ville, l'emprise du chantier se prépare : accès, places à libérer, passage des piétons. Nous repérons tout cela lors de la visite et balisons la zone le jour venu."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Lausanne.</strong> Selon la Ville de Lausanne, les arbres d'essence majeure, les cordons boisés, les boqueteaux et les haies vives sont protégés (RPGA, art. 56 et 57 ; LPrPNP, art. 14 à 16). Leur abattage demande une autorisation de la Municipalité. Le formulaire « Demande d'abattage-élagage » est envoyé au Service des parcs et domaines.<br>La demande recevable est affichée trente jours au pilier public, et toute autorisation est assortie d'une plantation compensatoire : voir la <a href=\"https://www.lausanne.ch/prestations/parcs-et-domaines/demande-abattage-arbres.html\">page officielle de la Ville</a>. Le Conseil communal a adopté le 8 septembre 2026 un règlement communal du patrimoine arboré (<a href=\"https://www.lausanne.ch/apps/agir/affaire/47/097f465d303242949538b91df622ca47.htm\">préavis 2025/56</a>). Nous vérifions le texte en vigueur avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Quels arbres sont protégés à Lausanne ?",
+   "a": "La Ville protège les arbres d'essence majeure (espèces pouvant atteindre 10 mètres et plus), les cordons boisés, boqueteaux et haies vives. Le Conseil communal a adopté en septembre 2026 un règlement du patrimoine arboré : nous vérifions le texte en vigueur avant le devis."
+  },
+  {
+   "q": "Comment demander l'autorisation d'abattre un arbre à Lausanne ?",
+   "a": "Le propriétaire remplit le formulaire « Demande d'abattage-élagage » et l'envoie au Service des parcs et domaines. La demande recevable est affichée trente jours, puis la Municipalité décide. La procédure est gratuite ; comptez en moyenne huit à dix semaines."
+  },
+  {
+   "q": "Devrai-je replanter après l'abattage ?",
+   "a": "Oui. Toute autorisation est assortie d'une plantation compensatoire, proportionnelle à la valeur de l'arbre abattu. Si la replantation sur la parcelle est impossible ou insuffisante, la Ville perçoit une contribution. Nous pouvons planter l'arbre de remplacement."
+  },
+  {
+   "q": "L'arbre est mort ou menace de tomber : que faire ?",
+   "a": "Dans le canton de Vaud, en cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. Prévenez le Service des parcs et domaines, puis <a href=\"/urgence-tempete-arbre-dangereux\">contactez-nous</a> : nous documentons l'état de l'arbre par des photos."
+  },
+  {
+   "q": "Peut-on abattre un grand arbre dans une cour sans accès pour un camion ?",
+   "a": "Oui, par démontage. Nous montons dans l'arbre et le coupons de haut en bas. Chaque section est retenue à la corde, puis sortie à la main par le porche ou l'allée. La visite sert à repérer ce passage."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à Lausanne ?",
+ "cta_lead": "Nous examinons l'arbre et préparons la demande avec vous. Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

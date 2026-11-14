@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Nidau (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, réduction de couronne, démontage et abattage d'arbres à Nidau, au bord du lac de Bienne, canton de Berne. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "demontage_saule_bienne",
+ "hero_pos": "50% 35%",
+ "eyebrow": "Arboriste-grimpeur · Nidau · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Nidau</em> : taille, abattage et soins aux arbres",
+ "lead": "Nidau, son château et son port occupent 1,52 km2 entre le lac de Bienne et la Thielle. Dans ce bourg dense, nous taillons et démontons les arbres depuis la couronne, à la corde. Visite et devis gratuits.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Travail depuis l'arbre, adapté aux jardins étroits",
+  "Chantier discret près du château",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Nidau",
+ "intro_h2": "Un bourg dense au bord du lac, autour de son château",
+ "intro": "<p>Nidau tient sur 1,52 km2 pour plus de 7 000 habitants : la densité y dépasse 4 700 habitants au km2. Le château a longtemps été entouré d'eau ; le port donne sur le lac de Bienne et sur la Thielle.</p><p>Dans un tissu aussi serré, un arbre n'est jamais loin d'un mur, d'une rue ou d'une parcelle voisine. Les tailles se font donc depuis l'arbre, à la corde, et les branches sont descendues sans toucher aux toitures.</p><p>Le château, édifié avant 1200, et l'Hôtel de Ville de 1756-60 appellent de la retenue. Près d'un bâtiment ancien, nous préférons une réduction douce de la couronne à une coupe brutale.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "7 160 (2025)"
+  ],
+  [
+   "Altitude",
+   "495 m"
+  ],
+  [
+   "Superficie",
+   "1,52 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Nidau.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). Leur entretien est permis ; leur suppression demande une dérogation de la préfecture, avec compensation. Les arbres isolés et les allées de valeur relèvent du règlement communal. Nous vérifions la règle en vigueur à Nidau avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "HOME",
+   "titre": "Jardins de poche",
+   "texte": "Sur une petite parcelle, un arbre devenu trop grand prend toute la lumière. Une réduction de couronne mesurée rend de la place sans sacrifier l'arbre ; une haie se reprend en hiver."
+  },
+  {
+   "icone": "PIN",
+   "titre": "Près du château et de l'Hôtel de Ville",
+   "texte": "Les abords d'un monument demandent un chantier discret : aucune chute libre, protection des sols et des revêtements, branches évacuées à la fin de la journée de travail."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Le vent du lac",
+   "texte": "Au bord d'un lac, les arbres exposés prennent le vent de plein fouet. Nous repérons les branches mortes ou fendues et les retirons avant qu'elles ne tombent sur un passage."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne, éclaircie et taille d'entretien pour les arbres des jardins étroits de Nidau. Silhouette conservée, lumière retrouvée.",
+  "abattage-demontage": "Démontage pièce par pièce quand l'arbre touche un mur ou surplombe la rue. Pièces retenues à la corde, sol protégé.",
+  "haubanage": "Un arbre fendu mais sain peut souvent être conservé grâce à un hauban posé dans la couronne. Nous évaluons cette option avant tout abattage.",
+  "plantation-arbres": "Remplacer un arbre abattu par une essence qui restera à l'échelle de votre jardin, avec tuteurage et conseils d'arrosage."
+ },
+ "faq": [
+  {
+   "q": "Un arbre dans un jardin étroit à Nidau, est-ce faisable ?",
+   "a": "Oui. Nous n'avons pas besoin de place au sol pour une machine : nous grimpons dans l'arbre et descendons chaque pièce à la corde. Seul un passage pour sortir les branches est nécessaire."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Nidau ?",
+   "a": "Cela dépend de l'arbre et de sa situation. Le canton de Berne protège les haies et bosquets ; les arbres isolés dépendent du règlement communal de Nidau. Nous vérifions pour vous avant de fixer une date."
+  },
+  {
+   "q": "Travaillez-vous aussi à Bienne et à Port ?",
+   "a": "Oui. Bienne et Port touchent Nidau ; les saules que nous avons démontés dans ces deux communes sont visibles sur leurs pages. Depuis Courgenay, la distance est comparable et la visite reste gratuite."
+  },
+  {
+   "q": "Quand tailler une haie au bord du lac ?",
+   "a": "De préférence entre novembre et mars, pendant le repos de la végétation et hors période de nidification. En été, nous nous limitons à une taille légère après avoir vérifié l'absence de nids."
+  },
+  {
+   "q": "Le devis peut-il être rédigé en allemand ?",
+   "a": "Oui. Nidau est une commune où l'allemand et le français se côtoient : nous rédigeons le devis et nos réponses écrites dans la langue de votre choix."
+  }
+ ],
+ "cta_img": "demontage_saule_bienne",
+ "cta_h2": "Un arbre à tailler ou à démonter à Nidau ?",
+ "cta_lead": "Visite et devis gratuits. Nous répondons sous 48 h ouvrées."
+}

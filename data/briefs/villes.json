@@ -1,0 +1,851 @@
+[
+ {
+  "slug": "arboriste-delemont",
+  "nom": "Delémont",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 12991,
+  "tier": 1,
+  "npa": "2800",
+  "altitude": "414 m",
+  "superficie": "21,99 km2",
+  "densite": "591 hab./km2",
+  "gentile": "Delémontain, Delémontaine",
+  "langue": "Français, Franc-comtois",
+  "localites": null,
+  "population_detail": "12 991 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 15,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Delémont",
+  "intro": "Delémont (en franc-comtois : D'lémont) ; en allemand : Delsberg) est une commune suisse et le chef-lieu de la République et Canton du Jura. Située dans le district homonyme, au confluent de la Birse et de la Sorne, elle constitue le principal centre administratif, politique et économique du canton. La commune compte 12 813 habitants au 31 décembre 2024, ce qui en fait la ville la plus peuplée du Jura. Elle s’inscrit dans un espace urbain à dominante francophone et joue un rôle structurant dans l’organisation territoriale de la Suisse du Nord-Ouest. Mentionnée dès le VIIIe siècle, Delémont se développe au Moyen Âge sous l’autorité des princes-évêques de Bâle, dont elle constitue l’un des centres administratifs. La ville est ensuite intégrée à la France entre 1793 et 1815, avant d’être rattachée au canton de Berne à la suite du Congrès de Vienne. Elle devient en 1979 la capitale de la République et Canton du Jura nouvellement créée, à l’issue du processus politique lié à la Question jurassienne,. Le tissu urbain de Delémont se caractérise par la coexistence d’un centre historique bien conservé, comprenant notamment des éléments d’architecture médiévale et baroque, et d’extensions contemporaines développées à partir du XXe siècle. La ville bénéficie d’une situation géographique stratégique à proximité des axes de communication reliant Bâle, le Plateau suisse et la France, renforçant son attractivité résidentielle et économique. Delémont constitue un rôle central à l'échelle cantonale, tant dans les domaines institutionnels que culturels et des services. Elle abrite notamment le siège du Parlement et du Gouvernement. La ville s’inscrit par ailleurs dans un environnement naturel caractérisé par les reliefs du massif du Jura.",
+  "sections": {
+   "Toponymie": "Le toponyme se compose vraisemblablement du nom de personne germanique « Tallo, Tello » et du substantif gallo-roman « mont ». Son nom est Delsberg en allemand. La localité serait citée pour la première fois (in figo Delomonte) dans un acte de 736 ; on trouve Laimunt en 1181 et Deleymunt en 1225 ; le nom allemand - Telsperg - apparaît dès le XIIe siècle, comme patronyme de la famille noble qui tiendra le château du Vorbourg au nord-est de la ville.",
+   "Histoire": "Dans la région de Delémont, les premières traces de peuplement remontent à l'âge du bronze (Roc de Courroux). La région a été peuplée durant la période gallo-romaine (trace d'un habitat gallo-romain important à la Communance). Dès les VIe et VIIe siècles des forgerons auraient travaillé le minerai de fer dans la vallée de Delémont, comme l'attestent les bas fourneaux de Boécourt. Le noyau urbain primitif, situé dans la partie sud de la vieille ville actuelle, s'est implanté, probablement vers 1200, sur un contrefort, proche du confluent de la Sorne et de la Birse et d'un croisement de routes. En 1289, la charte de franchises octroyée par l'évêque de Bâle Pierre Reich de Reichenstein fonde l'autonomie communale et définit le cadre urbain et politique pour plusieurs siècles. En 1815, lors du Congrès de Vienne, une grande partie de l'ancien évêché de Bâle est octroyée au canton de Berne. C'est ainsi que Delémont devint suisse. Elle fut chef-lieu de district de 1790 à 1795. En 1875, la construction de la gare donne une impulsion décisive au développement économique et démographique de la cité, qui déborde de l'enceinte médiévale et devient la plus grande ville du Jura. Le vote d'autodétermination du peuple jurassien en 1974 crée la République et Canton du Jura, dont Delémont devient le chef-lieu dès le 1er janvier 1979.",
+   "Culture et patrimoine": "Delémont compte un grand nombre de monuments intéressants. L'idée de la création d'une bibliothèque est évoquée pour la première fois à Delémont en 1939. Il faut cependant attendre les années 1950 pour qu'une commission soit mise sur pied pour étudier un projet et c'est en 1956 que la première bibliothèque voit le jour à Delémont, à l'Orangerie. Elle porte le titre de Bibliothèque de la ville, destinée aux adultes qui, par la suite à changer son nom en Bibliothèque des adultes. Dans les années 1960, on commence également à évoquer la création d'une bibliothèque destinée aux jeunes, mais c'est seulement en 1973 qu'est inaugurée la Bibliothèque des jeunes. Depuis 2015, la ville abrite le festival de bande dessinée Delémont'BD organisé chaque année mi-juin avec le soutien de la municipalité et d'autres partenaires, médias et entreprises. Le château. Imposante construction de style baroque au croisement des influences architecturales d'Allemagne du Sud et d ; Église Saint-Marcel. Ce lieu de culte a été collégiale du Chapitre de Moutier-Grandval de 1534 à 1792. Le bâtiment actue ; Hôtel de ville (place de la Liberté), construit en 1742-1745 par l'architecte Johann Caspar Bagnato. Ajout d'un étage en ; Porte de Porrentruy ou Porte de Monsieur le Prince, 1756-1759. ; Fontaine du Sauvage (1576) par le sculpteur Laurent Perroud, de Cressier. Le « Sauvage » tient les armoiries de la vill"
+  },
+  "voisins": [
+   {
+    "nom": "Bourrignon",
+    "slug": "arboriste-bourrignon"
+   },
+   {
+    "nom": "Courrendlin",
+    "slug": "arboriste-courrendlin"
+   },
+   {
+    "nom": "Courroux",
+    "slug": "arboriste-courroux"
+   },
+   {
+    "nom": "Courtételle",
+    "slug": "arboriste-courtetelle"
+   },
+   {
+    "nom": "Develier",
+    "slug": "arboriste-develier"
+   },
+   {
+    "nom": "Mettembert",
+    "slug": "arboriste-mettembert"
+   },
+   {
+    "nom": "Pleigne",
+    "slug": "arboriste-pleigne"
+   },
+   {
+    "nom": "Rossemaison",
+    "slug": "arboriste-rossemaison"
+   },
+   {
+    "nom": "Soyhières",
+    "slug": "arboriste-soyhieres"
+   }
+  ],
+  "commune": "arboriste-delemont",
+  "slug_ville": "delemont",
+  "pages": [
+   "elagage-delemont",
+   "abattage-arbre-delemont"
+  ]
+ },
+ {
+  "slug": "arboriste-porrentruy",
+  "nom": "Porrentruy",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Porrentruy",
+  "population": 6597,
+  "tier": 1,
+  "npa": "2900",
+  "altitude": "443 m",
+  "superficie": "14,75 km2",
+  "densite": "447 hab./km2",
+  "gentile": "Bruntrutain",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "6 597 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 5,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Porrentruy",
+  "intro": "Porrentruy (prononcé ) est une commune suisse située dans le canton du Jura, dans la région de l'Ajoie. Chef-lieu du district de Porrentruy, elle est seulement la quatrième commune du canton du Jura par sa population.",
+  "sections": {
+   "Toponymie": "Le nom de la commune, qui se prononce , est très probablement formé du mot « pont » (du latin pons, pontem) et du nom d'une femme germanique du type Ragintrudis. Ses premières occurrences écrites datent de 1136, sous les formes de Punrentrut et Purrentru. La commune se nomme Poérreintru en patois ajoulot.",
+   "Histoire": "Principauté épiscopale de Bâle 1283–1397 Comté de Montbéliard 1397-1461 Principauté épiscopale de Bâle 1461–1792 République rauracienne 1792-1793 République française (Mont-Terrible) 1793-1800 République française (Haut-Rhin) 1800-1804 Empire français (Haut-Rhin) 1804-1815 Berne, Suisse 1815–1978 Jura, Suisse 1979–présent Le site est habité dès l'époque romaine (en 1983, un fanum (temple gallo-romain) a été mis au jour, près du cimetière actuel « En Solier »), mais les premières mentions historiques se situent entre 968 et 1148. Il semble que le nom provienne soit du germanique brunntrutt (« source abondante ») soit du latin pons Ragentrudis (de Ragnétrude, compagne du roi franc Dagobert Ier). Les documents révèlent l'existence d'une petite bourgade, avec une église paroissiale dédiée à saint Germain et, après 1233, avec une chapelle située sur la colline sud, à l'emplacement de l'actuelle église Saint-Pierre. En 1283, Porrentruy reçoit sa charte de franchises de l’empereur Rodolphe de Habsbourg. Mais au XIIIe siècle la situation se complique ; engagée sous condition au comte de Montbéliard en 1236, la ville doit faire retour aux Ferrette, mais ceux-ci ont, entretemps, cédé leurs droits à l’évêque de Bâle. Le nouveau comte de Montbéliard, Renaud de Bourgogne (frère d’Othon IV, comte de Bourgogne), ne tient pas à accroître encore la puissance de son voisin. Il entre en guerre ou",
+   "Culture et patrimoine": "Le sanglier possède une place particulière dans la culture bruntrutaine. Encore aujourd'hui, on le rencontre dans les forêts avoisinantes, sur les armoiries et sous la forme d'une statue devant la mairie. La légende raconte : « Un jour d’autrefois, une singulière bête, courant ventre à terre, queue en l’air et la gueule grande ouverte (un énorme sanglier) franchissait le rempart de dix pieds comme si ç’avait été une petite clôture de rien du tout. Après moult péripéties dont le récit fait état, la bête fut frappée à mort par la hache lancée d’une fenêtre par un courageux bruntrutain ! Elle s’écroula finalement devant le perron de l’Hôtel de ville. L’aventure fit comprendre à « Messieurs du Conseil » qu’en certains endroits le mur de l’enceinte de la ville était insuffisamment haut pour s’opposer aux attaques de l’ennemi. Il fut donc décidé de pousser les remparts à une hauteur plus imposante. Ce sanglier providentiel était donc, à n’en pas douter, le messager des Puissances protectrices de la cité… Le Conseil arrêta, en séance solennelle, que, dorénavant, le sanglier deviendrait l’emblème de la louable ville de Porrentruy. Les étendards de la cité arborèrent donc le sanglier de sable sur champ d’argent et les sceaux officiels imprimèrent sur tous les documents l’animal héraldique, hirsute, bondissant et grognant, qui avait incarné, à un moment mémorable, le bon génie de la cité"
+  },
+  "voisins": [
+   {
+    "nom": "Alle",
+    "slug": "arboriste-alle"
+   },
+   {
+    "nom": "Bure",
+    "slug": "arboriste-bure"
+   },
+   {
+    "nom": "Cœuve",
+    "slug": "arboriste-cuve"
+   },
+   {
+    "nom": "Courchavon",
+    "slug": "arboriste-courchavon"
+   },
+   {
+    "nom": "Courgenay",
+    "slug": "arboriste-courgenay"
+   },
+   {
+    "nom": "Courtedoux",
+    "slug": "arboriste-courtedoux"
+   },
+   {
+    "nom": "Fontenais",
+    "slug": "arboriste-fontenais"
+   }
+  ],
+  "commune": "arboriste-porrentruy",
+  "slug_ville": "porrentruy",
+  "pages": [
+   "elagage-porrentruy",
+   "abattage-arbre-porrentruy"
+  ]
+ },
+ {
+  "slug": "arboriste-moutier",
+  "nom": "Moutier",
+  "canton": "JU",
+  "canton_nom": "Jura",
+  "district": "Delémont",
+  "population": 7053,
+  "tier": 1,
+  "npa": "2740",
+  "altitude": "535 mMax. 1 270 m",
+  "superficie": "19,58 km2",
+  "densite": "360 hab./km2",
+  "gentile": "Prévôtois",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "7 053 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 25,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Moutier",
+  "intro": "Pour l’article ayant un titre homophone, voir Moutiers. Cet article ne cite pas suffisamment ses sources (avril 2023). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». Moutier (ancien nom allemand : Münster) est une commune suisse du canton du Jura et chef-lieu du district homonyme. En 2021, une majorité de citoyens de Moutier décident de quitter le canton de Berne pour rejoindre le canton du Jura. Ce changement a eu lieu le 1er janvier 2026.",
+  "sections": {
+   "Histoire": "Durant l'époque romaine, on ne franchissait ni les gorges de Moutier, ni celles de Court. La route romaine, venant de Pierre Pertuis par la vallée de Tavannes, passait donc par Champoz. Elle se dirigeait ensuite vers Crémines et Vermes pour rejoindre la vallée de Delémont. Rien n'atteste la présence d'une agglomération romaine sur le site actuel de Moutier. Durant le haut Moyen Âge, l'histoire de Moutier est étroitement liée à l'abbaye de Moutier-Grand Val. Selon le texte hagiographique relatant la vie de Saint Germain, premier abbé de la fondation colombanienne, la fondation de Moutier (qui signifie « monastère » en ancien français) remonte à l'an 640. La célèbre bible de Moutier-Grandval, document richement illustré et conservé à la British Library, témoigne sans ambages de l'importance du monastère prévôtois. Elle fut offerte aux moines de Moutier par Hugues de Tours vers 835 et porte en ses enluminures le style du scriptorium de la cité tourangelle. En l'an 999, l'abbaye de Moutier-Grand Val est donnée par Rodolphe III, roi de Bourgogne, à la principauté épiscopale de Bâle. Elle est à l'origine de la puissance temporelle du prince-évêque de Bâle. La souveraineté de l'abbaye de Moutier-Grand Val sur ses propriétés est confirmée par Charles le Gros dans un acte daté du 24 mars 878 et qui s'avère être également le plus ancien document des archives de l'État de Berne. Aux envir"
+  },
+  "voisins": [
+   {
+    "nom": "Belprahon",
+    "slug": "arboriste-belprahon"
+   },
+   {
+    "nom": "Champoz",
+    "slug": "arboriste-champoz"
+   },
+   {
+    "nom": "Châtillon",
+    "slug": "arboriste-chatillon"
+   },
+   {
+    "nom": "Court",
+    "slug": "arboriste-court"
+   },
+   {
+    "nom": "Eschert",
+    "slug": "arboriste-eschert"
+   },
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne"
+   },
+   {
+    "nom": "Perrefitte",
+    "slug": "arboriste-perrefitte"
+   },
+   {
+    "nom": "Roches",
+    "slug": "arboriste-roches"
+   }
+  ],
+  "commune": "arboriste-moutier",
+  "slug_ville": "moutier",
+  "pages": [
+   "elagage-moutier",
+   "abattage-arbre-moutier"
+  ]
+ },
+ {
+  "slug": "arboriste-neuchatel",
+  "nom": "Neuchâtel",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Littoral",
+  "population": 45466,
+  "tier": 1,
+  "npa": "2000 Neuchâtel  2001 Neuchâtel 1  2002 Neuchâtel 2  2010 Neuchâtel OFS  2034 Peseux  2035 Corcelles  2036 Cormondrèche  2042 Valangin  2067 Chaumont",
+  "altitude": "725 mMin. 427 mMax. 1 174 m",
+  "superficie": "30,08 km2",
+  "densite": "1 512 hab./km2",
+  "gentile": "Neuchâtelois/Neuchâteloise",
+  "langue": "Français",
+  "localites": "Chaumont, Corcelles, Cormondrèche, La Coudre, Monruz, Peseux, Serrières, Valangin",
+  "population_detail": "45 466 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Neuchâtel",
+  "intro": "Vous lisez un « bon article » labellisé en 2008. Pour les autres significations, voir Neuchâtel (homonymie). Neuchâtel (prononcé /nœʃatɛl/ ou /nøʃatel/ Écoutezⓘ ; en allemand Neuenburg Écouterⓘ) est une ville de Suisse, capitale du canton de Neuchâtel et de l'ancien district de Neuchâtel. Située dans la région Littoral au bord du lac de Neuchâtel, sur le flanc sud du massif du Jura, elle fait face à la chaîne des Alpes. Neuchâtel est citée pour la première fois en 1010. Elle est gérée par des comtes de Neuchâtel jusqu'en 1458, puis est soumise à l'autorité de la famille d'Orléans-Longueville jusqu'en 1707. La ville passe ensuite sous l'autorité des rois de Prusse jusqu'en 1848, tout en ayant dès 1814 adhéré à la Confédération suisse en formant l'État de Neuchâtel. L'économie de la ville a longtemps été liée à l'administration (ville la plus importante de la région) et à l'agriculture (principalement dans les vendanges). Elle a été dominée par le commerce international au XVIIIe siècle, puis par les secteurs secondaire (horlogerie) et tertiaire. Au tournant des XIXe et XXe siècles, plusieurs hôtels sont construits pour soutenir le tourisme qui accompagne le développement du chemin de fer. La région est fortement industrielle avec la chocolaterie Suchard, les forges et scieries Martenet, l'horlogerie et la fabrication d'indiennes qui se développent durant le XIXe siècle et s'effondrent à la fin du XXe siècle. Elle se renouvelle aujourd'hui grâce aux techniques de pointe et développe un pôle de compétences autour du CSEM et d'une antenne de l'École polytechnique fédérale de Lausanne. La ville est également connue pour son université, son club de football, ses activités industrielles de hautes technologies et, sur le plan touristique, pour son bourg médiéval en zone piétonn",
+  "sections": {
+   "Toponymie": "Le nom de la ville est attesté sous les formes latinisées : Novum Castellum, Novum Castrum (XIIe siècle), Neocomum (XVIe siècle, cacographie) et romanes : Nuefchastel, Neufchastel, Neufchatel avant d'être écrite Neuchâtel au milieu du XVIIIe siècle. Il s'agit d'une formation toponymique médiévale composée des éléments d'ancien français nuef, neu(f) « neuf » et chastel « château », d'où le sens global de « château neuf », en référence au château érigé à la fin du Xe siècle sur un promontoire rocheux. L'antéposition de l'adjectif est un phénomène largement attesté dans le Nord et l'Est de la France, ainsi qu'en Belgique et en Suisse romande. Comme dans les différents Neuchâtel, Neufchâtel, Neufchâteau du nord de la France et de Belgique, l'antéposition de l'adjectif reflète l'influence germanique dans le gallo-roman, phénomène dont la toponymie conserve les traces,. Dans le sud de la France, on trouve des formes du type Castelnau caractéristiques de la langue d'oc, parfois francisées en Châteauneuf qui peut être aussi, dans de rares cas, une forme d'oïl plus méridionale ou plus récente, ou encore, traduite d'une autre langue locale. En arpitan, le nom de la ville est Nôchâhtél,. Ce nom était prononcé localement , ; ailleurs dans le canton on disait à La Sagne, aux Planchettes, et aux Éplatures. En Franche-Comté, Neuchâtel était souvent dotée du déterminant complémentaire outre-Jo",
+   "Histoire": "L'histoire de la ville de Neuchâtel,, se confond en bonne partie avec celle du Canton de Neuchâtel. La ville de Neuchâtel étant établie au bord du lac, elle a connu du passage depuis la plus profonde Préhistoire,,. La ville est le principal centre décisionnel du canton dès l'unification avec Valangin (environ 1575), et ce jusqu'à l'industrialisation des communes du Haut à la fin du XVIIIe siècle. La révolution neuchâteloise du 1er mars 1848 partit du Haut pour finir au château de Neuchâtel. La région neuchâteloise tient une place importante dans la préhistoire suisse, et plus largement dans la préhistoire mondiale. L’essor de l’archéologie préhistorique à Neuchâtel est étroitement lié à la découverte des lacustres à partir de 1854. Les multiples prospections menées sur les rives du lac ont en effet permis de mettre au jour de nombreux vestiges d'habitants littoraux divers ayant contribué à l’essor de l’archéologie en Suisse, notamment concernant l’âge du Bronze ainsi que l’âge du Fer. Les sciences naturelles, fortement développées dans le jeune canton de Neuchâtel grâce à l'émulation suscitée par le célèbre savant Louis Agassiz, offraient par ailleurs un terreau naturel favorable au développement de ces recherches préhistoriques, dans la seconde moitié du XIXe siècle. Avec la correction des eaux du Jura (1868-1882), les plaines inondables du Seeland sont asséchées et les berges",
+   "Culture et patrimoine": "Situé à l'extrémité orientale de la commune de Neuchâtel, à environ 1 km à l’ouest du site contemporain d’Hauterive-Champréveyres sur lequel a été érigé le Laténium, le site magdalénien de Monruz a fait l'objet d'une fouille de sauvetage entre 1989 et 1992, soit pendant les opérations archéologiques liées à la construction de l’autoroute A5. Le site est découvert fortuitement en octobre 1989 alors que des travaux de creusement relativement profonds sont réalisés. Aucun sondage n’avait en effet été réalisé avant le commencement des travaux, du fait de l’urbanisation relativement intense de la zone. Le Service cantonal d’archéologie, suspectant la présence de restes archéologiques néolithiques, surveillait toutefois régulièrement la zone, ce qui a occasionné la mise en évidence la présence d’un niveau magdalénien partiellement entamé par les terrassements, à 5 m de profondeur sous le niveau actuel. Deux volumes archéologiques de 66 m2 et 18 m2 ont été isolés et prélevés en bloc, afin d'être fouillés à l'abri de manière fine et exhaustive, tout en permettant la poursuite des travaux de construction de l'autoroute. Étendu sur près de 400 m2, le site de Monruz présente des vestiges dans un état de conservation exceptionnel, ce qui le place parmi les sites en plein air du Paléolithique supérieur européen les plus exceptionnels. En effet, on ne compte pas moins de 40 foyers, autour de"
+  },
+  "voisins": [
+   {
+    "nom": "Cressier",
+    "slug": "arboriste-cressier"
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena"
+   },
+   {
+    "nom": "Milvignes",
+    "slug": "arboriste-milvignes"
+   },
+   {
+    "nom": "Rochefort",
+    "slug": "arboriste-rochefort"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ],
+  "commune": "arboriste-neuchatel",
+  "slug_ville": "neuchatel",
+  "pages": [
+   "elagage-neuchatel",
+   "abattage-arbre-neuchatel"
+  ]
+ },
+ {
+  "slug": "arboriste-la-chaux-de-fonds",
+  "nom": "La Chaux-de-Fonds",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 37858,
+  "tier": 1,
+  "npa": "2300",
+  "altitude": "1 039 mMin. 605 mMax. 1 321 m",
+  "superficie": "55,66 km2",
+  "densite": "680 hab./km2",
+  "gentile": "Chaux-de-Fonnier",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "37 858 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 40,
+  "wikipedia": "https://fr.wikipedia.org/wiki/La_Chaux-de-Fonds",
+  "intro": "La Chaux-de-Fonds (/la.ʃo.d(e).fɔ̃/) est une ville suisse du canton de Neuchâtel, située à environ 70 km au nord-ouest de Berne dans le massif du Jura, dont la commune est limitrophe de la France. La Chaux-de-Fonds est inscrite depuis juin 2009 avec sa voisine Le Locle sur la liste du patrimoine mondial de l'Unesco pour son « urbanisme horloger ». Cette notion reflète la manière dont les besoins particuliers d'une activité mono-industrielle, l'horlogerie, ont marqué l'urbanisation de la ville, entremêlant habitat et ateliers. Avec 37 858 habitants recensés à la fin de l'année 2025, c'est la deuxième plus grande commune du canton de Neuchâtel, derrière la ville de Neuchâtel (45 466 habitants en décembre 2025). La commune a été fondée en 1656 et doit son essor et sa renommée à l'horlogerie et à la microtechnique. Entièrement détruite par un incendie en 1794, la ville a été reconstruite selon un plan en damier qui est aujourd'hui encore une originalité au sein des villes suisses. L'urbanisme particulier et l'activité principalement industrielle ont fait dire à Karl Marx que la cité était une « ville-manufacture ». L'architecte Le Corbusier, le navigateur Laurent Bourgnon, l'écrivain Blaise Cendrars et le constructeur d'automobiles Louis Chevrolet y sont nés. Elle est un centre reconnu de l'Art nouveau ayant donné naissance à une forme de cet art connue sous le nom de Style sapin. À ce titre, elle est membre du Réseau Art Nouveau Network.",
+  "sections": {
+   "Toponymie": "La signification et l'origine du nom de la ville ne font pas l'unanimité. Le mot « Chaux » vient de la racine pré-indo-européenne calmis dont le sens est « plateau aride, maigre pâturage ». Le mot « fonds » semble inspiré du mot latin fons, fontem signifiant « source, fontaine ». L'explication la plus probable établit un rapport avec Fontaines (Val de Ruz). À l'origine, « La Chaux de Fonds » aurait donc été un pâturage d'été utilisé par les habitants de Fontaines. Vers 1350, le lieu-dit s'appelle la Chaz de Fonz (Chaz qui désigne en patois vaudois les pâturages où le calcaire jurassique affleure et qui sont impropres à la culture, puis vers 1378 Chault de Font. Vers 1420 Chauz de fonds et vers 1438 Chaud de Fond. On trouve également l'orthographe La Chaux de Fons (sans tiret et sans la lettre d). La commune est familièrement désignée sous le nom de La Tchaux.",
+   "Histoire": "À l'époque épipaléolithique (10300 - 9000 av. J.-C.), quelques vestiges attestent de la présence de l'homme de Cro-Magnon dans la région, par exemple à la grotte du Bichon dans les côtes du Doubs où un crâne humain et d'autres fragments furent découverts en 1956. Il existe un chemin de chaille nommé « chemin des Romains », dont la toponymie reste obscure et autour duquel aucune fouille archéologique n'a été entreprise, puisque l'histoire officielle débute bien plus tard que l'époque romaine. Les premiers colons arrivent probablement au XIe siècle ou XIIe siècle dans les Montagnes neuchâteloises et sont principalement originaires du Val-de-Ruz, région qui appartient alors à la seigneurie de Valangin. À cette époque, les montagnes sont recouvertes de ce qu'on appelle les Noires Joux (la forêt) et les fonds de vallée sont marécageux. Il faut donc d'abord défricher les terres avant de pouvoir les exploiter. Pendant longtemps, les montagnes de Valangin ne sont utilisées que pour l'estivage du bétail. Les colons arrivent d'abord dans les vallées de La Sagne et du Locle, car le premier chemin ne passe pas sur le sol chaux-de-fonnier. Malgré le climat rude et le sol peu productif, des colons finissent par s'installer définitivement dès le milieu du XIVe siècle dans les montagnes et sont affranchis de certaines obligations par le seigneur de Valangin, ceci certainement afin de favoriser"
+  },
+  "voisins": [
+   {
+    "nom": "Bonnétage",
+    "slug": null
+   },
+   {
+    "nom": "Fournet-Blancheroche",
+    "slug": null
+   },
+   {
+    "nom": "Grand'Combe-des-Bois",
+    "slug": null
+   },
+   {
+    "nom": "La Ferrière",
+    "slug": "arboriste-la-ferriere"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle"
+   },
+   {
+    "nom": "Les Bois",
+    "slug": "arboriste-les-bois"
+   },
+   {
+    "nom": "Les Planchettes",
+    "slug": "arboriste-les-planchettes"
+   },
+   {
+    "nom": "Renan",
+    "slug": "arboriste-renan"
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz"
+   }
+  ],
+  "commune": "arboriste-la-chaux-de-fonds",
+  "slug_ville": "la-chaux-de-fonds",
+  "pages": [
+   "elagage-la-chaux-de-fonds",
+   "abattage-arbre-la-chaux-de-fonds"
+  ]
+ },
+ {
+  "slug": "arboriste-le-locle",
+  "nom": "Le Locle",
+  "canton": "NE",
+  "canton_nom": "Neuchâtel",
+  "district": "Montagnes",
+  "population": 10912,
+  "tier": 1,
+  "npa": "2400 Le Locle, Le Prévoux2416 Les Brenets",
+  "altitude": "1 047 mMin. 907 mMax. 1 312 m",
+  "superficie": "34,66 km2",
+  "densite": "315 hab./km2",
+  "gentile": "Loclois",
+  "langue": "Français",
+  "localites": "Le Locle, Les Brenets, Le Prévoux",
+  "population_detail": null,
+  "distance_courgenay_km": 50,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Le_Locle",
+  "intro": "Le Locle (/lə lɔkl/) est une ville et une commune suisse du canton de Neuchâtel, située dans la région des Montagnes Neuchâteloises. Surnommée la « Mère commune des Montagnes », Le Locle comprend environ 10 400 habitants, 8 000 emplois et 900 ans d'histoire. Les domaines de l'horlogerie (Tissot, Zenith, Ulysse Nardin, Montblanc, Rolex, Zodiac, etc.), de la micro-technique et du médical constituent les principaux secteurs de développement économique. En 1848, dans la continuité des événements parisiens, Le Locle — dont le territoire est alors rattaché à la Prusse — devient le berceau de la Révolution neuchâteloise. Le 29 février 1848, les révolutionnaires neutralisent les autorités et le service d'ordre prussiens. Cet acte entraîne la proclamation immédiate de la République. La révolution se répand sur l'ensemble du territoire, depuis les Montagnes et le Val-de-Travers sur le Littoral. Le 1er mars, la République est officiellement proclamée sur l'ensemble du territoire. Comprise dans une agglomération de 50 000 habitants, entourée de forêt, la Ville du Locle, avec sa voisine La Chaux-de-Fonds, est inscrite, depuis 2009, au patrimoine mondial de l'UNESCO pour son « urbanisme horloger ».",
+  "sections": {
+   "Histoire": "Le Locle est mentionné pour la première fois en 1332 comme « dou Locle ». Les premières traces d'établissements humains remontent à la fin du Mésolithique (6000-5000 av. J.-C.) dans les abris du col des Roches. Le site comprend la plus ancienne poterie du canton de Neuchâtel, ainsi que de nombreux outils, la molaire d'un mammouth et des os de cerfs et de sangliers. Le refuge a été découvert en 1926 par un douanier et fut le premier site de ce type étudié en Suisse. Cependant, entre 4000 av. J.-C. et le Moyen Âge, on ne sait rien de la région du Locle. En 1150, Renaud et William de Valangin concédèrent à l'abbaye de Fontaine-André la vallée dans laquelle Le Locle allait être construit par la suite. En 1360, Jean II d'Aarberg, seigneur de Valangin, reçoit Le Locle en fief du comte Louis de Neuchâtel. La partie fortement boisée des montagnes du Jura autour du Locle, a été défrichée par des colons qui ont par la suite reçu le statut de paysans libres. Ces premiers agriculteurs libres ont reçu une charte en 1372 qui codifiait leurs droits et libertés. Au début du XVe siècle, cette charte a été reconfirmée lors de la fondation de la Mairie. Les habitants du Locle ont le droit de posséder les terres qu'ils ont défrichées, à condition qu'ils continuent à les cultiver et à payer des impôts sur celles-ci. Les seigneurs féodaux leur accordèrent ces libertés pour encourager l'installation ",
+   "Culture et patrimoine": "Le Locle, tout comme La Chaux-de-Fonds, doit sa survie à la fabrication et à l'exportation de montres. L'industrie horlogère a été apportée au Locle au XVIIe siècle par Daniel Jeanrichard, un horloger autodidacte qui a encouragé les paysans de la région à se lancer dans la fabrication de composants horlogers pour lui pendant les longs hivers. Au XXe siècle, l'industrie micromécanique s'est ajoutée. Les villes horlogères du Locle et de La Chaux-de-Fonds ont été reconnues conjointement au patrimoine mondial par l'Unesco en 2008 pour « la valeur universelle exceptionnelle de leur urbanisme horloger ». C'est le dixième site suisse inscrit au patrimoine mondial de l'humanité, avec d'autres sites tels que la vieille ville de Berne, le Chemin de fer rhétique et l'abbaye et le couvent de Saint-Gall. Le Temple maçonnique Les Vrais Frères Unis, fondée en 1774, abrite la plus ancienne loge du canton de Neuchâtel. Construit en 1829-1830, l'immeuble de la rue des Envers 37 ne se distingue en rien de l'architecture jurassienne courante du 19e siècle; il abrite en effet commerces et logements aux étages inférieurs et laisse difficilement transparaître la présence des locaux de réunion d'une loge maçonnique à l'étage supérieur. Installé depuis 1830, les Vrais Frères Unis sont propriétaires des lieux depuis 1832. Au fil des années, le bâtiment a connu plusieurs phases d'agrandissement: extensio"
+  },
+  "voisins": [
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds"
+   },
+   {
+    "nom": "La Chaux-du-Milieu",
+    "slug": "arboriste-la-chaux-du-milieu"
+   },
+   {
+    "nom": "La Sagne",
+    "slug": "arboriste-la-sagne"
+   },
+   {
+    "nom": "Le Cerneux-Péquignot",
+    "slug": "arboriste-le-cerneux-pequignot"
+   },
+   {
+    "nom": "Les Planchettes",
+    "slug": "arboriste-les-planchettes"
+   },
+   {
+    "nom": "Les Ponts-de-Martel",
+    "slug": "arboriste-les-ponts-de-martel"
+   },
+   {
+    "nom": "Villers-le-Lac",
+    "slug": null
+   }
+  ],
+  "commune": "arboriste-le-locle",
+  "slug_ville": "le-locle",
+  "pages": [
+   "elagage-le-locle",
+   "abattage-arbre-le-locle"
+  ]
+ },
+ {
+  "slug": "arboriste-bienne",
+  "nom": "Bienne",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 57462,
+  "tier": 1,
+  "npa": "2500—2505, 2510",
+  "altitude": "434 m",
+  "superficie": "21,23 km2",
+  "densite": "2 707 hab./km2",
+  "gentile": "Biennois",
+  "langue": "Allemand (55,2 %), français (44,8 %)",
+  "localites": "Boujean, Mâche, Madretsch, Vigneules",
+  "population_detail": "57 462 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bienne",
+  "intro": "Bienne (en allemand : Biel ; officiellement : Biel/Bienne) est une ville et une commune de Suisse du canton de Berne. Elle est le chef-lieu de l'arrondissement du même nom. Bienne se trouve au pied du flanc sud de la chaîne du Jura et partage avec la ville de Nidau la baie en aval du lac auquel elle a donné son nom, le lac de Bienne à la frontière culturelle et linguistique entre la Suisse alémanique et romande. Elle est par le nombre d'habitants la dixième ville de Suisse. Bienne est une ville officiellement bilingue tout comme le canton de Berne. Selon le contrôle des habitants (2025), 44,8 % de la population est annoncée en langue française et 55,2 % en langue allemande. Les langues mentionnées comme langues principales des résidents permanents âgés de 15 ans ou plus dans le relevé structurel 2019 sur la base d'un échantillonnage statistique sont le français pour 41,4 %, l'allemand pour 51,1 % et d'autres langues 40 % (jusqu'à trois langues principales sont considérées). Le secteur des industries de haute technologie (« high-tech ») y est très important. Historiquement l'horlogerie et ses sous-traitants ont joué un rôle prépondérant dans le développement de la ville. Aujourd'hui, Swatch Group a notamment son siège à Bienne et la Manufactures des Montres Rolex y abrite ses bâtiments de production. Bienne est une des villes ayant accueilli l'exposition nationale suisse de 2002 avec Neuchâtel, Yverdon-les-Bains et Morat.",
+  "sections": {
+   "Toponymie": "Le nom Biel/Bienne dérive du nom du dieu des sources gallo-romain Belenos et désignait peut-être la source romaine située au bord de la vieille ville. Sa plus ancienne occurrence écrite date de 1142, sous la forme de Bielnam (Bielno en 1148 ; Bielne vers 1184) ; Biello en 1234 ; Bienna (1258) ; Biel en 1260),. La commune est surnommée la Ville de l'Avenir.",
+   "Histoire": "Cet article ne cite pas suffisamment ses sources (mars 2009). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». C’est grâce à l’archéologie que nous connaissons l’existence d’une agglomération sur le territoire de Bienne à l’époque romaine. Ainsi, en 1846, on retrouve dans la source communément appelée « Source des Romains », des pièces de monnaie qui ont eu cours entre le Ier siècle av. J.-C. et le IVe siècle apr. J.-C. En 1234, la mention de burgum de Biello apparaît dans un acte officiel. C’est depuis le XIIIe siècle et surtout depuis 1275, lorsqu’elle eut reçu de Rodolphe Ier de Habsbourg sa charte de franchises, que Bienne fut considérée comme une cité à part entière. Liée à d’autres villes (Soleure, Berne, Fribourg et Morat) par différents traités d’alliances, elle développa les structures de sa propre administration municipale et son indépendance, aussi bien à l’égard de son suzerain, le prince-évêque de Bâle, que de la protection bernoise. En 1296, Bienne obtient sa première charte de pacification des mains du prince-évêque Peter Reich von Reichstein. En 1367, à la suite d'un conflit entre les habitants et la garnison épiscopale de Jean III de Vienne, un in",
+   "Culture et patrimoine": "Les acteurs culturels biennois sont fédérés au sein du fOrum culture. Bienne propose de nombreux théâtres : le Théâtre Municipal de la Ville de Bienne, haut lieu du théâtre et de l'opéra lyrique ; les Spectacles Français, communément appelé « Le Théâtre Palace », le grand théâtre de la ville de Bienne de langue française ; le Théâtre du Carré Noir ; le Théâtre pour les petits, une salle de théâtre avec une programmation conçue pour les enfants ; l'Espace Culturel Rennweg 26, institution culturelle qui propose des spectacles de théâtre, danse et musique. La ville abrite une troupe de théâtre francophone, « La Théâtrale de Bienne ». Le Filmpodium Bienne projette des films peu visibles dans les circuits commerciaux. Dans les arts visuels, Bienne comprend la Société des Beaux-Arts et Visarte, Société des artistes visuels, et un espace réservé à la photographie : « Photoforum Pasquart ». Pour la musique, Bienne entretient l'Orchestre Symphonique Bienne / Soleure, orchestre symphonique et Coupole, salle de concert autogérée par le Centre Autonome de Jeunesse de Bienne. La culture Hip Hop est vivante dans la ville, ainsi que Graffitis, Rap, B-Boying, Jazzy Rockers crew depuis 1983. La Coupole est le centre de cet art urbain. Une Bibliothèque de la Ville de Bienne est ouverte à tous. Enfin, l'« Odéon », café Art Deco, est, depuis 1930, lieu de rencontre de tous les Biennois. Le Centre "
+  },
+  "voisins": [
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg"
+   },
+   {
+    "nom": "Douanne-Daucher",
+    "slug": "arboriste-douanne-daucher"
+   },
+   {
+    "nom": "Evilard",
+    "slug": "arboriste-evilard"
+   },
+   {
+    "nom": "Nidau",
+    "slug": "arboriste-nidau"
+   },
+   {
+    "nom": "Orpond",
+    "slug": "arboriste-orpond"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   },
+   {
+    "nom": "Safnern",
+    "slug": "arboriste-safnern"
+   },
+   {
+    "nom": "Sauge",
+    "slug": "arboriste-sauge"
+   }
+  ],
+  "commune": "arboriste-bienne",
+  "slug_ville": "bienne",
+  "pages": [
+   "elagage-bienne",
+   "abattage-arbre-bienne"
+  ]
+ },
+ {
+  "slug": "arboriste-fribourg",
+  "nom": "Fribourg",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Sarine",
+  "population": 39599,
+  "tier": 2,
+  "npa": "1700",
+  "altitude": "600 mMin. 541 mMax. 691 m",
+  "superficie": "9,3 km2",
+  "densite": "4 258 hab./km2",
+  "gentile": "Fribourgeois, Fribourgeoise",
+  "langue": "Français, allemand",
+  "localites": null,
+  "population_detail": "39 599 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Fribourg_(ville_suisse)",
+  "intro": "Fribourg (en allemand : Freiburg) est une ville et une commune suisse du canton de Fribourg, sur la Sarine. Elle est la capitale de ce canton et le chef-lieu du district de la Sarine. La ville se situe de chaque côté de la Sarine sur le Plateau suisse, à la frontière culturelle entre la Suisse alémanique et romande. Officiellement francophone mais bilingue de fait avec plus de 85 % de francophones et un peu moins de 15 % de germanophones fin 2023, Fribourg est un important centre économique, administratif et éducatif, qui abrite une université. L'Agglomération de Fribourg est organisée autour d'elle depuis 2008. Elle se place sous le patronage de saint Nicolas, de sainte Barbe et de sainte Catherine.",
+  "sections": {
+   "Toponymie": "Le nom de Fribourg provient directement de l'allemand *frei- (libre) et -burg (ville), littéralement ville libre, c'est-à-dire disposant de libertés, de franchises. En allemand, la ville s'appelle aussi Freiburg im Üchtland (Fribourg en Nuithonie) pour la distinguer des autres villes nommées Fribourg (Fribourg-en-Brisgau principalement, d'autres également). La Nuithonie est une ancienne région qui abritait autrefois le peuple germanique des Nuithons, à cheval sur les cantons de Fribourg (au Nord d'Arconciel), Berne et Soleure, en incluant les villes éponymes. La ville est également nommée Friboua Fribouaⓘ en patois fribourgeois. Elle se nomme Fryburg en suisse allemand.",
+   "Histoire": "Fribourg a été fondée sur une terrasse surplombant la Sarine en 1157 par le duc Berthold IV de Zähringen. Durant le bas Moyen Âge, la ville passe sous l'autorité successive des Zaehringen jusqu'en 1218, des Kibourg jusqu'en 1277, des Habsbourg jusqu'en 1452 avant de passer à la Savoie. Le duc Berthold IV, voyage dans la région, sans doute pour mettre de l’ordre dans ses possessions et tenant compte d’un « ensemble de considérations politiques, militaires, géographiques et économiques », Berthold IV choisit une terrasse surplombant la Sarine, afin d’y établir une ville « nouvelle » qu’il fortifie : Fribourg (de l’allemand frei « libre » et Burg « lieu fortifié », nom provenant des libertés octroyées par le fondateur et à rapprocher de celui de Fribourg-en-Brisgau). À la mort du duc Berthold, la ville revient à son fils Berthold V (celui qui fondera la ville de Berne en 1191). La ville de Berne, à la différence de Fribourg, n'eut pas d'autres seigneurs après la mort de Berthold V, et devint une ville impériale, obtenant l'immédiateté impériale. Fribourg échut aux Kybourg, mais le lien historique avec Berne la constitue en une entité à la fois « sœur et rivale » selon Kathrin Utz Tremp. Le 26 novembre 1277, Anne de Kibourg vend la ville aux fils de Rodolphe de Habsbourg. Sous la domination des Habsbourg, ces derniers cherchant à consolider le pouvoir de l'Autriche bien que ne joui",
+   "Culture et patrimoine": "Ville bilingue, Fribourg dispose d'une riche palette culturelle, musicale, muséale et gastronomique. Fribourg a conservé un ensemble médiéval unique en Europe de près de deux cents bâtiments. Les plus anciens vestiges se trouvent à la rue d'Or dans le quartier de l'Auge et au Court-Chemin dans le quartier de la Neuveville. Cependant ce sont les fortifications, édifiées entre le XIIe et le XVe siècle, qui forment le plus important ensemble de l'architecture militaire médiévale en Suisse. Onze tours, un boulevard (le belluard) et environ 900 mètres de murailles nous sont en effet parvenus. Ces tours ont été construites en molasse qui était extraite directement aux abords de la ville. Le belluard est utilisé dès le XXe siècle pour des manifestations culturelles. Fribourg dispose d'un magnifique hôtel de ville de style gothique tardif. Il a été construit à la place de l'ancienne forteresse des Zähringen. Originellement destiné à être un grenier, il fut haussé en 1504 d'un étage destiné à abriter les salles du Conseil. La tour a été ajoutée, construite entre 1641 et 1643 dans un style baroque. Elle est dotée d'une horloge et d'un jacquemart. Les escaliers monumentaux datent de 1663. L'intérieur est réaménagé en 1775 et abrite dès lors le Grand Conseil (le parlement cantonal) et le Tribunal cantonal. La salle du Grand Conseil est décorée d'une peinture de Gottfried Locher représentan"
+  },
+  "voisins": [],
+  "commune": "arboriste-fribourg",
+  "slug_ville": "fribourg",
+  "pages": [
+   "elagage-fribourg",
+   "abattage-arbre-fribourg"
+  ]
+ },
+ {
+  "slug": "arboriste-bulle",
+  "nom": "Bulle",
+  "canton": "FR",
+  "canton_nom": "Fribourg",
+  "district": "Gruyère",
+  "population": 27276,
+  "tier": 2,
+  "npa": "1630 Bulle  1635 La Tour-de-Trême",
+  "altitude": "892 mMin. 730 mMax. 1'170 m",
+  "superficie": "23,87 km2",
+  "densite": "1 143 hab./km2",
+  "gentile": "Bullois, Bulloise",
+  "langue": "Français",
+  "localites": null,
+  "population_detail": "27 276 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 90,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bulle_(Fribourg)",
+  "intro": "Bulle (prononcé : /byl/ ; en fribourgeois : Bulo Écoutezⓘ) est une localité et une commune suisse du canton de Fribourg, chef-lieu du district de la Gruyère. Elle est la deuxième ville la plus peuplée du canton après Fribourg. L'agglomération de Bulle est constituée en 2007. À l'origine, elle comprend les communes de Bulle, Morlon, Le Pâquier, Riaz, et Vuadens. Elle s'agrandit en 2024 pour intégrer les communes de Broc, Echarlens, Gruyères et Marsens, totalisant environ 40 000 habitants. En 2004, Bulle est classée au 1er rang des villes romandes où il fait bon vivre selon une étude de l'IDHEAP et L'Hebdo. En 2021, elle arrive également en 1re place pour le dynamisme économique d'après le magazine Bilan.",
+  "sections": {
+   "Histoire": "On trouve quelques traces d'implantation humaine datant de la période de Hallstatt, cependant la préhistoire de la ville est mal connue. Bulle aurait été fondée avant le IXe siècle, dans l'actuel district de la Gruyère. Mais la ville, dépendant des princes évêques de Lausanne, ne faisait pas partie du Comté de Gruyère. Le premier écrit parlant de l'existence de Bulle, date de l'an 855 ; Bulle apparaît alors sous le nom de Butulum. Entre 1231 et 1239, la ville est dotée de remparts enfermant les deux rues originelles (Grand-Rue et Rue de Bouleyres) et le château est édifié quelques décennies plus tard. La ville est alors déjà une ville de marché. En 1536, la ville de Bulle passe aux mains de la ville de Fribourg qui crée le bailliage de Bulle avec les autres possessions de l'évêque de Lausanne dans la région, soit Riaz, La Roche et Albeuve. En 1781, lors du soulèvement Chenaux parti de Bulle, Pierre-Nicolas Chenaux (1740–1781) marche en mai avec ses partisans sur Fribourg pour faire valoir des revendications sociales et économiques. Le 29 avril 1781, Pierre-Nicolas Chenaux dirige ses partisans réunis à Bulle à l’Auberge de l’Épée couronnée (aujourd’hui l’Hôtel du Cheval Blanc) et planifie un soulèvement et prévoit de prendre Fribourg. Durant toute la période de l'Ancien Régime, la ville reste confinée dans ses remparts, à l'exception du faubourg de la porte d'En-Haut (actuelle P",
+   "Culture et patrimoine": "Le centre ancien possède quelques bâtiments intéressants qui ont survécu au grand incendie de 1805 : L'église Saint-Pierre-aux-Liens, reconstruite après l’incendie de la ville en 1812-1816, composée de vitraux d'Alexandre ; La chapelle de Notre-Dame-de-Compassion ; ; Le café des Halles (ancienne halle couverte) ; ; Le Château, de style savoyard, construit dans la deuxième moitié du XIIIe siècle, siège de la préfecture. ; Ébullition, centre culturel ayant investi l'ancien cinéma Lux, propose des événements principalement musicaux ; ; Le Musée gruérien met en valeur le patrimoine de la région : poyas (peintures de la montée à l'alpage), cloches et sonna ; Les Francomanias, en mai lors des 14 premières éditions, puis au début de septembre dès la 15e : festival suisse consacr ; La Corrida bulloise en novembre : course à pied populaire. ; Le Critérium de Bulle en juillet : course cycliste autour de la place du marché et de l'église. ; Le Salon suisse des goûts et terroirs, chaque automne : salon suisse mettant à l'honneur les produits du terroir, la gas ; Le marché folklorique accueille 270 exposants chaque jeudi matin durant l'été. ; Jean-Marc Berset (1960-), sportif en fauteuil roulant de niveau olympique."
+  },
+  "voisins": [],
+  "commune": "arboriste-bulle",
+  "slug_ville": "bulle",
+  "pages": [
+   "elagage-bulle",
+   "abattage-arbre-bulle"
+  ]
+ },
+ {
+  "slug": "arboriste-yverdon-les-bains",
+  "nom": "Yverdon-les-Bains",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Jura-Nord vaudois",
+  "population": 30590,
+  "tier": 2,
+  "npa": "1400 Yverdon-les-Bains1401 Yverdon-les-Bains1432 Gressy",
+  "altitude": "433 m",
+  "superficie": "11,28 km2",
+  "densite": "2 712 hab./km2",
+  "gentile": "Yverdonnois, Yverdonnoise",
+  "langue": "Français",
+  "localites": "Gressy, Sermuz",
+  "population_detail": "30 590 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 80,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Yverdon-les-Bains",
+  "intro": "Yverdon-les-Bains est une ville et une commune suisse du canton de Vaud, située dans le district du Jura-Nord vaudois, dont elle est le chef-lieu.",
+  "sections": {
+   "Toponymie": "L'étymologie d’« Yverdon » (/i.vɛʁ.dɔ̃/ Écoutezⓘ) est peu claire. En l'état actuel de la recherche, il semble impossible de déterminer de manière certaine si le nom a été formé avec le nom d'une personne ou avec le nom commun homonyme. En effet, ce toponyme, attesté sous la forme latinisée « Eburodunum » provient du celtique « eburo », c'est-à-dire « Eburos » (nom de personne celtique) ou du nom commun « ibar », if, suivi de l'élément « dūno- », fort, forteresse, oppidum. Parmi les plus anciennes mentions, on trouve vers l'an 300 « Eburoduno », vers 325, « castrum Ebredunense », en 971 « in pago Everdunense », en 1177 « in valle de Euerdun », en 1324, « Stephanus de Yverdun ». Par la suite, on trouve régulièrement « Yverdon » (en francoprovençal « Invèrdon »), mais sous l'Ancien Régime, l'administration bernoise utilise aussi la forme allemande « Ifferten ». Lancée en 1977 par le syndic Pierre Duvoisin, l'évolution du nom en Yverdon-les-Bains n'a été validée par le canton que le 27 novembre 1981. Elle accompagne la rénovation des bains thermaux et rappelle que la ville est depuis longtemps un centre thermal de réputation. Cette appellation avait d'ailleurs déjà été utilisée au XVIIIe siècle pour la promotion touristique. Toutefois, les CFF et les PTT attendront l'an 2000 et de nombreuses relances de la commune avant de modifier le nom de la ville, notamment sur les panneaux de ",
+   "Histoire": "Yverdon-les-Bains compte parmi les plus anciennes villes de Suisse. Elle possède un riche patrimoine témoignant d’un passé de plus de 6 000 ans. Les origines de la ville remontent à l’âge du Néolithique et peuvent être situées aux alentours de 4000 avant notre ère. Au cours du IIe siècle av. J.-C., les Helvètes s’installent sur le Plateau suisse et la région d’Yverdon-les-Bains fait dès lors partie de leur territoire. Sous domination romaine dès la fin du Ier siècle av. J.-C., Eburodunum connaît un développement et un essor dus essentiellement à sa situation géographique aux abords d’un carrefour routier et fluvial d’importance européenne. Les Burgondes s’y installent au Ve siècle et l’occupation du site se poursuit sans discontinuité. Au cours du XIIIe siècle se développe un nouveau noyau urbain entre le lac et la cité gallo-romaine. Le futur comte Pierre II de Savoie décide d’y construire un château et une ville neuve. Après plus de trois siècles de régime savoyard, la cité est conquise en 1536 par les troupes bernoises. Haut lieu de l’imprimerie et de l’édition, Yverdon-les-Bains resplendit au XVIIIe siècle d’un faste que reflète l’architecture de ses édifices publics et de ses plus riches demeures. Sa source thermale suscite de nouvelles constructions, attire une clientèle cosmopolite et participe au rayonnement de la cité qui devient vaudoise après la révolution de 1798. L",
+   "Culture et patrimoine": "La construction du château d'Yverdon date du XIIIe siècle. Il a été bâti en 1757 d'après des plans de l'architecte Jean-Michel Billon, de Genève, à la place de l'ancienne chapelle Notre-Dame dont il a gardé le clocher qui avait été reconstruit en 1608 d'après un original du XIVe siècle. Les quatorze stalles proviennent de l'ancienne chapelle, tandis que les orgues ont été construites en 1766. Il a été classé monument historique en 1900. Il a été construit entre 1768 et 1773 sur le modèle de l'Hôtel de musique de la ville de Berne. Il a été classé monument historique en 1959. Actuellement Maison d'Ailleurs, musée de la science-fiction, elle a été bâtie selon les plans de l'architecte lausannois Alexandre Perregaux (1805). Elle a été classée monument historique en 1954. Ces quatre bâtiments bordent la place Pestalozzi, qui constitue le centre de la ville d'Yverdon-les-Bains. Bâtie en 1838, de type basilical, néoclassique, elle est l’œuvre de l’architecte lausannois Henri Perregaux. Elle a été classée monument historique en 1993. Yverdon-les-Bains, ville (qualités de situation, spatiales, historico-architecturales) Les sites préhistoriques palafittiques autour des Alpes fond partie du Patrimoine mondial de l'UNESCO : baie de Clendy. La Ville d'Yverdon-les-Bains a reçu en 2009 le Prix Wakker de Patrimoine suisse pour « la manière dont elle gère son espace public, la collaboration e"
+  },
+  "voisins": [
+   {
+    "nom": "Montagny-près-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Cheseaux-Noréaz",
+    "slug": null
+   },
+   {
+    "nom": "Cuarny",
+    "slug": null
+   },
+   {
+    "nom": "Pomy",
+    "slug": null
+   },
+   {
+    "nom": "Belmont-sur-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Épendes",
+    "slug": null
+   },
+   {
+    "nom": "Treycovagnes",
+    "slug": null
+   },
+   {
+    "nom": "Essertines-sur-Yverdon",
+    "slug": null
+   },
+   {
+    "nom": "Valeyres-sous-Ursins",
+    "slug": null
+   }
+  ],
+  "commune": "arboriste-yverdon-les-bains",
+  "slug_ville": "yverdon-les-bains",
+  "pages": [
+   "elagage-yverdon-les-bains",
+   "abattage-arbre-yverdon-les-bains"
+  ]
+ },
+ {
+  "slug": "arboriste-lausanne",
+  "nom": "Lausanne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Lausanne",
+  "population": 145596,
+  "tier": 2,
+  "npa": "1000—1007  1010—1012  1014—1015  1017—1018",
+  "altitude": "495 mMin. 372 mMax. 935 m",
+  "superficie": "41,38 km2",
+  "densite": "3 519 hab./km2",
+  "gentile": "Lausannois, Lausannoise",
+  "langue": "Français",
+  "localites": "Quartiers de Lausanne",
+  "population_detail": "145 596 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Lausanne",
+  "intro": "Pour le bateau à vapeur du même nom, voir Lausanne (bateau à vapeur). Lausanne (/lɔ.zan/) est une ville suisse située sur la rive nord du Léman. Capitale du canton de Vaud, elle est également capitale olympique et chef-lieu du district de Lausanne. Elle est la quatrième ville du pays en nombre d'habitants après Zurich, Genève et Bâle. La commune de Lausanne compte 145 596 habitants au 31 décembre 2025, et l'agglomération lausannoise compte 438 438 habitants au 31 décembre 2021. En 2012, elle concentre 50 % de la population et 60 % des emplois du canton de Vaud. La ville de Lausanne dispose dans le district de l'Ouest lausannois d'un campus regroupant l'Université de Lausanne (UNIL) et l'École polytechnique fédérale de Lausanne (EPFL), qui compte quelque 26 000 étudiants,. L'agglomération héberge également des hautes écoles comme l'École hôtelière de Lausanne (EHL), l'École cantonale d'art de Lausanne (ECAL) et l'International Institute for Management Development (IMD). Lausanne se distingue par le grand nombre d'institutions internationales liées au sport qu'elle accueille. Dans la ville se trouve depuis 1915 le siège du Comité international olympique (CIO), et d'une cinquantaine de fédérations et organisations sportives internationales et nationales dont la Fédération internationale de gymnastique (FIG) ainsi que le Tribunal arbitral du sport (TAS), le bureau européen de l'Agence mondiale antidopage (AMA) et la Maison du sport international (MSI). La ville porte le titre officiel de « Capitale olympique » depuis 1993 et a organisé les Jeux olympiques d'hiver de la jeunesse en 2020. Le Tribunal fédéral (TF), l'autorité judiciaire suprême de la Confédération suisse, est établi à Lausanne.",
+  "sections": {
+   "Toponymie": "« Lausanne » (/lɔ.zan/) viendrait du celtique « lausa » (signifiant dalle, pierre plate) et du suffixe celtique « -onna », qui servait souvent à former des noms de cours d'eau. « Lausonna » a probablement désigné l'actuel Flon ou une partie de ce cours d'eau avant de s'appliquer au vicus celtique, puis romain de « Lousonna »,. Une autre explication est avancée par Georges Richard Wipf, pour qui le radical Laus- (Lous- vers l'an 100) désignerait le dieu celtique Lug, via une mutation du -g en -s que l'on retrouve dans d'autres toponymes. Associé au suffixe hydronymique celtique -onna ou peut-être au pré-celtique *an- (radical lié à l'eau), Lausanne désignerait donc l'Eau de Lug. Premières mentions : Lousonnensium (100-200) ; Leusoae (vers 200) ; Lacu Lausonio (vers 280) ; Lacus Losanenses (vers 350) ; civitas Lausanna (vers 400) ; in pago Lausonensi (866) ; actum Lausanne castro (890) ; Losanna (990). Le nom de la ville en arpitan (ou francoprovençal) est Lôsena. L'ancien nom allemand est Losannen.",
+   "Histoire": "Selon le Dictionnaire historique de la Suisse, l’actuelle commune de Lausanne est habitée dès 6000 avant J.-C. Un vicus gallo-romain nommé Lousonna est fondé à partir de 15 av. J.-C. au bord du lac, dans le secteur actuel du quartier de Vidy. À la croisée de nombreuses voies de communication, celui-ci s'étend jusqu'au milieu du IIIe siècle, puis il commence à décliner lors des invasions germaniques ; il est finalement abandonné au milieu du IVe siècle au profit de la colline de la Cité, qui peut être défendue grâce à ses escarpements. Lausanne est une des étapes de la via Francigena, chemin de pèlerinage menant à Rome. Elle est mentionnée à ce titre par Sigéric, en 990, avec la mention LIV Losanna (numéro d'étape en partant de Rome). De 1032 à 1536, l'évêque et le chapitre de Lausanne, autour de la cathédrale Notre-Dame, dominent un petit État ecclésiastique qui s'étend de la Veveyse à la Venoge, comprenant notamment le vignoble de Lavaux. En 1275, la cathédrale de Lausanne est consacrée à la Vierge Marie par le pape Grégoire X et l'empereur Rodolphe du Saint-Empire. La cathédrale est la première de style gothique à avoir été bâtie hors du territoire français. La ville devient alors un haut lieu de pèlerinage marial, attirant chaque année plus de 70 000 pèlerins, près de dix fois la population communale de l'époque. La cité vaudoise vit alors son apogée démographique et politiq",
+   "Culture et patrimoine": "Lieux catholiques et Vieux-catholiques du XXe siècle Les établissements scolaires publiques du cycle primaire et secondaire de la ville de Lausanne accueillent quelque 13 000 élèves. Les établissements privés en accueillent environ 750. La scolarité est régie par le système du canton de Vaud. L'école obligatoire comprend 11 années d'enseignement pour chaque enfant dès l'âge de 4 ans révolu au 31 juillet. Lausanne est considérée comme l'une des villes les plus vertes d'Europe,. Elle compte de nombreux parcs, dont notamment : Lausanne possède dix piscines, six en plein air et quatre couvertes. Parmi les piscines en plein air, deux grandes sont payantes : Bains de Bellerive au bord du lac Léman, et la piscine à vagues de Montchoisi, qui se transforme en patinoire en hiver, et quatre petites de quartier non payantes : Bellevaux, Boisy, Montétan, Vieux Moulin. Les piscines couvertes sont payantes, mais seule la piscine de Mon-Repos est accessible à tous les publics, et trois petites sont réservées aux sociétés : Les Bergières, Grand-Vennes, Vallée de la Jeunesse. La ville compte 310 fontaines. Elles ont fait l’objet d’un recensement en 2013, et un livre fut dédié à ces points d'eau, intitulé Le Guide des fontaines de Lausanne et environs, paru en 2016. La plus emblématique d'entre elles, étant la fontaine de la justice, située sur la place de la Palud. Lausanne compte 22 musées, don"
+  },
+  "voisins": [
+   {
+    "nom": "Bottens",
+    "slug": null
+   },
+   {
+    "nom": "Froideville",
+    "slug": "arboriste-froideville"
+   },
+   {
+    "nom": "Montpreveyres",
+    "slug": null
+   },
+   {
+    "nom": "Savigny",
+    "slug": "arboriste-savigny"
+   },
+   {
+    "nom": "Pully",
+    "slug": "arboriste-pully"
+   },
+   {
+    "nom": "Saint-Sulpice",
+    "slug": "arboriste-saint-sulpice"
+   },
+   {
+    "nom": "Chavannes-près-Renens",
+    "slug": "arboriste-chavannes-pres-renens"
+   },
+   {
+    "nom": "Renens",
+    "slug": "arboriste-renens"
+   },
+   {
+    "nom": "Prilly",
+    "slug": "arboriste-prilly"
+   },
+   {
+    "nom": "Romanel-sur-Lausanne",
+    "slug": "arboriste-romanel-sur-lausanne"
+   },
+   {
+    "nom": "Le Mont-sur-Lausanne",
+    "slug": "arboriste-le-mont-sur-lausanne"
+   },
+   {
+    "nom": "Épalinges",
+    "slug": "arboriste-epalinges"
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens"
+   },
+   {
+    "nom": "Cugy",
+    "slug": "arboriste-cugy-vd"
+   },
+   {
+    "nom": "Bretigny-sur-Morrens",
+    "slug": null
+   },
+   {
+    "nom": "Cheseaux-sur-Lausanne",
+    "slug": "arboriste-cheseaux-sur-lausanne"
+   },
+   {
+    "nom": "Morrens",
+    "slug": null
+   },
+   {
+    "nom": "Jouxtens-Mézery",
+    "slug": null
+   },
+   {
+    "nom": "Crissier",
+    "slug": "arboriste-crissier"
+   }
+  ],
+  "commune": "arboriste-lausanne",
+  "slug_ville": "lausanne",
+  "pages": [
+   "elagage-lausanne",
+   "abattage-arbre-lausanne"
+  ]
+ },
+ {
+  "slug": "arboriste-vevey",
+  "nom": "Vevey",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 20147,
+  "tier": 2,
+  "npa": "1800",
+  "altitude": "383 m",
+  "superficie": "2,38 km2",
+  "densite": "8 465 hab./km2",
+  "gentile": "Veveysan",
+  "langue": "Français",
+  "localites": "Vevey",
+  "population_detail": "20 147 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 105,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Vevey",
+  "intro": "Pour l’article homonyme, voir Vevey (bateau). Pour l’article ayant un titre homophone, voir Vevay (Indiana). Vevey (/və.vɛ/ Écoutezⓘ) est une ville et une commune suisse du canton de Vaud située sur la rive nord-est du Léman. Sixième commune du canton par sa population, elle est le chef-lieu du district de la Riviera-Pays-d'Enhaut. Au 31 décembre 2025, la commune de Vevey compte 20 147 habitants.",
+  "sections": {
+   "Histoire": "Au XXe siècle av. J.-C., deux stations lacustres sur pilotis sont déjà installées à Vevey, une dans le quartier de Sainte-Claire et une autre au Creux de plan. En 1898, lors du percement du boulevard Saint-Martin, une nécropole d'une trentaine de tombes de l'âge de la Tène est mise au jour au lieu-dit « En Crédeyles ». Aucune autre trace d'habitation de cette période n’a pour l'instant été trouvée sur le territoire de la commune. À l’époque romaine, Auguste commence à faire construire une voie de communication commerciale et militaire depuis l'Italie. Cette voie, qui part de Milan, passe par le col du Grand-Saint-Bernard pour rejoindre le Léman. À Vevey, elle se divise en deux, l'une se dirige vers le nord pour aller à Aventicum, l'autre part vers l'ouest et longe le lac puis le Rhône jusqu'à Lugdunum. Grâce à cette voie de communication, une agglomération, définie comme étant un vicus, voit le jour entre les rivières Veveyse et Oyonne dans le centre-ville actuel sur une surface d'environ 20 ha. La localité porte alors le nom de Ouikos dans la Géographie de Ptolémée. Indiquée comme étape, elle se nomme Vibisco dans l'itinéraire d'Antonin, Vivisco sur la table de Peutinger et Bibiscon dans l'Anonyme de Ravenne. Des ruines romaines datant du début du IIe à l’extrême fin du IVe siècle, notamment un temple et un quartier artisanal, ont été mises au jour dans le quartier de Sainte-C",
+   "Culture et patrimoine": "Plusieurs édifices et monuments veveysans sont reconnus d'importance nationale. D'autres sont reconnus d'importance cantonale. L'ancienne maison d'Herwarth (démolie et remplacée par le Casino du Rivage), faisait partie également du patrimoine remarquable de Vevey. Cette résidence de prestige, avec cour d'honneur, a été bâtie entre les années 1713 et 1728, sans doute par le banquier Aimé Grenier. Celui-ci vend en 1728 cette demeure « nouvellement bâtie » à Jacques-Philippe d'Herwarth, qui y apporte des modifications, comprenant notamment ses armoiries au fronton, ainsi que divers aménagements et décors intérieurs. Collaborent à ces travaux le sculpteur Philippe Chéret artiste originaire de Montpellier et le peintre piémontais Giuseppe Antonio Petrini. Ce dernier y réalise des plafonds peints illustrant une monumentale architecture feinte, décors qui ne sont pas sans rappeler ceux du grand salon d'Hauteville. Jacques-Philippe d'Herwarth acquiert en effet en 1734 la seigneurie de Saint-Légier et y fait reconstruire le prestigieux château d'Hauteville. L'ancienne maison d'Herwarth est transformée en douane cantonale en 1817 par l'architecte lausannois Henri Perregaux, puis est entièrement démolie en 1896. Le marché couvert de Vevey est baptisé Galeries du Rivage dès son achèvement, en 1935. L'inventaire du Recensement architectural du canton de Vaud lui attribue une note 2, corresp"
+  },
+  "voisins": [
+   {
+    "nom": "Corseaux",
+    "slug": "arboriste-corseaux"
+   },
+   {
+    "nom": "Corsier-sur-Vevey",
+    "slug": "arboriste-corsier-sur-vevey"
+   },
+   {
+    "nom": "Blonay-Saint-Légier",
+    "slug": null
+   },
+   {
+    "nom": "La Tour-de-Peilz",
+    "slug": "arboriste-la-tour-de-peilz"
+   }
+  ],
+  "commune": "arboriste-vevey",
+  "slug_ville": "vevey",
+  "pages": [
+   "elagage-vevey",
+   "abattage-arbre-vevey"
+  ]
+ },
+ {
+  "slug": "arboriste-montreux",
+  "nom": "Montreux",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Riviera-Pays-d'Enhaut",
+  "population": 27182,
+  "tier": 2,
+  "npa": "1815 Clarens  1816 Chailly-sur-Montreux  1817 Brent  1818 Montreux  1820 Montreux, Territet  1822 Chernex  1823 Glion  1824 Caux  1832 Villard-sur-Chamby, Chamby  1833 Les Avants",
+  "altitude": "390 m",
+  "superficie": "33,37 km2",
+  "densite": "815 hab./km2",
+  "gentile": "Montreusien",
+  "langue": "Français",
+  "localites": "Baugy, Brent, Caux, Chailly, Chamby, Chaulin, Chêne, Chernex, Clarens, Collonge, Cornaux, Crin, Fontanivent, Glion, Jor, Le Châtelard, Les Avants, Les Planches, Mont-Fleuri, Pallens, Pertit, Planchamp, Sonzier, Tavel, Territet, Vernex, Villard-sur-Chamby, Vuarennes",
+  "population_detail": "27 182 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 110,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Montreux",
+  "intro": "Montreux (/mɔ̃tʁø/ Écoutezⓘ) est une ville et une commune suisse du canton de Vaud, située dans le district de la Riviera-Pays-d'Enhaut. Elle est la troisième ville la plus peuplée du canton de Vaud après Lausanne et Yverdon.",
+  "sections": {
+   "Toponymie": "Le nom de Montreux est issu d'un diminutif du mot latin monasterium (ermitage, couvent) formé à l'aide du suffixe latin -olu (monasteriolu). La plus ancienne mention connue, Monasteriolo au XIe siècle, correspond à cette forme. Elle devient par la suite Mustrul (1215), Muistruo (1228), Mustruel (1250), de Mustreux (1355), ecclesiam parrochialem Monstruaci (1453). Son ancienne dénomination en allemand est Muchteren.",
+   "Histoire": "Dès le début du XXe siècle, la région de Montreux commence à attirer les premiers touristes, anglais principalement, séduits par les atouts du site : Dans les toutes premières années du XXe siècle, les premiers hôtels de Montreux sont construits au bord du lac, sur ce qui n'était alors que des prairies ou des terres agricoles (dont des vignobles). La vocation touristique du site ne cessa ensuite de se développer. Appartenant au district de Vevey depuis 1798, les communes des Planches (formée du village des Planches et des hameaux de Territet, Veraye, Collonge et Glion) et du Châtelard (composée de 17 villages : Crin, Sâles, Chêne, Pallens, Pertit, Chernex, Sonzier, Les Avants, Vernex, La Rouvenaz, Clarens, Tavel, Planchamp, Baugy, Chailly, Brent et Chaulin) prennent respectivement le nom de Montreux-Planches et Montreux-Châtelard de 1953 à 1961 avant de fusionner en 1962 pour devenir la commune de Montreux,. Profitant d’un gros essor touristique et hôtelier, Montreux attire des congrès dès les années 1880. Le premier, le Congrès hygiénique international, fait une excursion à Montreux depuis Genève en 1882. Les près de 500 invités, au rang desquels Louis Pasteur ou Paul Bert, arrivent à Montreux à bord du bateau-salon Mont-Blanc et sont accueillis au Kursaal. Par la suite, des congrès de médecine (1895), de transports (tramways en 1898, chemins de fer en 1910), de géographie (19"
+  },
+  "voisins": [
+   {
+    "nom": "La Tour-de-Peilz",
+    "slug": "arboriste-la-tour-de-peilz"
+   },
+   {
+    "nom": "Blonay-Saint-Légier",
+    "slug": null
+   },
+   {
+    "nom": "Veytaux",
+    "slug": null
+   },
+   {
+    "nom": "Haut-Intyamon",
+    "slug": "arboriste-haut-intyamon"
+   }
+  ],
+  "commune": "arboriste-montreux",
+  "slug_ville": "montreux",
+  "pages": [
+   "elagage-montreux",
+   "abattage-arbre-montreux"
+  ]
+ },
+ {
+  "slug": "arboriste-payerne",
+  "nom": "Payerne",
+  "canton": "VD",
+  "canton_nom": "Vaud",
+  "district": "Broye-Vully",
+  "population": 10938,
+  "tier": 2,
+  "npa": "1530 Payerne  1551 Vers-chez-Perrin",
+  "altitude": "456 m",
+  "superficie": "24,19 km2",
+  "densite": "452 hab./km2",
+  "gentile": "Payernois",
+  "langue": "Français",
+  "localites": "Corges, Etrabloz, Payerne, Vers-chez-Perrin, Vers-chez-Savary",
+  "population_detail": "10 938 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 65,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Payerne",
+  "intro": "Payerne (Peterlingen en allemand) est une commune suisse du canton de Vaud, située dans le district de la Broye-Vully, dont elle est le chef-lieu.",
+  "sections": {
+   "Histoire": "Les premières traces d’occupation de la colline au cœur de la ville de Payerne remontent aux IIe – IIIe siècles. À l'écart de la grande ville d’Aventicum, alors capitale de l’Helvétie romaine, une famille influente fait construire une grande villa, un riche établissement rural. Cette famille des Paterni donnera plus tard son nom à la ville : Paterniacum. Le 24 juin 587, l'évêque Marius d'Avenches fonde une première église à Payerne qui deviendra l'église paroissiale. Selon des découvertes archéologiques réalisées en 2016, une seconde église a été fondée au VIIe siècle à un jet de pierre de l'église paroissiale, sous l’abbatiale actuelle. Il s'agit peut-être du cœur d’une première abbaye. Arrivés à Payerne, les moines de Cluny au Xe siècle construisent sur cet emplacement un nouveau monastère. Celui-ci deviendra l'Abbatiale, de style roman avec un clocher gothique. C'est grâce aux dons de sa mère la reine Berthe de Souabe (907-966), dite Berthe la filandiaire, que l'impératrice Adélaïde de Bourgogne (femme d'Otton Ier du Saint-Empire) fit fonder ce monastère. Le 1er mars 1127, le comte palatin de Bourgogne Guillaume III l'Enfant est assassiné dans l'église de Payerne. En 1240, le comte Pierre II de Savoie (1203-1268) accorda à Payerne sa franchise municipale. Illustrée par les souverains bourguignons, et surtout par Berthe de Souabe, Payerne est une des plus anciennes villes de ",
+   "Culture et patrimoine": "La commune compte sur son territoire plusieurs monuments classés comme biens culturels suisses d'importance nationale : l'abbatiale Notre-Dame, de fondation clunisienne, et les anciens bâtiments conventuels, l'ancien tribunal et ancien hôtel de ville, la fontaine du Banneret sur la place attenante et enfin l'église réformée Notre-Dame, dite aussi église paroissiale, par opposition à l'abbatiale, qui clôt la place. Le Collège, ancienne école des filles (1835), a été construit par l'architecte lausannois Henri Perregaux. Général Antoine de Jomini, (1779-1869), général de brigade sous Napoléon Ier, et plus tard général en chef en Russie sou ; Aimée Rapin (1868-1956), femme peintre sans bras de naissance. ; Reine Berthe de Souabe ; Impératrice Adélaïde de Bourgogne ; Francis Piguet, coureur cycliste, né et mort à Payerne. ; Léon Savary, (1895-1968), écrivain et journaliste bourgeois de Payerne. ; Jacques Chessex (1934-2009), écrivain suisse né à Payerne. ; Matthieu Rebeaud (1982-), pilote de motocross freestyle ; Gilbert Kaenel (1949-2020), archéologue ; Karim Sow (2003-), footballeur suisse. ; Jean Arcelin (1962-), artiste peintre, originaire de Payerne.",
+   "Transports": "La gare de Payerne se situe au croisement des lignes ferroviaires de la Broye longitudinale et transversale. Elle est desservie par des lignes vers Lausanne, Kerzers, Yverdon-les-Bains, Fribourg et Berne. Payerne est également desservie par la route principale 1 et l'autoroute A1 Zurich–Berne-Lausanne-Genève."
+  },
+  "voisins": [
+   {
+    "nom": "Corcelles-près-Payerne",
+    "slug": "arboriste-corcelles-pres-payerne"
+   },
+   {
+    "nom": "Grandcour",
+    "slug": null
+   },
+   {
+    "nom": "Trey  Cugy",
+    "slug": null
+   },
+   {
+    "nom": "Estavayer",
+    "slug": "arboriste-estavayer"
+   },
+   {
+    "nom": "Fétigny-Ménières",
+    "slug": "arboriste-fetigny-menieres"
+   },
+   {
+    "nom": "Montagny",
+    "slug": "arboriste-montagny"
+   },
+   {
+    "nom": "Torny",
+    "slug": null
+   }
+  ],
+  "commune": "arboriste-payerne",
+  "slug_ville": "payerne",
+  "pages": [
+   "elagage-payerne",
+   "abattage-arbre-payerne"
+  ]
+ }
+]

@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Forel (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, élagage et abattage d'arbres à Forel (VD), commune de hameaux du district de Lavaux-Oron, à 723 m. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Forel · Lavaux-Oron",
+ "h1": "Arboriste-grimpeur à <em>Forel</em> : taille, élagage et abattage d'arbres",
+ "lead": "Forel est une commune de hameaux : En Forel, les monts de Villette, le Grenet, les Cornes de Cerf. Nous y entretenons les arbres des fermes et des jardins, et vous disons ce qui relève de la forêt.",
+ "points": ["Visite et devis gratuits", "Hameaux et fermes à l'écart", "Jardin ou forêt : régime vérifié", "Bois laissé sur place ou évacué"],
+ "intro_eyebrow": "Vos arbres à Forel",
+ "intro_h2": "Forêts et pâturages : ce que racontent les plus vieux actes",
+ "intro": "<p>Le plus ancien document qui cite Forel date de 1140. Le suivant concerne ses forêts ; un autre, en 1274, des pâturages. Le hameau d'En Forel a ensuite donné son nom à toute la commune.</p><p>Forel compte aujourd'hui 2 109 habitants sur 18,51 km², soit 114 au km², à 723 m d'altitude. Dans une commune aussi peu dense, fermes et maisons ont souvent une lisière ou un arbre de pâture pour voisin.</p><p>La distinction compte. Un arbre de jardin, une haie ou une allée ne sont pas de la forêt au sens de la loi fédérale. En forêt, en revanche, tout abattage passe par le service forestier.</p><p>Nous venons de Courgenay, à une centaine de kilomètres à vol d'oiseau, pour la <a href=\"/elagage-taille-arbres\">taille</a>, l'<a href=\"/abattage-demontage\">abattage</a> et le contrôle des arbres hors forêt. La visite est gratuite.</p>",
+ "faits": [["Habitants", "2 109 (2025)"], ["Altitude", "723 m"], ["Superficie", "18,51 km²"], ["Depuis Courgenay", "env. 100 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Forel.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée.<br>En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LVLFo art. 53-54). Nous vérifions la règle en vigueur à Forel avant d'intervenir.",
+ "contexte": [
+  {"icone": "TREE", "titre": "Arbres de lisière", "texte": "En bordure de bois, un arbre penche vers la lumière et se charge d'un seul côté. S'il surplombe un toit ou un chemin, nous allégeons ce côté plutôt que de l'abattre."},
+  {"icone": "DOC", "titre": "Forêt ou jardin ?", "texte": "La loi fédérale ne compte pas comme forêt les groupes d'arbres isolés, les haies, les allées, les jardins et les parcs. En cas de doute sur une parcelle, nous posons la question au service forestier."},
+  {"icone": "HOME", "titre": "Fermes à l'écart", "texte": "Dans un hameau, l'arbre de cour donne l'ombre et l'abri. Nous retirons le bois mort au-dessus des passages et réduisons ce qui touche la toiture ou une ligne."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Allègement des arbres de lisière et de cour, retrait du bois mort au-dessus des passages, dans tous les hameaux de Forel.",
+  "abattage-demontage": "Abattage dirigé en terrain libre, démontage à la corde près d'une ferme. Bois débité à la longueur demandée.",
+  "urgence-tempete-arbre-dangereux": "Arbre couché sur un chemin ou appuyé contre un bâtiment après un coup de vent : mise en sécurité, puis débitage.",
+  "diagnostic-expertise-arbre": "Examen visuel d'un arbre qui penche ou qui dépérit, avec un avis clair sur le risque."
+ },
+ "faq": [
+  {"q": "Un arbre de la forêt voisine menace ma maison à Forel : qui décide ?", "a": "En forêt, tout abattage est soumis à l'autorisation du service forestier, et l'arbre appartient au propriétaire de la parcelle boisée. Nous pouvons constater le risque avec vous et vous indiquer à qui vous adresser."},
+  {"q": "Faut-il une autorisation pour abattre un arbre de jardin à Forel ?", "a": "Si l'arbre est protégé par le règlement communal, oui : la Municipalité délivre une autorisation écrite et demande une plantation compensatoire. Le seuil varie d'une commune vaudoise à l'autre. Nous le vérifions avant toute coupe."},
+  {"q": "Venez-vous dans les hameaux, au Grenet ou aux Cornes de Cerf ?", "a": "Oui, dans tous les hameaux de Forel. Précisez l'accès lors de votre demande : largeur du chemin, place pour un véhicule et un broyeur. La visite est gratuite et le devis tient compte du terrain."},
+  {"q": "Que faites-vous du bois ?", "a": "Le bois vous appartient. Il est débité en bûches ou en billons à la longueur demandée et laissé sur place. Les branches sont broyées ; les copeaux restent chez vous comme paillage ou sont évacués."}
+ ],
+ "cta_img": "abattage_arbre_porrentruy-3",
+ "cta_h2": "Un arbre à tailler ou à abattre à Forel ?",
+ "cta_lead": "Visite et devis gratuits, dans tous les hameaux."
+}

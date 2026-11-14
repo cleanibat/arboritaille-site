@@ -1,0 +1,89 @@
+{
+ "title": "Arboriste-grimpeur à Val Terbi : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et entretien des haies à Val Terbi (JU) : Vicques, Vermes, Montsevelier et Corban. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Val Terbi · Vicques, Vermes, Corban",
+ "h1": "Arboriste-grimpeur à <em>Val Terbi</em> : taille, abattage et soins aux arbres",
+ "lead": "Val Terbi rassemble six localités dans la vallée du même nom : Vicques, Vermes, Montsevelier, Corban, Envelier et Recolaine. Un territoire étendu et peu dense, où nous venons tailler, abattre ou entretenir vos haies.",
+ "points": [
+  "Visite et devis gratuits",
+  "Six localités, une seule commune",
+  "Haies agricoles entretenues en hiver",
+  "Démontage par sections près des fermes"
+ ],
+ "intro_eyebrow": "Vos arbres dans le Val Terbi",
+ "intro_h2": "Six localités réparties sur plus de 46 km²",
+ "intro": "<p>Val Terbi est née le 1er janvier 2013 de la fusion de Vicques, Vermes et Montsevelier. Corban l'a rejointe en 2018. La commune compte 3 240 habitants à 455 m d'altitude, dans le district de Delémont.</p><p>Avec 46,71 km² pour 69 habitants au kilomètre carré, le territoire est vaste et peu dense. Entre les villages, l'espace reste pour l'essentiel non bâti.</p><p>Sur un tel territoire, beaucoup d'arbres poussent hors zone à bâtir : haies, bosquets, arbres isolés en bordure de parcelle. La loi jurassienne les protège, et le canton recommande de les entretenir durant le repos de la végétation.</p><p>Nous entretenons ces haies en hiver, par tronçons, et taillons les arbres des villages toute l'année selon l'essence. Le Val Terbi est à une vingtaine de kilomètres de Courgenay.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "3 240 (2025)"
+  ],
+  [
+   "Altitude",
+   "455 m"
+  ],
+  [
+   "Superficie",
+   "46,71 km²"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 20 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Val Terbi.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Val Terbi avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "LEAF",
+   "titre": "Haies et bosquets de la vallée",
+   "texte": "Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne. Nous les recépons par tronçons, en hiver, et ne les supprimons jamais sans dérogation."
+  },
+  {
+   "icone": "PIN",
+   "titre": "De Vicques à Montsevelier",
+   "texte": "Six localités, une administration. Nous regroupons les visites d'un même passage pour limiter les trajets, et le devis précise le village et la parcelle concernés."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Fruitiers des fermes",
+   "texte": "Dans les villages agricoles du Jura, les vieux fruitiers haute-tige demandent une taille légère, sans rabattage sévère. Quand l'arbre est à bout, nous proposons un jeune plant de remplacement."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Le bon moment",
+   "texte": "Haies et bosquets s'entretiennent durant le repos de la végétation. Les arbres d'ornement se taillent selon l'essence. Nous vérifions l'absence de nids avant toute coupe au printemps."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des arbres de village et de ferme dans les six localités de Val Terbi, recépage de haies par tronçons en hiver.",
+  "abattage-demontage": "Abattage direct en terrain dégagé, démontage à la corde près des bâtiments agricoles et des lignes. Bois débité sur place si vous le souhaitez.",
+  "plantation-arbres": "Remplacement d'un fruitier ou d'un arbre isolé par un jeune sujet adapté à votre terrain, tuteuré et protégé du bétail si nécessaire."
+ },
+ "faq": [
+  {
+   "q": "Peut-on supprimer une haie entre deux champs à Val Terbi ?",
+   "a": "Pas librement. Hors zone à bâtir, la loi jurassienne protège haies et bosquets. Leur suppression demande une dérogation de la commune, d'entente avec l'Office de l'environnement, avec compensation. L'entretien par tronçons reste possible."
+  },
+  {
+   "q": "Quand entretenir une haie dans le Val Terbi ?",
+   "a": "Durant le repos de la végétation, d'octobre à mars, pour protéger les oiseaux et leurs couvées. Nous recépons une partie de la haie à la fois, afin qu'elle reste un abri et une limite de parcelle."
+  },
+  {
+   "q": "Vous déplacez-vous à Corban ou à Envelier pour un seul arbre ?",
+   "a": "Oui. Nous nous déplaçons dans toutes les localités de Val Terbi depuis Courgenay. La visite est gratuite et nous essayons de la grouper avec d'autres rendez-vous de la vallée."
+  },
+  {
+   "q": "Un arbre penche sur une étable : pouvez-vous intervenir ?",
+   "a": "Oui. Nous grimpons dans l'arbre et le démontons par sections, retenues à la corde pour ne rien laisser tomber sur la toiture. Si l'arbre est sain, un allègement de la couronne peut suffire."
+  },
+  {
+   "q": "Faites-vous le rognage de souche en terrain agricole ?",
+   "a": "Oui, quand la machine peut accéder à la parcelle. La souche est rognée sous le niveau du sol et les copeaux sont laissés sur place ou évacués, selon le devis."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre ou une haie à entretenir dans le Val Terbi ?",
+ "cta_lead": "Visite et devis gratuits dans les six localités de la commune."
+}

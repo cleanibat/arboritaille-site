@@ -1,0 +1,724 @@
+[
+ {
+  "slug": "arboriste-bienne",
+  "nom": "Bienne",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 57462,
+  "tier": 1,
+  "npa": "2500—2505, 2510",
+  "altitude": "434 m",
+  "superficie": "21,23 km2",
+  "densite": "2 707 hab./km2",
+  "gentile": "Biennois",
+  "langue": "Allemand (55,2 %), français (44,8 %)",
+  "localites": "Boujean, Mâche, Madretsch, Vigneules",
+  "population_detail": "57 462 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bienne",
+  "intro": "Bienne (en allemand : Biel ; officiellement : Biel/Bienne) est une ville et une commune de Suisse du canton de Berne. Elle est le chef-lieu de l'arrondissement du même nom. Bienne se trouve au pied du flanc sud de la chaîne du Jura et partage avec la ville de Nidau la baie en aval du lac auquel elle a donné son nom, le lac de Bienne à la frontière culturelle et linguistique entre la Suisse alémanique et romande. Elle est par le nombre d'habitants la dixième ville de Suisse. Bienne est une ville officiellement bilingue tout comme le canton de Berne. Selon le contrôle des habitants (2025), 44,8 % de la population est annoncée en langue française et 55,2 % en langue allemande. Les langues mentionnées comme langues principales des résidents permanents âgés de 15 ans ou plus dans le relevé structurel 2019 sur la base d'un échantillonnage statistique sont le français pour 41,4 %, l'allemand pour 51,1 % et d'autres langues 40 % (jusqu'à trois langues principales sont considérées). Le secteur des industries de haute technologie (« high-tech ») y est très important. Historiquement l'horlogerie et ses sous-traitants ont joué un rôle prépondérant dans le développement de la ville. Aujourd'hui, Swatch Group a notamment son siège à Bienne et la Manufactures des Montres Rolex y abrite ses bâtiments de production. Bienne est une des villes ayant accueilli l'exposition nationale suisse de 2002 avec Neuchâtel, Yverdon-les-Bains et Morat.",
+  "sections": {
+   "Toponymie": "Le nom Biel/Bienne dérive du nom du dieu des sources gallo-romain Belenos et désignait peut-être la source romaine située au bord de la vieille ville. Sa plus ancienne occurrence écrite date de 1142, sous la forme de Bielnam (Bielno en 1148 ; Bielne vers 1184) ; Biello en 1234 ; Bienna (1258) ; Biel en 1260),. La commune est surnommée la Ville de l'Avenir.",
+   "Histoire": "Cet article ne cite pas suffisamment ses sources (mars 2009). Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références ». C’est grâce à l’archéologie que nous connaissons l’existence d’une agglomération sur le territoire de Bienne à l’époque romaine. Ainsi, en 1846, on retrouve dans la source communément appelée « Source des Romains », des pièces de monnaie qui ont eu cours entre le Ier siècle av. J.-C. et le IVe siècle apr. J.-C. En 1234, la mention de burgum de Biello apparaît dans un acte officiel. C’est depuis le XIIIe siècle et surtout depuis 1275, lorsqu’elle eut reçu de Rodolphe Ier de Habsbourg sa charte de franchises, que Bienne fut considérée comme une cité à part entière. Liée à d’autres villes (Soleure, Berne, Fribourg et Morat) par différents traités d’alliances, elle développa les structures de sa propre administration municipale et son indépendance, aussi bien à l’égard de son suzerain, le prince-évêque de Bâle, que de la protection bernoise. En 1296, Bienne obtient sa première charte de pacification des mains du prince-évêque Peter Reich von Reichstein. En 1367, à la suite d'un conflit entre les habitants et la garnison épiscopale de Jean III de Vienne, un in",
+   "Culture et patrimoine": "Les acteurs culturels biennois sont fédérés au sein du fOrum culture. Bienne propose de nombreux théâtres : le Théâtre Municipal de la Ville de Bienne, haut lieu du théâtre et de l'opéra lyrique ; les Spectacles Français, communément appelé « Le Théâtre Palace », le grand théâtre de la ville de Bienne de langue française ; le Théâtre du Carré Noir ; le Théâtre pour les petits, une salle de théâtre avec une programmation conçue pour les enfants ; l'Espace Culturel Rennweg 26, institution culturelle qui propose des spectacles de théâtre, danse et musique. La ville abrite une troupe de théâtre francophone, « La Théâtrale de Bienne ». Le Filmpodium Bienne projette des films peu visibles dans les circuits commerciaux. Dans les arts visuels, Bienne comprend la Société des Beaux-Arts et Visarte, Société des artistes visuels, et un espace réservé à la photographie : « Photoforum Pasquart ». Pour la musique, Bienne entretient l'Orchestre Symphonique Bienne / Soleure, orchestre symphonique et Coupole, salle de concert autogérée par le Centre Autonome de Jeunesse de Bienne. La culture Hip Hop est vivante dans la ville, ainsi que Graffitis, Rap, B-Boying, Jazzy Rockers crew depuis 1983. La Coupole est le centre de cet art urbain. Une Bibliothèque de la Ville de Bienne est ouverte à tous. Enfin, l'« Odéon », café Art Deco, est, depuis 1930, lieu de rencontre de tous les Biennois. Le Centre "
+  },
+  "voisins": [
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg"
+   },
+   {
+    "nom": "Douanne-Daucher",
+    "slug": "arboriste-douanne-daucher"
+   },
+   {
+    "nom": "Evilard",
+    "slug": "arboriste-evilard"
+   },
+   {
+    "nom": "Nidau",
+    "slug": "arboriste-nidau"
+   },
+   {
+    "nom": "Orpond",
+    "slug": "arboriste-orpond"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   },
+   {
+    "nom": "Safnern",
+    "slug": "arboriste-safnern"
+   },
+   {
+    "nom": "Sauge",
+    "slug": "arboriste-sauge"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-nidau",
+  "nom": "Nidau",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 7160,
+  "tier": 1,
+  "npa": "2560",
+  "altitude": "495 m",
+  "superficie": "1,52 km2",
+  "densite": "4 711 hab./km2",
+  "gentile": "Les Nidowiens",
+  "langue": "Allemand, Français",
+  "localites": null,
+  "population_detail": "7 160 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Nidau",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Nidau est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {
+   "Histoire": "Le château a été édifié par les comtes de Neuchâtel avant 1200. On suppose que la ville fut fondée en 1338. Le château a été longtemps entouré d'eau. Le pont-levis sur la Thielle ne disparut qu'en 1872. Lors des guerres, mais aussi en temps de paix, Nidau était la communauté bernoise la plus importante installée sur les bords de l'Aar, contrôlant le trafic entre Berne et l'Évêché de Bâle, la région de Bourgogne et l'Alsace. Mais Nidau se trouvait également sur une importante route de commerce entre le sud de la France, passant par la Savoie, Genève, Lausanne à travers les cantons d'Argovie et de Canton de Zurich pour enfin atteindre le Rhin. Le port de Nidau donnant sur le lac de Bienne et sur la Thielle fut de grande importance pour le trafic fluvial jusqu'au XIXe siècle. Pendant l'occupation française de Bienne en 1798, Nidau fut la frontière douanière entre la Suisse et la France. Le 5 mars 1798, la 38e demi-brigade de ligne est attaquée par les Suisses à Nidau qui sont mis en déroute.",
+   "Culture et patrimoine": "Musée du Château de Nidau, consacré à la correction des eaux du Jura. Hôtel de Ville construit en 1756-60. Son revêtement jaune et les consoles des fenêtres trahissent l'influence neuchâtelo ; Château dont l'ensemble actuel remonte pour une bonne partie aux années 1627-36. Les parties inférieures du donjon, la t ; Le Zibelemärit, le Marché aux oignons, a lieu chaque année en octobre. ; La Stedtlifest se tient annuellement fin mai ou début juin (site officiel) ; Le cinéma open air se tient à fin juillet/début août dans l'enceinte du château (site officiel) ; Ulrich Ochsenbein (1811–1890), ancien Conseiller fédéral ; Eduard Müller (1848-1919), ancien Conseiller fédéral ; Georg Simon Ohm (1789–1854), physicien (loi d'Ohm), enseigna à Nidau",
+   "Transports": "La ville de Nidau se trouve sur la ligne Bienne–Täuffelen–Anet appartenant à l’entreprise de transports Aare Seeland mobil (ASm). Durée du trajet Nidau-Bienne : ~4 minutes Une ligne de trolleybus permet de rejoindre Bienne (ligne 4), capitale du Seeland. Durée du trajet Nidau-Bienne : ~6 minutes Un ancrage sur le canal de Nidau-Büren, pendant les beaux jours, permet l'accès au parcours nautique Bienne-Nidau-Soleure et retour au long du canal de Nidau-Büren de l'Aar. Durée du trajet Nidau-Soleure : 1 heure 35 minutes (Nidau-Port-Brügg-Büren-Grenchen-Altreu-Solothurn) Prix du trajet Nidau-Soleure : Plus d'infos"
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   },
+   {
+    "nom": "Ipsach",
+    "slug": "arboriste-ipsach"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-longeau",
+  "nom": "Longeau",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 5808,
+  "tier": 1,
+  "npa": "2543",
+  "altitude": "Min. 430 mMax. 1 199 m",
+  "superficie": "7,38 km2",
+  "densite": "787 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "5 808 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Longeau_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Longeau est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {
+   "Histoire": "Lengnau/Longeau est mentionné pour la première fois vers 983-1002 sous le nom de Lengenach. En 1228, il a été mentionné comme Longieuva. La commune est aussi connue sous le nom de Longeau par les francophones. Les traces les plus anciennes de l'homme sont des outils en silex du paléolithique tardif au néolithique et d'autres objets qui ont été découverts dans la plaine de l'Aar. À l'âge du bronze, à l'époque de La Tène et à l'époque romaine, il y avait des colonies de peuplement aux frontières municipales. Au Moyen Âge, elle faisait partie de la Herrschaft du Strassberg, acquise par Berne en 1388-93. Lengnau/Longeau est placée dans le bailliage de Büren par les autorités bernoises. En 1318, lors d'un conflit entre Soleure et les Habsbourg en Autriche, le village et son église furent incendiés. L'église a été reconstruite et baptisée église St. Germanus en 1323. L'église a été reconstruite en 1630-40 et rénovée en 1959-60. Les projets jurassiens de correction des eaux du XIXe siècle ont drainé une grande partie de la plaine inondable de l'Aar et ont ouvert de vastes terres agricoles à Lengnau/Longeau. Dans le même temps, Lengnau/Longeau a commencé à se développer d'un village agricole à une ville horlogère avec des industries. Entre 1889 et 1927, une douzaine de fabricants de montres et de pièces d'horlogerie ont ouvert des usines dans cette ville en pleine expansion. Outre les "
+  },
+  "voisins": [
+   {
+    "nom": "Büren an der Aare",
+    "slug": null
+   },
+   {
+    "nom": "Granges",
+    "slug": null
+   },
+   {
+    "nom": "Meinisberg",
+    "slug": "arboriste-meinisberg"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-perles",
+  "nom": "Perles",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 5255,
+  "tier": 1,
+  "npa": "2542",
+  "altitude": "430 m",
+  "superficie": "8,32 km2",
+  "densite": "632 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "5 255 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Perles_(Berne)",
+  "intro": "Pour l'ancienne commune française homonyme, voir Perles (Aisne). Cet article est une ébauche concernant une localité suisse. Perles, appelée Pieterlen en allemand, est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne. La préceptrice Maria Margaretha von Wildermeth y a habité au 19e siècle.",
+  "sections": {
+   "Transports": " Sur la ligne ferroviaire Bienne-Soleure-Zurich ; Sur la ligne ferroviaire Bienne-Moutier-Bâle"
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Longeau",
+    "slug": "arboriste-longeau"
+   },
+   {
+    "nom": "Meinisberg",
+    "slug": "arboriste-meinisberg"
+   },
+   {
+    "nom": "Romont",
+    "slug": "arboriste-romont-be"
+   },
+   {
+    "nom": "Safnern",
+    "slug": "arboriste-safnern"
+   },
+   {
+    "nom": "Sauge",
+    "slug": "arboriste-sauge"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-brugg",
+  "nom": "Brügg",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 4714,
+  "tier": 1,
+  "npa": "2555",
+  "altitude": "485 m",
+  "superficie": "4,99 km2",
+  "densite": "945 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "4 714 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Brügg",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Brügg est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {
+   "Transports": " Ligne de Bus pour Bienne ; Sur la ligne ferroviaire Berne-Bienne ; Sur le parcours du bateau Bienne-Soleure"
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Orpund",
+    "slug": null
+   },
+   {
+    "nom": "Schwadernau",
+    "slug": "arboriste-schwadernau"
+   },
+   {
+    "nom": "Aegerten",
+    "slug": "arboriste-aegerten"
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-port",
+  "nom": "Port",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 3976,
+  "tier": 1,
+  "npa": "2562",
+  "altitude": "448 m",
+  "superficie": "2,45 km2",
+  "densite": "1 623 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": null,
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Port_(Berne)",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Port est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne, en Suisse.",
+  "sections": {
+   "Transports": " Bus en direction de Bienne et de Nidau ; Sur la ligne de bateau Bienne - Soleure, arrêt dans l'écluse"
+  },
+  "voisins": [
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg"
+   },
+   {
+    "nom": "Aegerten",
+    "slug": "arboriste-aegerten"
+   },
+   {
+    "nom": "Studen",
+    "slug": null
+   },
+   {
+    "nom": "Jens",
+    "slug": null
+   },
+   {
+    "nom": "Belmont",
+    "slug": "arboriste-belmont"
+   },
+   {
+    "nom": "Ipsach",
+    "slug": "arboriste-ipsach"
+   },
+   {
+    "nom": "Nidau",
+    "slug": "arboriste-nidau"
+   },
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-ipsach",
+  "nom": "Ipsach",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 3873,
+  "tier": 1,
+  "npa": "2563",
+  "altitude": "442 m",
+  "superficie": "1,91 km2",
+  "densite": "2 028 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "3 873 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Ipsach",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Ipsach est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {
+   "Transports": " Ligne Bienne–Täuffelen–Anet, appartenant à l’entreprise de transport Aare Seeland mobil (ASm)"
+  },
+  "voisins": [
+   {
+    "nom": "Nidau",
+    "slug": "arboriste-nidau"
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   },
+   {
+    "nom": "Belmont",
+    "slug": "arboriste-belmont"
+   },
+   {
+    "nom": "Sutz-Lattrigen",
+    "slug": "arboriste-sutz-lattrigen"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-orpond",
+  "nom": "Orpond",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 3375,
+  "tier": 1,
+  "npa": "2552",
+  "altitude": "Min. 430 mMax. 543 m",
+  "superficie": "3,96 km2",
+  "densite": "852 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "3 375 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Orpond",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Orpond, en allemand Orpund (nom également utilisé en français), anciennement connue en français sous le nom d'Orpondes, est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Safnern",
+    "slug": "arboriste-safnern"
+   },
+   {
+    "nom": "Scheuren",
+    "slug": "arboriste-scheuren"
+   },
+   {
+    "nom": "Schwadernau",
+    "slug": "arboriste-schwadernau"
+   },
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-evilard",
+  "nom": "Evilard",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 2706,
+  "tier": 1,
+  "npa": "2532 Macolin  2533 Evilard",
+  "altitude": "697 m",
+  "superficie": "3,68 km2",
+  "densite": "735 hab./km2",
+  "gentile": null,
+  "langue": "Allemand (60 %), français (40 %)",
+  "localites": "Evilard, Macolin",
+  "population_detail": "2 706 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Evilard",
+  "intro": "Evilard ou Évilard (en allemand : Leubringen), est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {
+   "Toponymie": "Le nom français de la commune, qui s'écrit Evilard ou Évilard et dont la plus ancienne attestation écrite date de 1434 sous la forme de Eweller, est plus ancien que le nom allemand, Leubringen (les Alémaniques colonisent la région de Bienne au IXe siècle). Il dérive vraisemblablement d’un nom de personne germanique et du nom commun roman villāre, qui désigne un domaine, un hameau voire de simples fondations. Le nom allemand de la commune, Leubringen, dont la plus ancienne attestation écrite date de 1300 sous la forme de Lömeringen, dérive vraisemblablement d’un nom de personne germanique, peut-être le nom composé Leobmar, et du suffixe toponymique germanique -ingun, qui désigne ceux qui appartiennent à un clan.",
+   "Histoire": "La première mention écrite de la commune remonte à l’an 1300, sous le nom de Lomeringen. Le nom du village de Macolin est certainement d'origine burgonde. Il est connu depuis 1305, et s'écrivait alors Macalingen ; en 1342, il devint Macoleyn, puis Maglingen, en 1536, et Mahlingen, en 1856. De 1798 à 1815, Evilard a fait partie de la France, au sein du département du Mont-Terrible, puis, à partir de 1800, du département du Haut-Rhin, auquel le département du Mont-Terrible fut rattaché. Par décision du congrès de Vienne, la commune d'Evilard fut attribuée au canton de Berne en 1815 et incorporée au district de Nidau. En 1832, la commune a rejoint le district bilingue de Bienne. En 1902, les habitants d’Evilard refusent un projet de fusion avec la ville de Bienne.",
+   "Transports": " Funiculaires : un reliant Evilard à Bienne et un reliant Macolin à Bienne. Un service de bus local gratuit relie égaleme"
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Douanne-Daucher",
+    "slug": "arboriste-douanne-daucher"
+   },
+   {
+    "nom": "Orvin",
+    "slug": "arboriste-orvin"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-aegerten",
+  "nom": "Aegerten",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 2499,
+  "tier": 1,
+  "npa": "2558",
+  "altitude": "455 mMin. 427 mMax. 575 m",
+  "superficie": "2,17 km2",
+  "densite": "1 152 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "2 499 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Aegerten",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Aegerten est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg"
+   },
+   {
+    "nom": "Jens",
+    "slug": null
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   },
+   {
+    "nom": "Schwadernau",
+    "slug": "arboriste-schwadernau"
+   },
+   {
+    "nom": "Studen",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-safnern",
+  "nom": "Safnern",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 2049,
+  "tier": 1,
+  "npa": "2553",
+  "altitude": "436 m",
+  "superficie": "5,62 km2",
+  "densite": "365 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "2 049 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Safnern",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Safnern (anciennement en français Savagnier) est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Scheuren",
+    "slug": "arboriste-scheuren"
+   },
+   {
+    "nom": "Orpond",
+    "slug": "arboriste-orpond"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-belmont",
+  "nom": "Belmont",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 1805,
+  "tier": 1,
+  "npa": "2564",
+  "altitude": "Min. 434 mMax. 620 m",
+  "superficie": "3,8 km2",
+  "densite": "475 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "1 805 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Bellmund",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Bellmund (anciennement en français Belmont), est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {
+   "Culture et patrimoine": " Refugium de Knebelburg sur le Jaïssberg à l'est de la localité. L'âge de ce plateau fortifié ceint d'un fossé n'a pas pu"
+  },
+  "voisins": [
+   {
+    "nom": "Hermrigen",
+    "slug": null
+   },
+   {
+    "nom": "Ipsach",
+    "slug": "arboriste-ipsach"
+   },
+   {
+    "nom": "Jens",
+    "slug": null
+   },
+   {
+    "nom": "Merzligen",
+    "slug": null
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port"
+   },
+   {
+    "nom": "Sutz-Lattrigen",
+    "slug": "arboriste-sutz-lattrigen"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-meinisberg",
+  "nom": "Meinisberg",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 1513,
+  "tier": 1,
+  "npa": "2554",
+  "altitude": "Min. 445 mMax. 565 m",
+  "superficie": "4,42 km2",
+  "densite": "342 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "1 513 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 30,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Meinisberg",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Meinisberg (anciennement en français Montmenil) est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne, au bord du canal de Nidau-Büren et de la réserve naturelle du Häftli. Elle compte 1 513 habitants au 31 décembre 2025.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Büren",
+    "slug": null
+   },
+   {
+    "nom": "Longeau",
+    "slug": "arboriste-longeau"
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles"
+   },
+   {
+    "nom": "Safnern",
+    "slug": "arboriste-safnern"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-sutz-lattrigen",
+  "nom": "Sutz-Lattrigen",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 1409,
+  "tier": 1,
+  "npa": "2572",
+  "altitude": "450 m",
+  "superficie": "3,6 km2",
+  "densite": "391 hab./km2",
+  "gentile": null,
+  "langue": "Allemand (92,44 %)",
+  "localites": null,
+  "population_detail": "1 409 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Sutz-Lattrigen",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Sutz-Lattrigen est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Ipsach",
+    "slug": "arboriste-ipsach"
+   },
+   {
+    "nom": "Belmont",
+    "slug": "arboriste-belmont"
+   },
+   {
+    "nom": "Hermrigen",
+    "slug": null
+   },
+   {
+    "nom": "Morenges",
+    "slug": null
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-douanne-daucher",
+  "nom": "Douanne-Daucher",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 1239,
+  "tier": 1,
+  "npa": "2512 Daucher-Alfermée  2513 Douanne",
+  "altitude": "434 m",
+  "superficie": "12,44 km2",
+  "densite": "100 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": "île Saint-Pierre,  Wingreis (Vingras), Douanne, Daucher, Alfermée",
+  "population_detail": "1 239 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Douanne-Daucher",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Douanne-Daucher, appelée Twann-Tüscherz en allemand, est une commune suisse du canton de Berne, située dans l'arrondissement administratif de Bienne au bord du lac de Bienne.",
+  "sections": {
+   "Histoire": "La commune est née de la fusion des communes de Douanne et de Daucher-Alfermée. Cette fusion est effective depuis le 1er janvier 2010."
+  },
+  "voisins": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne"
+   },
+   {
+    "nom": "Cerlier",
+    "slug": null
+   },
+   {
+    "nom": "Evilard",
+    "slug": "arboriste-evilard"
+   },
+   {
+    "nom": "Gléresse",
+    "slug": "arboriste-gleresse"
+   },
+   {
+    "nom": "Plateau de Diesse",
+    "slug": "arboriste-plateau-de-diesse"
+   }
+  ]
+ },
+ {
+  "slug": "arboriste-morigen",
+  "nom": "Mörigen",
+  "canton": "BE",
+  "canton_nom": "Berne",
+  "district": "Bienne",
+  "population": 862,
+  "tier": 1,
+  "npa": "2572",
+  "altitude": "Min. 430 mMax. 538 m",
+  "superficie": "2,16 km2",
+  "densite": "399 hab./km2",
+  "gentile": null,
+  "langue": "Allemand",
+  "localites": null,
+  "population_detail": "862 hab.  (31 décembre 2025)",
+  "distance_courgenay_km": 35,
+  "wikipedia": "https://fr.wikipedia.org/wiki/Mörigen",
+  "intro": "Cet article est une ébauche concernant une localité suisse. Mörigen (Morenges) est une commune suisse du canton de Berne située dans l'arrondissement administratif de Bienne.",
+  "sections": {},
+  "voisins": [
+   {
+    "nom": "Sutz-Lattrigen",
+    "slug": "arboriste-sutz-lattrigen"
+   },
+   {
+    "nom": "Hermrigen",
+    "slug": null
+   },
+   {
+    "nom": "Epsach",
+    "slug": null
+   },
+   {
+    "nom": "Täuffelen",
+    "slug": null
+   }
+  ]
+ }
+]

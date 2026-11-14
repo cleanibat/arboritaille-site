@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Ipsach (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, réduction de couronne, démontage et abattage d'arbres à Ipsach, commune dense entre Nidau et Sutz-Lattrigen, canton de Berne. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Ipsach · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Ipsach</em> : taille, abattage et soins aux arbres",
+ "lead": "À Ipsach, plus de 2 000 habitants au km2 : les arbres y poussent tout près des limites de propriété. Taille côté voisin, réduction de couronne ou démontage, nous venons voir et vous remettons un devis gratuit.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Conseils sur les branches qui débordent chez le voisin",
+  "Réduction de couronne plutôt qu'abattage",
+  "Travail depuis l'arbre, sans machine dans le jardin"
+ ],
+ "intro_eyebrow": "Vos arbres à Ipsach",
+ "intro_h2": "Petites parcelles, grands arbres : la question du voisinage",
+ "intro": "<p>Ipsach rassemble 3 873 habitants sur 1,91 km2, soit plus de 2 000 habitants au km2. La commune est desservie par la ligne Bienne–Täuffelen–Anet et touche Nidau et Port.</p><p>Sur un territoire aussi compact, un arbre se trouve le plus souvent à quelques mètres d'une limite de propriété. Branches qui surplombent le voisin, racines sous une clôture, ombre sur une terrasse : ce sont les questions typiques d'un quartier dense.</p><p>Une réduction de couronne côté voisin, une éclaircie ou un rehaussement règle souvent la situation sans abattre. Nous vous disons aussi ce qu'il est raisonnable de couper sans nuire à l'arbre.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "3 873 (2025)"
+  ],
+  [
+   "Altitude",
+   "442 m"
+  ],
+  [
+   "Superficie",
+   "1,91 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Ipsach.</strong> Les haies et bosquets du canton de Berne sont protégés dans leur état actuel (LCPN, BSG 426.11) : entretien permis, suppression soumise à une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Ipsach avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "USERS",
+   "titre": "Entre voisins",
+   "texte": "Avant de couper une branche qui dépasse, mieux vaut en parler. Nous proposons une taille équilibrée des deux côtés, pour que l'arbre reste stable et que personne ne soit lésé."
+  },
+  {
+   "icone": "SCISS",
+   "titre": "Réduire plutôt qu'abattre",
+   "texte": "Une réduction de couronne bien faite enlève un tiers du volume au plus, en coupant sur des branches secondaires. L'arbre garde sa forme et repart sans rejets anarchiques."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Racines et clôtures",
+   "texte": "Les racines qui soulèvent une bordure ou une dalle ne se coupent pas n'importe où. Nous évaluons ce qui peut être retiré sans compromettre la tenue de l'arbre."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne, taille côté voisin et rehaussement pour les arbres des jardins d'Ipsach. Coupes nettes, silhouette respectée.",
+  "abattage-demontage": "Démontage à la corde quand l'arbre n'a plus sa place. Pièces retenues, descendues et évacuées sans toucher aux clôtures.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol pour reprendre la pelouse ou replanter un arbre plus petit.",
+  "plantation-arbres": "Choix d'une essence qui restera à l'échelle d'une petite parcelle, plantation à bonne distance des limites, tuteurage."
+ },
+ "faq": [
+  {
+   "q": "Les branches du voisin dépassent sur mon terrain à Ipsach, que puis-je faire ?",
+   "a": "Le plus simple est d'en parler avec lui et de nous confier une taille équilibrée. Nous intervenons avec l'accord des deux propriétaires, pour que l'arbre reste stable et que la coupe soit propre des deux côtés."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Ipsach ?",
+   "a": "Dans le canton de Berne, haies et bosquets sont protégés ; les arbres isolés dépendent du règlement communal d'Ipsach. Nous vérifions pour vous avant toute coupe et vous indiquons la démarche si une demande est nécessaire."
+  },
+  {
+   "q": "Un grand arbre fait trop d'ombre sur ma terrasse, faut-il le couper ?",
+   "a": "Souvent non. Une éclaircie de la couronne laisse passer la lumière, un rehaussement dégage la vue. Ces tailles conservent l'arbre et évitent une demande d'abattage."
+  },
+  {
+   "q": "Pouvez-vous intervenir dans un jardin sans accès pour un véhicule ?",
+   "a": "Oui. Nous travaillons depuis l'arbre, avec des cordes. Seul un passage à pied pour sortir les branches est nécessaire. Le bois est débité en pièces faciles à porter."
+  },
+  {
+   "q": "Le devis peut-il être rédigé en allemand ?",
+   "a": "Oui. Ipsach est germanophone : nous rédigeons volontiers le devis et nos réponses écrites en allemand. Sur place, nous expliquons le travail en français. Posez vos questions dans la langue qui vous convient."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-19",
+ "cta_h2": "Un arbre à tailler ou à démonter à Ipsach ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

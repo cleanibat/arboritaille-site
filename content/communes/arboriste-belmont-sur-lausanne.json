@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Belmont-sur-Lausanne (VD) | Arboritaille",
+ "desc": "Élagage, taille, abattage et rognage de souche à Belmont-sur-Lausanne (VD), au nord de Pully. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Belmont-sur-Lausanne · Lavaux-Oron",
+ "h1": "Arboriste-grimpeur à <em>Belmont-sur-Lausanne</em> : taille, abattage et soins aux arbres",
+ "lead": "À Belmont-sur-Lausanne, près de 3 900 habitants vivent sur 2,65 km². Sur des parcelles aussi serrées, un arbre pousse vite jusqu'à la limite. Nous le taillons ou le démontons sans déborder chez le voisin.",
+ "points": ["Visite et devis gratuits", "Taille en limite de propriété", "Démontage à la corde entre les maisons", "Souche rognée, terrain rendu propre"],
+ "intro_eyebrow": "Vos arbres à Belmont-sur-Lausanne",
+ "intro_h2": "Un « beau mont » où les jardins se touchent",
+ "intro": "<p>Belmont-sur-Lausanne tire son nom de « beau mont ». La commune se trouve à l'est de Lausanne et au nord de Pully, dont elle faisait autrefois partie. Elle compte 3 890 habitants, à 640 m d'altitude.</p><p>La densité y atteint 1 468 habitants au km². Sur des parcelles de cette taille, un arbre planté il y a trente ans au fond du jardin finit souvent par surplomber la haie, la terrasse ou le toit d'à côté.</p><p>Deux réponses existent. La <a href=\"/elagage-taille-arbres\">réduction de couronne</a> ramène l'arbre à l'échelle du terrain. Le <a href=\"/abattage-demontage\">démontage</a> pièce par pièce s'impose quand il n'a plus sa place ou qu'il dépérit.</p><p>Nous venons de Courgenay, à une centaine de kilomètres à vol d'oiseau. Votre visite peut se grouper avec un rendez-vous à <a href=\"/arboriste-pully\">Pully</a> ou à <a href=\"/arboriste-lutry\">Lutry</a>, voisines.</p>",
+ "faits": [["Habitants", "3 890 (2025)"], ["Altitude", "640 m"], ["District", "Lavaux-Oron"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Belmont-sur-Lausanne.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Belmont-sur-Lausanne avant d'intervenir.",
+ "contexte": [
+  {"icone": "USERS", "titre": "Branches chez le voisin", "texte": "Une branche qui dépasse la limite crée vite une tension. Nous regardons l'arbre avec vous, proposons une coupe acceptable pour les deux parties et la décrivons noir sur blanc dans le devis."},
+  {"icone": "HOME", "titre": "Peu de place pour travailler", "texte": "Entre deux maisons, rien ne tombe librement. Le grimpeur découpe la couronne en petites pièces, retenues à la corde puis déposées dans votre jardin, à l'écart des vérandas et des clôtures."},
+  {"icone": "STUMP", "titre": "La souche, ensuite", "texte": "Dans un petit jardin, une souche occupe l'emplacement d'un massif ou d'un futur arbre. Une rogneuse compacte la réduit en copeaux, plus bas que la pelouse."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne et taille en limite de parcelle pour les arbres de jardin de Belmont-sur-Lausanne.",
+  "abattage-demontage": "Démontage à la corde entre les maisons, tronçon par tronçon, sans rien laisser tomber chez le voisin.",
+  "rognage-souche": "Rognage de la souche avec une machine compacte, pour replanter ou engazonner.",
+  "plantation-arbres": "Remplacement par une essence de taille adaptée à un petit jardin, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Mon voisin de Belmont-sur-Lausanne se plaint de mon arbre : que faire ?", "a": "Commencez par une visite, gratuite. Nous évaluons ce qui peut être raccourci sans nuire à l'arbre et chiffrons la taille. Un devis écrit, précis sur les branches concernées, aide souvent à trouver un accord."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Belmont-sur-Lausanne ?", "a": "Dans le canton de Vaud, l'abattage d'un arbre protégé demande une autorisation écrite de la Municipalité, avec plantation compensatoire. Le seuil dépend du règlement communal. Nous nous renseignons auprès de la commune avant toute coupe."},
+  {"q": "Pouvez-vous travailler sans passer par le terrain d'à côté ?", "a": "Dans la plupart des cas, oui. Le grimpeur accède par l'arbre lui-même et les branches sont descendues de votre côté. Si un passage chez le voisin facilite le chantier, nous lui demandons son accord avant."},
+  {"q": "Rognez-vous la souche le même jour que l'abattage ?", "a": "C'est possible quand l'accès le permet. La rogneuse passe par un portillon. La souche est broyée sous le niveau du sol, et les copeaux servent de paillage ou sont évacués, selon votre choix."},
+  {"q": "Venez-vous de Courgenay pour un seul arbre ?", "a": "Oui. Belmont-sur-Lausanne est à une centaine de kilomètres de Courgenay à vol d'oiseau. Nous cherchons à regrouper les visites à l'est de Lausanne sur une journée. La visite reste gratuite et sans engagement."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre trop grand pour votre jardin à Belmont-sur-Lausanne ?",
+ "cta_lead": "Visite et devis gratuits, réponse sous 48 h ouvrées."
+}

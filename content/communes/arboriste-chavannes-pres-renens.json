@@ -1,0 +1,34 @@
+{
+ "title": "Arboriste-grimpeur à Chavannes-près-Renens (VD) | Arboritaille",
+ "desc": "Élagage, abattage par démontage et suivi d'arbres pour propriétaires, PPE et gérances à Chavannes-près-Renens (VD). Visite et devis gratuits.",
+ "hero_img": "degagement_facade_epicea", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Chavannes-près-Renens · Ouest lausannois",
+ "h1": "Arboriste-grimpeur à <em>Chavannes-près-Renens</em> : élagage et abattage d'arbres",
+ "lead": "Chavannes-près-Renens loge 10 720 habitants sur 1,65 km², dans l'agglomération lausannoise. Dans une commune aussi dense, un arbre concerne souvent plusieurs copropriétaires ou une gérance. Nous simplifions la décision et le chantier.",
+ "points": ["Visite et devis gratuits", "PPE, gérances et propriétaires", "Devis lisible, à présenter en assemblée", "Chantier annoncé aux habitants"],
+ "intro_eyebrow": "Vos arbres à Chavannes-près-Renens",
+ "intro_h2": "Sur 1,65 km², des arbres partagés entre copropriétaires",
+ "intro": "<p>Une « chavanne » désignait une petite habitation de terre et de bois. Chavannes-près-Renens, citée dès 1272 pour ses moulins, compte aujourd'hui 10 720 habitants. Elle fait partie de l'agglomération lausannoise.</p><p>Avec 6 497 habitants au km², on peut supposer que l'habitat collectif domine. L'arbre du parking ou de la pelouse commune dépend alors d'une assemblée de copropriétaires ou d'une gérance, rarement d'une seule personne.</p><p>Pour décider à plusieurs, il faut un document clair. Notre devis décrit chaque arbre, son état, la coupe proposée et sa raison. Il peut être présenté tel quel en assemblée de PPE.</p><p>La commune est à 398 m d'altitude, à une centaine de kilomètres de Courgenay à vol d'oiseau. Nos prestations pour immeubles figurent sur la page <a href=\"/collectivites-entreprises\">entreprises et gérances</a>.</p>",
+ "faits": [["Habitants", "10 720 (2025)"], ["Altitude", "398 m"], ["Superficie", "1,65 km²"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Chavannes-près-Renens.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Chavannes-près-Renens avant d'intervenir.",
+ "contexte": [
+  {"icone": "DOC", "titre": "Un devis pour l'assemblée", "texte": "État de l'arbre, travaux proposés, prix par arbre : le document se lit sans connaissances techniques. Si une autorisation communale est nécessaire, il le mentionne."},
+  {"icone": "USERS", "titre": "Habitants prévenus", "texte": "Avant le chantier, la gérance reçoit la date, la durée et les places de parc à libérer. Elle peut ainsi afficher un avis dans les entrées."},
+  {"icone": "HOME", "titre": "Balcons et stores", "texte": "Entre deux immeubles, les branches gagnent vite les balcons et les stores. Un rehaussement et une réduction latérale rendent la lumière aux logements sans supprimer l'arbre."}
+ ],
+ "services": {
+  "collectivites-entreprises": "Devis par arbre ou par lot, planning et compte rendu pour les PPE et les gérances de Chavannes-près-Renens.",
+  "elagage-taille-arbres": "Rehaussement et réduction latérale des arbres proches des balcons, des stores et des places de parc.",
+  "abattage-demontage": "Démontage à la corde entre immeubles, emprise limitée aux places situées sous l'arbre.",
+  "diagnostic-expertise-arbre": "Constat sur l'état d'un arbre, pour appuyer la décision de l'assemblée ou la demande à la Municipalité."
+ },
+ "faq": [
+  {"q": "Qui décide de l'abattage d'un arbre en PPE à Chavannes-près-Renens ?", "a": "La décision revient aux copropriétaires, selon les règles de votre PPE, puis à la Municipalité si l'arbre est protégé. Nous fournissons le devis et le constat sur l'état de l'arbre, utiles à ces deux étapes."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Chavannes-près-Renens ?", "a": "Pour un arbre protégé, oui : la loi vaudoise prévoit une autorisation écrite de la Municipalité et une plantation compensatoire. Le seuil figure dans le règlement communal. Nous le vérifions avant de proposer une date à la gérance."},
+  {"q": "Pouvez-vous intervenir sans bloquer le parking toute la journée ?", "a": "Nous limitons l'emprise aux places situées sous l'arbre et à un emplacement pour le broyeur. La durée est indiquée dans le devis. Les places sont rendues dès que la zone est nettoyée."},
+  {"q": "Proposez-vous un suivi sur plusieurs années ?", "a": "Oui. Après un premier passage, nous pouvons indiquer pour chaque arbre l'échéance du prochain contrôle ou de la prochaine taille. La gérance dispose ainsi d'une vue d'ensemble pour établir son budget."}
+ ],
+ "cta_img": "degagement_facade_epicea",
+ "cta_h2": "Un arbre à élaguer dans votre copropriété à Chavannes-près-Renens ?",
+ "cta_lead": "Visite et devis gratuits pour les PPE, les gérances et les propriétaires."
+}

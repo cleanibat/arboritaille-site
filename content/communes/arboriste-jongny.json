@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Jongny (VD) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres de jardin à Jongny (VD), à 639 m sur la Riviera vaudoise. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Jongny · Riviera",
+ "h1": "Arboriste-grimpeur à <em>Jongny</em> : taille, abattage et soins aux arbres de jardin",
+ "lead": "Jongny, 1 918 habitants à 639 m d'altitude, fait partie de la Riviera vaudoise. Nous y taillons, abattons et plantons les arbres de jardin en grimpe, après une visite gratuite et un devis écrit.",
+ "points": ["Visite et devis gratuits", "Taille douce des arbres de jardin", "Démontage à la corde près des maisons", "Règlement communal vérifié avant la coupe"],
+ "intro_eyebrow": "Vos arbres à Jongny",
+ "intro_h2": "La plus haute des quatre communes de l'ancienne paroisse de Corsier",
+ "intro": "<p>Jusqu'en 1833, Jongny formait une seule paroisse politique avec Corsier-sur-Vevey, Chardonne et Corseaux. Les quatre communes partagent encore un cercle scolaire et un bureau technique intercommunal.</p><p>Des quatre, Jongny est la plus haute : 639 m, contre 421 m à <a href=\"/arboriste-corsier-sur-vevey\">Corsier-sur-Vevey</a>. À cette altitude, la neige tient en général plus longtemps et pèse sur les couronnes larges.</p><p>Le territoire est petit : 2,16 km² pour 1 918 habitants, soit 888 habitants au kilomètre carré. Les arbres poussent donc surtout dans des jardins, près des maisons et des limites de parcelle.</p><p>Nous y pratiquons la <a href=\"/elagage-taille-arbres\">taille douce</a> et le démontage à la corde. Dans les hauts de la commune, où passe le chemin Romain, la visite précise l'accès avant tout devis.</p>",
+ "faits": [["Habitants", "1 918 (2025)"], ["Altitude", "639 m"], ["NPA", "1805"], ["Depuis Courgenay", "env. 105 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Jongny.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune.<br>En cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Jongny avant d'intervenir.",
+ "contexte": [
+  {"icone": "HOME", "titre": "L'arbre planté avec la maison", "texte": "Dans un quartier d'habitation, l'arbre mis en terre à la construction finit par dépasser le faîte. Une réduction progressive, étalée sur plusieurs années, le ramène à l'échelle du jardin."},
+  {"icone": "WIND", "titre": "Neige de début ou de fin d'hiver", "texte": "Une chute précoce ou tardive surprend des arbres encore en feuilles. Le poids se concentre alors sur les branches horizontales : ce sont elles que nous raccourcissons en priorité."},
+  {"icone": "DOC", "titre": "Demande à la Municipalité", "texte": "Si l'arbre est protégé, une demande écrite part à la Municipalité de Jongny avant toute coupe. Nous vous indiquons les pièces à fournir et prévoyons l'arbre de remplacement."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille douce, réduction progressive et dégagement de toiture pour les arbres de jardin de Jongny.",
+  "abattage-demontage": "Démontage à la corde entre maisons et clôtures. Bois débité en bûches ou évacué selon votre choix.",
+  "plantation-arbres": "Arbre de remplacement après abattage autorisé, choisi pour sa taille adulte et sa tenue à 639 m.",
+  "urgence-tempete-arbre-dangereux": "Branche cassée par la neige ou arbre incliné : évaluation sur photos, puis mise en sécurité."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Jongny ?", "a": "Si l'arbre est protégé par le règlement communal, une autorisation écrite de la Municipalité est nécessaire, avec plantation compensatoire. En cas de danger imminent ou d'arbre mort, elle peut l'autoriser sans mise à l'enquête. Nous vérifions la règle pour vous."},
+  {"q": "Mon arbre dépasse le toit : peut-on le réduire sans l'abîmer ?", "a": "Oui, par étapes. Nous raccourcissons les branches sur des relais plus bas, en conservant la forme naturelle de la couronne. L'étêtage est exclu : il affaiblit l'arbre et produit des rejets fragiles qu'il faut ensuite reprendre."},
+  {"q": "Intervenez-vous aussi dans les communes voisines de Jongny ?", "a": "Oui, notamment à Chardonne et à Corsier-sur-Vevey, qui touchent Jongny. Nous regroupons les visites de ces communes sur une même journée, ce qui facilite la prise de rendez-vous."},
+  {"q": "Vous déplacez-vous depuis Courgenay pour un seul arbre ?", "a": "Oui. Jongny est à une centaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite et sans engagement. Vous recevez ensuite un devis écrit, avec une réponse sous 48 h ouvrées."},
+  {"q": "Que faire d'une branche cassée par la neige ?", "a": "Ne tirez pas dessus et tenez-vous à distance, surtout si elle reste accrochée. Envoyez-nous une photo et l'adresse. Nous indiquons si une mise en sécurité s'impose, puis reprenons la coupe proprement pour que l'arbre cicatrise."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre de jardin à tailler ou à abattre à Jongny ?",
+ "cta_lead": "Visite et devis gratuits, réponse écrite sous 48 h ouvrées."
+}

@@ -1,0 +1,847 @@
+{
+ "JU": {
+  "nom": "Jura",
+  "nb_communes": 51,
+  "districts": {
+   "Delémont": [
+    "Delémont",
+    "Haute-Sorne",
+    "Moutier",
+    "Courrendlin",
+    "Courroux",
+    "Val Terbi",
+    "Courtételle",
+    "Develier",
+    "Boécourt",
+    "Rossemaison",
+    "Mervelier",
+    "Châtillon",
+    "Soyhières",
+    "Courchapoix",
+    "Movelier",
+    "Pleigne",
+    "Saulcy",
+    "Bourrignon",
+    "Ederswiler",
+    "Mettembert"
+   ],
+   "Franches-Montagnes": [
+    "Saignelégier",
+    "Le Noirmont",
+    "Les Breuleux",
+    "Les Bois",
+    "Lajoux",
+    "Montfaucon",
+    "Les Genevez",
+    "Muriaux",
+    "Le Bémont",
+    "Saint-Brais",
+    "Les Enfers",
+    "Soubey"
+   ],
+   "Porrentruy": [
+    "Porrentruy",
+    "Courgenay",
+    "Alle",
+    "Fontenais",
+    "Clos du Doubs",
+    "Basse-Allaine",
+    "Boncourt",
+    "La Baroche",
+    "Cornol",
+    "Haute-Ajoie",
+    "Courtedoux",
+    "Basse-Vendline",
+    "Cœuve",
+    "Bure",
+    "Vendlincourt",
+    "Damphreux-Lugnez",
+    "Grandfontaine",
+    "Courchavon",
+    "Fahy"
+   ]
+  },
+  "grandes_communes": [
+   {
+    "nom": "Delémont",
+    "slug": "arboriste-delemont",
+    "population": 12991,
+    "altitude": "414 m",
+    "distance_courgenay_km": 15
+   },
+   {
+    "nom": "Haute-Sorne",
+    "slug": "arboriste-haute-sorne",
+    "population": 7532,
+    "altitude": "477 m",
+    "distance_courgenay_km": 10
+   },
+   {
+    "nom": "Moutier",
+    "slug": "arboriste-moutier",
+    "population": 7053,
+    "altitude": "535 mMax. 1 270 m",
+    "distance_courgenay_km": 25
+   },
+   {
+    "nom": "Porrentruy",
+    "slug": "arboriste-porrentruy",
+    "population": 6597,
+    "altitude": "443 m",
+    "distance_courgenay_km": 5
+   },
+   {
+    "nom": "Courrendlin",
+    "slug": "arboriste-courrendlin",
+    "population": 3737,
+    "altitude": "436 m",
+    "distance_courgenay_km": 20
+   },
+   {
+    "nom": "Courroux",
+    "slug": "arboriste-courroux",
+    "population": 3439,
+    "altitude": "418 m",
+    "distance_courgenay_km": 20
+   },
+   {
+    "nom": "Val Terbi",
+    "slug": "arboriste-val-terbi",
+    "population": 3240,
+    "altitude": "455 m",
+    "distance_courgenay_km": 20
+   },
+   {
+    "nom": "Courtételle",
+    "slug": "arboriste-courtetelle",
+    "population": 2784,
+    "altitude": "441 m",
+    "distance_courgenay_km": 15
+   },
+   {
+    "nom": "Saignelégier",
+    "slug": "arboriste-saignelegier",
+    "population": 2528,
+    "altitude": "978 m",
+    "distance_courgenay_km": 20
+   },
+   {
+    "nom": "Courgenay",
+    "slug": "arboriste-courgenay",
+    "population": 2463,
+    "altitude": "488 m",
+    "distance_courgenay_km": 0
+   },
+   {
+    "nom": "Alle",
+    "slug": "arboriste-alle",
+    "population": 1965,
+    "altitude": "450 m",
+    "distance_courgenay_km": 5
+   },
+   {
+    "nom": "Le Noirmont",
+    "slug": "arboriste-le-noirmont",
+    "population": 1936,
+    "altitude": "971 m",
+    "distance_courgenay_km": 25
+   }
+  ],
+  "distance_min_km": 0,
+  "distance_max_km": 30,
+  "reglement": {
+   "resume": "Dans le canton du Jura, les haies, bosquets, arbres isolés et allées sont des monuments naturels protégés par la loi cantonale sur la protection de la nature et du paysage (LPNP, RSJU 451, art. 8, 38-40). Hors zone à bâtir, supprimer ou réduire une haie ou un bosquet exige une dérogation accordée par la commune d'entente avec l'Office de l'environnement, avec compensation. En zone à bâtir, de nombreuses communes soumettent l'abattage et l'élagage sévère à autorisation communale : à Delémont, par exemple, dès 20 cm de diamètre de tronc. En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LFOR RSJU 921.11). Nous vérifions les règles communales avant chaque intervention et planifions l'entretien des haies hors période de nidification, en hiver.",
+   "court": "Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle de votre commune avant d'intervenir.",
+   "communes_connues": {
+    "Delémont": "Règlement communal sur les constructions (2017), art. 33-35 : en zone à bâtir, tout arbre dont le tronc a un diamètre de 20 cm ou plus est protégé ; abattage ou élagage sévère soumis à autorisation communale, avec plantation compensatoire. En zone agricole (art. 36-41), haies et bosquets protégés, entretien du 1er août au 31 mars."
+   },
+   "non_verifie": [
+    "Porrentruy (règlement 2018 non lisible en ligne)"
+   ],
+   "amende": "jusqu'à 20 000 fr. (LPNP art. 70)",
+   "sources": [
+    "https://www.lexfind.ch/tolv/50930/fr",
+    "https://geo.jura.ch/doc/RCC/6711_RCC_Delemont.pdf"
+   ]
+  }
+ },
+ "NE": {
+  "nom": "Neuchâtel",
+  "nb_communes": 26,
+  "districts": {
+   "Littoral": [
+    "Neuchâtel",
+    "Laténa",
+    "Milvignes",
+    "La Grande Béroche",
+    "Boudry",
+    "Cortaillod",
+    "Le Landeron",
+    "Cressier",
+    "Cornaux",
+    "Rochefort",
+    "Lignières"
+   ],
+   "Montagnes": [
+    "La Chaux-de-Fonds",
+    "Le Locle",
+    "Les Ponts-de-Martel",
+    "La Sagne",
+    "La Brévine",
+    "La Chaux-du-Milieu",
+    "Le Cerneux-Péquignot",
+    "Brot-Plamboz",
+    "Les Planchettes"
+   ],
+   "Neuchâtel": [
+    "lac de Bienne",
+    "lac de Neuchâtel"
+   ],
+   "Val-de-Ruz": [
+    "Val-de-Ruz"
+   ],
+   "Val-de-Travers": [
+    "Val-de-Travers",
+    "Les Verrières",
+    "La Côte-aux-Fées"
+   ]
+  },
+  "grandes_communes": [
+   {
+    "nom": "Neuchâtel",
+    "slug": "arboriste-neuchatel",
+    "population": 45466,
+    "altitude": "725 mMin. 427 mMax. 1 174 m",
+    "distance_courgenay_km": 50
+   },
+   {
+    "nom": "La Chaux-de-Fonds",
+    "slug": "arboriste-la-chaux-de-fonds",
+    "population": 37858,
+    "altitude": "1 039 mMin. 605 mMax. 1 321 m",
+    "distance_courgenay_km": 40
+   },
+   {
+    "nom": "Val-de-Ruz",
+    "slug": "arboriste-val-de-ruz",
+    "population": 17543,
+    "altitude": "760 m",
+    "distance_courgenay_km": 45
+   },
+   {
+    "nom": "Laténa",
+    "slug": "arboriste-latena",
+    "population": 11752,
+    "altitude": null,
+    "distance_courgenay_km": 45
+   },
+   {
+    "nom": "Le Locle",
+    "slug": "arboriste-le-locle",
+    "population": 10912,
+    "altitude": "1 047 mMin. 907 mMax. 1 312 m",
+    "distance_courgenay_km": 50
+   },
+   {
+    "nom": "Val-de-Travers",
+    "slug": "arboriste-val-de-travers",
+    "population": 10710,
+    "altitude": "1 034 mMin. 754 mMax. 1 508 m",
+    "distance_courgenay_km": 65
+   },
+   {
+    "nom": "Milvignes",
+    "slug": "arboriste-milvignes",
+    "population": 9367,
+    "altitude": "457 m",
+    "distance_courgenay_km": 50
+   },
+   {
+    "nom": "La Grande Béroche",
+    "slug": "arboriste-la-grande-beroche",
+    "population": 9363,
+    "altitude": "475 m",
+    "distance_courgenay_km": 60
+   },
+   {
+    "nom": "Boudry",
+    "slug": "arboriste-boudry",
+    "population": 6341,
+    "altitude": "603 mMin. 429 mMax. 1 387 m",
+    "distance_courgenay_km": 55
+   },
+   {
+    "nom": "Cortaillod",
+    "slug": "arboriste-cortaillod",
+    "population": 4769,
+    "altitude": "463 mMin. 428 mMax. 505 m",
+    "distance_courgenay_km": 55
+   },
+   {
+    "nom": "Le Landeron",
+    "slug": "arboriste-le-landeron",
+    "population": 4685,
+    "altitude": "629 mMin. 428 mMax. 1 055 m",
+    "distance_courgenay_km": 40
+   },
+   {
+    "nom": "Cressier",
+    "slug": "arboriste-cressier",
+    "population": 2072,
+    "altitude": "609 mMin. 428 mMax. 1 061 m",
+    "distance_courgenay_km": 40
+   }
+  ],
+  "distance_min_km": 35,
+  "distance_max_km": 75,
+  "reglement": {
+   "resume": "Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN RSN 461.10 art. 12 ; arrêté RSN 461.106) : il est interdit de les essoucher, de les fragmenter ou d'en recéper ou abattre plus du tiers tous les trois ans, et toute intervention doit être annoncée au préalable à la section nature du service de la faune, des forêts et de la nature, qui indique si une dérogation (canton ou Conseil communal) est nécessaire. Plusieurs communes protègent en outre les arbres isolés : sur le territoire de la commune de Neuchâtel (y compris Peseux, Corcelles-Cormondrèche et Valangin depuis 2024), tout arbre de plus de 60 cm de circonférence à 1 m du sol ne peut être abattu ou fortement élagué sans autorisation communale. En forêt, il est interdit d'abattre un arbre non martelé par le service forestier (LCFo art. 51).",
+   "court": "Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle de votre commune avant d'intervenir.",
+   "communes_connues": {
+    "Neuchâtel": "Règlement d'aménagement, art. 148 et 151 : arbres hors forêt de plus de 60 cm de circonférence à 1 m du sol protégés ; abattage ou élagage important soumis à autorisation de la Direction des travaux publics. Étendu à Peseux, Corcelles-Cormondrèche et Valangin en 2024 (sauf site de Chaumont)."
+   },
+   "non_verifie": [
+    "La Chaux-de-Fonds (aucun texte communal localisé)",
+    "Le Locle"
+   ],
+   "amende": "jusqu'à 40 000 fr. (LCPN art. 55)",
+   "sources": [
+    "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461.10.pdf",
+    "https://rsn.ne.ch/DATA/program/books/rsne/pdf/461106.pdf",
+    "https://sitn.ne.ch/web/reglements/6458/01/RA_03_19990705_20240605.pdf"
+   ]
+  }
+ },
+ "BE": {
+  "nom": "Berne",
+  "nb_communes": 58,
+  "districts": {
+   "Bienne": [
+    "Bienne",
+    "Nidau",
+    "Longeau",
+    "Perles",
+    "Brügg",
+    "Port",
+    "Ipsach",
+    "Orpond",
+    "Evilard",
+    "Aegerten",
+    "Safnern",
+    "Belmont",
+    "Meinisberg",
+    "Sutz-Lattrigen",
+    "Douanne-Daucher",
+    "Mörigen",
+    "Schwadernau",
+    "Scheuren",
+    "Gléresse"
+   ],
+   "Courtelary": [
+    "Saint-Imier",
+    "Tramelan",
+    "Péry-La Heutte",
+    "Sonceboz-Sombeval",
+    "Corgémont",
+    "Courtelary",
+    "Orvin",
+    "Sonvilier",
+    "Villeret",
+    "Renan",
+    "Sauge",
+    "Cortébert",
+    "La Ferrière",
+    "Cormoret",
+    "Romont (BE)",
+    "Mont-Tramelan"
+   ],
+   "La Neuveville": [
+    "La Neuveville",
+    "Plateau de Diesse",
+    "Nods"
+   ],
+   "Moutier": [
+    "Valbirse",
+    "Tavannes",
+    "Reconvilier",
+    "Court",
+    "Saicourt",
+    "Crémines",
+    "Perrefitte",
+    "Petit-Val",
+    "Grandval",
+    "Eschert",
+    "Loveresse",
+    "Sorvilier",
+    "Belprahon",
+    "Roches",
+    "Corcelles",
+    "Champoz",
+    "Saules",
+    "Elay",
+    "La Scheulte",
+    "Rebévelier"
+   ]
+  },
+  "grandes_communes": [
+   {
+    "nom": "Bienne",
+    "slug": "arboriste-bienne",
+    "population": 57462,
+    "altitude": "434 m",
+    "distance_courgenay_km": 30
+   },
+   {
+    "nom": "Nidau",
+    "slug": "arboriste-nidau",
+    "population": 7160,
+    "altitude": "495 m",
+    "distance_courgenay_km": 30
+   },
+   {
+    "nom": "Longeau",
+    "slug": "arboriste-longeau",
+    "population": 5808,
+    "altitude": "Min. 430 mMax. 1 199 m",
+    "distance_courgenay_km": 30
+   },
+   {
+    "nom": "Perles",
+    "slug": "arboriste-perles",
+    "population": 5255,
+    "altitude": "430 m",
+    "distance_courgenay_km": 30
+   },
+   {
+    "nom": "Saint-Imier",
+    "slug": "arboriste-saint-imier",
+    "population": 5144,
+    "altitude": "820 m",
+    "distance_courgenay_km": 30
+   },
+   {
+    "nom": "Brügg",
+    "slug": "arboriste-brugg",
+    "population": 4714,
+    "altitude": "485 m",
+    "distance_courgenay_km": 35
+   },
+   {
+    "nom": "Tramelan",
+    "slug": "arboriste-tramelan",
+    "population": 4670,
+    "altitude": "900 m",
+    "distance_courgenay_km": 20
+   },
+   {
+    "nom": "Valbirse",
+    "slug": "arboriste-valbirse",
+    "population": 4043,
+    "altitude": "699 m",
+    "distance_courgenay_km": 20
+   },
+   {
+    "nom": "Port",
+    "slug": "arboriste-port",
+    "population": 3976,
+    "altitude": "448 m",
+    "distance_courgenay_km": 35
+   },
+   {
+    "nom": "Ipsach",
+    "slug": "arboriste-ipsach",
+    "population": 3873,
+    "altitude": "442 m",
+    "distance_courgenay_km": 35
+   },
+   {
+    "nom": "La Neuveville",
+    "slug": "arboriste-la-neuveville",
+    "population": 3781,
+    "altitude": "Min. 429 mMax. 926 m",
+    "distance_courgenay_km": 40
+   },
+   {
+    "nom": "Tavannes",
+    "slug": "arboriste-tavannes",
+    "population": 3469,
+    "altitude": "758 m",
+    "distance_courgenay_km": 20
+   }
+  ],
+  "distance_min_km": 15,
+  "distance_max_km": 40,
+  "reglement": {
+   "resume": "Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel par la loi cantonale sur la protection de la nature (LCPN BSG 426.11 art. 27) ; leur entretien (taille, éclaircissage, recépage d'au plus la moitié en trois ans) est autorisé, mais leur suppression nécessite une dérogation de la préfecture avec compensation écologique. Les arbres isolés, groupes d'arbres et allées de valeur sont protégés via les règlements communaux (à Saint-Imier, par exemple, l'abattage d'un arbre porté au plan de protection n'est autorisé par la Municipalité qu'en cas de danger, avec compensation) ; à Bienne, se référer au règlement de construction de la Ville. En forêt, tout abattage requiert une autorisation du service forestier (LCFo BSG 921.11 art. 10).",
+   "court": "Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle de votre commune avant d'intervenir.",
+   "communes_connues": {
+    "Saint-Imier": "Règlement d'affectation du sol et de construction (2013), art. 72-73 : haies, bosquets et arbres portés au plan de protection maintenus ; abattage autorisé par la Municipalité seulement en cas de danger, avec compensation."
+   },
+   "non_verifie": [
+    "Bienne (règlement de construction de 1998 en révision, dispositions sur les arbres non consultées)"
+   ],
+   "amende": "de 100 à 50 000 fr. (LCPN art. 57)",
+   "sources": [
+    "https://be.lexwork.naz.ch/fr/dta/426.11.pdf",
+    "https://www.belex.sites.be.ch/api/de/versions/2696/pdf_file",
+    "https://www.saint-imier.ch/wp-content/uploads/2024/03/st-imier_-reglements-communaux-7_28.pdf"
+   ]
+  }
+ },
+ "FR": {
+  "nom": "Fribourg",
+  "nb_communes": 55,
+  "districts": {
+   "Broye": [
+    "Estavayer",
+    "Belmont-Broye",
+    "Montagny",
+    "Cheyres-Châbles",
+    "Saint-Aubin",
+    "Cugy (FR)",
+    "Fétigny-Ménières",
+    "Les Montets"
+   ],
+   "Glâne": [
+    "Romont (FR)",
+    "Ursy",
+    "Siviriez",
+    "Rue",
+    "Villaz",
+    "Vuisternens-devant-Romont",
+    "Villorsonnens"
+   ],
+   "Gruyère": [
+    "Bulle",
+    "Broc",
+    "Riaz",
+    "Val-de-Charmey",
+    "Vuadens",
+    "Gruyères",
+    "Marsens",
+    "La Roche",
+    "Pont-en-Ogoz",
+    "Haut-Intyamon",
+    "Bas-Intyamon"
+   ],
+   "Lac": [
+    "Morat",
+    "Courtepin",
+    "Chiètres",
+    "Cormondes",
+    "Mont-Vully",
+    "Misery-Courtion"
+   ],
+   "Sarine": [
+    "Fribourg",
+    "Villars-sur-Glâne",
+    "Marly",
+    "Gibloux",
+    "Granges-Paccot",
+    "Givisiez",
+    "Belfaux",
+    "Le Mouret",
+    "Corminboeuf",
+    "Grolley-Ponthaux",
+    "Neyruz",
+    "Hauterive",
+    "Bois-d'Amont",
+    "Prez",
+    "La Brillaz",
+    "Matran",
+    "Avry",
+    "Treyvaux",
+    "Cottens"
+   ],
+   "Veveyse": [
+    "Châtel-Saint-Denis",
+    "Attalens",
+    "Bossonnens",
+    "Semsales"
+   ]
+  },
+  "grandes_communes": [
+   {
+    "nom": "Fribourg",
+    "slug": "arboriste-fribourg",
+    "population": 39599,
+    "altitude": "600 mMin. 541 mMax. 691 m",
+    "distance_courgenay_km": 65
+   },
+   {
+    "nom": "Bulle",
+    "slug": "arboriste-bulle",
+    "population": 27276,
+    "altitude": "892 mMin. 730 mMax. 1'170 m",
+    "distance_courgenay_km": 90
+   },
+   {
+    "nom": "Villars-sur-Glâne",
+    "slug": "arboriste-villars-sur-glane",
+    "population": 12644,
+    "altitude": "659 mMin. 554 mMax. 720 m",
+    "distance_courgenay_km": 70
+   },
+   {
+    "nom": "Estavayer",
+    "slug": "arboriste-estavayer",
+    "population": 10812,
+    "altitude": "448 m",
+    "distance_courgenay_km": 65
+   },
+   {
+    "nom": "Marly",
+    "slug": "arboriste-marly",
+    "population": 9566,
+    "altitude": "622 mMin. 554 mMax. 730 m",
+    "distance_courgenay_km": 70
+   },
+   {
+    "nom": "Morat",
+    "slug": "arboriste-morat",
+    "population": 9525,
+    "altitude": "453 m",
+    "distance_courgenay_km": 55
+   },
+   {
+    "nom": "Châtel-Saint-Denis",
+    "slug": "arboriste-chatel-saint-denis",
+    "population": 8931,
+    "altitude": "1 208 mMin. 701 mMax. 2 014 m",
+    "distance_courgenay_km": 100
+   },
+   {
+    "nom": "Gibloux",
+    "slug": "arboriste-gibloux",
+    "population": 8719,
+    "altitude": "700 m",
+    "distance_courgenay_km": 75
+   },
+   {
+    "nom": "Belmont-Broye",
+    "slug": "arboriste-belmont-broye",
+    "population": 6287,
+    "altitude": "443 m",
+    "distance_courgenay_km": 60
+   },
+   {
+    "nom": "Romont (FR)",
+    "slug": "arboriste-romont-fr",
+    "population": 6276,
+    "altitude": "731 mMin. 685 mMax. 811 m",
+    "distance_courgenay_km": 80
+   },
+   {
+    "nom": "Courtepin",
+    "slug": "arboriste-courtepin",
+    "population": 5847,
+    "altitude": "653 mMin. 608 mMax. 717 m",
+    "distance_courgenay_km": 60
+   },
+   {
+    "nom": "Chiètres",
+    "slug": "arboriste-chietres",
+    "population": 5546,
+    "altitude": "511 mMin. 484 mMax. 587 m",
+    "distance_courgenay_km": 50
+   }
+  ],
+  "distance_min_km": 50,
+  "distance_max_km": 100,
+  "reglement": {
+   "resume": "Dans le canton de Fribourg, les boisements hors forêt (haies, bosquets, cordons boisés, alignements et grands arbres isolés) situés hors zone à bâtir et d'intérêt écologique ou paysager ne peuvent pas être supprimés sans dérogation (LPNat RSF 721.0.1 art. 22). La dérogation est délivrée par la commune, sur préavis du Service des forêts et de la nature, avec compensation obligatoire. En zone à bâtir, la protection est définie par le plan d'aménagement local et le règlement communal d'urbanisme de chaque commune. L'entretien périodique (taille, élagage d'entretien) reste libre, mais un entretien inadapté (coupe rase d'une haie, taille sévère, dessouchage) peut entraîner une remise en état. En forêt, tout abattage est soumis à l'autorisation du service forestier (LFo art. 21 ; LFCN RSF 921.1 art. 43).",
+   "court": "Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle de votre commune avant d'intervenir.",
+   "communes_connues": {},
+   "non_verifie": [
+    "Règlements communaux d'urbanisme (Fribourg, Bulle, Villars-sur-Glâne…)"
+   ],
+   "sources": [
+    "https://www.fr.ch/energie-agriculture-et-environnement/faune-et-biodiversite/boisements-hors-foret",
+    "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.1",
+    "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.11"
+   ]
+  }
+ },
+ "VD": {
+  "nom": "Vaud",
+  "nb_communes": 58,
+  "districts": {
+   "Broye-Vully": [
+    "Payerne",
+    "Moudon",
+    "Avenches",
+    "Lucens",
+    "Vully-les-Lacs",
+    "Valbroye",
+    "Corcelles-près-Payerne",
+    "Cudrefin"
+   ],
+   "Gros-de-Vaud": [
+    "Échallens",
+    "Penthalaz",
+    "Montanaire",
+    "Cugy (VD)",
+    "Froideville",
+    "Penthaz",
+    "Montilliez",
+    "Assens",
+    "Jorat-Menthue"
+   ],
+   "Jura-Nord vaudois": [
+    "Yverdon-les-Bains",
+    "Orbe",
+    "Chavornay",
+    "Sainte-Croix",
+    "Le Chenit",
+    "Vallorbe",
+    "Yvonand",
+    "Grandson",
+    "L'Abbaye"
+   ],
+   "Lausanne": [
+    "Lausanne",
+    "Épalinges",
+    "Le Mont-sur-Lausanne",
+    "Cheseaux-sur-Lausanne",
+    "Romanel-sur-Lausanne"
+   ],
+   "Lavaux-Oron": [
+    "Pully",
+    "Lutry",
+    "Oron",
+    "Bourg-en-Lavaux",
+    "Belmont-sur-Lausanne",
+    "Savigny",
+    "Jorat-Mézières",
+    "Puidoux",
+    "Chexbres",
+    "Servion",
+    "Forel"
+   ],
+   "Ouest lausannois": [
+    "Renens",
+    "Écublens",
+    "Prilly",
+    "Bussigny",
+    "Crissier",
+    "Chavannes-près-Renens",
+    "Saint-Sulpice"
+   ],
+   "Riviera-Pays-d'Enhaut": [
+    "Montreux",
+    "Vevey",
+    "La Tour-de-Peilz",
+    "Blonay - Saint-Légier",
+    "Château-d'Œx",
+    "Corsier-sur-Vevey",
+    "Chardonne",
+    "Corseaux",
+    "Jongny"
+   ]
+  },
+  "grandes_communes": [
+   {
+    "nom": "Lausanne",
+    "slug": "arboriste-lausanne",
+    "population": 145596,
+    "altitude": "495 mMin. 372 mMax. 935 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Yverdon-les-Bains",
+    "slug": "arboriste-yverdon-les-bains",
+    "population": 30590,
+    "altitude": "433 m",
+    "distance_courgenay_km": 80
+   },
+   {
+    "nom": "Montreux",
+    "slug": "arboriste-montreux",
+    "population": 27182,
+    "altitude": "390 m",
+    "distance_courgenay_km": 110
+   },
+   {
+    "nom": "Renens",
+    "slug": "arboriste-renens",
+    "population": 21793,
+    "altitude": "440 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Vevey",
+    "slug": "arboriste-vevey",
+    "population": 20147,
+    "altitude": "383 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Pully",
+    "slug": "arboriste-pully",
+    "population": 19536,
+    "altitude": "Min. 375 mMax. 800[1] m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Écublens",
+    "slug": "arboriste-ecublens",
+    "population": 13747,
+    "altitude": "Min. 376 mMax. 443 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "La Tour-de-Peilz",
+    "slug": "arboriste-la-tour-de-peilz",
+    "population": 13046,
+    "altitude": "382 m",
+    "distance_courgenay_km": 110
+   },
+   {
+    "nom": "Prilly",
+    "slug": "arboriste-prilly",
+    "population": 13037,
+    "altitude": "481 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Blonay - Saint-Légier",
+    "slug": "arboriste-blonay-saint-legier",
+    "population": 12608,
+    "altitude": "622 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Bussigny",
+    "slug": "arboriste-bussigny",
+    "population": 12120,
+    "altitude": "Min. 387 mMax. 495 m",
+    "distance_courgenay_km": 105
+   },
+   {
+    "nom": "Crissier",
+    "slug": "arboriste-crissier",
+    "population": 11101,
+    "altitude": "485 m",
+    "distance_courgenay_km": 105
+   }
+  ],
+  "distance_min_km": 50,
+  "distance_max_km": 110,
+  "reglement": {
+   "resume": "Dans le canton de Vaud, hors forêt, l'abattage d'un arbre protégé et tout élagage qui dépasse l'entretien courant exigent une autorisation écrite préalable de la Municipalité, fondée sur le règlement communal de protection du patrimoine arboré et sur la loi cantonale sur la protection du patrimoine naturel et paysager (LPrPNP, BLV 450.11, art. 14-15). Le règlement-type cantonal de 2024 protège les arbres de plus de 40 cm de circonférence mesurée à 1 m du sol, toutes les haies vives et les fruitiers haute-tige ; beaucoup de communes appliquent encore un ancien règlement avec un seuil exprimé en diamètre (souvent 20 ou 30 cm à 1,30 m). La demande est affichée au pilier public et une plantation compensatoire est exigée. En cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. Un élagage ou un écimage inconsidéré est assimilé à un abattage sans autorisation. En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LVLFo art. 53-54).",
+   "court": "Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle de votre commune avant d'intervenir.",
+   "communes_connues": {
+    "Lausanne": "La Ville de Lausanne a adopté en 2025 un nouveau règlement de protection du patrimoine arboré aligné sur le seuil cantonal de 40 cm de circonférence (préavis 2025/56). À vérifier sur lausanne.ch avant de citer un chiffre."
+   },
+   "non_verifie": [
+    "Seuils des règlements communaux d'Yverdon-les-Bains, Vevey, Montreux, Payerne"
+   ],
+   "amende": "LPrPNP art. 62",
+   "sources": [
+    "https://www.vd.ch/environnement/biodiversite-et-paysage/patrimoine-arbore-1-1",
+    "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11",
+    "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11.1"
+   ]
+  }
+ }
+}

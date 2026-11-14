@@ -1,0 +1,66 @@
+{
+ "service": "abattage-demontage",
+ "commune": "arboriste-la-chaux-de-fonds",
+ "h1_plain": "Abattage et démontage d'arbres à La Chaux-de-Fonds",
+ "title": "Abattage et démontage d'arbres à La Chaux-de-Fonds (NE) | Arboritaille",
+ "desc": "Abattage et démontage d'arbres à La Chaux-de-Fonds : cours d'immeubles, jardins enclavés, arbres abîmés par la neige. Visite et devis gratuits.",
+ "eyebrow": "Abattage · La Chaux-de-Fonds",
+ "h1": "Abattage et démontage d'arbres à <em>La Chaux-de-Fonds</em>",
+ "lead": "Dans le damier de La Chaux-de-Fonds, un arbre de cour se démonte pièce par pièce, entre les façades. Nous intervenons à la corde et vérifions la règle communale avant tout abattage.",
+ "points": [
+  "Visite et devis gratuits",
+  "Démontage à la corde en cour d'immeuble",
+  "Bois sorti par les passages existants",
+  "Règle communale vérifiée avant l'abattage"
+ ],
+ "intro_eyebrow": "La Chaux-de-Fonds",
+ "intro_h2": "Abattre dans une cour d'îlot, à 1 000 m d'altitude",
+ "intro": "<p>L'« urbanisme horloger » de La Chaux-de-Fonds, inscrit au patrimoine mondial de l'Unesco, entremêle habitat et ateliers. Dans un tel tissu, cours et jardins sont souvent pris entre des immeubles. Un arbre ne s'y couche pas.</p><p>Le démontage se fait depuis la couronne. Chaque tronçon est retenu à la corde, puis posé au sol à l'écart des vitrages. Le bois sort par l'allée, le porche ou le passage qui dessert la cour.</p><p>L'altitude ajoute sa part. À plus de 1 000 m, la neige mouillée peut casser une cime ou arracher une charpentière. Un arbre ainsi abîmé devient parfois instable : un examen dit s'il faut le conserver ou l'abattre.</p><p>Avant de couper, nous posons la question de l'autorisation à la Ville. Dans le canton de Neuchâtel, la protection des arbres isolés relève des règlements communaux.</p>",
+ "contexte": [
+  {
+   "icone": "HOME",
+   "titre": "Cours d'îlot",
+   "texte": "Entre quatre façades, la zone de travail est petite. Nous protégeons le sol, retenons chaque pièce et tenons les habitants à distance le temps de l'intervention."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Après la neige ou le vent",
+   "texte": "Une cime cassée ou une charpentière arrachée laisse une plaie large. Selon son emplacement, l'arbre se conserve avec une taille de reprise ou doit être démonté."
+  },
+  {
+   "icone": "AXE",
+   "titre": "Évacuer par un passage étroit",
+   "texte": "Quand l'accès se limite à une allée ou à un porche, le tronc est débité en pièces portables. Les branches sont broyées dans la rue si le stationnement le permet."
+  },
+  {
+   "icone": "DOC",
+   "titre": "Autorisation : nous posons la question",
+   "texte": "Nous ne citons ici aucun seuil communal : nous ne publions que des règles vérifiées. Pour votre arbre, nous interrogeons la Ville de La Chaux-de-Fonds avant de fixer une date."
+  }
+ ],
+ "reglement": "<strong>Autorisation d'abattage à La Chaux-de-Fonds.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton.<br>Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle communale de La Chaux-de-Fonds avant d'intervenir.",
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à La Chaux-de-Fonds ?",
+   "a": "Les haies et bosquets sont protégés par la loi cantonale. Pour un arbre isolé, c'est le règlement communal qui décide. Nous interrogeons le service communal compétent avant tout abattage, puis nous vous indiquons la démarche à suivre."
+  },
+  {
+   "q": "Comment sortez-vous le bois d'une cour sans accès pour un véhicule ?",
+   "a": "Le tronc est débité en pièces qu'une personne peut porter. Elles sortent par l'allée ou le porche, protégés si nécessaire. Les branches sont broyées dans la rue quand un emplacement est disponible, sinon évacuées telles quelles."
+  },
+  {
+   "q": "Abattez-vous en hiver à La Chaux-de-Fonds ?",
+   "a": "Oui, quand l'accès et la sécurité le permettent. L'hiver est la saison habituelle des abattages, hors période de nidification. À plus de 1 000 m, une forte couche de neige peut nous amener à repousser la date."
+  },
+  {
+   "q": "Un résineux a grandi tout près de l'immeuble : peut-on l'abattre ?",
+   "a": "Techniquement oui : un résineux proche d'une façade se démonte par tronçons depuis le haut. Il reste à vérifier la règle communale et, dans un immeuble, à obtenir l'accord du propriétaire ou de la gérance. Le devis peut être établi à son nom."
+  },
+  {
+   "q": "Faut-il occuper la rue pendant l'abattage ?",
+   "a": "Pas pour un démontage dans une cour. Si l'arbre borde un trottoir ou si un broyeur stationne sur la chaussée, une occupation du domaine public peut être nécessaire. Nous l'identifions lors de la visite et la prévoyons avant l'intervention."
+  }
+ ],
+ "cta_h2": "Un arbre à abattre à La Chaux-de-Fonds ?",
+ "cta_lead": "Cour d'immeuble ou jardin enclavé : visite et devis gratuits."
+}

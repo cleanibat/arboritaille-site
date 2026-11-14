@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Aegerten (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, réduction de couronne, démontage et abattage d'arbres à Aegerten, entre Brügg et Port, canton de Berne. Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Aegerten · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Aegerten</em> : taille, abattage et soins aux arbres",
+ "lead": "Aegerten occupe 2,17 km2 entre Brügg et Port, pour près de 2 500 habitants. Quand un arbre déborde chez le voisin ou touche la toiture, nous venons voir et vous remettons un devis gratuit.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Coupes ciblées qui règlent le problème sans défigurer l'arbre",
+  "Autorisation communale vérifiée avant tout abattage",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Aegerten",
+ "intro_h2": "Un village de 2 km2 entre 427 et 575 m d'altitude",
+ "intro": "<p>Aegerten occupe 2,17 km2 entre Brügg et Port, pour 2 499 habitants. Le village est à 455 m, mais la commune va de 427 m à 575 m, soit près de 150 m de dénivelé.</p><p>Avec plus de 1 100 habitants au km2, les parcelles sont en général mesurées. Un arbre devenu grand finit par frotter une toiture, remplir une gouttière ou dépasser sur la parcelle d'à côté.</p><p>Nous privilégions les coupes qui règlent le problème sans défigurer l'arbre. Quand l'abattage est la seule issue, nous vous indiquons si une autorisation communale est requise, puis nous démontons l'arbre à la corde.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 499 (2025)"
+  ],
+  [
+   "Altitude",
+   "455 m"
+  ],
+  [
+   "Superficie",
+   "2,17 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Aegerten.</strong> Le canton de Berne protège les haies et bosquets dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, la suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Aegerten avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "DOC",
+   "titre": "Avant de couper, vérifier",
+   "texte": "Un arbre de jardin peut être protégé par le règlement communal. Nous nous renseignons auprès de la commune et vous indiquons si une demande d'autorisation est à déposer, et comment."
+  },
+  {
+   "icone": "SCISS",
+   "titre": "La bonne coupe au bon endroit",
+   "texte": "Rabattre une branche au milieu laisse un moignon qui pourrit. Nous coupons au départ d'une branche secondaire, pour que l'arbre cicatrise et garde une forme naturelle."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Toitures et gouttières",
+   "texte": "Une couronne qui frotte les tuiles ou remplit les gouttières de feuilles se dégage par une taille latérale. Nous laissons un espace suffisant pour plusieurs années."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Dégagement de toiture, taille côté voisin et réduction de couronne pour les arbres de jardin d'Aegerten.",
+  "abattage-demontage": "Démontage à la corde quand l'arbre doit partir, pièces retenues et descendues sans toucher aux clôtures ni aux toits.",
+  "haubanage": "Pour un arbre fendu à la fourche mais sain, un hauban évite souvent l'abattage. Nous évaluons cette option sur place.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol, pour reprendre la pelouse ou replanter."
+ },
+ "faq": [
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Aegerten ?",
+   "a": "Possiblement. Le canton de Berne protège haies et bosquets ; le règlement communal d'Aegerten peut protéger certains arbres isolés. Nous vérifions pour vous avant de fixer une date et vous aidons à déposer la demande si nécessaire."
+  },
+  {
+   "q": "Un arbre déborde chez mon voisin à Aegerten, puis-je le faire tailler ?",
+   "a": "Oui. Nous taillons côté voisin en gardant l'arbre équilibré, de préférence avec l'accord des deux parties. Une coupe soignée évite les rejets et les conflits qui reviennent chaque année."
+  },
+  {
+   "q": "Combien de temps dure un démontage dans un jardin ?",
+   "a": "Cela dépend de la taille de l'arbre, de l'accès et du volume de bois à évacuer. Nous évaluons ces points lors de la visite, et le devis précise la durée prévue du chantier."
+  },
+  {
+   "q": "Que devient le bois ?",
+   "a": "Selon le devis, les branches sont broyées ou évacuées, et le tronc est débité en bûches pour votre chauffage ou emporté. Le terrain est nettoyé avant notre départ."
+  },
+  {
+   "q": "Le devis peut-il être rédigé en allemand ?",
+   "a": "Oui. Aegerten est germanophone : nous rédigeons volontiers le devis et nos réponses écrites en allemand. Sur place, les explications se font en français. Posez vos questions dans la langue qui vous convient."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-2",
+ "cta_h2": "Un arbre à tailler ou à abattre à Aegerten ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

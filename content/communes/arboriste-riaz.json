@@ -1,0 +1,84 @@
+{
+ "title": "Arboriste-grimpeur à Riaz (FR) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et plantation d'arbres à Riaz, village dense de l'agglomération de Bulle. Arboriste-grimpeur venu de Courgenay, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Riaz · Gruyère",
+ "h1": "Arboriste-grimpeur à <em>Riaz</em> : taille, abattage et soins aux arbres",
+ "lead": "Riaz, dans l'agglomération de Bulle, est un village dense de la Gruyère. Nous taillons, démontons et remplaçons les arbres de ses jardins et de ses immeubles depuis Courgenay, après une visite gratuite.",
+ "points": [
+  "Taille côté voisin sans déséquilibrer l'arbre",
+  "Visite et devis gratuits",
+  "Remplacement d'un arbre trop grand par une essence adaptée",
+  "Réponse sous 48 h ouvrées"
+ ],
+ "intro_eyebrow": "Vos arbres à Riaz",
+ "intro_h2": "Un village dense de l'agglomération de Bulle",
+ "intro": "<p>Riaz compte 2 924 habitants sur 7,76 km² seulement, soit 377 habitants au kilomètre carré. Le village fait partie de l'agglomération de Bulle depuis sa constitution en 2007.</p><p>Cette densité laisse supposer des parcelles plus petites et des arbres proches des limites, des toits et des routes. Dans ce type d'habitat, la question du voisinage revient souvent : branches qui débordent, ombre, feuilles dans les chéneaux.</p><p>Le territoire monte de 710 à 1 060 m. Au village, vers 850 m, les feuillus de jardin poussent bien mais plus lentement qu'en plaine. Une taille modérée tous les cinq à dix ans suffit en général à les maintenir.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 924 (2025)"
+  ],
+  [
+   "Altitude",
+   "710 à 1 060 m"
+  ],
+  [
+   "NPA",
+   "1632"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 85 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Riaz.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Riaz avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "HOME",
+   "titre": "Parcelles serrées",
+   "texte": "Sur une petite parcelle, un arbre adulte touche vite la maison, le garage ou la clôture. Nous réduisons la couronne là où elle gêne et conservons l'équilibre de l'arbre."
+  },
+  {
+   "icone": "USERS",
+   "titre": "Branches chez le voisin",
+   "texte": "Une branche qui dépasse sur la parcelle voisine se taille proprement à la limite, en respectant l'arbre. Nous conseillons d'en parler au voisin avant et intervenons sur accord des deux parties."
+  },
+  {
+   "icone": "SPROUT",
+   "titre": "Remplacer plutôt que mutiler",
+   "texte": "Quand un arbre est trop grand pour sa place, le rabattre chaque année le fragilise. Un démontage suivi de la plantation d'une essence de taille adaptée est souvent préférable à long terme."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Réduction de couronne, dégagement de façade et taille en limite de parcelle pour les arbres de jardin de Riaz.",
+  "abattage-demontage": "Démontage par sections dans les jardins serrés, sans rien laisser tomber chez le voisin. Bois débité ou évacué.",
+  "plantation-arbres": "Choix d'une essence de taille adaptée à la parcelle, plantation avec tuteurage tripode et conseils d'arrosage."
+ },
+ "faq": [
+  {
+   "q": "Mon arbre déborde chez le voisin à Riaz, que faire ?",
+   "a": "Parlez-en d'abord à votre voisin, puis appelez-nous. Nous taillons les branches qui dépassent au niveau de la limite, en coupes propres, sans déséquilibrer l'arbre. Le devis peut être partagé entre les deux parties si vous le souhaitez."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Riaz ?",
+   "a": "En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés et les cas soumis à autorisation. Hors zone à bâtir, les boisements d'intérêt paysager demandent une dérogation de la commune. Nous vérifions avant d'intervenir."
+  },
+  {
+   "q": "Pouvez-vous travailler dans un petit jardin sans abîmer les plantations ?",
+   "a": "Oui. Nous travaillons en grimpe, sans machine lourde dans le jardin. Chaque branche est descendue à la corde et déposée sur une zone protégée. Pelouse, massifs et dallages sont préservés."
+  },
+  {
+   "q": "Quelle essence planter sur une petite parcelle ?",
+   "a": "Un arbre dont la taille adulte reste modeste et dont les racines ne menacent pas les fondations ou les canalisations. Nous vous proposons plusieurs essences adaptées à l'altitude de Riaz et à l'usage souhaité."
+  },
+  {
+   "q": "Venez-vous aussi pour un seul arbre ?",
+   "a": "Oui. Nous venons depuis Courgenay, à quelque huitante-cinq kilomètres, et regroupons les visites en Gruyère. La visite et le devis restent gratuits, même pour une seule intervention."
+  }
+ ],
+ "cta_img": "plantation_arbre",
+ "cta_h2": "Un arbre à tailler, à abattre ou à remplacer à Riaz ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

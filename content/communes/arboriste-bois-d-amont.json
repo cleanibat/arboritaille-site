@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Bois-d'Amont (FR) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, plantation et soins aux arbres à Bois-d'Amont (FR) : Arconciel, Épendes, Sales et Senèdes, par un arboriste-grimpeur. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Bois-d'Amont · Sarine",
+ "h1": "Arboriste-grimpeur à <em>Bois-d'Amont</em> : taille, abattage et soins aux arbres",
+ "lead": "Bois-d'Amont regroupe depuis 2021 Arconciel, Épendes, Sales et Senèdes, soit 2 489 habitants à 750 m d'altitude. Quatre villages, autant de jardins et de bords de chemin à entretenir : nous venons voir, puis chiffrons.",
+ "points": ["Visite et devis gratuits", "Quatre villages desservis", "Taille raisonnée, sans étêtage", "Réponse sous 48 h ouvrées"],
+ "intro_eyebrow": "Vos arbres à Bois-d'Amont",
+ "intro_h2": "Quatre villages, un nom qui parle de bois",
+ "intro": "<p>Bois-d'Amont est une commune jeune : elle existe depuis le 1er janvier 2021. Elle réunit Arconciel, Épendes, Sales et Senèdes dans le district de la Sarine, à 750 m d'altitude, sur 12,28 km².</p><p>Le nom choisi pour la fusion évoque le bois. Dans quatre villages distincts, les arbres se rencontrent en général partout : cours de ferme, jardins, abords d'école, limites de champs.</p><p>À 750 m, la saison de végétation est en général un peu plus courte qu'en plaine et les gelées tardives plus fréquentes. Nous en tenons compte pour fixer la période de taille et pour choisir les essences à planter.</p>",
+ "faits": [["Habitants", "2 489 (2025)"], ["Altitude", "750 m"], ["Superficie", "12,28 km²"], ["Depuis Courgenay", "env. 70 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Bois-d'Amont.</strong> Dans le canton de Fribourg, les boisements hors forêt d'intérêt écologique ou paysager situés hors zone à bâtir sont protégés (LPNat, RSF 721.0.1 art. 22) : leur suppression demande une dérogation de la commune, sur préavis du Service des forêts et de la nature, avec compensation. En zone à bâtir, le règlement communal d'urbanisme fixe les arbres protégés. Nous vérifions la règle en vigueur à Bois-d'Amont avant d'intervenir.",
+ "contexte": [
+  {"icone": "CLOCK", "titre": "La bonne saison à 750 m", "texte": "Taille d'entretien en hiver hors gel, taille des fruitiers avant le débourrement, haies hors nidification, plantations à l'automne. Nous calons chaque chantier sur l'altitude et l'essence."},
+  {"icone": "HOME", "titre": "Vieille ferme ou lotissement", "texte": "Près d'une ferme ancienne, l'arbre a souvent cinquante ou cent ans et mérite une taille mesurée. Dans un lotissement récent, il s'agit plutôt de contenir une croissance trop rapide pour la parcelle."},
+  {"icone": "SCISS", "titre": "Former les jeunes arbres", "texte": "Un jeune arbre gagne à être formé tôt : une branche supprimée à trois ans évite une grosse coupe à trente. Nous proposons un suivi léger, tous les deux ou trois ans."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des arbres de ferme et de jardin, taille de formation des jeunes plantations, remise en forme des arbres étêtés.",
+  "plantation-arbres": "Plantation à l'automne d'essences adaptées à 750 m d'altitude, tuteurage tripode et conseils d'arrosage.",
+  "abattage-demontage": "Abattage ou démontage à la corde dans les quatre villages, branches broyées, bois débité ou évacué.",
+  "rognage-souche": "Rognage de la souche sous le niveau du sol pour replanter ou engazonner."
+ },
+ "faq": [
+  {"q": "Intervenez-vous à Arconciel, Épendes, Sales et Senèdes ?", "a": "Oui, dans les quatre villages de Bois-d'Amont. Nous nous déplaçons depuis Courgenay, à une septantaine de kilomètres. La visite est gratuite et le devis vous parvient par écrit sous 48 h ouvrées."},
+  {"q": "Quand tailler un arbre à Bois-d'Amont ?", "a": "Pour la plupart des feuillus, en hiver hors période de gel, ou en fin d'été. À 750 m, nous évitons les semaines de gelées tardives pour les coupes importantes. Les haies s'entretiennent en dehors de la nidification."},
+  {"q": "Mon arbre a été étêté il y a des années : que faire ?", "a": "Un arbre étêté produit des rejets mal attachés qui cassent facilement. Nous sélectionnons les plus solides, supprimons les autres et redonnons une structure à la couronne en plusieurs passages. L'abattage n'est pas la seule issue."},
+  {"q": "Dois-je demander une autorisation pour abattre à Bois-d'Amont ?", "a": "Cela dépend de la situation de l'arbre. En zone à bâtir, le règlement communal d'urbanisme s'applique. Hors zone à bâtir, les boisements d'intérêt écologique ou paysager demandent une dérogation de la commune. Nous nous renseignons pour vous."},
+  {"q": "Pouvez-vous enlever la souche après l'abattage ?", "a": "Oui, par rognage : une machine compacte broie la souche sous le niveau du sol. Vous pouvez ensuite replanter ou engazonner. Le rognage figure comme poste séparé dans le devis."}
+ ],
+ "cta_img": "abattage_sequoia",
+ "cta_h2": "Un arbre à tailler ou à planter à Bois-d'Amont ?",
+ "cta_lead": "Visite et devis gratuits dans les quatre villages."
+}

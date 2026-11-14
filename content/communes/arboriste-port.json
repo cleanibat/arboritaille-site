@@ -1,0 +1,92 @@
+{
+ "title": "Arboriste-grimpeur à Port (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, démontage et abattage d'arbres à Port, entre Nidau et Bienne, canton de Berne. Un saule y a été démonté par nos soins. Visite et devis gratuits.",
+ "hero_img": "demontage_saule_port",
+ "hero_pos": "50% 40%",
+ "eyebrow": "Arboriste-grimpeur · Port · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Port</em> : taille, abattage et soins aux arbres",
+ "lead": "Port est une petite commune dense collée à Nidau et à Bienne, où le bateau Bienne–Soleure fait halte dans l'écluse. Nous y avons démonté un saule à la corde. Visite et devis gratuits pour vos arbres.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Un saule démonté à Port, photos ci-dessous",
+  "Démontage à la corde dans les quartiers denses",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Port",
+ "intro_h2": "Entre l'écluse et les quartiers d'habitation",
+ "intro": "<p>Port s'étend sur 2,45 km2, à 448 m d'altitude, entre Nidau, Bienne et Brügg. Le bateau Bienne–Soleure y fait halte dans l'écluse.</p><p>Nous y avons démonté un saule, pièce par pièce, à la corde. Les saules grossissent vite et leur bois tendre se fend : c'est un cas typique d'arbre à sécuriser avant qu'il ne cède.</p><p>Avec près de 4 000 habitants sur ce petit territoire, soit plus de 1 600 au km2, les jardins sont en général serrés. Les arbres y sont proches des maisons, des clôtures et des parcelles voisines.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "3 976"
+  ],
+  [
+   "Altitude",
+   "448 m"
+  ],
+  [
+   "Superficie",
+   "2,45 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 35 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Port.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Port avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "CABLE",
+   "titre": "Le saule de Port",
+   "texte": "Le saule que nous avons démonté à Port a été découpé en pièces courtes, retenues à la corde puis posées au sol. Aucune chute libre, aucun dégât sur le terrain."
+  },
+  {
+   "icone": "HOME",
+   "titre": "Jardins serrés",
+   "texte": "Dans un quartier dense, une couronne qui déborde chez le voisin ou touche une toiture est fréquente. Une réduction ciblée règle le problème sans abattre."
+  },
+  {
+   "icone": "WIND",
+   "titre": "Bois tendre et grand vent",
+   "texte": "Saules et autres essences de bord d'eau cassent plus que les chênes ou les érables. Après une tempête, nous retirons les branches fendues restées accrochées dans la couronne."
+  }
+ ],
+ "services": {
+  "abattage-demontage": "Démontage pièce par pièce, comme pour le saule de Port, quand l'arbre est entouré de bâtiments ou de clôtures.",
+  "elagage-taille-arbres": "Réduction de couronne et taille d'entretien pour les arbres de jardin trop proches des maisons de Port.",
+  "urgence-tempete-arbre-dangereux": "Arbre fendu ou branche suspendue après un coup de vent : nous sécurisons, puis nous démontons proprement.",
+  "rognage-souche": "Après le démontage, la souche peut être rognée pour replanter ou récupérer la surface du jardin."
+ },
+ "faq": [
+  {
+   "q": "Qu'avez-vous fait à Port ?",
+   "a": "Nous avons démonté un saule, à la corde, pièce par pièce. Les photos de ce chantier sont sur cette page. C'est une méthode adaptée aux terrains serrés, où rien ne doit tomber librement."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre à Port ?",
+   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Port. Nous vérifions la situation de votre arbre avant de fixer une date et vous indiquons la démarche."
+  },
+  {
+   "q": "Mon saule penche vers la maison du voisin, faut-il l'abattre ?",
+   "a": "Pas toujours. Si le bois est sain, une réduction de couronne côté voisin et un allègement suffisent souvent. Si le tronc est fendu ou creux, le démontage est plus sûr. Nous regardons avant de décider."
+  },
+  {
+   "q": "Comment accédez-vous à un arbre coincé entre deux jardins ?",
+   "a": "Nous grimpons dans l'arbre et nous descendons chaque pièce à la corde. Il suffit d'un passage pour sortir les branches. Aucune machine lourde n'entre dans le jardin."
+  },
+  {
+   "q": "Travaillez-vous en allemand ?",
+   "a": "Par écrit, oui : devis, confirmation et compte rendu peuvent être rédigés en allemand. Sur le chantier, nous parlons français et montrons ce que nous allons couper avant de commencer."
+  }
+ ],
+ "galerie": [
+  [
+   "demontage_saule_port",
+   "Démontage d'un saule à Port (BE) par un arboriste-grimpeur",
+   "Démontage d'un saule à Port, pièce par pièce, à la corde."
+  ]
+ ],
+ "cta_img": "demontage_saule_port",
+ "cta_h2": "Un arbre à tailler ou à démonter à Port ?",
+ "cta_lead": "Visite et devis gratuits. Réponse sous 48 h ouvrées, en français ou en allemand."
+}

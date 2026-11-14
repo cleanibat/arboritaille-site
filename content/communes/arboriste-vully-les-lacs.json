@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Vully-les-Lacs (VD) : taille | Arboritaille",
+ "desc": "Taille, abattage, haubanage et plantation d'arbres à Vully-les-Lacs, de Bellerive à Villars-le-Grand (VD). Arboriste-grimpeur, visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-15", "hero_pos": "50% 50%",
+ "eyebrow": "Arboriste-grimpeur · Vully-les-Lacs · Broye-Vully",
+ "h1": "Arboriste-grimpeur à <em>Vully-les-Lacs</em> : taille, abattage et soins aux arbres",
+ "lead": "Vully-les-Lacs regroupe dix villages, de Bellerive à Villars-le-Grand, à 420 m d'altitude. Nous y intervenons sur les arbres de jardin, de ferme et de rive, en grimpe et à la corde.",
+ "points": ["Visite et devis gratuits", "Dix villages, de Salavaux à Chabrey", "Arbres de rive et de jardin", "Chantier propre, branches évacuées"],
+ "intro_eyebrow": "Vos arbres à Vully-les-Lacs",
+ "intro_h2": "Dix villages réunis à 420 mètres d'altitude",
+ "intro": "<p>Vully-les-Lacs existe depuis le 1er juillet 2011. Sept communes ont alors fusionné, et la commune compte aujourd'hui dix localités, dont Salavaux, Vallamand, Constantine et Chabrey, pour 3 689 habitants sur 22,13 km².</p><p>À 420 m d'altitude, le climat est doux et la saison de végétation longue. Les arbres poussent vite, et une taille de formation tous les deux ou trois ans leur évite de dépasser l'échelle du jardin.</p><p>Depuis Vallamand-Dessous, un bateau rejoint Morat. Près de l'eau, les sols restent en général frais et les arbres de rive portent de longues branches : nous les allégeons ou les ancrons par <a href=\"/haubanage\">haubanage</a> plutôt que de les abattre.</p><p>Nous venons de Courgenay, à environ 55 kilomètres à vol d'oiseau, et pouvons grouper la visite avec des rendez-vous à <a href=\"/arboriste-avenches\">Avenches</a>, voisine.</p>",
+ "faits": [["Habitants", "3 689 (2025)"], ["Altitude", "420 m"], ["Superficie", "22,13 km²"], ["Depuis Courgenay", "env. 55 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Vully-les-Lacs.</strong> Dans le canton de Vaud, l'abattage d'un arbre protégé et tout élagage dépassant l'entretien courant demandent une autorisation écrite de la Municipalité (LPrPNP, BLV 450.11 ; règlement communal du patrimoine arboré). Le règlement-type cantonal protège les arbres dès 40 cm de circonférence à 1 m du sol ; le seuil exact dépend du règlement de chaque commune. Une plantation compensatoire est exigée. Nous vérifions la règle en vigueur à Vully-les-Lacs avant d'intervenir.",
+ "contexte": [
+  {"icone": "CABLE", "titre": "Haubaner plutôt qu'abattre", "texte": "Une fourche fragile ou une grosse branche au-dessus d'une terrasse ne condamne pas l'arbre. Un hauban souple posé dans la couronne retient la pièce et laisse l'arbre bouger."},
+  {"icone": "HOME", "titre": "Dix villages, dix situations", "texte": "De Mur à Montmagny ou Cotterd, chaque village a ses rues et ses parcelles. L'accès et la place changent d'un jardin à l'autre. Nous adaptons la méthode sur place, devant l'arbre."},
+  {"icone": "CLOCK", "titre": "Croissance rapide à basse altitude", "texte": "À 420 m, un arbre de jardin gagne vite en volume. Une taille légère et régulière coûte moins qu'une réduction forte après dix ans d'abandon, et respecte mieux l'arbre."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille de formation et d'entretien pour les arbres de jardin des dix villages de Vully-les-Lacs, coupes propres et silhouette conservée.",
+  "abattage-demontage": "Démontage à la corde près des maisons, abattage dirigé en terrain libre, évacuation des branches et du bois.",
+  "haubanage": "Sécurisation d'une fourche ou d'une branche par hauban souple, pour conserver les grands arbres de rive.",
+  "plantation-arbres": "Plantation d'un arbre adapté à l'altitude et au sol de votre terrain, avec tuteurage tripode."
+ },
+ "faq": [
+  {"q": "Couvrez-vous les dix villages de Vully-les-Lacs ?", "a": "Oui : Bellerive, Chabrey, Constantine, Cotterd, Montmagny, Mur, Salavaux, Vallamand, Vallamand-Dessous et Villars-le-Grand. La visite est gratuite partout et nous groupons les rendez-vous d'un même secteur."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Vully-les-Lacs ?", "a": "Dans le canton de Vaud, l'abattage d'un arbre protégé demande une autorisation écrite de la Municipalité, avec plantation compensatoire. Le seuil de protection dépend du règlement communal : nous le vérifions avant d'intervenir."},
+  {"q": "Un arbre près du lac peut-il être haubané au lieu d'être abattu ?", "a": "Souvent, oui. Si le bois est sain et que seule une fourche ou une branche inquiète, un haubanage dynamique la sécurise. Nous le posons après examen et l'inspectons à intervalles réguliers."},
+  {"q": "Que deviennent les branches et le bois ?", "a": "Selon le devis, les branches sont broyées sur place ou évacuées. Le bois est débité en bûches pour vous ou emporté. Nous laissons le terrain propre avant de partir."},
+  {"q": "Quelle distance depuis Courgenay ?", "a": "Environ 55 kilomètres à vol d'oiseau. Nous organisons les visites et chantiers de la Broye et du Vully par journées groupées. La réponse à votre demande arrive sous 48 h ouvrées."}
+ ],
+ "cta_img": "entretien_platanes_porrentruy",
+ "cta_h2": "Un arbre à tailler ou à sécuriser à Vully-les-Lacs ?",
+ "cta_lead": "Visite et devis gratuits, de Bellerive à Villars-le-Grand."
+}

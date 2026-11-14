@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste à Sonceboz-Sombeval : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage, démontage et plantation d'arbres à Sonceboz-Sombeval (BE), district de Courtelary, par un arboriste-grimpeur de Courgenay. Devis gratuit.",
+ "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 30%",
+ "eyebrow": "Arboriste-grimpeur · Sonceboz-Sombeval · District de Courtelary",
+ "h1": "Arboriste-grimpeur à <em>Sonceboz-Sombeval</em> : taille, abattage et soins aux arbres",
+ "lead": "Sonceboz-Sombeval se trouve à environ vingt-cinq kilomètres de Courgenay et dispose d'une sortie sur l'A16. Deux villages réunis, 1 874 habitants, 653 m d'altitude : nous y taillons, démontons et plantons vos arbres. Visite et devis gratuits.",
+ "points": ["Visite et devis gratuits", "Sécurité près des routes et des voies", "Diagnostic avant toute coupe importante", "Démontage à la corde, chantier propre"],
+ "intro_eyebrow": "Vos arbres à Sonceboz-Sombeval",
+ "intro_h2": "Deux villages réunis autour d'un carrefour routier et ferroviaire",
+ "intro": "<p>Sonceboz-Sombeval est née du regroupement de deux villages, Sonceboz et Sombeval, autrefois séparés par une zone inondée. La commune compte 1 874 habitants sur 15,01 km², à 653 m d'altitude.</p><p>C'est un carrefour : lignes CFF vers Bienne, La Chaux-de-Fonds et Moutier, sortie d'autoroute A16, ancien relais de diligences entre Berne et Bâle. Les arbres proches des voies et des routes demandent une attention particulière pour la sécurité des usagers.</p><p>Là où le sol est resté humide, les arbres s'enracinent souvent en surface. Un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a> permet de dire si une taille suffit ou si l'arbre doit être démonté.</p>",
+ "faits": [["Habitants", "1 874 (2025)"], ["Altitude", "653 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 25 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Sonceboz-Sombeval.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle de Sonceboz-Sombeval avant d'intervenir.",
+ "contexte": [
+  {"icone": "WARN", "titre": "Arbres près des voies et des routes", "texte": "Une branche qui surplombe une route ou une voie doit être surveillée. Nous relevons les couronnes et supprimons le bois mort au-dessus des passages."},
+  {"icone": "SEARCH", "titre": "Diagnostic sur sols humides", "texte": "Les deux villages étaient séparés par un ancien marais. Sur un sol humide, les racines s'ancrent moins profondément : un examen de la base et du collet précède toute décision."},
+  {"icone": "HOME", "titre": "Deux noyaux villageois", "texte": "Sombeval est mentionné dès 866, Sonceboz en 1303. Dans des villages aussi anciens, les arbres plantés près des maisons ont souvent pris de l'ampleur et demandent une taille adaptée au bâti."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Relevage de couronne au-dessus des routes, dégagement des façades et taille d'entretien pour les jardins de Sonceboz et de Sombeval.",
+  "abattage-demontage": "Démontage par morceaux près des habitations et des infrastructures, abattage direct quand la place le permet.",
+  "diagnostic-expertise-arbre": "Examen de la stabilité d'un arbre sur sol humide ou penché vers une route, avec avis écrit.",
+  "urgence-tempete-arbre-dangereux": "Branche cassée au-dessus d'un accès, arbre déraciné après un orage : sécurisation puis remise en état."
+ },
+ "faq": [
+  {"q": "Un arbre penche vers la route à Sonceboz-Sombeval, est-il dangereux ?", "a": "Un arbre penché n'est pas forcément instable, mais sur un sol humide la prudence s'impose. Nous examinons le collet, les racines visibles et la couronne, puis vous remettons un avis écrit avec la solution proposée."},
+  {"q": "Comment accédez-vous aux arbres près de la voie ferrée ?", "a": "Nous travaillons depuis l'arbre, à la corde, et descendons les branches du côté opposé aux voies. Si une emprise sur le domaine ferroviaire est nécessaire, nous le signalons dans le devis pour organiser les démarches."},
+  {"q": "Vous déplacez-vous pour un seul arbre à Sonceboz-Sombeval ?", "a": "Oui. Sonceboz-Sombeval est à environ vingt-cinq kilomètres de Courgenay et dispose d'une sortie sur l'autoroute A16. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."},
+  {"q": "Faut-il une autorisation pour abattre un arbre dans la commune ?", "a": "Dans le canton de Berne, les haies et bosquets sont protégés et les arbres de valeur dépendent du règlement communal. Nous nous renseignons auprès de l'administration avant de fixer la date de l'abattage."},
+  {"q": "Que devient le bois coupé ?", "a": "Selon le devis, les branches sont broyées ou évacuées et le tronc débité en bûches pour votre chauffage. Nous laissons le terrain propre, y compris les accès et le trottoir."}
+ ],
+ "cta_img": "demontage_arbre_porrentruy",
+ "cta_h2": "Un arbre à sécuriser ou à tailler à Sonceboz-Sombeval ?",
+ "cta_lead": "Visite et devis gratuits. Courgenay est à environ vingt-cinq kilomètres."
+}

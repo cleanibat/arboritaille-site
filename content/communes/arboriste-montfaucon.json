@@ -1,0 +1,35 @@
+{
+ "title": "Arboriste-grimpeur à Montfaucon (JU) : taille, abattage | Arboritaille",
+ "desc": "Taille, abattage et soins aux arbres à Montfaucon, Montfavergier et Le Prépetitjean (JU), à 996 m. Visite et devis gratuits depuis Courgenay.",
+ "hero_img": "arboriste_grimpeur-19", "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Montfaucon · Franches-Montagnes",
+ "h1": "Arboriste-grimpeur à <em>Montfaucon</em> : taille, abattage et soins aux arbres",
+ "lead": "Montfaucon fut la paroisse-mère de tout le plateau des Franches-Montagnes. À 996 m, avec Montfavergier et Le Prépetitjean, la commune compte 565 habitants. Nous taillons, abattons et plantons vos arbres sur devis gratuit.",
+ "points": ["Visite et devis gratuits", "À une quinzaine de kilomètres de Courgenay", "Trois localités, un seul devis écrit", "Arbres de montagne à près de 1 000 m"],
+ "intro_eyebrow": "Vos arbres à Montfaucon",
+ "intro_h2": "La paroisse-mère du plateau, à près de 1 000 m",
+ "intro": "<p>Au Moyen Âge, tous les habitants du haut-plateau dépendaient de la paroisse de Montfaucon, citée dès 1139. Les autres villages du plateau n'ont fondé leurs propres paroisses qu'entre 1596 et 1783.</p><p>Montfavergier a rejoint la commune en 2009. Avec Le Prépetitjean, Montfaucon compte aujourd'hui 565 habitants sur 18,24 km², à 996 m d'altitude.</p><p>À cette hauteur, la végétation démarre tard et s'arrête tôt. Les plaies de taille se referment lentement : nous coupons peu, proprement, et jamais en période de gel marqué.</p><p>En montagne, les arbres des fermes et des jardins sont souvent plantés pour l'ombre et l'abri du vent. Quand l'un d'eux menace un toit, nous le réduisons ou le démontons par sections.</p>",
+ "faits": [["Habitants", "565 (2025)"], ["Altitude", "996 m"], ["District", "Franches-Montagnes"], ["Depuis Courgenay", "env. 15 km"]],
+ "reglement": "<strong>Autorisation d'abattage à Montfaucon.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Montfaucon avant d'intervenir.",
+ "contexte": [
+  {"icone": "PIN", "titre": "Montfaucon, Montfavergier, Le Prépetitjean", "texte": "Trois localités réparties sur 18,24 km². Nous nous déplaçons dans chacune et groupons volontiers plusieurs arbres dans un même devis."},
+  {"icone": "MOUNT", "titre": "Près de 1 000 m", "texte": "Neige, gel tardif, vent : les arbres de montagne gardent une couronne compacte si on les taille avec mesure. Nous évitons les grosses coupes qui ne se referment pas."},
+  {"icone": "SHIELD", "titre": "Abri du vent", "texte": "Un arbre planté pour protéger une ferme garde ce rôle. Plutôt que de l'abattre, nous l'allégeons et supprimons le bois mort, pour qu'il résiste aux coups de vent."}
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille mesurée des arbres de ferme et de jardin à Montfaucon, coupes limitées pour une cicatrisation à 996 m.",
+  "abattage-demontage": "Démontage par sections quand l'arbre menace un toit, abattage direct en terrain libre.",
+  "plantation-arbres": "Plantation d'une essence adaptée à l'altitude, tuteurage tripode, emplacement choisi pour vingt ans.",
+  "rognage-souche": "Rognage de souche après abattage pour replanter ou réensemencer."
+ },
+ "faq": [
+  {"q": "Faut-il une autorisation pour abattre un arbre à Montfaucon ?", "a": "Selon la zone. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation communale. En zone à bâtir, le règlement de Montfaucon désigne les arbres protégés. Nous vérifions avant d'intervenir."},
+  {"q": "Intervenez-vous à Montfavergier et au Prépetitjean ?", "a": "Oui. Les deux localités font partie de la commune de Montfaucon, Montfavergier depuis 2009. La visite est gratuite et le devis écrit. L'organisation est la même qu'au village : nous repérons l'accès, puis fixons la méthode."},
+  {"q": "Quelle période pour abattre un arbre à près de 1 000 m ?", "a": "L'abattage se fait toute l'année, en évitant la nidification au printemps pour les arbres qui abritent des nids. L'hiver, le sol gelé protège les prairies du passage des machines et du bois."},
+  {"q": "Combien coûte le déplacement depuis Courgenay ?", "a": "La visite et le devis sont gratuits, sans engagement. Montfaucon est à une quinzaine de kilomètres de Courgenay à vol d'oiseau. Le devis écrit détaille les travaux prévus, arbre par arbre."},
+  {"q": "Peut-on replanter un arbre à Montfaucon après abattage ?", "a": "Oui. Après rognage de la souche, nous plantons une essence adaptée à 996 m, avec tuteurage tripode et consignes d'arrosage. Nous choisissons l'emplacement pour qu'il ne gêne ni toit ni ligne dans vingt ans."}
+ ],
+ "cta_img": "abattage_sequoia",
+ "cta_h2": "Un arbre à tailler, abattre ou remplacer à Montfaucon ?",
+ "cta_lead": "Visite et devis gratuits, à une quinzaine de kilomètres de Courgenay."
+}

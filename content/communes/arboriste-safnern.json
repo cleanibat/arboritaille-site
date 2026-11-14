@@ -1,0 +1,85 @@
+{
+ "title": "Arboriste-grimpeur à Safnern (BE) : taille et abattage | Arboritaille",
+ "desc": "Taille, abattage et entretien de haies et bosquets à Safnern (Savagnier), commune peu dense aux portes de Bienne, canton de Berne. Visite et devis gratuits.",
+ "hero_img": "arboriste_grimpeur-19",
+ "hero_pos": "62% 30%",
+ "eyebrow": "Arboriste-grimpeur · Safnern · Canton de Berne",
+ "h1": "Arboriste-grimpeur à <em>Safnern</em> : taille, abattage et soins aux arbres",
+ "lead": "Safnern, 5,62 km2 et 365 habitants au km2, a la densité d'une commune de campagne, aux portes de Bienne. Haies, bosquets, arbres isolés ou arbres de jardin : nous venons voir et vous remettons un devis gratuit.",
+ "points": [
+  "Visite sur place et devis gratuits",
+  "Haies et bosquets entretenus par tronçons, en hiver",
+  "Dérogation expliquée quand elle est nécessaire",
+  "Devis possible en allemand"
+ ],
+ "intro_eyebrow": "Vos arbres à Safnern",
+ "intro_h2": "Safnern, autrefois Savagnier : haies et bosquets protégés en campagne",
+ "intro": "<p>Safnern, autrefois appelée Savagnier en français, compte 2 049 habitants sur 5,62 km2, à 436 m d'altitude. Avec 365 habitants au km2, la densité est celle d'une commune de campagne, aux portes de Bienne.</p><p>En campagne, les arbres qui nous occupent ne sont pas seulement ceux des jardins : haies vives, bosquets, arbres isolés en bordure de champ ou de chemin. Dans le canton de Berne, ces boisements sont protégés dans leur état actuel.</p><p>Concrètement, on peut les tailler, les éclaircir ou les recéper par tronçons, mais pas les supprimer sans dérogation de la préfecture. Nous programmons ces travaux entre novembre et mars, hors nidification.</p>",
+ "faits": [
+  [
+   "Habitants",
+   "2 049 (2025)"
+  ],
+  [
+   "Altitude",
+   "436 m"
+  ],
+  [
+   "Superficie",
+   "5,62 km2"
+  ],
+  [
+   "Depuis Courgenay",
+   "env. 30 km"
+  ]
+ ],
+ "reglement": "<strong>Autorisation d'abattage à Safnern.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : tailler, éclaircir et recéper par moitié au plus en trois ans est permis ; supprimer demande une dérogation de la préfecture avec compensation écologique. Les arbres isolés et allées de valeur dépendent du règlement communal. Nous vérifions la règle en vigueur à Safnern avant d'intervenir.",
+ "contexte": [
+  {
+   "icone": "LEAF",
+   "titre": "Recéper par tronçons",
+   "texte": "Une vieille haie dégarnie se régénère en la recépant par portions, une moitié au plus en trois ans. Elle repart dense depuis la souche et continue d'abriter oiseaux et petits animaux."
+  },
+  {
+   "icone": "CLOCK",
+   "titre": "Le bon moment",
+   "texte": "Les services cantonaux recommandent d'entretenir haies et bosquets d'octobre à mars, pendant le repos de la végétation. Nous suivons ce calendrier et vérifions l'absence de nids."
+  },
+  {
+   "icone": "TREE",
+   "titre": "L'arbre isolé au milieu du champ",
+   "texte": "Un grand arbre seul en plein champ prend tout le vent. Nous contrôlons ses charpentières, retirons le bois mort et allégeons la couronne pour qu'il tienne encore des décennies."
+  }
+ ],
+ "services": {
+  "elagage-taille-arbres": "Taille d'entretien des arbres isolés et des arbres de ferme, allègement des couronnes exposées au vent à Safnern.",
+  "abattage-demontage": "Abattage direct en terrain ouvert, démontage à la corde près des bâtiments. Bois débité sur place ou évacué.",
+  "plantation-arbres": "Remplacement d'un arbre isolé ou d'un fruitier par une essence adaptée au sol et au climat du lieu.",
+  "diagnostic-expertise-arbre": "Avant de demander une dérogation, un avis écrit sur l'état de l'arbre ou de la haie appuie votre dossier auprès de la commune."
+ },
+ "faq": [
+  {
+   "q": "Puis-je supprimer une haie en bordure de mon champ à Safnern ?",
+   "a": "Pas sans dérogation de la préfecture : les haies et bosquets sont protégés dans leur état actuel dans le canton de Berne. Nous vous expliquons la démarche et, le plus souvent, proposons un recépage partiel qui règle le problème."
+  },
+  {
+   "q": "Faut-il une autorisation pour abattre un arbre de jardin à Safnern ?",
+   "a": "Cela dépend du règlement communal de Safnern, qui peut protéger certains arbres isolés. Nous vérifions auprès de la commune avant de fixer une date et vous indiquons si une demande est à déposer."
+  },
+  {
+   "q": "À quelle période entretenir une haie ?",
+   "a": "D'octobre à mars, pendant le repos de la végétation et hors période de nidification. Si une intervention s'impose au printemps ou en été, nous vérifions d'abord qu'aucun nid n'est occupé."
+  },
+  {
+   "q": "Vous déplacez-vous pour un seul arbre ?",
+   "a": "Oui. Safnern est à une trentaine de kilomètres de Courgenay à vol d'oiseau. La visite et le devis sont gratuits ; nous groupons si possible les rendez-vous du district de Bienne."
+  },
+  {
+   "q": "Pouvons-nous correspondre en allemand ?",
+   "a": "Oui. Le devis, la confirmation et le compte rendu peuvent être rédigés en allemand. Sur place, nous expliquons le travail en français, en montrant ce qui sera coupé."
+  }
+ ],
+ "cta_img": "arboriste_grimpeur-15",
+ "cta_h2": "Une haie, un bosquet ou un arbre à entretenir à Safnern ?",
+ "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
+}

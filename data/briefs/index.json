@@ -1,0 +1,382 @@
+[
+ {
+  "lot": "data/briefs/lot_01.json",
+  "cantons": [
+   "BE"
+  ],
+  "communes": [
+   "Bienne",
+   "Nidau",
+   "Longeau",
+   "Perles",
+   "Brügg",
+   "Port",
+   "Ipsach",
+   "Orpond",
+   "Evilard",
+   "Aegerten",
+   "Safnern",
+   "Belmont",
+   "Meinisberg",
+   "Sutz-Lattrigen",
+   "Douanne-Daucher",
+   "Mörigen"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_02.json",
+  "cantons": [
+   "BE"
+  ],
+  "communes": [
+   "Schwadernau",
+   "Scheuren",
+   "Gléresse",
+   "Saint-Imier",
+   "Tramelan",
+   "Péry-La Heutte",
+   "Sonceboz-Sombeval",
+   "Corgémont",
+   "Courtelary",
+   "Orvin",
+   "Sonvilier",
+   "Villeret",
+   "Renan",
+   "Sauge",
+   "Cortébert",
+   "La Ferrière"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_03.json",
+  "cantons": [
+   "BE"
+  ],
+  "communes": [
+   "Cormoret",
+   "Romont (BE)",
+   "Mont-Tramelan",
+   "La Neuveville",
+   "Plateau de Diesse",
+   "Nods",
+   "Valbirse",
+   "Tavannes",
+   "Reconvilier",
+   "Court",
+   "Saicourt",
+   "Crémines",
+   "Perrefitte",
+   "Petit-Val",
+   "Grandval",
+   "Eschert"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_04.json",
+  "cantons": [
+   "BE",
+   "FR"
+  ],
+  "communes": [
+   "Loveresse",
+   "Sorvilier",
+   "Belprahon",
+   "Roches",
+   "Corcelles",
+   "Champoz",
+   "Saules",
+   "Elay",
+   "La Scheulte",
+   "Rebévelier",
+   "Estavayer",
+   "Belmont-Broye",
+   "Montagny",
+   "Cheyres-Châbles",
+   "Saint-Aubin",
+   "Cugy (FR)"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_05.json",
+  "cantons": [
+   "FR"
+  ],
+  "communes": [
+   "Fétigny-Ménières",
+   "Les Montets",
+   "Romont (FR)",
+   "Ursy",
+   "Siviriez",
+   "Rue",
+   "Villaz",
+   "Vuisternens-devant-Romont",
+   "Villorsonnens",
+   "Bulle",
+   "Broc",
+   "Riaz",
+   "Val-de-Charmey",
+   "Vuadens",
+   "Gruyères",
+   "Marsens"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_06.json",
+  "cantons": [
+   "FR"
+  ],
+  "communes": [
+   "La Roche",
+   "Pont-en-Ogoz",
+   "Haut-Intyamon",
+   "Bas-Intyamon",
+   "Morat",
+   "Courtepin",
+   "Chiètres",
+   "Cormondes",
+   "Mont-Vully",
+   "Misery-Courtion",
+   "Fribourg",
+   "Villars-sur-Glâne",
+   "Marly",
+   "Gibloux",
+   "Granges-Paccot",
+   "Givisiez"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_07.json",
+  "cantons": [
+   "FR"
+  ],
+  "communes": [
+   "Belfaux",
+   "Le Mouret",
+   "Corminboeuf",
+   "Grolley-Ponthaux",
+   "Neyruz",
+   "Hauterive",
+   "Bois-d'Amont",
+   "Prez",
+   "La Brillaz",
+   "Matran",
+   "Avry",
+   "Treyvaux",
+   "Cottens",
+   "Châtel-Saint-Denis",
+   "Attalens",
+   "Bossonnens"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_08.json",
+  "cantons": [
+   "FR",
+   "JU"
+  ],
+  "communes": [
+   "Semsales",
+   "Delémont",
+   "Haute-Sorne",
+   "Moutier",
+   "Courrendlin",
+   "Courroux",
+   "Val Terbi",
+   "Courtételle",
+   "Develier",
+   "Boécourt",
+   "Rossemaison",
+   "Mervelier",
+   "Châtillon",
+   "Soyhières",
+   "Courchapoix",
+   "Movelier"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_09.json",
+  "cantons": [
+   "JU"
+  ],
+  "communes": [
+   "Pleigne",
+   "Saulcy",
+   "Bourrignon",
+   "Ederswiler",
+   "Mettembert",
+   "Saignelégier",
+   "Le Noirmont",
+   "Les Breuleux",
+   "Les Bois",
+   "Lajoux",
+   "Montfaucon",
+   "Les Genevez",
+   "Muriaux",
+   "Le Bémont",
+   "Saint-Brais",
+   "Les Enfers"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_10.json",
+  "cantons": [
+   "JU"
+  ],
+  "communes": [
+   "Soubey",
+   "Porrentruy",
+   "Courgenay",
+   "Alle",
+   "Fontenais",
+   "Clos du Doubs",
+   "Basse-Allaine",
+   "Boncourt",
+   "La Baroche",
+   "Cornol",
+   "Haute-Ajoie",
+   "Courtedoux",
+   "Basse-Vendline",
+   "Cœuve",
+   "Bure",
+   "Vendlincourt"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_11.json",
+  "cantons": [
+   "JU",
+   "NE"
+  ],
+  "communes": [
+   "Damphreux-Lugnez",
+   "Grandfontaine",
+   "Courchavon",
+   "Fahy",
+   "Neuchâtel",
+   "Laténa",
+   "Milvignes",
+   "La Grande Béroche",
+   "Boudry",
+   "Cortaillod",
+   "Le Landeron",
+   "Cressier",
+   "Cornaux",
+   "Rochefort",
+   "Lignières",
+   "La Chaux-de-Fonds"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_12.json",
+  "cantons": [
+   "NE",
+   "VD"
+  ],
+  "communes": [
+   "Le Locle",
+   "Les Ponts-de-Martel",
+   "La Sagne",
+   "La Brévine",
+   "La Chaux-du-Milieu",
+   "Le Cerneux-Péquignot",
+   "Brot-Plamboz",
+   "Les Planchettes",
+   "lac de Bienne",
+   "lac de Neuchâtel",
+   "Val-de-Ruz",
+   "Val-de-Travers",
+   "Les Verrières",
+   "La Côte-aux-Fées",
+   "Payerne",
+   "Moudon"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_13.json",
+  "cantons": [
+   "VD"
+  ],
+  "communes": [
+   "Avenches",
+   "Lucens",
+   "Vully-les-Lacs",
+   "Valbroye",
+   "Corcelles-près-Payerne",
+   "Cudrefin",
+   "Échallens",
+   "Penthalaz",
+   "Montanaire",
+   "Cugy (VD)",
+   "Froideville",
+   "Penthaz",
+   "Montilliez",
+   "Assens",
+   "Jorat-Menthue",
+   "Yverdon-les-Bains"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_14.json",
+  "cantons": [
+   "VD"
+  ],
+  "communes": [
+   "Orbe",
+   "Chavornay",
+   "Sainte-Croix",
+   "Le Chenit",
+   "Vallorbe",
+   "Yvonand",
+   "Grandson",
+   "L'Abbaye",
+   "Lausanne",
+   "Épalinges",
+   "Le Mont-sur-Lausanne",
+   "Cheseaux-sur-Lausanne",
+   "Romanel-sur-Lausanne",
+   "Pully",
+   "Lutry",
+   "Oron"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_15.json",
+  "cantons": [
+   "VD"
+  ],
+  "communes": [
+   "Bourg-en-Lavaux",
+   "Belmont-sur-Lausanne",
+   "Savigny",
+   "Jorat-Mézières",
+   "Puidoux",
+   "Chexbres",
+   "Servion",
+   "Forel",
+   "Renens",
+   "Écublens",
+   "Prilly",
+   "Bussigny",
+   "Crissier",
+   "Chavannes-près-Renens",
+   "Saint-Sulpice",
+   "Montreux"
+  ]
+ },
+ {
+  "lot": "data/briefs/lot_16.json",
+  "cantons": [
+   "VD"
+  ],
+  "communes": [
+   "Vevey",
+   "La Tour-de-Peilz",
+   "Blonay - Saint-Légier",
+   "Château-d'Œx",
+   "Corsier-sur-Vevey",
+   "Chardonne",
+   "Corseaux",
+   "Jongny"
+  ]
+ }
+]
