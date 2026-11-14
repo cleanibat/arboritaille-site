@@ -7,6 +7,21 @@ DirectorySlash Off
 
 RewriteEngine On
 
+# 0) MAINTENANCE : actif tant que le fichier maintenance.flag est présent à la racine (le supprimer pour rouvrir le site).
+#    Aperçu réservé : https://arboritaille.ch/?apercu=37b3b216651b pose un cookie de 12 h qui donne accès au site.
+RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
+RewriteCond %{QUERY_STRING} (^|&)apercu=37b3b216651b(&|$)
+RewriteRule ^ /? [CO=arbo_apercu:37b3b216651b:arboritaille.ch:720:/:1:1,R=302,L]
+RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
+RewriteCond %{HTTP_COOKIE} !arbo_apercu=37b3b216651b
+RewriteCond %{REQUEST_URI} !^/(maintenance\.html|img/|fonts/|robots\.txt)
+RewriteRule ^ - [R=503,L]
+ErrorDocument 503 /maintenance.html
+<IfModule mod_headers.c>
+  Header always set Retry-After "86400" "expr=%{REQUEST_STATUS} == 503"
+  Header always set Cache-Control "no-store" "expr=%{REQUEST_STATUS} == 503"
+</IfModule>
+
 # 1) HTTPS et domaine canonique sans www
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]

@@ -9,7 +9,7 @@ os.chdir(ROOT)
 SITE = 'https://arboritaille.ch/'
 BANNED = [r"dans la r[ée]gion", r"entreprise locale", r"\bbas[ée]e?s? [àa] ", r"toute la suisse romande", r"sans nacelle", r"\bengins?\b", r"jura bernois", r"notre [ée]quipe",
           r"\b(le|la|les) meilleur", r"\bn ?°\s?1\b", r"\bleader\b", r"\bincontournable", r"\bexceptionnel", r"\bimbattable", r"\bcertifi", r"\bdipl[ôo]m", r"\bbrevet"]
-files = sorted(glob.glob('*.html') + glob.glob('conseils/*.html'))
+files = sorted(f for f in glob.glob('*.html') + glob.glob('conseils/*.html') if f != 'maintenance.html')  # page de maintenance (503) hors contrôle SEO
 titles, descs, errors, warns = collections.defaultdict(list), collections.defaultdict(list), [], []
 existing = set()
 for f in files:
