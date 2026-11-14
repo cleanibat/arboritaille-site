@@ -1,4 +1,4 @@
-# arboritaille.ch — Apache (IONOS). URL propres, redirections des anciennes adresses, cache, en-têtes.
+# arboritaille.ch — Apache/LiteSpeed (Hostinger). URL propres, redirections des anciennes adresses, cache, en-têtes.
 AddDefaultCharset UTF-8
 AddType font/woff2 .woff2
 AddType image/webp .webp

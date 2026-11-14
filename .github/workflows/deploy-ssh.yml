@@ -1,8 +1,9 @@
 name: Déploiement SSH (rsync)
 
-# IONOS Hébergement Web (SSH). Inactif tant que la variable de dépôt DEPLOY ne vaut pas « on ».
+# Hostinger (plan Business de Robin Humbert, SSH port 65002, docroot domains/arboritaille.ch/public_html/). Inactif tant que la variable de dépôt DEPLOY ne vaut pas « on ».
 # Le site est généré en local (python3 build.py) et les .html sont versionnés : rsync publie la racine du dépôt sans les fichiers de travail.
 # Secrets à créer sur le dépôt : SSH_HOST, SSH_PORT, SSH_USER, SSH_KEY (clé privée), SSH_KNOWN_HOSTS (ssh-keyscan), SSH_TARGET_DIR (docroot, finit par /), SITE_URL
+# Optionnel : AGENCE_CONFIG (contenu JSON de agence_arboritaille.json, déposé hors docroot dans ../prive_arboritaille/)
 
 on:
   push:
@@ -33,6 +34,16 @@ jobs:
             --exclude 'content' --exclude 'docs' --exclude '.claude' \
             --exclude 'README.md' --exclude '.nojekyll' --exclude '.DS_Store' --exclude '.gitignore' \
             ./ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_TARGET_DIR }}
+      - name: Déposer la configuration Make hors docroot
+        env:
+          AGENCE_CONFIG: ${{ secrets.AGENCE_CONFIG }}
+        if: ${{ env.AGENCE_CONFIG != '' }}
+        run: |
+          printf '%s' "$AGENCE_CONFIG" > agence.json
+          T="${{ secrets.SSH_TARGET_DIR }}"; P="$(dirname "${T%/}")/prive_arboritaille"
+          ssh -i ~/.ssh/deploy_key -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "mkdir -p '$P' && chmod 700 '$P'"
+          scp -i ~/.ssh/deploy_key -P ${{ secrets.SSH_PORT }} agence.json ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"$P/agence_arboritaille.json"
+          rm agence.json
       - name: Vérifier la mise en ligne
         run: |
           sleep 5

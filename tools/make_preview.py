@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Copie du site dans docs/ pour l'aperçu GitHub Pages (https://cleanibat.github.io/arboritaille-site/) :
-chemins absolus préfixés, noindex, formulaire désactivé (aperçu illustratif). La production (IONOS) sert la racine."""
+chemins absolus préfixés, noindex, formulaire désactivé (aperçu illustratif). La production (Hostinger) sert la racine."""
 import os, re, shutil, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)

@@ -1,6 +1,6 @@
 # arboritaille.ch — site principal (statique, SEO)
 
-Site d'Arboritaille (Robin Humbert, arboriste-grimpeur, Courgenay JU). Généré en Python, hébergé sur IONOS, aperçu sur GitHub Pages.
+Site d'Arboritaille (Robin Humbert, arboriste-grimpeur, Courgenay JU). Généré en Python, hébergé chez Hostinger, aperçu sur GitHub Pages.
 
 ## Génération
 
@@ -22,7 +22,7 @@ python3 tools/serve.py 8766      # serveur local avec URL propres (comme .htacce
 
 ## Déploiement
 
-`.github/workflows/deploy-ssh.yml` : rsync vers IONOS à chaque push sur `main`, actif quand la variable de dépôt `DEPLOY` vaut `on` (secrets SSH_HOST, SSH_PORT, SSH_USER, SSH_KEY, SSH_KNOWN_HOSTS, SSH_TARGET_DIR, SITE_URL). Les fichiers de travail (`data/`, `tools/`, `content/`, `docs/`, `*.py`) ne sont pas publiés.
+`.github/workflows/deploy-ssh.yml` : rsync vers Hostinger à chaque push sur `main`, actif quand la variable de dépôt `DEPLOY` vaut `on` (secrets SSH_HOST, SSH_PORT, SSH_USER, SSH_KEY, SSH_KNOWN_HOSTS, SSH_TARGET_DIR, SITE_URL). Les fichiers de travail (`data/`, `tools/`, `content/`, `docs/`, `*.py`) ne sont pas publiés.
 
 Aperçu : https://cleanibat.github.io/arboritaille-site/ (dossier `docs/`, formulaire désactivé, noindex).
 

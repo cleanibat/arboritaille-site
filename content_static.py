@@ -545,7 +545,7 @@ LEGAL = """<h2>Éditeur du site</h2>
 <p>Téléphone : <a href="tel:+41783065304">+41 78 306 53 04</a><br>E-mail : <a href="mailto:contact@arboritaille.ch">contact@arboritaille.ch</a></p>
 <p>Responsable de la publication : Robin Humbert.</p>
 <h2>Hébergement</h2>
-<p>IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Allemagne.</p>
+<p>Hostinger International Ltd., 61 Lordou Vironos Street, 6023 Larnaca, Chypre.</p>
 <h2>Propriété intellectuelle</h2>
 <p>Les textes, photographies et logos de ce site sont la propriété d'Arboritaille, sauf mention contraire. Toute reproduction sans autorisation écrite est interdite. Les photographies montrent des interventions réalisées par l'entreprise.</p>
 <h2>Responsabilité</h2>
@@ -565,7 +565,7 @@ PRIVACY = """<h2>Responsable du traitement</h2>
 <p>Sans votre accord, aucun cookie publicitaire ou de mesure n'est déposé. Vous pouvez modifier votre choix à tout moment via le lien « Cookies » en bas de page.</p>
 <p>Le site mémorise également dans votre navigateur, sans cookie et sans identification, l'origine de votre visite pendant 90 jours, uniquement pour indiquer dans le formulaire d'où provient votre demande.</p>
 <h2>Hébergement</h2>
-<p>Le site est hébergé par IONOS SE en Europe. Les journaux du serveur (adresse IP, pages consultées, date et heure) sont conservés par l'hébergeur pour des raisons de sécurité pendant une durée limitée.</p>
+<p>Le site est hébergé par Hostinger International Ltd. Les journaux du serveur (adresse IP, pages consultées, date et heure) sont conservés par l'hébergeur pour des raisons de sécurité pendant une durée limitée.</p>
 <h2>Vos droits</h2>
 <p>Vous pouvez demander l'accès, la rectification ou la suppression de vos données, ou vous opposer à leur traitement, en écrivant à <a href="mailto:contact@arboritaille.ch">contact@arboritaille.ch</a>. Nous répondons dans un délai de 30 jours.</p>
 <p>Dernière mise à jour : novembre 2026.</p>"""
