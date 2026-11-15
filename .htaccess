@@ -12,13 +12,11 @@ RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
 RewriteRule ^ - [E=MAINT:1]
 
 # 0) MAINTENANCE : actif tant que le fichier maintenance.flag est présent à la racine (le supprimer pour rouvrir le site).
-#    Aperçu réservé : https://arboritaille.ch/?apercu=37b3b216651b pose un cookie de 12 h qui donne accès au site.
+#    Accès réservé : mot de passe saisi sur la page de maintenance -> apercu.php pose le cookie arbo_apercu (30 jours).
+#    __APERCU_TOKEN__ est remplacé au déploiement par le secret GitHub APERCU_TOKEN (jamais écrit dans le dépôt).
 RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
-RewriteCond %{QUERY_STRING} (^|&)apercu=37b3b216651b(&|$)
-RewriteRule ^ /? [CO=arbo_apercu:37b3b216651b:arboritaille.ch:720:/:1:1,R=302,L]
-RewriteCond %{DOCUMENT_ROOT}/maintenance.flag -f
-RewriteCond %{HTTP_COOKIE} !arbo_apercu=37b3b216651b
-RewriteCond %{REQUEST_URI} !^/(maintenance\.html|img/|fonts/|robots\.txt)
+RewriteCond %{HTTP_COOKIE} !(^|;\s*)arbo_apercu=__APERCU_TOKEN__(;|$)
+RewriteCond %{REQUEST_URI} !^/(maintenance\.html|apercu\.php|img/|fonts/|robots\.txt)
 RewriteRule ^ - [R=503,L]
 ErrorDocument 503 /maintenance.html
 <IfModule mod_headers.c>

@@ -26,6 +26,14 @@ jobs:
           echo "${{ secrets.SSH_KEY }}" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
           echo "${{ secrets.SSH_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+      - name: Injecter la clé d'accès de maintenance
+        env:
+          APERCU_TOKEN: ${{ secrets.APERCU_TOKEN }}
+        run: |
+          if grep -q '__APERCU_TOKEN__' .htaccess; then
+            [ -n "$APERCU_TOKEN" ] || { echo "Secret APERCU_TOKEN manquant"; exit 1; }
+            sed -i "s/__APERCU_TOKEN__/${APERCU_TOKEN}/g" .htaccess
+          fi
       - name: Synchroniser les fichiers
         run: |
           rsync -az --delete \
@@ -44,6 +52,16 @@ jobs:
           ssh -i ~/.ssh/deploy_key -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "mkdir -p '$P' && chmod 700 '$P'"
           scp -i ~/.ssh/deploy_key -P ${{ secrets.SSH_PORT }} agence.json ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"$P/agence_arboritaille.json"
           rm agence.json
+      - name: Déposer la configuration de maintenance hors docroot
+        env:
+          MAINT_CONFIG: ${{ secrets.MAINT_CONFIG }}
+        if: ${{ env.MAINT_CONFIG != '' }}
+        run: |
+          printf '%s' "$MAINT_CONFIG" > maint.json
+          T="${{ secrets.SSH_TARGET_DIR }}"; P="$(dirname "${T%/}")/prive_arboritaille"
+          ssh -i ~/.ssh/deploy_key -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "mkdir -p '$P' && chmod 700 '$P'"
+          scp -i ~/.ssh/deploy_key -P ${{ secrets.SSH_PORT }} maint.json ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"$P/maintenance.json"
+          rm maint.json
       - name: Vérifier la mise en ligne
         run: |
           sleep 5
