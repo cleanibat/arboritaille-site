@@ -32,7 +32,7 @@
   {
    "icone": "HOME",
    "titre": "Arbres de jardin",
-   "texte": "Fruitier, feuillu d'ornement ou résineux : chaque arbre de jardin a sa période et sa taille. Nous dégageons la maison, la limite et la lumière sans dénaturer l'arbre."
+   "texte": "Feuillu d'ornement ou résineux : chaque arbre de jardin a sa période et sa taille. Nous dégageons la maison, la limite et la lumière sans dénaturer l'arbre."
   },
   {
    "icone": "USERS",
@@ -40,11 +40,11 @@
    "texte": "Pour un immeuble, une école ou une administration, nous remettons un devis par site et proposons un passage régulier. Le concierge ou le service concerné connaît la date à l'avance."
   }
  ],
- "reglement": "<strong>Élagage et autorisation à Porrentruy.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement.<br>En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Avant un élagage important, nous vérifions auprès de la Ville de Porrentruy la règle applicable à votre arbre.",
+ "reglement": "<strong>Élagage et autorisation à Porrentruy.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement.<br>En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Avant un élagage important, nous vérifions auprès de la Ville de Porrentruy la règle applicable à votre arbre.",
  "faq": [
   {
    "q": "Faut-il une autorisation pour élaguer un arbre à Porrentruy ?",
-   "a": "La loi jurassienne protège haies, bosquets, arbres isolés et allées. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous nous renseignons auprès de la Ville de Porrentruy avant toute taille importante."
+   "a": "La loi jurassienne protège bosquets, arbres isolés et allées. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous nous renseignons auprès de la Ville de Porrentruy avant toute taille importante."
   },
   {
    "q": "Pourquoi réduire un tilleul en plusieurs fois ?",
@@ -55,8 +55,8 @@
    "a": "Oui. Porrentruy est à moins de dix kilomètres de Courgenay. Nous répondons à votre demande sous 48 h ouvrées et convenons d'une date de visite. La visite et le devis sont gratuits, même pour un seul arbre."
   },
   {
-   "q": "Taillez-vous aussi les haies et les fruitiers ?",
-   "a": "Oui. Les haies se taillent de préférence en hiver, hors période de nidification, et nous vérifions l'absence de nids avant d'intervenir. Les fruitiers reçoivent une taille adaptée à leur âge : formation, entretien ou restauration douce."
+   "q": "À quelle période taillez-vous les arbres à Porrentruy ?",
+   "a": "La plupart des tailles d'entretien se font hors feuilles, de l'automne à la fin de l'hiver, hors période de nidification. Pour une taille au printemps ou en été, nous vérifions d'abord l'absence de nids. La date figure dans le devis."
   },
   {
    "q": "Les photos de taille du site ont-elles été prises à Porrentruy ?",

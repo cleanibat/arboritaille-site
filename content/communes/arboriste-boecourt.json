@@ -5,16 +5,16 @@
  "hero_pos": "62% 30%",
  "eyebrow": "Arboriste-grimpeur · Boécourt · Montavon · Séprais",
  "h1": "Arboriste-grimpeur à <em>Boécourt</em> : taille, abattage et soins aux arbres",
- "lead": "Boécourt, Montavon et Séprais forment une commune de 953 habitants, à une dizaine de kilomètres de Courgenay. Fruitiers, arbres de jardin ou haies de ferme : nous venons les voir et vous remettons un devis gratuit.",
+ "lead": "Boécourt, Montavon et Séprais forment une commune de 953 habitants, à une dizaine de kilomètres de Courgenay. Arbres de jardin, de ferme ou de bord de pré : nous venons les voir et vous remettons un devis gratuit.",
  "points": [
   "Visite et devis gratuits",
   "À une dizaine de kilomètres de Courgenay",
   "Trois villages, un seul interlocuteur",
-  "Taille des fruitiers en hiver"
+  "Taille des feuillus en hiver"
  ],
  "intro_eyebrow": "Vos arbres à Boécourt",
  "intro_h2": "Trois petits villages de tradition agricole, tout près de Courgenay",
- "intro": "<p>Boécourt réunit trois villages : Boécourt, Montavon et Séprais. La commune compte 953 habitants à 516 m d'altitude, dans le district de Delémont, et reste indépendante de sa voisine Haute-Sorne.</p><p>Cité en 1141 avec la fondation du couvent de Bellelay, le lieu a longtemps vécu de l'agriculture, de quelques moulins, puis de l'horlogerie et de l'extraction du fer, qui ont réduit le nombre de paysans.</p><p>Les localités sont nées comme de petits bourgs agricoles. Dans ce type de village, les arbres à soigner sont les fruitiers des anciens vergers et les arbres plantés près des maisons.</p><p>Boécourt est à une dizaine de kilomètres de Courgenay. La visite est simple à organiser et nous vous répondons sous 48 h ouvrées.</p>",
+ "intro": "<p>Boécourt réunit trois villages : Boécourt, Montavon et Séprais. La commune compte 953 habitants à 516 m d'altitude, dans le district de Delémont, et reste indépendante de sa voisine Haute-Sorne.</p><p>Cité en 1141 avec la fondation du couvent de Bellelay, le lieu a longtemps vécu de l'agriculture, de quelques moulins, puis de l'horlogerie et de l'extraction du fer, qui ont réduit le nombre de paysans.</p><p>Les localités sont nées comme de petits bourgs agricoles. Dans ce type de village, les arbres à soigner sont ceux des anciennes fermes et ceux plantés près des maisons.</p><p>Boécourt est à une dizaine de kilomètres de Courgenay. La visite est simple à organiser et nous vous répondons sous 48 h ouvrées.</p>",
  "faits": [
   [
    "Habitants",
@@ -33,12 +33,12 @@
    "env. 10 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Boécourt.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Boécourt avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Boécourt.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Boécourt avant d'intervenir.",
  "contexte": [
   {
    "icone": "SPROUT",
-   "titre": "Vergers des anciennes fermes",
-   "texte": "Dans un village de tradition agricole, pommiers, poiriers et pruniers haute-tige sont souvent âgés. Une taille légère en hiver, sans rabattage, prolonge leur vie. Quand l'un d'eux est à bout, nous le remplaçons par un jeune arbre."
+   "titre": "Arbres des anciennes fermes",
+   "texte": "Dans un village de tradition agricole, les arbres des fermes sont souvent âgés. Une taille légère en hiver, sans rabattage, prolonge leur vie. Quand l'un d'eux est à bout, nous le remplaçons par un jeune arbre."
   },
   {
    "icone": "PIN",
@@ -52,26 +52,26 @@
   }
  ],
  "services": {
-  "elagage-taille-arbres": "Taille des fruitiers haute-tige en hiver, entretien des arbres de jardin et de ferme à Boécourt, Montavon et Séprais.",
-  "abattage-demontage": "Abattage direct dans les vergers et les prés, démontage à la corde quand l'arbre touche un bâtiment ou une ligne.",
-  "plantation-arbres": "Remplacement d'un vieux fruitier par un jeune arbre adapté au sol et à l'altitude, tuteuré et protégé."
+  "elagage-taille-arbres": "Taille des feuillus en hiver, entretien des arbres de jardin et de ferme à Boécourt, Montavon et Séprais.",
+  "abattage-demontage": "Abattage direct dans les prés, démontage à la corde quand l'arbre touche un bâtiment ou une ligne.",
+  "plantation-arbres": "Remplacement d'un vieil arbre par un jeune arbre adapté au sol et à l'altitude, tuteuré et protégé."
  },
  "faq": [
   {
-   "q": "Vous déplacez-vous à Boécourt pour un seul fruitier ?",
+   "q": "Vous déplacez-vous à Boécourt pour un seul arbre ?",
    "a": "Oui. Boécourt est à une dizaine de kilomètres de Courgenay. La visite est gratuite et courte à organiser. Pour un seul arbre, nous essayons de la combiner avec un autre rendez-vous du secteur."
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Boécourt ?",
-   "a": "Selon la zone, oui. Hors zone à bâtir, la loi jurassienne protège haies, bosquets et arbres isolés. En zone à bâtir, le règlement communal de Boécourt désigne les arbres protégés. Nous vérifions auprès de la commune avant d'intervenir."
+   "a": "Selon la zone, oui. Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. En zone à bâtir, le règlement communal de Boécourt désigne les arbres protégés. Nous vérifions auprès de la commune avant d'intervenir."
   },
   {
-   "q": "Quand tailler un vieux pommier à Montavon ou à Séprais ?",
+   "q": "Quand tailler un vieil arbre à Montavon ou à Séprais ?",
    "a": "En hiver, hors période de gel, avant le départ de la végétation. Nous retirons le bois mort, les branches qui se croisent et celles qui touchent le sol, sans rabattre l'arbre. Une taille douce vaut mieux qu'une coupe sévère."
   },
   {
-   "q": "Taillez-vous aussi les haies vives autour des prés ?",
-   "a": "Oui, par tronçons et en hiver, car hors zone à bâtir elles sont protégées. Nous ne les supprimons pas sans dérogation communale. L'entretien régulier les garde denses et utiles comme abri et limite."
+   "q": "Entretenez-vous aussi les bosquets autour des prés ?",
+   "a": "Oui, en hiver, car hors zone à bâtir ils sont protégés par la loi jurassienne. Nous ne les supprimons pas sans dérogation de la commune. Nous retirons le bois mort et sécurisons les arbres qui menacent."
   },
   {
    "q": "Faites-vous le rognage de souche après l'abattage ?",

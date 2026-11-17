@@ -10,11 +10,11 @@
  "intro_h2": "Une commune née en 2025, six localités à connaître",
  "intro": "<p>Laténa existe depuis le 1er janvier 2025. La commune est issue de la fusion d'Enges, Hauterive, La Tène et Saint-Blaise, et son siège administratif se trouve à Saint-Blaise.</p><p>Elle réunit 11 752 habitants à Enges, Hauterive, Marin-Epagnier, Saint-Blaise, Thielle-Wavre et Voëns, sur 26 kilomètres carrés du Littoral neuchâtelois. Courgenay est à environ 45 kilomètres à vol d'oiseau.</p><p>Pour vos arbres, la fusion pose une question pratique : quelle règle vaut à votre adresse ? Dans une commune récente, les dispositions des anciennes communes peuvent encore différer. Nous posons la question à l'administration avant tout abattage.</p>",
  "faits": [["Habitants", "11 752"], ["Région", "Littoral"], ["Superficie", "26,02 km²"], ["Depuis Courgenay", "env. 45 km"]],
- "reglement": "<strong>Autorisation d'abattage à Laténa.</strong> Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Laténa avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Laténa.</strong> Dans le canton de Neuchâtel, les bosquets sont protégés sur tout le territoire (LCPN, RSN 461.10) : pas d'essouchage, pas de fragmentation, et au plus un tiers recépé ou abattu tous les trois ans, après annonce à la section nature du canton. Les arbres isolés sont protégés par les règlements communaux, comme à Neuchâtel dès 60 cm de circonférence. Nous vérifions la règle en vigueur à Laténa avant d'intervenir.",
  "contexte": [
   {"icone": "DOC", "titre": "Une règle par adresse", "texte": "Protection des arbres isolés, demande d'autorisation, compensation : nous vérifions auprès de l'administration communale, à Saint-Blaise, ce qui s'applique à votre parcelle."},
   {"icone": "HOME", "titre": "Jardins proches les uns des autres", "texte": "Avec 452 habitants au kilomètre carré, les parcelles se touchent souvent. Un arbre qui grandit atteint vite une façade, une toiture ou le jardin d'à côté."},
-  {"icone": "LEAF", "titre": "Haies et bosquets", "texte": "Sur tout le territoire neuchâtelois, une haie ne s'essouche pas et ne se fragmente pas. Nous en recépons au plus un tiers tous les trois ans, après annonce au canton."}
+  {"icone": "LEAF", "titre": "Bosquets protégés", "texte": "Sur tout le territoire neuchâtelois, un bosquet ne s'essouche pas et ne se fragmente pas. Nous en recépons au plus un tiers tous les trois ans, après annonce au canton."}
  ],
  "services": {
   "elagage-taille-arbres": "Réduction de couronne, relevage des branches basses et dégagement de façade pour les arbres de jardin et de copropriété.",
@@ -25,7 +25,7 @@
  "faq": [
   {"q": "Dans quelles localités de Laténa vous déplacez-vous ?", "a": "Dans toutes : Saint-Blaise, Hauterive, Marin-Epagnier, Thielle-Wavre, Enges et Voëns. Laténa se trouve à environ 45 kilomètres de Courgenay à vol d'oiseau. La visite est gratuite et le devis vous est envoyé par écrit."},
   {"q": "Quel règlement s'applique à mon arbre depuis la fusion ?", "a": "Laténa n'existe que depuis 2025. Nous ne présumons donc pas de la règle : avant chaque abattage, nous demandons à l'administration communale quelles dispositions valent pour votre parcelle, puis nous vous transmettons la réponse."},
-  {"q": "Faut-il annoncer la coupe d'une haie ?", "a": "Dans le canton de Neuchâtel, haies et bosquets sont protégés. Recéper ou abattre une partie de la haie s'annonce au préalable à la section nature du canton, qui indique si une dérogation est nécessaire. Nous préparons cette annonce avec vous."},
+  {"q": "Faut-il annoncer la coupe d'un bosquet à Laténa ?", "a": "Dans le canton de Neuchâtel, les bosquets sont protégés. Recéper ou abattre une partie d'un bosquet s'annonce au préalable à la section nature du canton, qui indique si une dérogation est nécessaire. Nous préparons cette annonce avec vous."},
   {"q": "Mon arbre est devenu trop grand près de la maison, que proposez-vous ?", "a": "Nous commençons par une taille : réduire la couronne, relever les branches basses, dégager la toiture. Si l'arbre n'a vraiment plus la place, nous le démontons à la corde et vous proposons une essence plus adaptée en remplacement."}
  ],
  "cta_img": "arboriste_grimpeur-19",

@@ -5,16 +5,16 @@
  "eyebrow": "Arboriste-grimpeur · Pleigne · district de Delémont",
  "h1": "Arboriste-grimpeur à <em>Pleigne</em> : taille, abattage et soins aux arbres",
  "lead": "Pleigne, avec Bavelier et Lucelle, occupe 17,83 km² à 809 m d'altitude dans le district de Delémont. Depuis Courgenay, à une dizaine de kilomètres, nous taillons, abattons et plantons vos arbres sur devis gratuit.",
- "points": ["Visite et devis gratuits", "À une dizaine de kilomètres de Courgenay", "Arbres de ferme et résineux à 809 m", "Haies et bosquets entretenus en hiver"],
+ "points": ["Visite et devis gratuits", "À une dizaine de kilomètres de Courgenay", "Arbres de ferme et résineux à 809 m", "Bosquets entretenus en hiver"],
  "intro_eyebrow": "Vos arbres à Pleigne",
  "intro_h2": "Entre l'abbaye de Lucelle et le Löwenbourg, un vaste territoire peu peuplé",
  "intro": "<p>Pleigne compte 368 habitants pour 17,83 km², soit une vingtaine d'habitants au kilomètre carré. Le village, Bavelier et Lucelle se partagent ce territoire à 809 m, dans le district de Delémont.</p><p>L'abbaye de Lucelle a longtemps possédé la plupart des terres de la commune. Les ruines du Löwenbourg se trouvent aussi sur son sol. Autour de ce patrimoine, l'arbre fait partie du décor et demande un entretien mesuré.</p><p>Le village comptait 463 habitants en 1880. Quand une commune se dépeuple, les arbres plantés autrefois près des fermes grandissent souvent sans suivi. Nous les allégeons, les réduisons ou les démontons quand ils menacent un toit.</p><p>À cette altitude, les hivers sont marqués et la neige pèse sur les couronnes. Résineux et érables sont fréquents en montagne jurassienne. Nous adaptons la période et la méthode à ce climat.</p>",
  "faits": [["Habitants", "368"], ["Altitude", "809 m"], ["District", "Delémont"], ["Depuis Courgenay", "env. 10 km"]],
- "reglement": "<strong>Autorisation d'abattage à Pleigne.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Pleigne avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Pleigne.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Pleigne avant d'intervenir.",
  "contexte": [
   {"icone": "MOUNT", "titre": "Un territoire étendu", "texte": "17,83 km² pour 368 habitants : sur un territoire aussi étendu, les arbres à voir peuvent être loin du village, près d'une ferme isolée. Nous repérons l'accès lors de la visite gratuite."},
   {"icone": "HOME", "titre": "Patrimoine et arbres anciens", "texte": "Près de l'ancienne abbaye de Lucelle ou du Löwenbourg, un arbre âgé se taille avec retenue. Nous enlevons le bois mort et allégeons la couronne sans changer sa silhouette."},
-  {"icone": "LEAF", "titre": "Haies et bosquets en zone agricole", "texte": "Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne. Nous les entretenons par tronçons, en hiver, et vous indiquons si une dérogation est nécessaire."}
+  {"icone": "LEAF", "titre": "Bosquets en zone agricole", "texte": "Hors zone à bâtir, les bosquets sont protégés par la loi jurassienne. Nous les entretenons par tronçons, en hiver, et vous indiquons si une dérogation est nécessaire."}
  ],
  "services": {
   "abattage-demontage": "Démontage par sections des grands arbres proches des bâtiments de Pleigne, Bavelier et Lucelle. Bois débité sur place ou évacué.",
@@ -24,8 +24,8 @@
  },
  "faq": [
   {"q": "Venez-vous jusqu'à Lucelle et Bavelier ?", "a": "Oui. Les deux localités font partie de la commune de Pleigne. La visite est gratuite et nous en profitons pour repérer l'accès des machines et la sortie du bois. Le devis suit par écrit."},
-  {"q": "Faut-il une autorisation pour abattre un arbre à Pleigne ?", "a": "Cela dépend de la zone. Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, c'est le règlement de Pleigne qui désigne les arbres protégés. Nous vérifions avant d'intervenir."},
-  {"q": "Quand tailler à 809 m d'altitude ?", "a": "Pour les feuillus, de la chute des feuilles au débourrement, hors gel marqué. Les résineux et le bois mort se traitent toute l'année. Les haies s'entretiennent en hiver, hors période de nidification."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Pleigne ?", "a": "Cela dépend de la zone. Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, c'est le règlement de Pleigne qui désigne les arbres protégés. Nous vérifions avant d'intervenir."},
+  {"q": "Quand tailler à 809 m d'altitude ?", "a": "Pour les feuillus, de la chute des feuilles au débourrement, hors gel marqué. Les résineux et le bois mort se traitent toute l'année. Les bosquets s'entretiennent en hiver, hors période de nidification."},
   {"q": "Un épicéa touche le toit d'une ferme, que proposez-vous ?", "a": "Nous commençons par une visite. Selon l'état de l'arbre, nous dégageons la façade par une taille ciblée ou nous le démontons par sections, à la corde. Le bois reste sur place ou part en évacuation, selon le devis."},
   {"q": "Combien de temps pour obtenir un devis à Pleigne ?", "a": "Vous recevez une réponse sous 48 heures ouvrées à votre demande. Nous fixons ensuite la visite gratuite. Le devis écrit vous parvient après le passage sur place, sans engagement."}
  ],

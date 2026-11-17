@@ -17,8 +17,7 @@
     "La chalarose, ou dépérissement des pousses du frêne, est causée par le champignon <em>Hymenoscyphus fraxineus</em>. Il vient d'Asie orientale, où il vit sur les frênes locaux sans leur nuire.",
     "Il a probablement été introduit en Europe avec des plants, au début des années 1990. En Suisse, il a été observé pour la première fois en 2008, sur des frênes du canton de Bâle.",
     "Depuis 2015, sa présence est attestée sur l'ensemble du territoire. Selon l'Office fédéral de l'environnement (OFEV), la maladie touche 90 à 95 % des frênes du pays et ne peut plus être éradiquée.",
-    "Le frêne représente 3,8 % des arbres de la forêt suisse, d'après l'inventaire forestier national. On le rencontre aussi dans les haies, les parcs et les jardins.",
-    "Le frêne commun et le frêne à feuilles étroites sont touchés. Le frêne à fleurs semble résister, note le canton de Vaud."
+    "Le frêne représente 3,8 % des arbres de la forêt suisse, d'après l'inventaire forestier national. On le rencontre aussi dans les parcs et les jardins."
    ]
   },
   {
@@ -42,7 +41,6 @@
   },
   {
    "p": [
-    "Les frênes atteints débourrent souvent tard, de mi-mai à début juin, selon la notice du canton de Vaud.",
     "Le WSL conseille d'évaluer l'état des arbres en juillet, en regardant la couronne, le tronc et le collet.",
     "Tout frêne qui dépérit n'a pas forcément la chalarose. Un examen sur place permet de trancher."
    ]
@@ -54,7 +52,7 @@
     "Les nécroses du collet sont colonisées par l'armillaire, un champignon qui décompose le bois. La destruction du pied s'accélère et l'arbre perd sa stabilité.",
     "Affaibli, le frêne attire aussi l'hylésine du frêne, un scolyte. Selon le WSL, ces organismes secondaires accélèrent le déclin de l'arbre.",
     "Dans une étude du WSL sur 128 frênes vivants, près de 72 % présentaient une nécrose au pied du tronc ou à l'empattement des racines. L'armillaire occupait plus de 92 % de ces lésions.",
-    "Le WSL rapporte des cas isolés de frênes renversés par beau temps, sans vent. Selon le canton de Vaud, les nécroses peuvent apparaître sur des arbres dont la couronne paraît saine.",
+    "Le WSL rapporte des cas isolés de frênes renversés par beau temps, sans vent.",
     "À l'inverse, lors des essais de traction, aucun frêne sans nécrose, pourriture ni blessure au pied ne présentait de risque de chute ou de rupture."
    ],
    "notice": "Un frêne malade peut perdre des branches ou sa stabilité. L'OFEV précise que son abattage ne doit être confié qu'à des spécialistes disposant des connaissances appropriées."
@@ -76,8 +74,7 @@
    "p": [
     "Une petite part des frênes tolère la maladie. Le WSL l'estimait à 1 à 5 % des arbres dans sa notice de 2016.",
     "Gardez donc les frênes qui montrent peu ou pas de symptômes et observez-les chaque été. L'OFEV recommande de laisser sur pied autant de frênes que possible, pour favoriser les arbres résistants.",
-    "Un frêne qui abrite des espèces protégées ou menacées mérite aussi d'être conservé, avec une taille de sécurité si nécessaire.",
-    "Certains arbres se stabilisent d'une année à l'autre, note le canton de Vaud. Un frêne atteint n'est donc pas toujours condamné."
+    "Un frêne qui abrite des espèces protégées ou menacées mérite aussi d'être conservé, avec une taille de sécurité si nécessaire."
    ]
   },
   {
@@ -93,8 +90,8 @@
    "h2": "Faut-il une autorisation pour abattre un frêne malade ?",
    "p": [
     "La maladie ne dispense pas des règles. En forêt, tout abattage est soumis à l'autorisation du service forestier (loi fédérale sur les forêts, art. 21).",
-    "Hors forêt, les règles cantonales et communales s'appliquent. Dans le canton de Vaud, en cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête.",
-    "Dans les cantons du Jura, de Neuchâtel et de Berne, haies et bosquets sont protégés par la loi cantonale. Nous vérifions la règle de votre commune avant d'intervenir.",
+    "Hors forêt, les règles cantonales et communales s'appliquent.",
+    "Dans les cantons du Jura, de Neuchâtel et de Berne, les bosquets sont protégés par la loi cantonale. Nous vérifions la règle de votre commune avant d'intervenir.",
     "Le détail par canton figure dans notre guide sur l'<a href=\"/conseils/autorisation-abattage-arbre\">autorisation d'abattage</a>."
    ]
   },
@@ -103,7 +100,7 @@
    "p": [
     "Le WSL déconseille de replanter du frêne : les jeunes arbres ont de fortes chances d'être infectés.",
     "L'OFEV recommande des feuillus adaptés au lieu : érable, merisier, charme et, sur les sols humides, aulne noir.",
-    "En jardin, le choix dépend aussi de la place et des distances légales. Voir notre guide <a href=\"/conseils/quel-arbre-planter-suisse-romande\">Quel arbre planter en Suisse romande</a>."
+    "En jardin, le choix dépend aussi de la place et des distances légales. Voir notre guide <a href=\"/conseils/quel-arbre-planter-suisse-romande\">Quel arbre planter : Jura, Neuchâtel, Berne</a>."
    ]
   },
   {
@@ -130,7 +127,7 @@
   },
   {
    "q": "Un frêne atteint peut-il guérir ?",
-   "a": "Il n'existe pas de traitement. Certains arbres se stabilisent d'une année à l'autre et une petite part tolère la maladie. D'où l'intérêt de conserver et de suivre les frênes peu touchés, là où ils ne menacent personne."
+   "a": "Il n'existe pas de traitement. Une petite part des frênes tolère toutefois la maladie. D'où l'intérêt de conserver et de suivre les frênes peu touchés, là où ils ne menacent personne."
   },
   {
    "q": "Quand un frêne malade devient-il dangereux ?",
@@ -155,16 +152,8 @@
    "url": "https://www.waldwissen.net/fr/economie-forestiere/gestion-des-degats/champignons-et-nematodes/frenes-mis-a-rude-epreuve-aussi-par-larmillaire"
   },
   {
-   "titre": "Canton de Vaud, DGE : « Synthèse des connaissances actuelles concernant le flétrissement du frêne » (2015)",
-   "url": "https://www.vd.ch/fileadmin/user_upload/themes/environnement/forets/fichiers_pdf/Fletrissement_frene/Notice_VD_fl%C3%A9trissement_du_fr%C3%AAne.pdf"
-  },
-  {
    "titre": "Loi fédérale sur les forêts (LFo, RS 921.0), art. 21",
    "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/fr#art_21"
-  },
-  {
-   "titre": "Canton de Vaud : patrimoine arboré, autorisation d'abattage",
-   "url": "https://www.vd.ch/environnement/biodiversite-et-paysage/patrimoine-arbore-1-1"
   }
  ]
 }

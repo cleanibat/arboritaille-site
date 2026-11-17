@@ -33,7 +33,7 @@
    "env. 35 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Ipsach.</strong> Les haies et bosquets du canton de Berne sont protégés dans leur état actuel (LCPN, BSG 426.11) : entretien permis, suppression soumise à une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Ipsach avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Ipsach.</strong> Les bosquets du canton de Berne sont protégés dans leur état actuel (LCPN, BSG 426.11) : entretien permis, suppression soumise à une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Ipsach avant d'intervenir.",
  "contexte": [
   {
    "icone": "USERS",
@@ -64,7 +64,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Ipsach ?",
-   "a": "Dans le canton de Berne, haies et bosquets sont protégés ; les arbres isolés dépendent du règlement communal d'Ipsach. Nous vérifions pour vous avant toute coupe et vous indiquons la démarche si une demande est nécessaire."
+   "a": "Dans le canton de Berne, les bosquets sont protégés ; les arbres isolés dépendent du règlement communal d'Ipsach. Nous vérifions pour vous avant toute coupe et vous indiquons la démarche si une demande est nécessaire."
   },
   {
    "q": "Un grand arbre fait trop d'ombre sur ma terrasse, faut-il le couper ?",

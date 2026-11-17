@@ -33,7 +33,7 @@
    "env. 15 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Rossemaison.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Rossemaison avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Rossemaison.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Rossemaison avant d'intervenir.",
  "contexte": [
   {
    "icone": "MOUNT",
@@ -67,7 +67,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Rossemaison ?",
-   "a": "Cela dépend du règlement communal et de la zone. La loi jurassienne protège haies, bosquets et arbres isolés hors zone à bâtir ; en zone à bâtir, Rossemaison fixe ses propres règles. Nous nous renseignons avant de couper."
+   "a": "Cela dépend du règlement communal et de la zone. La loi jurassienne protège bosquets et arbres isolés hors zone à bâtir ; en zone à bâtir, Rossemaison fixe ses propres règles. Nous nous renseignons avant de couper."
   },
   {
    "q": "Les branches frottent le toit : faut-il abattre l'arbre ?",

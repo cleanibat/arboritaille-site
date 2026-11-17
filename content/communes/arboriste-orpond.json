@@ -33,7 +33,7 @@
    "env. 30 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Orpond.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). L'entretien est permis ; la suppression demande une dérogation de la préfecture, avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Orpond avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Orpond.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). L'entretien est permis ; la suppression demande une dérogation de la préfecture, avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Orpond avant d'intervenir.",
  "contexte": [
   {
    "icone": "MOUNT",
@@ -64,7 +64,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Orpond ?",
-   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal d'Orpond. Nous vérifions si votre arbre est concerné et vous indiquons la démarche avant de fixer une date."
+   "a": "Le canton de Berne protège les bosquets ; les arbres isolés dépendent du règlement communal d'Orpond. Nous vérifions si votre arbre est concerné et vous indiquons la démarche avant de fixer une date."
   },
   {
    "q": "Un arbre penché au-dessus de ma maison est-il dangereux ?",

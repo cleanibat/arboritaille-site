@@ -33,7 +33,7 @@
    "env. 20 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Châtillon.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Châtillon avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Châtillon.</strong> Dans le canton du Jura, les bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Châtillon avant d'intervenir.",
  "contexte": [
   {
    "icone": "HOME",
@@ -64,7 +64,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Châtillon ?",
-   "a": "Selon la zone et le règlement communal, oui. Hors zone à bâtir, haies, bosquets et arbres isolés sont protégés par la loi jurassienne. En zone à bâtir, Châtillon fixe les arbres protégés. Nous nous renseignons avant de couper."
+   "a": "Selon la zone et le règlement communal, oui. Hors zone à bâtir, bosquets et arbres isolés sont protégés par la loi jurassienne. En zone à bâtir, Châtillon fixe les arbres protégés. Nous nous renseignons avant de couper."
   },
   {
    "q": "Le vent a cassé une branche : l'arbre est-il à abattre ?",

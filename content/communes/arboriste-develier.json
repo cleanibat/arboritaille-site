@@ -33,7 +33,7 @@
    "env. 15 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Develier.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Develier avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Develier.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Develier avant d'intervenir.",
  "contexte": [
   {
    "icone": "TREE",
@@ -67,7 +67,7 @@
   },
   {
    "q": "Qui autorise l'abattage d'un arbre à Develier ?",
-   "a": "La commune, dans le cadre de la loi jurassienne. Hors zone à bâtir, supprimer une haie ou un bosquet exige une dérogation, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres concernés."
+   "a": "La commune, dans le cadre de la loi jurassienne. Hors zone à bâtir, supprimer un bosquet exige une dérogation, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres concernés."
   },
   {
    "q": "Quelle essence replanter près de l'eau ?",

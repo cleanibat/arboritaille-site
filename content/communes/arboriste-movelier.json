@@ -33,7 +33,7 @@
    "env. 15 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Movelier.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Movelier avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Movelier.</strong> Dans le canton du Jura, les bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Movelier avant d'intervenir.",
  "contexte": [
   {
    "icone": "MOUNT",
@@ -63,7 +63,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Movelier ?",
-   "a": "Selon la zone, oui. Hors zone à bâtir, haies, bosquets et arbres isolés sont protégés par la loi jurassienne. En zone à bâtir, le règlement communal de Movelier fixe les arbres protégés. Nous nous renseignons auprès de la commune avant de couper."
+   "a": "Selon la zone, oui. Hors zone à bâtir, bosquets et arbres isolés sont protégés par la loi jurassienne. En zone à bâtir, le règlement communal de Movelier fixe les arbres protégés. Nous nous renseignons auprès de la commune avant de couper."
   },
   {
    "q": "Une branche a cassé sous la neige et pend au-dessus de la route : que faire ?",
@@ -75,7 +75,7 @@
   },
   {
    "q": "Vous déplacez-vous l'hiver à Movelier ?",
-   "a": "Oui, tant que l'accès est dégagé et que les conditions permettent de grimper en sécurité. L'hiver est d'ailleurs la bonne saison pour tailler les haies et de nombreux feuillus. Le devis fixe la période prévue."
+   "a": "Oui, tant que l'accès est dégagé et que les conditions permettent de grimper en sécurité. L'hiver est d'ailleurs la bonne saison pour tailler de nombreux feuillus. Le devis fixe la période prévue."
   }
  ],
  "cta_img": "degagement_facade_epicea",

@@ -16,7 +16,6 @@
    "p": [
     "Dans <em>La taille des arbres d'ornement</em>, Christophe Drénou part d'un constat de biologie. Un arbre ne cicatrise pas comme nous. Il compartimente ses blessures : il isole le bois touché, puis le recouvre peu à peu.",
     "Chaque coupe laisse donc une trace durable, parfois irréversible. Plus le bois est mis à nu, plus le recouvrement de la plaie est difficile.",
-    "La fiche de taille du Centre de formation des métiers de la terre et de la nature de l'État de Fribourg le rappelle : les arbres n'ont pas besoin de taille pour survivre.",
     "Alors pourquoi tailler ? Parce qu'un arbre de jardin, de rue ou de parc ne pousse pas dans un milieu naturel. La taille l'aide à y vivre longtemps, à condition de respecter sa biologie."
    ]
   },
@@ -42,8 +41,7 @@
     "Beaucoup de propriétaires cherchent d'abord la bonne saison. La période compte pourtant moins que la qualité de la taille.",
     "Hiver, printemps ou été : ce qui nuit à l'arbre, c'est une taille mal faite. Une coupe trop sévère, mal placée ou répétée sans raison l'affaiblit. Elle favorise aussi les champignons et les parasites.",
     "À l'inverse, des coupes nettes et bien placées, faites en comprenant comment l'arbre se développe, sont acceptées en toute saison si elles respectent sa structure naturelle.",
-    "Un repère tout de même. La fiche fribourgeoise citée plus haut retient deux périodes pour la taille d'entretien : l'hiver, de mi-novembre à mi-mars, et l'été, de mi-juin à fin août.",
-    "Au printemps et en été, nous vérifions l'absence de nids avant d'intervenir. Notre guide sur <a href=\"/conseils/taille-haies-periode-oiseaux\">la taille des haies et les oiseaux</a> détaille ce point."
+    "Au printemps et en été, nous vérifions l'absence de nids avant d'intervenir."
    ]
   },
   {
@@ -70,9 +68,8 @@
   },
   {
    "p": [
-    "La fiche fribourgeoise parle d'une détérioration grave et irrémédiable de la santé de l'arbre. Elle ajoute un coût d'entretien plus élevé, car les tailles deviennent plus fréquentes.",
-    "Les directives d'entretien de l'État de Vaud relèvent, elles, un risque de rupture à moyen et long terme aux points d'attache issus d'un étêtage.",
-    "Dans le canton de Vaud, un écimage inconsidéré est d'ailleurs assimilé à un abattage sans autorisation. Voir notre guide sur <a href=\"/conseils/autorisation-abattage-arbre\">l'autorisation d'abattage</a>."
+    "L'étêtage ne règle donc rien durablement. L'exemple qui suit le montre.",
+    "Pour les règles de votre canton, voir notre guide sur <a href=\"/conseils/autorisation-abattage-arbre\">l'autorisation d'abattage</a>."
    ]
   },
   {
@@ -113,7 +110,7 @@
  "faq": [
   {
    "q": "Quelle est la bonne période pour élaguer un arbre ?",
-   "a": "La qualité des coupes compte plus que la saison. Comme repère, la taille d'entretien se fait en hiver, de mi-novembre à mi-mars, ou en été, de mi-juin à fin août. La taille en tête de chat se pratique en hiver."
+   "a": "La qualité des coupes compte plus que la saison. Des coupes nettes et bien placées sont acceptées en toute saison. La taille en tête de chat, elle, se pratique en hiver, souvent en décembre ou en janvier."
   },
   {
    "q": "Peut-on raccourcir un arbre devenu trop haut ?",
@@ -125,25 +122,13 @@
   },
   {
    "q": "À quelle fréquence faire contrôler un arbre adulte ?",
-   "a": "Un arbre adulte bien formé demande peu de taille. La fiche fribourgeoise citée dans ce guide recommande un contrôle sanitaire tous les cinq à dix ans. Un arbre conduit en tête de chat se taille chaque année ou tous les deux ans."
+   "a": "Un arbre adulte bien formé demande peu de taille. Un suivi régulier, avec des interventions douces et ciblées, évite les coupes lourdes. Un arbre conduit en tête de chat se taille chaque année ou tous les deux ans."
   }
  ],
  "sources": [
   {
    "titre": "Christophe Drénou, La taille des arbres d'ornement : du pourquoi au comment, Institut pour le développement forestier (IDF), 1999 (notice bibliographique AGRIS, FAO)",
    "url": "https://agris.fao.org/search/en/records/65de086f7c7033e84be958ef"
-  },
-  {
-   "titre": "État de Fribourg, Centre de formation des métiers de la terre et de la nature : fiche « Taille et entretien des arbres » (juillet 2015)",
-   "url": "https://www.fr.ch/sites/default/files/2018-07/Fiche%20technique%20entretien%20arbre%20isol%C3%A9%20FR.pdf"
-  },
-  {
-   "titre": "État de Vaud, Service des bâtiments, monuments et archéologie : Directives d'entretien pour les surfaces des abords des bâtiments (juillet 2003), chapitre sur les arbres",
-   "url": "https://www.vd.ch/fileadmin/user_upload/themes/territoire/construction/batiments_publics/directives-constructions/12/Directives_entretien_des_abords_batiments.pdf"
-  },
-  {
-   "titre": "Canton de Vaud : règlement-type sur la protection du patrimoine arboré, version du 1er juillet 2024, art. 12 (élagage et écimage inconsidérés)",
-   "url": "https://www.vd.ch/environnement/biodiversite-et-paysage/patrimoine-arbore-1-1"
   }
  ]
 }

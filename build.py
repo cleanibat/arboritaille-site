@@ -86,7 +86,7 @@ def pic(name, alt, cls='', lazy=True, card=False, style=''):
 
 # ---------------- Données ----------------
 COMMUNES = json.load(open('data/communes_zone.json', encoding='utf-8'))
-CANTON_SLUG = {'JU': 'arboriste-canton-du-jura', 'NE': 'arboriste-canton-de-neuchatel', 'BE': 'arboriste-bienne-canton-de-berne', 'FR': 'arboriste-canton-de-fribourg', 'VD': 'arboriste-canton-de-vaud'}
+CANTON_SLUG = {'JU': 'arboriste-canton-du-jura', 'NE': 'arboriste-canton-de-neuchatel', 'BE': 'arboriste-bienne-canton-de-berne'}
 CANTON_NAME = {'JU': 'Canton du Jura', 'NE': 'Canton de Neuchâtel', 'BE': 'Bienne et canton de Berne', 'FR': 'Canton de Fribourg', 'VD': 'Canton de Vaud'}
 CANTON_SHORT = {'JU': 'Jura', 'NE': 'Neuchâtel', 'BE': 'Berne', 'FR': 'Fribourg', 'VD': 'Vaud'}
 _dups = {n for n in [x['nom'] for x in COMMUNES] if [x['nom'] for x in COMMUNES].count(n) > 1}
@@ -97,6 +97,8 @@ for c in COMMUNES:
     d = (c.get('district') or '').strip('() ')
     if c['canton'] == 'JU' and c['nom'] == 'Moutier': d = 'Delémont'
     c['district'] = d or ('Bienne' if c['canton'] == 'BE' else CANTON_SHORT[c['canton']])
+CANTONS_ACTIFS = ['JU', 'NE', 'BE']  # Vaud et Fribourg retirés le 17/11/2026 (décision d'Aymeric)
+COMMUNES = [c for c in COMMUNES if c['canton'] in CANTONS_ACTIFS]
 BY_SLUG = {c['slug']: c for c in COMMUNES}
 def load_json_dir(d):
     out = {}
@@ -122,12 +124,12 @@ def business_jsonld():
     return {
         '@type': ['LocalBusiness', 'ProfessionalService'], '@id': BUSINESS_ID, 'name': BRAND,
         'alternateName': 'Arboritaille – Robin Humbert, arboriste-grimpeur',
-        'description': 'Arboriste-grimpeur : taille et entretien des arbres, élagage, abattage et démontage, rognage de souche, plantation, haubanage et diagnostic, pour les particuliers, entreprises et collectivités du Jura, de Neuchâtel, de Bienne, de Fribourg et du canton de Vaud.',
+        'description': 'Arboriste-grimpeur : taille et entretien des arbres, élagage, abattage et démontage, rognage de souche, plantation, haubanage et diagnostic, pour les particuliers, entreprises et collectivités du Jura, de Neuchâtel, de Bienne et du canton de Berne.',
         'url': SITE, 'telephone': PHONE_INTL, 'email': EMAIL, 'image': SITE + 'img/arboriste_grimpeur-19.jpg', 'logo': SITE + 'img/logo-entreprise-icon-sans-fond.svg',
         'founder': {'@type': 'Person', 'name': 'Robin Humbert', 'jobTitle': 'Arboriste-grimpeur'},
         'address': {'@type': 'PostalAddress', 'streetAddress': ADDRESS['street'], 'postalCode': ADDRESS['zip'], 'addressLocality': ADDRESS['city'], 'addressRegion': ADDRESS['canton'], 'addressCountry': ADDRESS['country']},
         'geo': {'@type': 'GeoCoordinates', 'latitude': 47.4044, 'longitude': 7.1272},
-        'areaServed': [{'@type': 'AdministrativeArea', 'name': n} for n in ['Canton du Jura', 'Canton de Neuchâtel', 'Jura bernois', 'Bienne', 'Canton de Fribourg', 'Canton de Vaud']],
+        'areaServed': [{'@type': 'AdministrativeArea', 'name': n} for n in ['Canton du Jura', 'Canton de Neuchâtel', 'Bienne', 'Canton de Berne']],
         'knowsLanguage': ['fr', 'de'], 'currenciesAccepted': 'CHF', 'priceRange': 'Devis gratuit',
         'openingHoursSpecification': [{'@type': 'OpeningHoursSpecification', 'dayOfWeek': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], 'opens': '08:00', 'closes': '18:00'}],
         'hasMap': C.GBP_URL,
@@ -199,7 +201,7 @@ def header(current=''):
 
 def footer():
     serv = ''.join(f'<li><a href="{href(s["slug"])}">{esc(s["nav"])}</a></li>' for s in SERVICES)
-    zones = ''.join(f'<li><a href="{href(CANTON_SLUG[c])}">{esc(CANTON_NAME[c])}</a></li>' for c in ['JU', 'NE', 'BE', 'FR', 'VD'])
+    zones = ''.join(f'<li><a href="{href(CANTON_SLUG[c])}">{esc(CANTON_NAME[c])}</a></li>' for c in CANTONS_ACTIFS)
     guides = ''.join(f'<li><a href="/conseils/{g}">{esc(GUIDES[g]["titre_court"])}</a></li>' for g in list(GUIDES)[:6])
     return f'''
 </main>
@@ -391,9 +393,9 @@ def cta(img, h2, lead):
 
 MAP_SVG = open('img/carte-zone.svg.html', encoding='utf-8').read() if os.path.exists('img/carte-zone.svg.html') else ''
 
-def zone_block(h2='Jura, Neuchâtel, Bienne, Fribourg et Vaud', lead='Nous nous déplaçons chez vous pour la visite, qui reste offerte, dans tout l\'arc jurassien et jusqu\'au Léman.'):
+def zone_block(h2='Jura, Neuchâtel, Bienne et canton de Berne', lead='Nous nous déplaçons chez vous pour la visite, qui reste offerte, dans tout l\'arc jurassien.'):
     cols = ''
-    for c in ['JU', 'NE', 'BE', 'FR', 'VD']:
+    for c in CANTONS_ACTIFS:
         towns = sorted([x for x in COMMUNES if x['canton'] == c], key=lambda x: -(x.get('population') or 0))[:8]
         lis = ''.join(f'<li><a href="{href(t["slug"])}">{esc(t["nom"])}</a></li>' for t in towns)
         cols += f'<div class="zone-col"><h3>{I["PIN"]}<a href="{href(CANTON_SLUG[c])}" style="text-decoration:none">{esc(CANTON_NAME[c])}</a></h3><ul>{lis}<li><a href="{href(CANTON_SLUG[c])}">Toutes les communes →</a></li></ul></div>'
@@ -480,7 +482,7 @@ def build_contact():
     <div class="cta-contact" style="color:var(--ink)">
       <a href="tel:{PHONE_INTL}" style="color:var(--green-900)"><span class="ic" style="background:var(--sand)">{I['PHONE']}</span><span>{PHONE}<small style="color:var(--muted)">Robin Humbert, arboriste-grimpeur · en français</small></span></a>
       <a href="mailto:{EMAIL}" style="color:var(--green-900)"><span class="ic" style="background:var(--sand)">{I['MAIL']}</span><span>{EMAIL}<small style="color:var(--muted)">Réponse sous 48 h ouvrées, en français ou en allemand</small></span></a>
-      <a href="https://www.google.com/maps/search/?api=1&query=Derri%C3%A8re-Metthiez+13+2950+Courgenay" rel="noopener" target="_blank" style="color:var(--green-900)"><span class="ic" style="background:var(--sand)">{I['PIN']}</span><span>{ADDRESS['street']}, {ADDRESS['zip']} {ADDRESS['city']} (JU)<small style="color:var(--muted)">Siège de l'entreprise · interventions dans tout l'arc jurassien et jusqu'au Léman</small></span></a>
+      <a href="https://www.google.com/maps/search/?api=1&query=Derri%C3%A8re-Metthiez+13+2950+Courgenay" rel="noopener" target="_blank" style="color:var(--green-900)"><span class="ic" style="background:var(--sand)">{I['PIN']}</span><span>{ADDRESS['street']}, {ADDRESS['zip']} {ADDRESS['city']} (JU)<small style="color:var(--muted)">Siège de l'entreprise · interventions dans tout l'arc jurassien</small></span></a>
     </div>
     <div class="prose" style="margin-top:2rem">{C.CONTACT_BODY}</div>
   </div>
@@ -489,7 +491,7 @@ def build_contact():
 '''
     p += zone_block()
     ld = jsonld({'@type': 'ContactPage', 'name': 'Contact et devis gratuit – Arboritaille', 'url': url(slug), 'about': {'@id': BUSINESS_ID}}, breadcrumb_ld(trail))
-    write(slug, head(slug, 'Contact et devis gratuit – Arboriste-grimpeur | Arboritaille', 'Arboritaille, arboriste-grimpeur à Courgenay : devis gratuit pour la taille, l\'abattage ou la plantation d\'arbres. Jura, Neuchâtel, Bienne, Fribourg, Vaud.', ld=ld) + header(slug) + p + footer())
+    write(slug, head(slug, 'Contact et devis gratuit – Arboriste-grimpeur | Arboritaille', 'Arboritaille, arboriste-grimpeur à Courgenay : devis gratuit pour la taille, l\'abattage ou la plantation d\'arbres. Jura, Neuchâtel, Bienne et canton de Berne.', ld=ld) + header(slug) + p + footer())
     register(slug, '0.8')
 
 def build_simple(slug, title, desc, h1, lead, body, eyebrow=None, noindex=False, priority='0.3'):
@@ -515,9 +517,9 @@ def commune_link(c): return f'<a href="{href(c["slug"])}">{esc(c["nom"])}</a>'
 
 def build_zone_hub():
     slug = 'zone-intervention'; trail = [('Accueil', 'index'), ('Zone d\'intervention', slug)]
-    p = page_head(trail, 'Arboriste-grimpeur du Jura au Léman : <em class="hl">notre zone d\'intervention</em>', 'Depuis Courgenay, nous intervenons dans le canton du Jura, à Neuchâtel, à Bienne et dans le canton de Berne, dans le canton de Fribourg et dans le nord et le centre vaudois jusqu\'à Lausanne et la Riviera. La visite sur place reste offerte.', 'Zone d\'intervention')
+    p = page_head(trail, 'Arboriste-grimpeur dans l\'arc jurassien : <em class="hl">notre zone d\'intervention</em>', 'Depuis Courgenay, nous intervenons dans le canton du Jura, dans le canton de Neuchâtel, à Bienne et dans le canton de Berne. La visite sur place reste offerte.', 'Zone d\'intervention')
     if MAP_SVG: p += f'<section class="section-sm"><div class="wrap"><div class="zone-map-box">{MAP_SVG}</div></div></section>\n'
-    for c in ['JU', 'NE', 'BE', 'FR', 'VD']:
+    for c in CANTONS_ACTIFS:
         cs = sorted([x for x in COMMUNES if x['canton'] == c], key=lambda x: x['nom'])
         by_d = {}
         for x in cs: by_d.setdefault(x.get('district') or '', []).append(x)
@@ -526,7 +528,7 @@ def build_zone_hub():
         p += f'<section class="section-sm"><div class="wrap"><h2><a href="{href(CANTON_SLUG[c])}" style="text-decoration:none;color:var(--green-900)">{esc(CANTON_NAME[c])}</a></h2><p class="lead">{intro}</p><div class="zone-grid">{cols}</div></div></section>\n'
     p += cta('arboriste_grimpeur-3', 'Votre commune n\'apparaît pas ?', 'Appelez-nous : nous nous déplaçons volontiers un peu plus loin pour une visite, selon le chantier.')
     ld = jsonld({'@type': 'CollectionPage', 'name': 'Zone d\'intervention – Arboritaille', 'url': url(slug), 'about': {'@id': BUSINESS_ID}}, breadcrumb_ld(trail))
-    write(slug, head(slug, 'Zone d\'intervention – Communes et cantons | Arboritaille', 'Toutes les communes où Arboritaille intervient pour la taille, l\'abattage et la plantation d\'arbres : Jura, Neuchâtel, Bienne et Berne, Fribourg, Vaud.', ld=ld) + header(slug) + p + footer())
+    write(slug, head(slug, 'Zone d\'intervention – Communes et cantons | Arboritaille', 'Toutes les communes où Arboritaille intervient pour la taille, l\'abattage et la plantation d\'arbres : canton du Jura, Neuchâtel, Bienne et canton de Berne.', ld=ld) + header(slug) + p + footer())
     register(slug, '0.8')
 
 def build_canton(c):
@@ -633,7 +635,7 @@ def build_guide(slug, G):
   <div class="toc"><strong>Au sommaire</strong><ol>{toc}</ol></div>
   {render_sections(G['sections'])}
   {('<div class="sources"><strong>Sources</strong><ul>' + ''.join(f'<li><a href="{esc(s["url"])}" rel="noopener nofollow" target="_blank">{esc(s["titre"])}</a></li>' for s in G['sources']) + '</ul></div>') if G.get('sources') else ''}
-  <div class="author"><img src="/img/w/arboriste_grimpeur-15-800.webp" alt="" loading="lazy" width="64" height="64"><div><strong>Robin Humbert</strong><p>Arboriste-grimpeur, fondateur d'Arboritaille à Courgenay (JU). Taille raisonnée, abattage, démontage, plantation et diagnostic dans l'arc jurassien, à Fribourg et dans le canton de Vaud. <a href="/a-propos">En savoir plus</a></p></div></div>
+  <div class="author"><img src="/img/w/arboriste_grimpeur-15-800.webp" alt="" loading="lazy" width="64" height="64"><div><strong>Robin Humbert</strong><p>Arboriste-grimpeur, fondateur d'Arboritaille à Courgenay (JU). Taille raisonnée, abattage, démontage, plantation et diagnostic dans le Jura, à Neuchâtel, à Bienne et dans le canton de Berne. <a href="/a-propos">En savoir plus</a></p></div></div>
 </article>'''
     p = f'<section class="section"><div class="wrap">{body}</div></section>\n'
     if G.get('faq'): p += faq([(q['q'], q['a']) for q in G['faq']], h2='Questions fréquentes')
@@ -658,8 +660,8 @@ def build_sitemap_page():
     slug = 'plan-du-site'; trail = [('Accueil', 'index'), ('Plan du site', slug)]
     def ul(items): return '<ul>' + ''.join(f'<li><a href="{href(s)}">{esc(n)}</a></li>' for n, s in items) + '</ul>'
     body = '<h2>Services</h2>' + ul([(s['nav'], s['slug']) for s in SERVICES] + [('Collectivités et entreprises', 'collectivites-entreprises')])
-    body += '<h2>Zone d\'intervention</h2>' + ul([('Toutes les communes', 'zone-intervention')] + [(CANTON_NAME[c], CANTON_SLUG[c]) for c in ['JU', 'NE', 'BE', 'FR', 'VD']])
-    for c in ['JU', 'NE', 'BE', 'FR', 'VD']:
+    body += '<h2>Zone d\'intervention</h2>' + ul([('Toutes les communes', 'zone-intervention')] + [(CANTON_NAME[c], CANTON_SLUG[c]) for c in CANTONS_ACTIFS])
+    for c in CANTONS_ACTIFS:
         body += f'<h3>{esc(CANTON_NAME[c])}</h3>' + ul([(x['nom'], x['slug']) for x in sorted(COMMUNES, key=lambda x: x['nom']) if x['canton'] == c and x['slug'] in COMMUNE_CONTENT])
     if VILLE_CONTENT: body += '<h2>Services par ville</h2>' + ul([(v['h1_plain'], k) for k, v in VILLE_CONTENT.items()])
     body += '<h2>Conseils</h2>' + ul([('Tous les conseils', 'conseils')] + [(g['titre_court'], 'conseils/' + k) for k, g in GUIDES.items()])
@@ -678,7 +680,7 @@ if __name__ == '__main__':
     for s in SERVICES: build_service(s)
     build_b2b(); build_about(); build_contact(); build_merci(); build_404()
     build_zone_hub()
-    for c in ['JU', 'NE', 'BE', 'FR', 'VD']: build_canton(c)
+    for c in CANTONS_ACTIFS: build_canton(c)
     n = sum(1 for c in COMMUNES if build_commune(c))
     for k, v in VILLE_CONTENT.items(): build_ville_service(k, v)
     build_guides_hub()

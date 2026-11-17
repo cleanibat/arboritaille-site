@@ -5,15 +5,15 @@
  "eyebrow": "Arboriste-grimpeur · Les Genevez · Franches-Montagnes",
  "h1": "<em>Les Genevez</em> : arboriste-grimpeur pour la taille, l'abattage et les soins aux arbres",
  "lead": "Les Genevez, 518 habitants à 1 035 m, ont formé la Courtine de Bellelay avec Lajoux jusqu'en 1798. Le village et Le Prédame sont à une quinzaine de kilomètres de Courgenay. Nous y taillons et abattons vos arbres.",
- "points": ["Visite et devis gratuits", "À une quinzaine de kilomètres de Courgenay", "Résineux et feuillus à 1 035 m", "Haies et bosquets entretenus en hiver"],
+ "points": ["Visite et devis gratuits", "À une quinzaine de kilomètres de Courgenay", "Résineux et feuillus à 1 035 m", "Bosquets entretenus en hiver"],
  "intro_eyebrow": "Vos arbres aux Genevez",
  "intro_h2": "Ancienne Courtine de Bellelay, à 1 035 m d'altitude",
  "intro": "<p>La première mention des Genevez, en 1381, figure dans un inventaire de l'abbaye de Bellelay. Jusqu'en 1798, le village forme avec Lajoux et les deux Fornets la Courtine de Bellelay, sous l'abbé, vassal du prince-évêque de Bâle.</p><p>La commune a d'abord appartenu au district de Moutier avant de rejoindre celui des Franches-Montagnes. Elle compte 518 habitants sur 13,61 km², avec la localité du Prédame.</p><p>Les Genevez se trouvent à 1 035 m : la saison de végétation y est brève. La neige peut peser sur les branches dès l'automne.</p><p>Dans ces conditions, un arbre se taille peu et au bon moment. Nous enlevons le bois mort, allégeons les charpentières trop longues et laissons la silhouette intacte.</p>",
  "faits": [["Habitants", "518"], ["Altitude", "1 035 m"], ["NPA", "2714"], ["Depuis Courgenay", "env. 15 km"]],
- "reglement": "<strong>Autorisation d'abattage aux Genevez.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur aux Genevez avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage aux Genevez.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur aux Genevez avant d'intervenir.",
  "contexte": [
   {"icone": "MOUNT", "titre": "Neige précoce", "texte": "À 1 035 m, la neige peut tomber tôt sur des feuillus encore en feuilles. Les branches surchargées cassent. Nous allégeons les couronnes exposées avant l'hiver."},
-  {"icone": "LEAF", "titre": "Haies et bosquets protégés", "texte": "Hors zone à bâtir, la loi jurassienne protège haies et bosquets. Nous les entretenons par tronçons, en hiver, et vous indiquons la démarche de dérogation si une suppression est envisagée."},
+  {"icone": "LEAF", "titre": "Bosquets protégés", "texte": "Hors zone à bâtir, la loi jurassienne protège les bosquets. Nous les entretenons par tronçons, en hiver, et vous indiquons la démarche de dérogation si une suppression est envisagée."},
   {"icone": "HOME", "titre": "Fermes et Prédame", "texte": "Les arbres proches des fermes et des maisons du Prédame ou du village se démontent à la corde quand ils menacent. Le bois est débité sur place pour votre chauffage si vous le souhaitez."}
  ],
  "services": {
@@ -23,7 +23,7 @@
   "plantation-arbres": "Plantation d'essences qui supportent la neige précoce et le gel tardif, tuteurage tripode."
  },
  "faq": [
-  {"q": "Les Genevez : faut-il une autorisation pour abattre un arbre ?", "a": "Selon la zone. Hors zone à bâtir, haies et bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation communale. En zone à bâtir, le règlement communal désigne les arbres protégés. Nous vérifions avant d'intervenir."},
+  {"q": "Les Genevez : faut-il une autorisation pour abattre un arbre ?", "a": "Selon la zone. Hors zone à bâtir, les bosquets sont protégés par la loi jurassienne et leur suppression demande une dérogation communale. En zone à bâtir, le règlement communal désigne les arbres protégés. Nous vérifions avant d'intervenir."},
   {"q": "Les Genevez comprennent Le Prédame : y venez-vous aussi ?", "a": "Oui. Nous venons voir l'arbre au Prédame comme au village, repérons l'accès et vous envoyons un devis écrit. La visite est gratuite et sans engagement."},
   {"q": "Que faire d'un arbre cassé par la neige ?", "a": "Appelez-nous. Nous sécurisons l'arbre, enlevons les branches cassées et coupons proprement les déchirures pour limiter les entrées d'eau et de champignons. Si le tronc est fendu, nous proposons le démontage."},
   {"q": "Les feuillus se taillent-ils en hiver à cette altitude ?", "a": "Oui, de la chute des feuilles au débourrement, hors gel marqué. À 1 035 m, la fenêtre va souvent de novembre à avril. Les résineux et le bois mort se traitent toute l'année."},

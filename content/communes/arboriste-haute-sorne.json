@@ -10,11 +10,11 @@
   "Visite et devis gratuits",
   "Sept localités, une seule commune",
   "À une dizaine de kilomètres de Courgenay",
-  "Fruitiers, haies et grands arbres de ferme"
+  "Grands arbres de ferme et de jardin"
  ],
  "intro_eyebrow": "Vos arbres à Haute-Sorne",
  "intro_h2": "Sept localités réunies en une seule commune depuis 2013",
- "intro": "<p>Haute-Sorne existe depuis le 1er janvier 2013. Elle réunit Bassecourt, Courfaivre, Glovelier, Soulce et Undervelier, ainsi que Berlincourt et Sceut-Dessus. Elle compte 7 532 habitants, à 477 m d'altitude.</p><p>La commune porte le nom de la Sorne, la rivière qui rejoint la Birse à Delémont. Avec 71 km² pour 106 habitants au kilomètre carré, elle laisse une large place aux terres non bâties entre ses villages.</p><p>Dans des villages de cette taille, les arbres à soigner sont le plus souvent ceux des jardins et des fermes : fruitiers, tilleuls ou érables près des maisons, haies vives en limite de parcelle.</p><p>Une seule administration communale pour sept localités : cela simplifie la demande d'autorisation. Nous nous en chargeons avec vous, puis nous planifions l'intervention depuis Courgenay, à une dizaine de kilomètres.</p>",
+ "intro": "<p>Haute-Sorne existe depuis le 1er janvier 2013. Elle réunit Bassecourt, Courfaivre, Glovelier, Soulce et Undervelier, ainsi que Berlincourt et Sceut-Dessus. Elle compte 7 532 habitants, à 477 m d'altitude.</p><p>La commune porte le nom de la Sorne, la rivière qui rejoint la Birse à Delémont. Avec 71 km² pour 106 habitants au kilomètre carré, elle laisse une large place aux terres non bâties entre ses villages.</p><p>Dans des villages de cette taille, les arbres à soigner sont le plus souvent ceux des jardins et des fermes : tilleuls ou érables près des maisons, arbres isolés en limite de parcelle.</p><p>Une seule administration communale pour sept localités : cela simplifie la demande d'autorisation. Nous nous en chargeons avec vous, puis nous planifions l'intervention depuis Courgenay, à une dizaine de kilomètres.</p>",
  "faits": [
   [
    "Habitants",
@@ -33,7 +33,7 @@
    "env. 10 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Haute-Sorne.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer une haie ou un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Haute-Sorne avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Haute-Sorne.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Haute-Sorne avant d'intervenir.",
  "contexte": [
   {
    "icone": "PIN",
@@ -42,20 +42,20 @@
   },
   {
    "icone": "SPROUT",
-   "titre": "Fruitiers haute-tige",
-   "texte": "Près d'une ancienne ferme, un fruitier haute-tige se taille peu et en hiver : bois mort, branches qui se croisent. Quand il est à bout, nous plantons un jeune arbre à sa place."
+   "titre": "Grands arbres de ferme",
+   "texte": "Près d'une ancienne ferme, un grand arbre se taille peu et en hiver : bois mort, branches qui se croisent. Quand il est à bout, nous plantons un jeune arbre à sa place."
   },
   {
    "icone": "LEAF",
-   "titre": "Haies et bosquets hors zone à bâtir",
-   "texte": "Hors zone à bâtir, la loi jurassienne protège haies et bosquets. Sur 71 km², la question se pose souvent. Nous entretenons ces haies en hiver, par tronçons, sans les supprimer."
+   "titre": "Bosquets hors zone à bâtir",
+   "texte": "Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. Sur 71 km², la question se pose souvent. Nous entretenons ces bosquets en hiver, sans les supprimer."
   }
  ],
  "services": {
   "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin et de ferme des villages de Haute-Sorne.",
   "abattage-demontage": "Abattage direct quand la place le permet, démontage à la corde près des bâtiments. Bois débité ou évacué, terrain nettoyé.",
   "rognage-souche": "Après un abattage à Bassecourt, Courfaivre ou Glovelier, la souche est rognée sous le niveau du sol pour replanter ou engazonner.",
-  "plantation-arbres": "Jeune fruitier ou arbre d'ombrage adapté à votre terrain, planté avec tuteurage tripode et conseils d'arrosage."
+  "plantation-arbres": "Jeune arbre d'ombrage ou d'ornement adapté à votre terrain, planté avec tuteurage tripode et conseils d'arrosage."
  },
  "faq": [
   {
@@ -64,15 +64,15 @@
   },
   {
    "q": "Qui délivre l'autorisation d'abattage à Haute-Sorne ?",
-   "a": "La commune de Haute-Sorne, pour tout son territoire. En zone à bâtir, son règlement désigne les arbres protégés. Hors zone à bâtir, haies et bosquets dépendent de la loi cantonale et d'une dérogation communale. Nous vérifions avant d'intervenir."
+   "a": "La commune de Haute-Sorne, pour tout son territoire. En zone à bâtir, son règlement désigne les arbres protégés. Hors zone à bâtir, les bosquets dépendent de la loi cantonale et d'une dérogation communale. Nous vérifions avant d'intervenir."
   },
   {
    "q": "Pouvez-vous rogner la souche après l'abattage ?",
    "a": "Oui. La rogneuse réduit la souche en copeaux sous le niveau du sol. Vous pouvez ensuite engazonner ou replanter. Nous le proposons dans le même devis que l'abattage."
   },
   {
-   "q": "Quand tailler une haie en zone agricole ?",
-   "a": "En hiver, hors période de nidification, et par tronçons. Dans le canton du Jura, une haie hors zone à bâtir ne peut pas être supprimée ni réduite fortement sans dérogation. Nous respectons ce cadre et vous conseillons sur la coupe."
+   "q": "Quand entretenir un bosquet en zone agricole ?",
+   "a": "En hiver, hors période de nidification. Dans le canton du Jura, un bosquet hors zone à bâtir ne peut pas être supprimé sans dérogation. Nous respectons ce cadre et vous conseillons sur la coupe."
   },
   {
    "q": "Que comprend le devis pour un abattage à Haute-Sorne ?",

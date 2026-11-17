@@ -33,7 +33,7 @@
    "env. 30 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Longeau.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. En forêt, l'abattage requiert l'autorisation du service forestier. Nous vérifions la règle en vigueur à Longeau avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Longeau.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. En forêt, l'abattage requiert l'autorisation du service forestier. Nous vérifions la règle en vigueur à Longeau avant d'intervenir.",
  "contexte": [
   {
    "icone": "MOUNT",
@@ -67,12 +67,12 @@
    "a": "Si l'arbre fait partie de la forêt, le service forestier doit autoriser l'abattage. S'il est isolé dans un jardin, c'est le règlement communal qui s'applique. Nous clarifions la situation avec vous avant toute coupe."
   },
   {
-   "q": "Peut-on supprimer une haie entre deux parcelles ?",
-   "a": "Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel. L'entretien est permis, pas la suppression sans dérogation de la préfecture. Nous vous orientons selon votre cas."
+   "q": "Peut-on supprimer un bosquet entre deux parcelles ?",
+   "a": "Dans le canton de Berne, les bosquets sont protégés dans leur état actuel. L'entretien est permis, pas la suppression sans dérogation de la préfecture. Nous vous orientons selon votre cas."
   },
   {
    "q": "Quand tailler un arbre sur les hauteurs ?",
-   "a": "Pour les arbres d'ornement, l'hiver reste la période la plus simple, hors grands froids. Les fruitiers se taillent en fin d'hiver. En altitude, la saison démarre quelques semaines plus tard qu'en plaine."
+   "a": "Pour les arbres d'ornement, l'hiver reste la période la plus simple, hors grands froids. En altitude, la saison démarre quelques semaines plus tard qu'en plaine."
   },
   {
    "q": "Travaillez-vous en allemand à Longeau ?",

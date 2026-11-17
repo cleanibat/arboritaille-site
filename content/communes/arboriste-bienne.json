@@ -33,7 +33,7 @@
    "env. 30 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Bienne.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux ; à Bienne, il faut se référer au règlement de construction de la Ville. Nous vérifions la règle en vigueur à Bienne avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Bienne.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux ; à Bienne, il faut se référer au règlement de construction de la Ville. Nous vérifions la règle en vigueur à Bienne avant d'intervenir.",
  "contexte": [
   {
    "icone": "USERS",
@@ -74,7 +74,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Bienne ?",
-   "a": "Cela dépend de l'arbre. Le canton protège haies et bosquets ; pour les arbres isolés, il faut se référer au règlement de construction de la Ville. Avant tout abattage, nous vérifions la situation de votre arbre et vous indiquons la démarche."
+   "a": "Cela dépend de l'arbre. Le canton protège les bosquets ; pour les arbres isolés, il faut se référer au règlement de construction de la Ville. Avant tout abattage, nous vérifions la situation de votre arbre et vous indiquons la démarche."
   },
   {
    "q": "Comment démontez-vous un arbre coincé entre deux bâtiments ?",

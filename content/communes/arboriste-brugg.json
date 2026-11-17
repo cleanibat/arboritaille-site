@@ -33,7 +33,7 @@
    "env. 35 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Brügg.</strong> Dans le canton de Berne, haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : on peut les entretenir, pas les supprimer sans dérogation de la préfecture et compensation. Pour les arbres isolés et les allées de valeur, c'est le règlement communal qui fait foi. Nous vérifions la règle en vigueur à Brügg avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Brügg.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : on peut les entretenir, pas les supprimer sans dérogation de la préfecture et compensation. Pour les arbres isolés et les allées de valeur, c'est le règlement communal qui fait foi. Nous vérifions la règle en vigueur à Brügg avant d'intervenir.",
  "contexte": [
   {
    "icone": "USERS",
@@ -64,7 +64,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Brügg ?",
-   "a": "Le canton de Berne protège haies et bosquets ; les arbres isolés dépendent du règlement communal de Brügg. Nous vérifions pour vous si votre arbre est concerné et vous indiquons la démarche avant toute coupe."
+   "a": "Le canton de Berne protège les bosquets ; les arbres isolés dépendent du règlement communal de Brügg. Nous vérifions pour vous si votre arbre est concerné et vous indiquons la démarche avant toute coupe."
   },
   {
    "q": "Que proposez-vous aux entreprises et aux gérances ?",

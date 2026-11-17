@@ -1,11 +1,11 @@
 {
  "title": "Arbre tombé après une tempête : que faire, qui paie ? | Arboritaille",
- "desc": "Arbre tombé ou penché après une tempête : sécurité, photos pour l'assurance, ECA Jura, ECAP, AIB, ECAB, ECA Vaud, autorisation en urgence. La marche à suivre.",
+ "desc": "Arbre tombé ou penché après une tempête : sécurité, photos pour l'assurance, ECA Jura, ECAP, AIB, autorisation en urgence. La marche à suivre.",
  "titre_court": "Arbre tombé après une tempête : que faire",
  "categorie": "Sécurité",
  "h1": "Arbre tombé après une tempête : <em>que faire</em> et qui paie ?",
  "h1_plain": "Arbre tombé après une tempête : que faire et qui paie ?",
- "lead": "Sécuriser, photographier, annoncer, puis seulement dégager. L'ordre des étapes compte, pour votre sécurité comme pour votre dossier d'assurance. Marche à suivre dans les cantons du Jura, de Neuchâtel, de Berne, de Fribourg et de Vaud.",
+ "lead": "Sécuriser, photographier, annoncer, puis seulement dégager. L'ordre des étapes compte, pour votre sécurité comme pour votre dossier d'assurance. Marche à suivre dans les cantons du Jura, de Neuchâtel et de Berne.",
  "date": "2026-11-11",
  "duree": 7,
  "img": "demontage_d-arbre_retention",
@@ -48,7 +48,7 @@
   {
    "h2": "Photographiez avant de toucher",
    "p": [
-    "Avant tout dégagement, constituez votre dossier. Les établissements cantonaux d'assurance du Jura, de Neuchâtel, de Fribourg et de Vaud demandent ou recommandent des photos des dégâts."
+    "Avant tout dégagement, constituez votre dossier. Les établissements cantonaux d'assurance du Jura et de Neuchâtel demandent ou recommandent des photos des dégâts."
    ],
    "ul": [
     "Vue d'ensemble de l'arbre et du bâtiment, sous plusieurs angles.",
@@ -66,14 +66,12 @@
   {
    "h2": "Qui paie : le bâtiment d'abord",
    "p": [
-    "Dans les cantons du Jura, de Neuchâtel, de Berne, de Fribourg et de Vaud, les bâtiments sont assurés contre le feu et les éléments naturels auprès d'un établissement cantonal. L'ouragan, ou la tempête, figure parmi les risques couverts."
+    "Dans les cantons du Jura, de Neuchâtel et de Berne, les bâtiments sont assurés contre le feu et les éléments naturels auprès d'un établissement cantonal. L'ouragan, ou la tempête, figure parmi les risques couverts."
    ],
    "ul": [
     "<strong>Jura : ECA Jura.</strong> Tous les bâtiments du canton y sont obligatoirement assurés. Déclarez le sinistre dès sa survenance, au plus tard dans l'année, avec des photos. Hors mesures d'urgence, pas de réparation sans autorisation.",
     "<strong>Neuchâtel : ECAP.</strong> Le dommage s'annonce immédiatement. Envoyez l'avis de sinistre, les photos et les devis avant les travaux. Seules les mesures immédiates se prennent sans accord.",
-    "<strong>Berne : AIB.</strong> Tous les bâtiments doivent y être assurés. La tempête fait partie des éléments naturels couverts, et les frais de déblaiement sont indemnisés jusqu'à un plafond.",
-    "<strong>Fribourg : ECAB.</strong> Empêchez l'aggravation, laissez les biens endommagés en l'état jusqu'à la visite, photographiez, annoncez. Pas de réparation sans autorisation de l'ECAB.",
-    "<strong>Vaud : ECA.</strong> Déclarez le sinistre dès que vous en avez connaissance. Les mesures d'urgence sont commandées et prises en charge par l'ECA, joignable par sa ligne sinistres."
+    "<strong>Berne : AIB.</strong> Tous les bâtiments doivent y être assurés. La tempête fait partie des éléments naturels couverts, et les frais de déblaiement sont indemnisés jusqu'à un plafond."
    ]
   },
   {
@@ -85,12 +83,11 @@
   {
    "h2": "Mobilier, véhicule, jardin : les autres assurances",
    "p": [
-    "L'assurance cantonale du bâtiment ne couvre pas le mobilier, sauf dans le canton de Vaud, où le mobilier de ménage est aussi assuré à l'ECA. Ailleurs, il relève de votre assurance ménage privée.",
+    "L'assurance cantonale du bâtiment ne couvre pas le mobilier. Il relève de votre assurance ménage privée.",
     "Pour les assureurs privés, l'ordonnance fédérale sur la surveillance définit la tempête : un vent d'au moins 75 km/h, qui renverse les arbres ou découvre les maisons dans le voisinage des choses assurées (art. 173 OS).",
     "Pour un véhicule touché, adressez-vous à l'assureur du véhicule : la prise en charge dépend de la couverture souscrite.",
-    "Le jardin est le point faible. L'arbre, la haie ou la clôture ne font en principe pas partie du bâtiment assuré.",
-    "Dans le canton de Vaud, l'ECA couvre les aménagements extérieurs à concurrence de 5 % de l'indemnité versée pour le bâtiment. Un complément facultatif étend la couverture aux arbres, arbustes, clôtures et frais de déblaiement, jusqu'à la somme souscrite.",
-    "Dans les autres cantons, demandez à votre assureur privé si votre contrat couvre les aménagements extérieurs.",
+    "Le jardin est le point faible. L'arbre ou la clôture ne font en principe pas partie du bâtiment assuré.",
+    "Demandez à votre assureur privé si votre contrat couvre les aménagements extérieurs.",
     "Et si l'arbre vient de chez le voisin ? Chacun annonce d'abord le dommage à sa propre assurance. La responsabilité du voisin se discute si une négligence peut lui être reprochée (art. 41 CO)."
    ]
   },
@@ -98,8 +95,7 @@
    "h2": "Faut-il une autorisation pour abattre en urgence ?",
    "p": [
     "Un arbre au sol se dégage. La question se pose pour l'arbre resté debout mais devenu dangereux, quand il est protégé par le règlement communal.",
-    "Dans le canton de Vaud, la loi prévoit le cas : en cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête.",
-    "Ailleurs, la protection des arbres isolés dépend surtout des règlements communaux. Prévenez la commune avant d'abattre et gardez vos photos : elles montrent le danger. Nous vérifions la règle de votre commune avant d'intervenir.",
+    "La protection des arbres isolés dépend surtout des règlements communaux. Prévenez la commune avant d'abattre et gardez vos photos : elles montrent le danger. Nous vérifions la règle de votre commune avant d'intervenir.",
     "En forêt, la règle est fédérale : tout abattage est soumis à l'autorisation du service forestier (art. 21 LFo). Après une tempête, adressez-vous au service forestier avant de couper."
    ]
   },
@@ -125,11 +121,11 @@
  "faq": [
   {
    "q": "L'assurance paie-t-elle l'évacuation de l'arbre tombé ?",
-   "a": "Si l'arbre a endommagé un bâtiment assuré, les frais de déblaiement liés à ce dommage sont pris en charge jusqu'à un plafond dans les cantons de Vaud, de Berne et de Fribourg. Dans le jardin seul, tout dépend d'une couverture des aménagements extérieurs."
+   "a": "Si l'arbre a endommagé un bâtiment assuré, les frais de déblaiement liés à ce dommage sont pris en charge jusqu'à un plafond dans le canton de Berne. Dans le jardin seul, tout dépend d'une couverture des aménagements extérieurs."
   },
   {
    "q": "Dans quel délai annoncer le sinistre ?",
-   "a": "Le plus tôt possible. L'ECA Jura demande une déclaration dès la survenance, avec un délai maximal d'un an. L'ECAP attend une annonce immédiate. L'ECA Vaud fixe un maximum de deux ans. N'attendez pas : les constats sont plus parlants à chaud."
+   "a": "Le plus tôt possible. L'ECA Jura demande une déclaration dès la survenance, avec un délai maximal d'un an. L'ECAP attend une annonce immédiate. N'attendez pas : les constats sont plus parlants à chaud."
   },
   {
    "q": "Puis-je débiter moi-même le bois une fois l'arbre au sol ?",
@@ -151,15 +147,8 @@
   {"titre": "ECAP Neuchâtel, Couverture d'assurance", "url": "https://www.ecap-ne.ch/assurer-2/couverture-dassurance/"},
   {"titre": "ECAP Neuchâtel, Un sinistre ? Que faire ?", "url": "https://www.ecap-ne.ch/sinistre-que-faire/"},
   {"titre": "Assurance immobilière Berne (AIB), GVB Standard : assurance obligatoire des bâtiments", "url": "https://gvb.ch/fr/assurances/gvb-standard.html"},
-  {"titre": "ECAB Fribourg, Marche à suivre en cas de sinistre", "url": "https://www.ecab.ch/assures/sinistre/marche-a-suivre-en-cas-de-sinistre/"},
-  {"titre": "ECAB Fribourg, Risques assurés", "url": "https://www.ecab.ch/assures/sinistre/consulter-les-risques-assures/"},
-  {"titre": "ECA Vaud, Déclarer un sinistre", "url": "https://www.eca-vaud.ch/sinistre/"},
-  {"titre": "ECA Vaud, Assurance bâtiment", "url": "https://www.eca-vaud.ch/assurances/assurance-batiment/"},
-  {"titre": "ECA Vaud, Assurance mobilier ménage", "url": "https://www.eca-vaud.ch/assurances/assurance-mobilier-menage/"},
-  {"titre": "ECA Vaud, Côté cour Côté jardin (aménagements extérieurs)", "url": "https://www.eca-vaud.ch/assurances/cote-cour-cote-jardin/"},
   {"titre": "Ordonnance sur la surveillance (OS, RS 961.011), art. 171 et 173 – Fedlex", "url": "https://www.fedlex.admin.ch/eli/cc/2005/735/fr#art_173"},
   {"titre": "Code des obligations (RS 220), art. 41 – Fedlex", "url": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr#art_41"},
-  {"titre": "Loi fédérale sur les forêts (LFo, RS 921.0), art. 21 – Fedlex", "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/fr#art_21"},
-  {"titre": "Canton de Vaud, loi sur la protection du patrimoine naturel et paysager (LPrPNP, BLV 450.11)", "url": "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11"}
+  {"titre": "Loi fédérale sur les forêts (LFo, RS 921.0), art. 21 – Fedlex", "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/fr#art_21"}
  ]
 }

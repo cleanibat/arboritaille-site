@@ -10,9 +10,9 @@
  "intro_h2": "Au creux des mines, à la limite du canton du Jura",
  "intro": "<p>Le nom de Crémines viendrait de « creux des mines ». Le village, cité en 1179 parmi les biens du prieuré de Moutier-Grandval, compte aujourd'hui 527 habitants sur 9,49 km², à 614 m d'altitude.</p><p>Ses voisines Val Terbi et Courrendlin sont jurassiennes. Cette position en limite de canton ne change rien pour vos arbres : à Crémines, c'est la loi bernoise qui s'applique.</p><p>À 614 m, la végétation démarre en général un peu plus tôt qu'en montagne, ce qui élargit la période de taille au début du printemps. Nous en tenons compte pour fixer les dates.</p>",
  "faits": [["Habitants", "527"], ["Altitude", "614 m"], ["Superficie", "9,49 km²"], ["Depuis Courgenay", "env. 25 km"]],
- "reglement": "<strong>Autorisation d'abattage à Crémines.</strong> Crémines est bernoise : les haies et bosquets y sont protégés dans leur état actuel (LCPN, BSG 426.11), l'entretien est permis et leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Crémines avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Crémines.</strong> Crémines est bernoise : les bosquets y sont protégés dans leur état actuel (LCPN, BSG 426.11), l'entretien est permis et leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Crémines avant d'intervenir.",
  "contexte": [
-  {"icone": "DOC", "titre": "Loi bernoise, voisins jurassiens", "texte": "Pour une haie, un propriétaire de Crémines dépend de la préfecture bernoise, son voisin de Val Terbi de sa commune et de l'Office jurassien de l'environnement. Nous connaissons les deux régimes et appliquons le bon."},
+  {"icone": "DOC", "titre": "Loi bernoise, voisins jurassiens", "texte": "Pour un bosquet, un propriétaire de Crémines dépend de la préfecture bernoise, son voisin de Val Terbi de sa commune et de l'Office jurassien de l'environnement. Nous connaissons les deux régimes et appliquons le bon."},
   {"icone": "CLOCK", "titre": "Une saison un peu plus longue", "texte": "À 614 m, les bourgeons s'ouvrent en général plus tôt qu'à 800 m. Nous terminons donc les tailles de fin d'hiver plus tôt ici qu'en montagne."},
   {"icone": "ARROW", "titre": "Accès rapide par l'A16", "texte": "La sortie Moutier nord de l'A16 est à cinq minutes du village. Cet accès direct compte quand il faut sécuriser un arbre après un coup de vent."}
  ],
@@ -24,9 +24,9 @@
  },
  "faq": [
   {"q": "Mon terrain à Crémines est proche du canton du Jura, quelle loi s'applique ?", "a": "Celle du canton où se trouve l'arbre. Pour une parcelle de Crémines, c'est le droit bernois et le règlement communal. Pour une parcelle de Val Terbi ou de Courrendlin, c'est la loi jurassienne. Nous vérifions avec vous sur le plan."},
-  {"q": "Faut-il une autorisation pour abattre un arbre à Crémines ?", "a": "Pour une haie ou un bosquet, la loi bernoise exige une dérogation de la préfecture avant toute suppression. Pour un arbre isolé, nous demandons à la commune de Crémines ce que prévoit son règlement, puis nous vous indiquons la démarche."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Crémines ?", "a": "Pour un bosquet, la loi bernoise exige une dérogation de la préfecture avant toute suppression. Pour un arbre isolé, nous demandons à la commune de Crémines ce que prévoit son règlement, puis nous vous indiquons la démarche."},
   {"q": "Venez-vous rapidement après une tempête ?", "a": "Oui. Crémines est accessible par la sortie Moutier nord de l'A16, à vingt-cinq kilomètres environ de Courgenay à vol d'oiseau. Pour un arbre dangereux, nous sécurisons d'abord ce qui menace de tomber, puis nous planifions la suite."},
-  {"q": "Quand tailler un arbre fruitier à Crémines ?", "a": "En fin d'hiver, hors gel, avant le débourrement, qui arrive en général un peu plus tôt à 614 m qu'en montagne. Nous enlevons le bois mort et les branches qui se croisent sans rabattre l'arbre sévèrement."},
+  {"q": "Quand tailler un arbre à Crémines ?", "a": "En fin d'hiver, hors gel, avant le débourrement, qui arrive en général un peu plus tôt à 614 m qu'en montagne. Nous enlevons le bois mort et les branches qui se croisent sans rabattre l'arbre sévèrement."},
   {"q": "Que faites-vous des branches et du tronc ?", "a": "Selon le devis, les branches sont broyées sur place ou évacuées. Le tronc peut rester en bûches pour votre chauffage. Nous laissons le terrain propre et pouvons rogner la souche dans la même intervention."}
  ],
  "cta_img": "abattage_arbre_porrentruy-3",

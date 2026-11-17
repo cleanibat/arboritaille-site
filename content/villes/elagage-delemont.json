@@ -30,7 +30,7 @@
   {
    "icone": "CLOCK",
    "titre": "La période",
-   "texte": "La taille d'entretien se fait surtout hors feuilles, de l'automne à la fin de l'hiver. En zone agricole, le règlement de Delémont fixe l'entretien des haies et bosquets du 1er août au 31 mars."
+   "texte": "La taille d'entretien se fait surtout hors feuilles, de l'automne à la fin de l'hiver. En zone agricole, le règlement de Delémont fixe l'entretien des bosquets du 1er août au 31 mars."
   },
   {
    "icone": "LEAF",
@@ -38,7 +38,7 @@
    "texte": "Près d'un centre historique bien conservé, un grand arbre fait partie du décor. Nous le réduisons par étapes et gardons sa silhouette, plutôt que de le rabattre d'un coup."
   }
  ],
- "reglement": "<strong>Élagage et autorisation à Delémont.</strong> Dans le canton du Jura, haies, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451).<br>À Delémont, le règlement communal sur les constructions (2017, art. 33-35) protège en zone à bâtir tout arbre dont le tronc mesure 20 cm de diamètre ou plus : abattage et élagage sévère sont soumis à autorisation communale, avec plantation compensatoire. En zone agricole (art. 36-41), haies et bosquets sont protégés et s'entretiennent du 1er août au 31 mars.<br>La Ville rappelle sur son <a href=\"https://www.delemont.ch/fr/Guichet-virtuel/Abattage-d-arbres/Guichet-virtuel-abattage-d-arbres.html\">guichet virtuel</a> que l'élagage sévère d'arbres ou de haies structurantes est soumis à autorisation. Les demandes sont traitées par le Service de l'urbanisme, de l'environnement et des travaux publics. Nous vérifions la règle en vigueur avant d'intervenir.",
+ "reglement": "<strong>Élagage et autorisation à Delémont.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451).<br>À Delémont, le règlement communal sur les constructions (2017, art. 33-35) protège en zone à bâtir tout arbre dont le tronc mesure 20 cm de diamètre ou plus : abattage et élagage sévère sont soumis à autorisation communale, avec plantation compensatoire. En zone agricole (art. 36-41), les bosquets sont protégés et s'entretiennent du 1er août au 31 mars.<br>La Ville rappelle sur son <a href=\"https://www.delemont.ch/fr/Guichet-virtuel/Abattage-d-arbres/Guichet-virtuel-abattage-d-arbres.html\">guichet virtuel</a> que l'élagage sévère d'arbres est soumis à autorisation. Les demandes sont traitées par le Service de l'urbanisme, de l'environnement et des travaux publics. Nous vérifions la règle en vigueur avant d'intervenir.",
  "faq": [
   {
    "q": "Faut-il une autorisation pour élaguer un arbre à Delémont ?",

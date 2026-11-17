@@ -35,10 +35,10 @@
   {
    "icone": "CLOCK",
    "titre": "Une longue saison de taille",
-   "texte": "À 434 m d'altitude, les périodes sans gel sont nombreuses. Les feuillus se taillent hors gel, les haies en hiver, hors nidification. Le bois mort s'enlève toute l'année."
+   "texte": "À 434 m d'altitude, les périodes sans gel sont nombreuses. Les feuillus se taillent hors gel. Le bois mort s'enlève toute l'année."
   }
  ],
- "reglement": "<strong>Règles de taille à Bienne.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). Leur entretien reste permis : taille, éclaircissage, recépage d'au plus la moitié en trois ans. Les arbres isolés et allées de valeur sont protégés par les règlements communaux ; à Bienne, il faut se référer au règlement de construction de la Ville. Nous vérifions la règle en vigueur à Bienne avant d'intervenir.",
+ "reglement": "<strong>Règles de taille à Bienne.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11). Leur entretien reste permis : taille, éclaircissage, recépage d'au plus la moitié en trois ans. Les arbres isolés et allées de valeur sont protégés par les règlements communaux ; à Bienne, il faut se référer au règlement de construction de la Ville. Nous vérifions la règle en vigueur à Bienne avant d'intervenir.",
  "faq": [
   {
    "q": "Pouvez-vous rédiger le devis d'élagage en allemand ?",
@@ -50,7 +50,7 @@
   },
   {
    "q": "Faut-il une autorisation pour élaguer un arbre à Bienne ?",
-   "a": "L'entretien courant des haies et bosquets est permis par la loi cantonale. Pour un arbre isolé ou une allée de valeur, il faut se référer au règlement de construction de la Ville. Nous le vérifions avant toute taille importante."
+   "a": "L'entretien courant des bosquets est permis par la loi cantonale. Pour un arbre isolé ou une allée de valeur, il faut se référer au règlement de construction de la Ville. Nous le vérifions avant toute taille importante."
   },
   {
    "q": "Comment organisez-vous la taille pour une gérance de Bienne ?",

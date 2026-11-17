@@ -1,20 +1,20 @@
 {
  "title": "Arboriste-grimpeur à Perles (BE) : taille et abattage | Arboritaille",
- "desc": "Taille, démontage, abattage et entretien de haies à Perles (Pieterlen), canton de Berne, y compris près des voies. Arboriste-grimpeur, visite et devis gratuits.",
+ "desc": "Taille, démontage, abattage et soins aux arbres à Perles (Pieterlen), canton de Berne, y compris près des voies. Arboriste-grimpeur, visite et devis gratuits.",
  "hero_img": "degagement_facade_epicea",
  "hero_pos": "50% 40%",
  "eyebrow": "Arboriste-grimpeur · Perles · Canton de Berne",
  "h1": "Arboriste-grimpeur à <em>Perles</em> : taille, abattage et soins aux arbres",
- "lead": "Perles, Pieterlen en allemand, se trouve sur deux lignes ferroviaires, vers Soleure et vers Moutier. Arbres de jardin, haies ou branches au-dessus d'une voie : nous venons voir et vous remettons un devis gratuit.",
+ "lead": "Perles, Pieterlen en allemand, se trouve sur deux lignes ferroviaires, vers Soleure et vers Moutier. Arbres de jardin ou branches au-dessus d'une voie : nous venons voir et vous remettons un devis gratuit.",
  "points": [
   "Visite sur place et devis gratuits",
   "Sécurisation des arbres près des voies et des lignes",
-  "Haies et bosquets entretenus en hiver",
+  "Conifères dégagés des façades",
   "Devis possible en allemand"
  ],
  "intro_eyebrow": "Vos arbres à Perles",
  "intro_h2": "Une commune sur deux lignes ferroviaires",
- "intro": "<p>Perles compte 5 255 habitants sur 8,32 km2, à 430 m d'altitude. Elle se trouve sur deux lignes de chemin de fer : Bienne–Soleure–Zurich et Bienne–Moutier–Bâle.</p><p>Près d'une voie, d'une route ou d'une ligne électrique, un arbre qui déborde devient une question de sécurité. Nous le réduisons du côté exposé et nous nous coordonnons avec le gestionnaire quand c'est nécessaire.</p><p>Avec 632 habitants au km2, Perles n'est pas bâtie partout : arbres isolés, haies et bosquets y ont en général leur place. Le canton de Berne protège haies et bosquets ; leur entretien reste possible, de préférence en hiver.</p>",
+ "intro": "<p>Perles compte 5 255 habitants sur 8,32 km2, à 430 m d'altitude. Elle se trouve sur deux lignes de chemin de fer : Bienne–Soleure–Zurich et Bienne–Moutier–Bâle.</p><p>Près d'une voie, d'une route ou d'une ligne électrique, un arbre qui déborde devient une question de sécurité. Nous le réduisons du côté exposé et nous nous coordonnons avec le gestionnaire quand c'est nécessaire.</p><p>Avec 632 habitants au km2, Perles n'est pas bâtie partout : arbres isolés et bosquets y ont en général leur place. Le canton de Berne protège les bosquets ; leur entretien reste possible, de préférence en hiver.</p>",
  "faits": [
   [
    "Habitants",
@@ -33,7 +33,7 @@
    "env. 30 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Perles.</strong> Le canton de Berne protège les haies et bosquets dans leur état actuel (LCPN, BSG 426.11) : tailler et éclaircir est permis, les supprimer demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Perles avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Perles.</strong> Le canton de Berne protège les bosquets dans leur état actuel (LCPN, BSG 426.11) : tailler et éclaircir est permis, les supprimer demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par le règlement communal. Nous vérifions la règle en vigueur à Perles avant d'intervenir.",
  "contexte": [
   {
    "icone": "WARN",
@@ -42,8 +42,8 @@
   },
   {
    "icone": "LEAF",
-   "titre": "Haies et bosquets en bordure de champ",
-   "texte": "Dans le canton de Berne, une haie se taille et se recèpe par moitié au plus en trois ans ; elle ne se supprime pas. Nous planifions ces entretiens de novembre à mars."
+   "titre": "Bosquets en bordure de champ",
+   "texte": "Dans le canton de Berne, un bosquet se taille et se recèpe par moitié au plus en trois ans ; il ne se supprime pas sans dérogation. Nous planifions ces entretiens de novembre à mars."
   },
   {
    "icone": "HOME",
@@ -64,11 +64,11 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Perles ?",
-   "a": "Le canton protège les haies et bosquets ; les arbres isolés dépendent du règlement communal de Perles. Avant de fixer une date, nous vérifions si votre arbre est concerné et vous indiquons la démarche."
+   "a": "Le canton protège les bosquets ; les arbres isolés dépendent du règlement communal de Perles. Avant de fixer une date, nous vérifions si votre arbre est concerné et vous indiquons la démarche."
   },
   {
-   "q": "Puis-je arracher une vieille haie en limite de champ ?",
-   "a": "Non, pas sans dérogation : dans le canton de Berne, les haies sont protégées dans leur état actuel. En revanche, un recépage partiel en hiver est permis et lui redonne de la vigueur."
+   "q": "Puis-je arracher un vieux bosquet en limite de champ ?",
+   "a": "Non, pas sans dérogation : dans le canton de Berne, les bosquets sont protégés dans leur état actuel. En revanche, un recépage partiel en hiver est permis et lui redonne de la vigueur."
   },
   {
    "q": "Un épicéa touche ma façade, faut-il l'abattre ?",

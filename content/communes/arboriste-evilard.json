@@ -33,7 +33,7 @@
    "env. 30 km"
   ]
  ],
- "reglement": "<strong>Autorisation d'abattage à Evilard.</strong> Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Evilard avant d'intervenir.",
+ "reglement": "<strong>Autorisation d'abattage à Evilard.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Evilard avant d'intervenir.",
  "contexte": [
   {
    "icone": "SEARCH",
@@ -69,7 +69,7 @@
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre à Evilard ou à Macolin ?",
-   "a": "Le canton de Berne protège les haies et bosquets ; les arbres isolés dépendent du règlement communal d'Evilard. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
+   "a": "Le canton de Berne protège les bosquets ; les arbres isolés dépendent du règlement communal d'Evilard. Nous vérifions pour vous si une demande est nécessaire avant de fixer une date."
   },
   {
    "q": "Quand tailler à 700 m d'altitude ?",

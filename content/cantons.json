@@ -33,11 +33,11 @@
    },
    {
     "icone": "DOC",
-    "titre": "Haies, bosquets et allées protégés",
-    "texte": "La loi cantonale protège haies, bosquets, arbres isolés et allées. Avant de supprimer ou de réduire un boisement, nous regardons avec vous si une dérogation ou une autorisation communale est nécessaire."
+    "titre": "Arbres isolés et allées protégés",
+    "texte": "La loi cantonale protège bosquets, arbres isolés et allées. Avant d'abattre ou de réduire un arbre, nous regardons avec vous si une dérogation ou une autorisation communale est nécessaire."
    }
   ],
-  "reglement": "Dans le canton du Jura, les haies, bosquets, arbres isolés et allées sont des monuments naturels protégés par la loi cantonale sur la protection de la nature et du paysage (LPNP, RSJU 451, art. 8, 38-40). Hors zone à bâtir, supprimer ou réduire une haie ou un bosquet exige une dérogation accordée par la commune d'entente avec l'Office de l'environnement, avec compensation.<br>En zone à bâtir, de nombreuses communes soumettent l'abattage et l'élagage sévère à autorisation communale : à Delémont, par exemple, dès 20 cm de diamètre de tronc. En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LFOR RSJU 921.11).<br>Nous vérifions les règles communales avant chaque intervention et planifions l'entretien des haies hors période de nidification, en hiver.",
+  "reglement": "Dans le canton du Jura, les bosquets, arbres isolés et allées sont des monuments naturels protégés par la loi cantonale sur la protection de la nature et du paysage (LPNP, RSJU 451, art. 8, 38-40). Hors zone à bâtir, supprimer ou réduire un bosquet exige une dérogation accordée par la commune d'entente avec l'Office de l'environnement, avec compensation.<br>En zone à bâtir, de nombreuses communes soumettent l'abattage et l'élagage sévère à autorisation communale : à Delémont, par exemple, dès 20 cm de diamètre de tronc. En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LFOR RSJU 921.11).<br>Nous vérifions les règles communales avant chaque intervention et planifions l'entretien des bosquets hors période de nidification, en hiver.",
   "communes_lead": "Trois districts, 51 communes. Chaque page décrit le relief, l'habitat et la règle d'abattage propres à la commune.",
   "faq": [
    {
@@ -47,10 +47,6 @@
    {
     "q": "Jusqu'où vous déplacez-vous dans le canton du Jura depuis Courgenay ?",
     "a": "Dans tout le canton. À vol d'oiseau, Porrentruy et Alle sont à environ 5 km, Delémont à une quinzaine, Saignelégier à une vingtaine, Moutier et Le Noirmont à environ 25 km. La visite sur place et le devis sont gratuits partout."
-   },
-   {
-    "q": "Quand faire tailler une haie ou un bosquet dans le Jura ?",
-    "a": "Les services cantonaux recommandent d'entretenir haies et bosquets durant le repos de la végétation, d'octobre à mars. Nous programmons donc tailles et recépages en hiver. Nous vérifions l'absence de nids avant toute intervention en période de nidification."
    },
    {
     "q": "Intervenez-vous aussi aux Franches-Montagnes, en altitude ?",
@@ -103,16 +99,12 @@
     "texte": "Sur le territoire de la commune de Neuchâtel, un arbre de plus de 60 cm de circonférence à 1 m du sol ne s'abat pas sans autorisation communale. Nous mesurons le tronc lors de la visite."
    }
   ],
-  "reglement": "Dans le canton de Neuchâtel, les haies et bosquets sont protégés sur tout le territoire (LCPN RSN 461.10 art. 12 ; arrêté RSN 461.106) : il est interdit de les essoucher, de les fragmenter ou d'en recéper ou abattre plus du tiers tous les trois ans, et toute intervention doit être annoncée au préalable à la section nature du service de la faune, des forêts et de la nature, qui indique si une dérogation (canton ou Conseil communal) est nécessaire.<br>Plusieurs communes protègent en outre les arbres isolés : sur le territoire de la commune de Neuchâtel (y compris Peseux, Corcelles-Cormondrèche et Valangin depuis 2024), tout arbre de plus de 60 cm de circonférence à 1 m du sol ne peut être abattu ou fortement élagué sans autorisation communale.<br>En forêt, il est interdit d'abattre un arbre non martelé par le service forestier (LCFo art. 51). Nous vérifions la règle de votre commune avant d'intervenir.",
+  "reglement": "Dans le canton de Neuchâtel, les bosquets sont protégés sur tout le territoire (LCPN RSN 461.10 art. 12 ; arrêté RSN 461.106) : il est interdit de les essoucher, de les fragmenter ou d'en recéper ou abattre plus du tiers tous les trois ans, et toute intervention doit être annoncée au préalable à la section nature du service de la faune, des forêts et de la nature, qui indique si une dérogation (canton ou Conseil communal) est nécessaire.<br>Plusieurs communes protègent en outre les arbres isolés : sur le territoire de la commune de Neuchâtel (y compris Peseux, Corcelles-Cormondrèche et Valangin depuis 2024), tout arbre de plus de 60 cm de circonférence à 1 m du sol ne peut être abattu ou fortement élagué sans autorisation communale.<br>En forêt, il est interdit d'abattre un arbre non martelé par le service forestier (LCFo art. 51). Nous vérifions la règle de votre commune avant d'intervenir.",
   "communes_lead": "Littoral, Montagnes, Val-de-Ruz, Val-de-Travers : chaque page décrit l'altitude, l'habitat et la règle propres à la commune.",
   "faq": [
    {
     "q": "Faut-il une autorisation pour abattre un arbre dans le canton de Neuchâtel ?",
     "a": "Plusieurs communes protègent les arbres isolés. Sur le territoire de la commune de Neuchâtel, tout arbre de plus de 60 cm de circonférence à 1 m du sol ne peut être abattu ou fortement élagué sans autorisation communale. Nous vérifions le règlement de votre commune."
-   },
-   {
-    "q": "Peut-on recéper ou supprimer une haie dans le canton de Neuchâtel ?",
-    "a": "Haies et bosquets sont protégés sur tout le territoire. Il est interdit de les essoucher, de les fragmenter ou d'en recéper ou abattre plus du tiers tous les trois ans. Toute intervention doit être annoncée au préalable à la section nature du canton."
    },
    {
     "q": "Intervenez-vous sur les arbres des jardins au bord du lac de Neuchâtel ?",
@@ -165,11 +157,11 @@
    },
    {
     "icone": "DOC",
-    "titre": "Haies : entretien permis, suppression encadrée",
-    "texte": "Dans le canton de Berne, l'entretien d'une haie est autorisé. Sa suppression demande une dérogation de la préfecture, avec compensation écologique. Pour les arbres isolés, nous vérifions le règlement de votre commune."
+    "titre": "Arbres isolés : la règle communale",
+    "texte": "Dans le canton de Berne, les arbres isolés, groupes d'arbres et allées de valeur sont protégés par les règlements communaux. À Bienne, il faut se référer au règlement de construction de la Ville. Nous vérifions celui de votre commune."
    }
   ],
-  "reglement": "Dans le canton de Berne, les haies et bosquets sont protégés dans leur état actuel par la loi cantonale sur la protection de la nature (LCPN BSG 426.11 art. 27) ; leur entretien (taille, éclaircissage, recépage d'au plus la moitié en trois ans) est autorisé, mais leur suppression nécessite une dérogation de la préfecture avec compensation écologique.<br>Les arbres isolés, groupes d'arbres et allées de valeur sont protégés via les règlements communaux (à Saint-Imier, par exemple, l'abattage d'un arbre porté au plan de protection n'est autorisé par la Municipalité qu'en cas de danger, avec compensation) ; à Bienne, se référer au règlement de construction de la Ville.<br>En forêt, tout abattage requiert une autorisation du service forestier (LCFo BSG 921.11 art. 10). Nous vérifions la règle de votre commune avant d'intervenir.",
+  "reglement": "Dans le canton de Berne, les bosquets sont protégés dans leur état actuel par la loi cantonale sur la protection de la nature (LCPN BSG 426.11 art. 27) ; leur entretien (taille, éclaircissage, recépage d'au plus la moitié en trois ans) est autorisé, mais leur suppression nécessite une dérogation de la préfecture avec compensation écologique.<br>Les arbres isolés, groupes d'arbres et allées de valeur sont protégés via les règlements communaux (à Saint-Imier, par exemple, l'abattage d'un arbre porté au plan de protection n'est autorisé par la Municipalité qu'en cas de danger, avec compensation) ; à Bienne, se référer au règlement de construction de la Ville.<br>En forêt, tout abattage requiert une autorisation du service forestier (LCFo BSG 921.11 art. 10). Nous vérifions la règle de votre commune avant d'intervenir.",
   "communes_lead": "De Bienne à Saint-Imier et de Tavannes à La Neuveville : chaque page décrit l'altitude, l'habitat, la langue et la règle propres à la commune.",
   "faq": [
    {
@@ -179,10 +171,6 @@
    {
     "q": "Faut-il une autorisation pour abattre un arbre à Bienne ou dans le canton de Berne ?",
     "a": "Les arbres isolés, groupes d'arbres et allées de valeur sont protégés par les règlements communaux. À Bienne, il faut se référer au règlement de construction de la Ville. En forêt, tout abattage requiert une autorisation du service forestier. Nous vérifions la règle de votre commune."
-   },
-   {
-    "q": "Peut-on recéper ou supprimer une haie dans le canton de Berne ?",
-    "a": "L'entretien est autorisé : taille, éclaircissage et recépage d'au plus la moitié de la haie en trois ans. La suppression d'une haie ou d'un bosquet nécessite une dérogation de la préfecture, avec compensation écologique. Nous programmons ces travaux en hiver, hors période de nidification."
    },
    {
     "q": "À quelle distance de Courgenay se trouvent Bienne, Saint-Imier et La Neuveville ?",
@@ -196,137 +184,5 @@
   "cta_img": "demontage_saule_port",
   "cta_h2": "Un arbre à tailler ou à démonter à Bienne ou dans le canton de Berne ?",
   "cta_lead": "Écrivez-nous en français ou en allemand. Visite et devis gratuits, réponse sous 48 h ouvrées."
- },
- "FR": {
-  "title": "Arboriste-grimpeur dans le canton de Fribourg | Arboritaille",
-  "desc": "Taille, élagage, abattage et plantation d'arbres dans le canton de Fribourg : Sarine, Gruyère, Glâne, Broye, Lac, Veveyse. Visite et devis gratuits.",
-  "h1": "Arboriste-grimpeur dans le <em>canton de Fribourg</em>",
-  "lead": "De Morat à la Gruyère, le canton de Fribourg se trouve entre 50 et 100 km de Courgenay. Nous y taillons, démontons et plantons des arbres pour particuliers, gérances et collectivités. Visite et devis gratuits.",
-  "points": [
-   "Visite sur place et devis gratuits",
-   "Réponse sous 48 h ouvrées",
-   "Réponses écrites en français ou en allemand",
-   "Particuliers, gérances, entreprises et communes"
-  ],
-  "hero_img": "arboriste_grimpeur-2",
-  "hero_pos": "50% 35%",
-  "resume": "Sarine, Gruyère, Glâne, Broye, Veveyse et Lac : six districts entre 50 et 100 km de Courgenay, de Chiètres et Morat à Bulle et Châtel-Saint-Denis.",
-  "intro_h2": "De Morat à la Gruyère, six districts et deux langues",
-  "intro": "<p>Depuis Courgenay, le canton de Fribourg demande un vrai déplacement. À vol d'oiseau, Chiètres et Mont-Vully sont à une cinquantaine de kilomètres, Fribourg à environ 65 km, Bulle à environ 90 km. La visite reste gratuite.</p><p>Nous couvrons six districts : la Sarine, la Gruyère, la Glâne, la Broye, la Veveyse et le Lac. Les communes concernées sont listées plus bas, district par district.</p><p>Fribourg s'étend de chaque côté de la Sarine, à la frontière entre Suisse romande et Suisse alémanique. Dans le district du Lac, Morat et Chiètres sont à majorité germanophone.</p><p>Estavayer est à 448 m. En Veveyse, le territoire de Châtel-Saint-Denis monte jusqu'à 2 014 m. D'un district à l'autre, la saison de taille et l'accès aux parcelles ne sont pas les mêmes.</p>",
-  "contexte": [
-   {
-    "icone": "HOME",
-    "titre": "Fribourg et le district de la Sarine",
-    "texte": "Fribourg, Villars-sur-Glâne, Marly, Granges-Paccot, Givisiez : dans les quartiers d'immeubles et de villas, un arbre côtoie souvent façades, parkings et lignes. Nous le descendons alors par petites pièces, retenues à la corde."
-   },
-   {
-    "icone": "MOUNT",
-    "titre": "Gruyère et Veveyse : le relief",
-    "texte": "Le territoire de Bulle s'étage de 730 à 1 170 m, celui de Châtel-Saint-Denis de 701 à 2 014 m. En altitude, la neige charge les couronnes et la saison de taille est plus courte."
-   },
-   {
-    "icone": "USERS",
-    "titre": "Français et allemand",
-    "texte": "Autour de Morat et de Chiètres, l'allemand domine. Nous parlons français sur le chantier et rédigeons devis et réponses en allemand si vous le souhaitez."
-   },
-   {
-    "icone": "DOC",
-    "titre": "Boisements hors forêt",
-    "texte": "Hors zone à bâtir, haies, bosquets, cordons boisés et grands arbres isolés d'intérêt écologique ou paysager ne se suppriment pas sans dérogation. En zone à bâtir, le règlement communal d'urbanisme fixe la protection."
-   }
-  ],
-  "reglement": "Dans le canton de Fribourg, les boisements hors forêt (haies, bosquets, cordons boisés, alignements et grands arbres isolés) situés hors zone à bâtir et d'intérêt écologique ou paysager ne peuvent pas être supprimés sans dérogation (LPNat RSF 721.0.1 art. 22). La dérogation est délivrée par la commune, sur préavis du Service des forêts et de la nature, avec compensation obligatoire.<br>En zone à bâtir, la protection est définie par le plan d'aménagement local et le règlement communal d'urbanisme de chaque commune. L'entretien périodique (taille, élagage d'entretien) reste libre, mais un entretien inadapté (coupe rase d'une haie, taille sévère, dessouchage) peut entraîner une remise en état.<br>En forêt, tout abattage est soumis à l'autorisation du service forestier (LFo art. 21 ; LFCN RSF 921.1 art. 43). Nous vérifions la règle de votre commune avant d'intervenir.",
-  "communes_lead": "Sarine, Gruyère, Glâne, Broye, Lac, Veveyse : chaque page décrit l'altitude, l'habitat et la règle propres à la commune.",
-  "faq": [
-   {
-    "q": "Faut-il une autorisation pour abattre un arbre dans le canton de Fribourg ?",
-    "a": "Hors zone à bâtir, un boisement hors forêt d'intérêt écologique ou paysager ne se supprime pas sans dérogation de la commune, avec compensation. En zone à bâtir, la protection dépend du règlement communal d'urbanisme. Nous vérifions la règle de votre commune."
-   },
-   {
-    "q": "Peut-on vous écrire en allemand depuis Morat, Chiètres ou Fribourg ?",
-    "a": "Oui. Nous répondons par écrit en allemand : demande, devis et descriptif du chantier. Sur place, nous parlons français. Morat et Chiètres sont à majorité germanophone, Fribourg est bilingue de fait : indiquez-nous simplement la langue souhaitée pour les documents."
-   },
-   {
-    "q": "Peut-on tailler librement une haie dans le canton de Fribourg ?",
-    "a": "L'entretien périodique reste libre : taille et élagage d'entretien. Un entretien inadapté, comme la coupe rase d'une haie, une taille sévère ou un dessouchage, peut en revanche entraîner une remise en état. Nous programmons les tailles de haies en hiver, hors période de nidification."
-   },
-   {
-    "q": "Vous déplacez-vous jusqu'à Bulle ou Châtel-Saint-Denis depuis Courgenay ?",
-    "a": "Oui. À vol d'oiseau, Bulle est à environ 90 km de Courgenay, Châtel-Saint-Denis à une centaine. La visite sur place et le devis restent gratuits. Nous répondons à votre demande sous 48 h ouvrées et convenons ensemble de la date de la visite."
-   },
-   {
-    "q": "Mon arbre se trouve en forêt : qui autorise l'abattage ?",
-    "a": "En forêt, tout abattage est soumis à l'autorisation du service forestier. Les haies, allées, jardins et parcs ne sont pas des forêts au sens de la loi fédérale. En cas de doute, la question se règle avec le service forestier avant toute coupe."
-   }
-  ],
-  "cta_img": "arboriste_grimpeur-19",
-  "cta_h2": "Un arbre à tailler ou à abattre dans le canton de Fribourg ?",
-  "cta_lead": "Décrivez-nous votre arbre, en français ou en allemand. Visite et devis gratuits, réponse sous 48 h ouvrées."
- },
- "VD": {
-  "title": "Arboriste-grimpeur canton de Vaud : taille, abattage | Arboritaille",
-  "desc": "Taille, élagage, abattage et plantation d'arbres dans le canton de Vaud : Nord vaudois, Broye, Lausanne, Lavaux, Riviera. Visite et devis gratuits.",
-  "h1": "Arboriste-grimpeur dans le <em>canton de Vaud</em>",
-  "lead": "Nous intervenons dans le nord et le centre du canton de Vaud, d'Avenches et Yverdon-les-Bains jusqu'à Lausanne et à la Riviera. Taille, démontage, abattage et plantation, avec visite et devis gratuits.",
-  "points": [
-   "Visite sur place et devis gratuits",
-   "Autorisation communale vérifiée avant tout abattage",
-   "Taille raisonnée, respectueuse de l'arbre",
-   "Du Nord vaudois à Lausanne et à la Riviera"
-  ],
-  "hero_img": "arboriste_grimpeur-19",
-  "hero_pos": "62% 30%",
-  "resume": "Le nord et le centre vaudois, de la Broye et d'Yverdon-les-Bains jusqu'à Lausanne, Lavaux et la Riviera, entre 50 et 110 km de Courgenay à vol d'oiseau.",
-  "intro_h2": "De la Broye au Léman, le nord et le centre vaudois",
-  "intro": "<p>Le canton de Vaud est notre secteur le plus éloigné. À vol d'oiseau, Cudrefin est à une cinquantaine de kilomètres, Avenches à une soixantaine, Yverdon-les-Bains à environ 80 km, Lausanne et Vevey à un peu plus de 100 km.</p><p>Nous couvrons sept districts : Broye-Vully, Jura-Nord vaudois, Gros-de-Vaud, Lausanne, Ouest lausannois, Lavaux-Oron et Riviera-Pays-d'Enhaut. Si votre commune ne figure pas dans la liste, appelez-nous.</p><p>Avec plus de 145 000 habitants, Lausanne est la plus grande ville de notre zone. Construite sur la rive nord du Léman, elle s'étage de 372 à 935 m. Les arbres y côtoient immeubles, murs et lignes.</p><p>Dans le canton de Vaud, abattre un arbre protégé demande une autorisation écrite de la Municipalité. Nous vérifions le règlement de votre commune dès la visite et vous indiquons la marche à suivre.</p>",
-  "contexte": [
-   {
-    "icone": "HOME",
-    "titre": "Lausanne et l'Ouest lausannois",
-    "texte": "Renens, Prilly, Écublens, Bussigny, Crissier : des communes de plus de 10 000 habitants, voisines de Lausanne. Entre les bâtiments, nous démontons à la corde quand la place manque pour les machines."
-   },
-   {
-    "icone": "MOUNT",
-    "titre": "Riviera : entre le lac et les hauts",
-    "texte": "Vevey est à 383 m, Blonay - Saint-Légier à 622 m. Entre le Léman et les hauts, une parcelle en pente offre rarement un accès large. Nous grimpons et descendons chaque pièce à la corde."
-   },
-   {
-    "icone": "LEAF",
-    "titre": "Nord vaudois : de la plaine au Jura",
-    "texte": "Yverdon-les-Bains est à 433 m, Sainte-Croix à 1 094 m, Le Chenit à 1 010 m. En altitude, l'hiver est long : la saison de taille et le choix des essences à planter en dépendent."
-   },
-   {
-    "icone": "DOC",
-    "titre": "Patrimoine arboré : 40 cm de circonférence",
-    "texte": "Le règlement-type cantonal de 2024 protège les arbres de plus de 40 cm de circonférence à 1 m du sol, les haies vives et les fruitiers haute-tige. Le seuil exact dépend du règlement de chaque commune."
-   }
-  ],
-  "reglement": "Dans le canton de Vaud, hors forêt, l'abattage d'un arbre protégé et tout élagage qui dépasse l'entretien courant exigent une autorisation écrite préalable de la Municipalité, fondée sur le règlement communal de protection du patrimoine arboré et sur la loi cantonale sur la protection du patrimoine naturel et paysager (LPrPNP, BLV 450.11, art. 14-15).<br>Le règlement-type cantonal de 2024 protège les arbres de plus de 40 cm de circonférence mesurée à 1 m du sol, toutes les haies vives et les fruitiers haute-tige ; beaucoup de communes appliquent encore un ancien règlement avec un seuil exprimé en diamètre (souvent 20 ou 30 cm à 1,30 m).<br>La demande est affichée au pilier public et une plantation compensatoire est exigée. En cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. Un élagage ou un écimage inconsidéré est assimilé à un abattage sans autorisation.<br>En forêt, tout abattage passe par le service forestier (LFo art. 21 ; LVLFo art. 53-54). Nous vérifions la règle de votre commune avant d'intervenir.",
-  "communes_lead": "Sept districts, de la Broye à la Riviera. Chaque page décrit l'altitude, l'habitat et la règle propres à la commune.",
-  "faq": [
-   {
-    "q": "Faut-il une autorisation pour abattre un arbre dans le canton de Vaud ?",
-    "a": "Oui, pour un arbre protégé : il faut une autorisation écrite préalable de la Municipalité. Le règlement-type cantonal de 2024 protège les arbres de plus de 40 cm de circonférence à 1 m du sol. Une plantation compensatoire est exigée."
-   },
-   {
-    "q": "Un élagage peut-il aussi demander une autorisation dans le canton de Vaud ?",
-    "a": "Oui. Tout élagage qui dépasse l'entretien courant exige l'autorisation de la Municipalité. Un élagage ou un écimage inconsidéré est assimilé à un abattage sans autorisation. Lors de la visite, nous vous disons si votre projet relève de l'entretien courant ou d'une demande à déposer."
-   },
-   {
-    "q": "Que faire si un arbre menace de tomber à Lausanne ou sur la Riviera ?",
-    "a": "En cas de danger imminent ou d'arbre mort, la Municipalité peut autoriser l'abattage sans mise à l'enquête. Prévenez votre commune et <a href=\"/urgence-tempete-arbre-dangereux\">appelez-nous</a>. Lausanne et Vevey sont à plus de 100 km de Courgenay : nous convenons avec vous du délai d'intervention possible."
-   },
-   {
-    "q": "Intervenez-vous au bord du Léman, à Lausanne, Vevey ou Montreux ?",
-    "a": "Oui. À vol d'oiseau, Lausanne et Vevey sont à environ 105 km de Courgenay, Montreux à environ 110 km. La visite sur place et le devis restent gratuits. Dans un jardin en pente au-dessus du lac, nous démontons à la corde, pièce par pièce."
-   },
-   {
-    "q": "Quelle partie du canton de Vaud couvrez-vous ?",
-    "a": "Le nord et le centre : Broye-Vully, Jura-Nord vaudois, Gros-de-Vaud, Lausanne, Ouest lausannois, Lavaux-Oron et Riviera-Pays-d'Enhaut. Les communes de la Broye, comme Cudrefin ou Avenches, sont à cinquante ou soixante kilomètres de Courgenay. Si la vôtre ne figure pas dans la liste, appelez-nous."
-   }
-  ],
-  "cta_img": "arboriste_grimpeur-2",
-  "cta_h2": "Un arbre à tailler ou à abattre dans le canton de Vaud ?",
-  "cta_lead": "Nous vérifions la règle de votre commune et venons voir l'arbre. Visite et devis gratuits, réponse sous 48 h ouvrées."
  }
 }
