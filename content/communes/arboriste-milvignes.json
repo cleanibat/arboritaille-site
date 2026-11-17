@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "USERS", "titre": "Entre voisins", "texte": "Branches qui dépassent, ombre sur une terrasse, feuilles dans un chéneau : une taille discutée à l'avance apaise souvent la situation. Nous pouvons rencontrer les deux propriétaires lors de la visite."},
   {"icone": "CABLE", "titre": "Accès étroits", "texte": "Portail, escalier, passage entre deux murs : là où une machine ne passe pas, nous montons dans l'arbre et descendons les pièces à la corde. Les branches sortent à la main."},
-  {"icone": "SHIELD", "titre": "Protéger ce qui entoure l'arbre", "texte": "Avant la première coupe, nous couvrons ce qui doit l'être et délimitons la zone de travail. Pelouse, massifs, dallage et véhicules restent hors de portée des chutes."}
+  {"icone": "SHIELD", "titre": "Protéger ce qui entoure l'arbre", "texte": "Avant la première coupe, nous couvrons ce qui doit l'être et délimitons la zone de travail. Pelouse, dallage, clôtures et véhicules restent hors de portée des chutes."}
  ],
  "services": {
   "elagage-taille-arbres": "Réduction, allègement et relevage de couronne pour garder un arbre à une taille compatible avec un petit jardin.",

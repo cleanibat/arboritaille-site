@@ -47,8 +47,8 @@
   },
   {
    "icone": "LEAF",
-   "titre": "Bosquets hors zone à bâtir",
-   "texte": "Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. Sur 71 km², la question se pose souvent. Nous entretenons ces bosquets en hiver, sans les supprimer."
+   "titre": "Arbres protégés hors zone à bâtir",
+   "texte": "Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. Sur 71 km², la question se pose souvent. Nous vérifions la règle avant chaque abattage."
   }
  ],
  "services": {
@@ -71,8 +71,8 @@
    "a": "Oui. La rogneuse réduit la souche en copeaux sous le niveau du sol. Vous pouvez ensuite engazonner ou replanter. Nous le proposons dans le même devis que l'abattage."
   },
   {
-   "q": "Quand entretenir un bosquet en zone agricole ?",
-   "a": "En hiver, hors période de nidification. Dans le canton du Jura, un bosquet hors zone à bâtir ne peut pas être supprimé sans dérogation. Nous respectons ce cadre et vous conseillons sur la coupe."
+   "q": "Un grand arbre de ferme peut-il être conservé ?",
+   "a": "Souvent, oui. Un <a href=\"/diagnostic-expertise-arbre\">diagnostic</a> indique si une taille d'allègement ou un <a href=\"/haubanage\">haubanage</a> suffisent. L'abattage n'est proposé que si l'arbre reste dangereux."
   },
   {
    "q": "Que comprend le devis pour un abattage à Haute-Sorne ?",

@@ -10,7 +10,7 @@
   "Visite et devis gratuits",
   "Rendez-vous convenus selon vos horaires",
   "Arbres de ferme et de jardin",
-  "Bosquets protégés, entretien en hiver"
+  "Statut de chaque arbre vérifié"
  ],
  "intro_eyebrow": "Vos arbres à Courchapoix",
  "intro_h2": "D'un village d'éleveurs à un village de pendulaires",
@@ -47,8 +47,8 @@
   },
   {
    "icone": "LEAF",
-   "titre": "Bosquets entre les pâtures",
-   "texte": "Hors zone à bâtir, les bosquets entre les pâtures sont protégés par la loi jurassienne. Nous les recépons par tronçons en hiver et ne les supprimons pas sans dérogation."
+   "titre": "Arbres protégés",
+   "texte": "Hors zone à bâtir, la loi jurassienne protège les bosquets et les arbres isolés. Avant d'abattre un arbre, nous vérifions s'il faut une dérogation communale."
   }
  ],
  "services": {
@@ -67,15 +67,15 @@
   },
   {
    "q": "Les vieux arbres de la ferme valent-ils encore une taille ?",
-   "a": "Dans la plupart des cas, oui. Un vieil arbre de ferme reste utile à la faune si l'on retire le bois mort et les branches qui se croisent. Quand il est creux et instable, nous proposons un jeune arbre de remplacement."
+   "a": "Dans la plupart des cas, oui. Retirer le bois mort et les branches qui se croisent rend un vieil arbre de ferme plus sûr. Quand il est creux et instable, nous proposons un jeune arbre de remplacement."
   },
   {
    "q": "Pouvez-vous intervenir en notre absence ?",
    "a": "Oui, si le devis est signé et l'accès convenu à l'avance. Nous laissons le terrain propre. Pour un premier chantier, nous préférons toutefois vous rencontrer une fois sur place, lors de la visite."
   },
   {
-   "q": "Quand entretenir un bosquet entre deux prés ?",
-   "a": "En hiver, durant le repos de la végétation, pour protéger les oiseaux. Nous recépons un tronçon à la fois afin que le bosquet reste dense. Hors zone à bâtir, sa suppression demanderait une dérogation communale."
+   "q": "Quand tailler un vieil arbre de ferme ?",
+   "a": "Hors période de nidification des oiseaux, de préférence pendant le repos de la végétation. Un arbre dangereux se sécurise en tout temps. Nous fixons la date avec vous."
   }
  ],
  "cta_img": "abattage_arbre_porrentruy-3",

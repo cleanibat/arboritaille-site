@@ -1,20 +1,20 @@
 {
  "title": "Arboriste-grimpeur à Safnern (BE) : taille et abattage | Arboritaille",
- "desc": "Taille, abattage et entretien d'arbres et de bosquets à Safnern (Savagnier), commune peu dense aux portes de Bienne, canton de Berne. Visite et devis gratuits.",
+ "desc": "Taille, abattage et entretien d'arbres à Safnern (Savagnier), commune peu dense aux portes de Bienne, canton de Berne. Visite et devis gratuits.",
  "hero_img": "arboriste_grimpeur-19",
  "hero_pos": "62% 30%",
  "eyebrow": "Arboriste-grimpeur · Safnern · Canton de Berne",
  "h1": "Arboriste-grimpeur à <em>Safnern</em> : taille, abattage et soins aux arbres",
- "lead": "Safnern, 5,62 km2 et 365 habitants au km2, a la densité d'une commune de campagne, aux portes de Bienne. Bosquets, arbres isolés ou arbres de jardin : nous venons voir et vous remettons un devis gratuit.",
+ "lead": "Safnern, 5,62 km2 et 365 habitants au km2, a la densité d'une commune de campagne, aux portes de Bienne. Arbres isolés en bordure de champ ou arbres de jardin : nous venons voir et vous remettons un devis gratuit.",
  "points": [
   "Visite sur place et devis gratuits",
-  "Bosquets entretenus par tronçons, en hiver",
+  "Tailles programmées en hiver, hors nidification",
   "Dérogation expliquée quand elle est nécessaire",
   "Devis possible en allemand"
  ],
  "intro_eyebrow": "Vos arbres à Safnern",
- "intro_h2": "Safnern, autrefois Savagnier : arbres et bosquets de campagne",
- "intro": "<p>Safnern, autrefois appelée Savagnier en français, compte 2 049 habitants sur 5,62 km2, à 436 m d'altitude. Avec 365 habitants au km2, la densité est celle d'une commune de campagne, aux portes de Bienne.</p><p>En campagne, les arbres qui nous occupent ne sont pas seulement ceux des jardins : bosquets, arbres isolés en bordure de champ ou de chemin. Dans le canton de Berne, les bosquets sont protégés dans leur état actuel.</p><p>Concrètement, on peut les tailler, les éclaircir ou les recéper par tronçons, mais pas les supprimer sans dérogation de la préfecture. Nous programmons ces travaux entre novembre et mars, hors nidification.</p>",
+ "intro_h2": "Safnern, autrefois Savagnier : des arbres de campagne",
+ "intro": "<p>Safnern, autrefois appelée Savagnier en français, compte 2 049 habitants sur 5,62 km2, à 436 m d'altitude. Avec 365 habitants au km2, la densité est celle d'une commune de campagne, aux portes de Bienne.</p><p>En campagne, les arbres qui nous occupent ne sont pas seulement ceux des jardins : il y a aussi les arbres isolés en bordure de champ ou de chemin. Dans le canton de Berne, la loi protège aussi les bosquets dans leur état actuel.</p><p>Pour les arbres isolés, le règlement communal fixe les règles. Nous le vérifions avant d'intervenir et programmons les tailles entre novembre et mars, hors nidification.</p>",
  "faits": [
   [
    "Habitants",
@@ -36,14 +36,14 @@
  "reglement": "<strong>Autorisation d'abattage à Safnern.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : tailler, éclaircir et recéper par moitié au plus en trois ans est permis ; supprimer demande une dérogation de la préfecture avec compensation écologique. Les arbres isolés et allées de valeur dépendent du règlement communal. Nous vérifions la règle en vigueur à Safnern avant d'intervenir.",
  "contexte": [
   {
-   "icone": "LEAF",
-   "titre": "Recéper par tronçons",
-   "texte": "Un vieux bosquet dégarni se régénère en le recépant par portions, une moitié au plus en trois ans. Il repart dense depuis la souche et continue d'abriter oiseaux et petits animaux."
+   "icone": "HOME",
+   "titre": "Les arbres de ferme",
+   "texte": "Près des fermes, les grands arbres surplombent souvent les toits et les cours. Nous allégeons la couronne et retirons le bois mort, avec des coupes sur branches secondaires."
   },
   {
    "icone": "CLOCK",
    "titre": "Le bon moment",
-   "texte": "Les services cantonaux recommandent d'entretenir les bosquets d'octobre à mars, pendant le repos de la végétation. Nous suivons ce calendrier et vérifions l'absence de nids."
+   "texte": "Nous taillons de préférence entre novembre et mars, pendant le repos de la végétation. Avant chaque intervention, nous vérifions l'absence de nids."
   },
   {
    "icone": "TREE",
@@ -55,20 +55,20 @@
   "elagage-taille-arbres": "Taille d'entretien des arbres isolés et des arbres de ferme, allègement des couronnes exposées au vent à Safnern.",
   "abattage-demontage": "Abattage direct en terrain ouvert, démontage à la corde près des bâtiments. Bois débité sur place ou évacué.",
   "plantation-arbres": "Remplacement d'un arbre isolé par une essence adaptée au sol et au climat du lieu.",
-  "diagnostic-expertise-arbre": "Avant de demander une dérogation, un avis écrit sur l'état de l'arbre ou du bosquet appuie votre dossier auprès de la commune."
+  "diagnostic-expertise-arbre": "Avant de demander une autorisation d'abattage, un avis écrit sur l'état de l'arbre appuie votre dossier auprès de la commune."
  },
  "faq": [
   {
-   "q": "Puis-je supprimer un bosquet en bordure de mon champ à Safnern ?",
-   "a": "Pas sans dérogation de la préfecture : les bosquets sont protégés dans leur état actuel dans le canton de Berne. Nous vous expliquons la démarche et, le plus souvent, proposons un recépage partiel qui règle le problème."
+   "q": "Un arbre isolé en plein champ perd des branches, que faire ?",
+   "a": "Nous examinons d'abord les charpentières et retirons le bois mort. Si la couronne est trop exposée au vent, nous l'allégeons. L'abattage n'est proposé que si l'arbre est dangereux."
   },
   {
    "q": "Faut-il une autorisation pour abattre un arbre de jardin à Safnern ?",
    "a": "Cela dépend du règlement communal de Safnern, qui peut protéger certains arbres isolés. Nous vérifions auprès de la commune avant de fixer une date et vous indiquons si une demande est à déposer."
   },
   {
-   "q": "À quelle période entretenir un bosquet ?",
-   "a": "D'octobre à mars, pendant le repos de la végétation et hors période de nidification. Si une intervention s'impose au printemps ou en été, nous vérifions d'abord qu'aucun nid n'est occupé."
+   "q": "À quelle période tailler un arbre à Safnern ?",
+   "a": "De novembre à mars, pendant le repos de la végétation et hors période de nidification. Si une intervention s'impose au printemps ou en été, nous vérifions d'abord qu'aucun nid n'est occupé."
   },
   {
    "q": "Vous déplacez-vous pour un seul arbre ?",
@@ -80,6 +80,6 @@
   }
  ],
  "cta_img": "arboriste_grimpeur-15",
- "cta_h2": "Un bosquet ou un arbre à entretenir à Safnern ?",
+ "cta_h2": "Un arbre à tailler ou à abattre à Safnern ?",
  "cta_lead": "Visite et devis gratuits, sans engagement. Réponse sous 48 h ouvrées."
 }

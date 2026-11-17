@@ -15,7 +15,7 @@
   {"icone": "CLOCK", "titre": "Une saison de croissance longue", "texte": "À 398 m, le débourrement est plus précoce et la pousse plus longue qu'en altitude. Un arbre de jardin dépasse vite la place prévue : une taille d'entretien tous les quelques années évite les coupes brutales."},
   {"icone": "DOC", "titre": "Un site à l'inventaire fédéral", "texte": "Le Prieuré de Grandgourt est inscrit à l'inventaire fédéral des sites construits à protéger. Autour d'un tel ensemble, nous dialoguons avec la commune avant d'intervenir et travaillons sans chute libre."},
   {"icone": "HOME", "titre": "Jardins des trois villages", "texte": "Dans les jardins et les cours de ferme de Buix, Courtemaîche et Montignez, un arbre planté il y a longtemps finit par toucher toiture ou ligne. Une taille ciblée règle le plus souvent le problème."},
-  {"icone": "LEAF", "titre": "Bosquets hors zone à bâtir", "texte": "Sur 23 km² pour 1 182 habitants, beaucoup de bosquets et d'arbres isolés se trouvent en général hors zone à bâtir, donc protégés par la loi jurassienne. Nous les entretenons en hiver, sans les supprimer."}
+  {"icone": "LEAF", "titre": "Arbres hors zone à bâtir", "texte": "Sur 23 km² pour 1 182 habitants, beaucoup de bosquets et d'arbres isolés se trouvent en général hors zone à bâtir, donc protégés par la loi jurassienne. Avant d'abattre ou de réduire un arbre, nous vérifions si une dérogation est nécessaire."}
  ],
  "services": {
   "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin et de ferme de Buix, Courtemaîche et Montignez.",

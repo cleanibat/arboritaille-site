@@ -4,7 +4,7 @@
  "hero_img": "arboriste_grimpeur-2", "hero_pos": "50% 35%",
  "eyebrow": "Arboriste-grimpeur · Courroux · Agglomération de Delémont",
  "h1": "Arboriste-grimpeur à <em>Courroux</em> : taille, abattage et soins aux arbres",
- "lead": "Courroux et Courcelon forment une commune de l'agglomération de Delémont. Jardins de maisons familiales, arbres en limite de parcelle, bosquets de campagne : nous les taillons ou les abattons, sur devis gratuit, depuis Courgenay.",
+ "lead": "Courroux et Courcelon forment une commune de l'agglomération de Delémont. Arbres de jardins familiaux, arbres en limite de parcelle : nous les taillons ou les abattons, sur devis gratuit, depuis Courgenay.",
  "points": ["Visite et devis gratuits", "Jardins de l'agglomération delémontaine", "Taille côté voisin avec son accord", "Plantation de remplacement avec tuteurage"],
  "intro_eyebrow": "Vos arbres à Courroux",
  "intro_h2": "Aux portes de Delémont, Courroux et Courcelon",
@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "HOME", "titre": "Arbres de jardin devenus grands", "texte": "Un conifère ou un feuillu planté il y a trente ans peut dépasser la maison. Plutôt que de l'étêter, nous réduisons la couronne par étapes pour garder un arbre sain et stable."},
   {"icone": "USERS", "titre": "Limites de parcelle et voisinage", "texte": "Des branches qui débordent chez le voisin ou de l'ombre sur son potager créent des tensions. Nous taillons des deux côtés, avec l'accord des deux propriétaires, et laissons les terrains propres."},
-  {"icone": "LEAF", "titre": "Bosquets hors zone à bâtir", "texte": "Hors zone à bâtir, les bosquets sont protégés par la loi jurassienne. Leur entretien se fait en hiver, par tronçons. Nous vous indiquons si une dérogation est nécessaire avant toute suppression."}
+  {"icone": "LEAF", "titre": "Arbres hors zone à bâtir", "texte": "Hors zone à bâtir, la loi jurassienne protège les bosquets et les arbres isolés. Avant d'abattre un arbre, nous vous indiquons si une dérogation est nécessaire."}
  ],
  "services": {
   "elagage-taille-arbres": "Réduction de couronne, allègement et relevage des branches basses pour les arbres de jardin de Courroux et de Courcelon.",

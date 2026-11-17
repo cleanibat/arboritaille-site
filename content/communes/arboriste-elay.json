@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "DOC", "titre": "Auf Deutsch, bitte", "texte": "Vous préférez l'allemand ? Écrivez-nous dans cette langue. Le devis et les réponses vous reviennent en allemand, le travail dans l'arbre reste le même."},
   {"icone": "MOUNT", "titre": "7,5 habitants au km²", "texte": "Beaucoup d'espace pour peu d'habitants : un arbre peut se trouver loin d'un chemin carrossable. Nos outils se portent et le bois se descend à la corde. Si une machine est utile, nous protégeons le sol."},
-  {"icone": "LEAF", "titre": "Bosquets", "texte": "Dans le canton de Berne, les bosquets se conservent dans leur état actuel. Nous les entretenons en hiver et vous orientons vers la préfecture si une suppression est envisagée."}
+  {"icone": "LEAF", "titre": "Arbres protégés", "texte": "Dans le canton de Berne, les bosquets se conservent dans leur état actuel. Pour un arbre isolé, le règlement communal s'applique : nous le vérifions avant d'intervenir."}
  ],
  "services": {
   "elagage-taille-arbres": "Taille d'entretien et de dégagement pour les arbres de ferme et de jardin d'Elay, devis en français ou en allemand.",

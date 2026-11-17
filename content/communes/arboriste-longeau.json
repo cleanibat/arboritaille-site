@@ -5,7 +5,7 @@
  "hero_pos": "62% 30%",
  "eyebrow": "Arboriste-grimpeur · Longeau · Canton de Berne",
  "h1": "Arboriste-grimpeur à <em>Longeau</em> : taille, abattage et soins aux arbres",
- "lead": "Longeau s'étage de la plaine de l'Aar à près de 1 200 m d'altitude. Arbres de jardin, arbres d'usine ou lisière de forêt : nous venons voir sur place, puis vous recevez un devis écrit et gratuit, en français ou en allemand.",
+ "lead": "Longeau s'étage de la plaine de l'Aar à près de 1 200 m d'altitude. Arbres de jardin, arbres d'usine ou arbres en bordure de forêt : nous venons voir sur place, puis vous recevez un devis écrit et gratuit, en français ou en allemand.",
  "points": [
   "Visite sur place et devis gratuits",
   "Nous distinguons arbre de jardin et arbre de forêt",
@@ -63,12 +63,12 @@
    "a": "Oui. Longeau est à une trentaine de kilomètres de Courgenay à vol d'oiseau. La visite est gratuite ; nous la groupons si possible avec d'autres rendez-vous du district de Bienne."
   },
   {
-   "q": "Mon arbre est en lisière de forêt à Longeau : qui décide ?",
+   "q": "Mon arbre est en bordure de forêt à Longeau : qui décide ?",
    "a": "Si l'arbre fait partie de la forêt, le service forestier doit autoriser l'abattage. S'il est isolé dans un jardin, c'est le règlement communal qui s'applique. Nous clarifions la situation avec vous avant toute coupe."
   },
   {
-   "q": "Peut-on supprimer un bosquet entre deux parcelles ?",
-   "a": "Dans le canton de Berne, les bosquets sont protégés dans leur état actuel. L'entretien est permis, pas la suppression sans dérogation de la préfecture. Nous vous orientons selon votre cas."
+   "q": "Que faire si un arbre menace ma maison à Longeau ?",
+   "a": "Décrivez-nous la situation. Nous venons évaluer l'arbre, puis proposons une taille, un haubanage ou un démontage. Vous recevez un devis écrit et gratuit."
   },
   {
    "q": "Quand tailler un arbre sur les hauteurs ?",

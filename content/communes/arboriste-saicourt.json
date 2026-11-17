@@ -20,13 +20,13 @@
   "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de ferme, de jardin et d'abords de monuments de Saicourt.",
   "abattage-demontage": "Démontage contrôlé près des bâtiments anciens, abattage direct en terrain libre. Bois débité ou évacué.",
   "haubanage": "Haubanage d'un grand arbre à conserver près d'un édifice, pour sécuriser une fourche sans l'abattre.",
-  "plantation-arbres": "Plantation d'un arbre adapté à 749 m, avec tuteurage tripode, pour remplacer un sujet abattu ou compléter une allée."
+  "plantation-arbres": "Plantation d'un arbre adapté à 749 m, avec tuteurage tripode, pour remplacer un sujet abattu."
  },
  "faq": [
   {"q": "Intervenez-vous au Fuet et à Bellelay comme à Saicourt ?", "a": "Oui, les trois villages et les localités de La Bottière et Montbautier forment la commune de Saicourt. Nous venons de Courgenay, à une vingtaine de kilomètres à vol d'oiseau, et pouvons grouper les rendez-vous."},
   {"q": "Faut-il une autorisation pour abattre un arbre à Saicourt ?", "a": "Pour les bosquets, la loi bernoise impose une dérogation de la préfecture avant toute suppression. Pour un arbre isolé, c'est le règlement communal de Saicourt qui désigne les cas soumis à autorisation. Nous nous renseignons avant de fixer la date."},
   {"q": "Pouvez-vous travailler près d'un édifice ancien comme l'abbatiale de Bellelay ?", "a": "Oui, avec l'accord du propriétaire ou du gestionnaire du site. Nous démontons l'arbre en pièces courtes retenues à la corde, protégeons les abords et planifions l'intervention en dehors de la présence du public."},
-  {"q": "Quand tailler un arbre de ferme ?", "a": "En hiver, en dehors de la période de nidification des oiseaux, ou en été après la pousse. Pour un bosquet, la loi bernoise permet l'entretien, pas la suppression. Nous vous conseillons sur la bonne intensité de taille."},
+  {"q": "Quand tailler un arbre de ferme ?", "a": "En hiver, en dehors de la période de nidification des oiseaux, ou en été après la pousse. Nous vous conseillons sur la bonne intensité de taille selon l'âge et l'état de l'arbre."},
   {"q": "Un arbre de cour menace la grange, intervenez-vous rapidement ?", "a": "Oui. Si l'arbre est fendu ou déraciné, nous sécurisons la partie dangereuse en priorité, puis nous convenons avec vous du démontage complet ou d'une réduction. Le devis reste gratuit."}
  ],
  "cta_img": "arboriste_grimpeur-19",

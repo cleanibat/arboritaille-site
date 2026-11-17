@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "DOC", "titre": "Une règle par adresse", "texte": "Protection des arbres isolés, demande d'autorisation, compensation : nous vérifions auprès de l'administration communale, à Saint-Blaise, ce qui s'applique à votre parcelle."},
   {"icone": "HOME", "titre": "Jardins proches les uns des autres", "texte": "Avec 452 habitants au kilomètre carré, les parcelles se touchent souvent. Un arbre qui grandit atteint vite une façade, une toiture ou le jardin d'à côté."},
-  {"icone": "LEAF", "titre": "Bosquets protégés", "texte": "Sur tout le territoire neuchâtelois, un bosquet ne s'essouche pas et ne se fragmente pas. Nous en recépons au plus un tiers tous les trois ans, après annonce au canton."}
+  {"icone": "LEAF", "titre": "Bosquets protégés", "texte": "Sur tout le territoire neuchâtelois, la loi protège les bosquets : ni essouchage ni fragmentation. Pour un arbre isolé, c'est le règlement communal qui s'applique."}
  ],
  "services": {
   "elagage-taille-arbres": "Réduction de couronne, relevage des branches basses et dégagement de façade pour les arbres de jardin et de copropriété.",
@@ -25,7 +25,7 @@
  "faq": [
   {"q": "Dans quelles localités de Laténa vous déplacez-vous ?", "a": "Dans toutes : Saint-Blaise, Hauterive, Marin-Epagnier, Thielle-Wavre, Enges et Voëns. Laténa se trouve à environ 45 kilomètres de Courgenay à vol d'oiseau. La visite est gratuite et le devis vous est envoyé par écrit."},
   {"q": "Quel règlement s'applique à mon arbre depuis la fusion ?", "a": "Laténa n'existe que depuis 2025. Nous ne présumons donc pas de la règle : avant chaque abattage, nous demandons à l'administration communale quelles dispositions valent pour votre parcelle, puis nous vous transmettons la réponse."},
-  {"q": "Faut-il annoncer la coupe d'un bosquet à Laténa ?", "a": "Dans le canton de Neuchâtel, les bosquets sont protégés. Recéper ou abattre une partie d'un bosquet s'annonce au préalable à la section nature du canton, qui indique si une dérogation est nécessaire. Nous préparons cette annonce avec vous."},
+  {"q": "Peut-on remplacer un arbre abattu à Laténa ?", "a": "Oui. Nous plantons un arbre de remplacement, avec une essence choisie pour la place disponible à l'âge adulte. Si la commune demande une compensation, nous en tenons compte dans le choix."},
   {"q": "Mon arbre est devenu trop grand près de la maison, que proposez-vous ?", "a": "Nous commençons par une taille : réduire la couronne, relever les branches basses, dégager la toiture. Si l'arbre n'a vraiment plus la place, nous le démontons à la corde et vous proposons une essence plus adaptée en remplacement."}
  ],
  "cta_img": "arboriste_grimpeur-19",

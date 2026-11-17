@@ -26,7 +26,7 @@
   {"q": "Venez-vous dans tous les hameaux de Petit-Val ?", "a": "Oui, de Souboz à Châtelat en passant par Sornetan, Monible, Fornet-Dessous, Les Ecorcheresses et Moron. Petit-Val est à une quinzaine de kilomètres de Courgenay à vol d'oiseau, le trajet ne pose aucun problème."},
   {"q": "Faut-il une autorisation pour abattre un arbre à Petit-Val ?", "a": "Pour les bosquets, la loi bernoise exige une dérogation de la préfecture avant toute suppression. Pour un arbre isolé, nous demandons à la commune de Petit-Val ce que prévoit son règlement et nous vous indiquons la démarche."},
   {"q": "Pouvez-vous travailler dans un pâturage sans l'abîmer ?", "a": "Oui. Nous grimpons dans l'arbre et travaillons à la corde, sans faire entrer de machines lourdes dans l'herbe. Les branches sont broyées au bord du chemin ou emportées. Nous veillons à ne rien laisser qui gêne le bétail."},
-  {"q": "Quelle période pour tailler à 843 m d'altitude ?", "a": "La fin de l'hiver, une fois le gel marqué passé, ou le plein été après la pousse. Nous évitons le débourrement, tardif à cette altitude. Les bosquets se taillent en hiver, hors nidification."},
+  {"q": "Quelle période pour tailler à 843 m d'altitude ?", "a": "La fin de l'hiver, une fois le gel marqué passé, ou le plein été après la pousse. Nous évitons le débourrement, tardif à cette altitude."},
   {"q": "Proposez-vous de replanter après un abattage ?", "a": "Oui, si vous le souhaitez. Nous choisissons un arbre rustique qui supportera l'altitude et le vent, nous le plantons avec tuteurage tripode et nous le protégeons du bétail. Un plan d'arrosage simple vous est remis."}
  ],
  "cta_img": "plantation_arbre",

@@ -9,12 +9,12 @@
  "points": [
   "Visite et devis gratuits",
   "Six localités, une seule commune",
-  "Bosquets entretenus en hiver",
+  "Arbres taillés selon l'essence",
   "Démontage par sections près des fermes"
  ],
  "intro_eyebrow": "Vos arbres dans le Val Terbi",
  "intro_h2": "Six localités réparties sur plus de 46 km²",
- "intro": "<p>Val Terbi est née le 1er janvier 2013 de la fusion de Vicques, Vermes et Montsevelier. Corban l'a rejointe en 2018. La commune compte 3 240 habitants à 455 m d'altitude, dans le district de Delémont.</p><p>Avec 46,71 km² pour 69 habitants au kilomètre carré, le territoire est vaste et peu dense. Entre les villages, l'espace reste pour l'essentiel non bâti.</p><p>Sur un tel territoire, beaucoup d'arbres poussent hors zone à bâtir : bosquets, arbres isolés en bordure de parcelle. La loi jurassienne les protège, et le canton recommande de les entretenir durant le repos de la végétation.</p><p>Nous entretenons ces bosquets en hiver et taillons les arbres des villages toute l'année selon l'essence. Le Val Terbi est à une vingtaine de kilomètres de Courgenay.</p>",
+ "intro": "<p>Val Terbi est née le 1er janvier 2013 de la fusion de Vicques, Vermes et Montsevelier. Corban l'a rejointe en 2018. La commune compte 3 240 habitants à 455 m d'altitude, dans le district de Delémont.</p><p>Avec 46,71 km² pour 69 habitants au kilomètre carré, le territoire est vaste et peu dense. Entre les villages, l'espace reste pour l'essentiel non bâti.</p><p>Sur un tel territoire, beaucoup d'arbres poussent hors zone à bâtir : bosquets, arbres isolés en bordure de parcelle. La loi jurassienne les protège.</p><p>Nous vérifions le statut de chaque arbre avant d'intervenir et taillons les arbres des villages toute l'année selon l'essence. Le Val Terbi est à une vingtaine de kilomètres de Courgenay.</p>",
  "faits": [
   [
    "Habitants",
@@ -37,8 +37,8 @@
  "contexte": [
   {
    "icone": "LEAF",
-   "titre": "Bosquets et arbres isolés",
-   "texte": "Hors zone à bâtir, bosquets et arbres isolés sont protégés par la loi jurassienne. Nous les entretenons en hiver et ne supprimons jamais un bosquet sans dérogation."
+   "titre": "Arbres hors zone à bâtir",
+   "texte": "Hors zone à bâtir, bosquets et arbres isolés sont protégés par la loi jurassienne. Nous vérifions la règle applicable à votre arbre avant toute taille ou tout abattage."
   },
   {
    "icone": "PIN",
@@ -48,27 +48,27 @@
   {
    "icone": "SPROUT",
    "titre": "Arbres des fermes",
-   "texte": "Près des fermes du Jura, un vieil arbre isolé demande une taille légère, sans rabattage sévère. Quand l'arbre est à bout, nous proposons un jeune plant de remplacement."
+   "texte": "Pour un vieil arbre isolé près d'une ferme, nous privilégions une taille légère, sans rabattage sévère. Quand l'arbre est à bout, nous proposons un jeune plant de remplacement."
   },
   {
    "icone": "CLOCK",
    "titre": "Le bon moment",
-   "texte": "Les bosquets s'entretiennent durant le repos de la végétation. Les arbres d'ornement se taillent selon l'essence. Nous vérifions l'absence de nids avant toute coupe au printemps."
+   "texte": "Les arbres d'ornement se taillent selon l'essence. Nous vérifions l'absence de nids avant toute coupe au printemps."
   }
  ],
  "services": {
-  "elagage-taille-arbres": "Taille d'entretien des arbres de village et de ferme dans les six localités de Val Terbi, entretien des bosquets en hiver.",
+  "elagage-taille-arbres": "Taille d'entretien des arbres de village et de ferme dans les six localités de Val Terbi, selon l'essence.",
   "abattage-demontage": "Abattage direct en terrain dégagé, démontage à la corde près des bâtiments agricoles et des lignes. Bois débité sur place si vous le souhaitez.",
   "plantation-arbres": "Remplacement d'un arbre isolé par un jeune sujet adapté à votre terrain, tuteuré et protégé du bétail si nécessaire."
  },
  "faq": [
   {
-   "q": "Peut-on supprimer un bosquet entre deux champs à Val Terbi ?",
-   "a": "Pas librement. Hors zone à bâtir, la loi jurassienne protège les bosquets. Leur suppression demande une dérogation de la commune, d'entente avec l'Office de l'environnement, avec compensation. L'entretien par tronçons reste possible."
+   "q": "Peut-on abattre un arbre isolé entre deux champs à Val Terbi ?",
+   "a": "Pas librement. Hors zone à bâtir, la loi jurassienne protège les arbres isolés comme les bosquets. Nous vérifions auprès de la commune la démarche à suivre avant d'abattre."
   },
   {
-   "q": "Quand entretenir un bosquet dans le Val Terbi ?",
-   "a": "Durant le repos de la végétation, d'octobre à mars, pour protéger les oiseaux et leurs couvées. Nous recépons une partie du bosquet à la fois, afin qu'il reste un abri."
+   "q": "Quand tailler un arbre dans le Val Terbi ?",
+   "a": "Selon l'essence. Au printemps, nous vérifions l'absence de nids avant toute coupe. Lors de la visite gratuite, nous vous indiquons la période adaptée à votre arbre."
   },
   {
    "q": "Vous déplacez-vous à Corban ou à Envelier pour un seul arbre ?",

@@ -14,7 +14,7 @@
  ],
  "intro_eyebrow": "Vos arbres à Perles",
  "intro_h2": "Une commune sur deux lignes ferroviaires",
- "intro": "<p>Perles compte 5 255 habitants sur 8,32 km2, à 430 m d'altitude. Elle se trouve sur deux lignes de chemin de fer : Bienne–Soleure–Zurich et Bienne–Moutier–Bâle.</p><p>Près d'une voie, d'une route ou d'une ligne électrique, un arbre qui déborde devient une question de sécurité. Nous le réduisons du côté exposé et nous nous coordonnons avec le gestionnaire quand c'est nécessaire.</p><p>Avec 632 habitants au km2, Perles n'est pas bâtie partout : arbres isolés et bosquets y ont en général leur place. Le canton de Berne protège les bosquets ; leur entretien reste possible, de préférence en hiver.</p>",
+ "intro": "<p>Perles compte 5 255 habitants sur 8,32 km2, à 430 m d'altitude. Elle se trouve sur deux lignes de chemin de fer : Bienne–Soleure–Zurich et Bienne–Moutier–Bâle.</p><p>Près d'une voie, d'une route ou d'une ligne électrique, un arbre qui déborde devient une question de sécurité. Nous le réduisons du côté exposé et nous nous coordonnons avec le gestionnaire quand c'est nécessaire.</p><p>Avec 632 habitants au km2, Perles n'est pas bâtie partout : arbres isolés et bosquets y ont en général leur place. Le canton de Berne protège les bosquets ; les arbres isolés dépendent du règlement communal.</p>",
  "faits": [
   [
    "Habitants",
@@ -42,8 +42,8 @@
   },
   {
    "icone": "LEAF",
-   "titre": "Bosquets en bordure de champ",
-   "texte": "Dans le canton de Berne, un bosquet se taille et se recèpe par moitié au plus en trois ans ; il ne se supprime pas sans dérogation. Nous planifions ces entretiens de novembre à mars."
+   "titre": "Abattage près des maisons",
+   "texte": "Quand un arbre doit tomber près d'une maison, nous le démontons par sections depuis la couronne, descendues à la corde. Le bois est débité sur place ou évacué, selon le devis."
   },
   {
    "icone": "HOME",
@@ -67,8 +67,8 @@
    "a": "Le canton protège les bosquets ; les arbres isolés dépendent du règlement communal de Perles. Avant de fixer une date, nous vérifions si votre arbre est concerné et vous indiquons la démarche."
   },
   {
-   "q": "Puis-je arracher un vieux bosquet en limite de champ ?",
-   "a": "Non, pas sans dérogation : dans le canton de Berne, les bosquets sont protégés dans leur état actuel. En revanche, un recépage partiel en hiver est permis et lui redonne de la vigueur."
+   "q": "Que faire de la souche après l'abattage ?",
+   "a": "Nous pouvons la rogner sous le niveau du sol avec une rogneuse. Le terrain se nivelle ensuite facilement. Le rognage figure dans le devis si vous le souhaitez."
   },
   {
    "q": "Un épicéa touche ma façade, faut-il l'abattre ?",

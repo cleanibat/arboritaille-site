@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "HOME", "titre": "Près des châteaux et du prieuré", "texte": "À côté d'un château ou d'un bâtiment classé, chaque branche est retenue à la corde avant de descendre. Aucune chute libre sur un mur ancien, une toiture ou un portail."},
   {"icone": "PIN", "titre": "Cinq villages, une même démarche", "texte": "Asuel, Charmoille, Fregiécourt, Miécourt ou Pleujouse : la visite est gratuite dans chacun des cinq villages. Le rendez-vous se fixe selon vos disponibilités, puis le devis suit par écrit."},
-  {"icone": "LEAF", "titre": "Un territoire peu dense", "texte": "Sur plus de trente kilomètres carrés, l'habitat occupe peu de place. Les bosquets s'entretiennent en hiver, hors période de nidification, et leur suppression demande une dérogation."}
+  {"icone": "LEAF", "titre": "Un territoire peu dense", "texte": "Sur plus de trente kilomètres carrés, l'habitat occupe peu de place. Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. Nous vérifions la règle avant tout abattage."}
  ],
  "services": {
   "elagage-taille-arbres": "Bois mort, allègement ou réduction de couronne pour les grands arbres des cinq villages. La silhouette de l'arbre est conservée.",

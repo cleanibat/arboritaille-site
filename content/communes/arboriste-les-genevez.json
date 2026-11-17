@@ -5,7 +5,7 @@
  "eyebrow": "Arboriste-grimpeur · Les Genevez · Franches-Montagnes",
  "h1": "<em>Les Genevez</em> : arboriste-grimpeur pour la taille, l'abattage et les soins aux arbres",
  "lead": "Les Genevez, 518 habitants à 1 035 m, ont formé la Courtine de Bellelay avec Lajoux jusqu'en 1798. Le village et Le Prédame sont à une quinzaine de kilomètres de Courgenay. Nous y taillons et abattons vos arbres.",
- "points": ["Visite et devis gratuits", "À une quinzaine de kilomètres de Courgenay", "Résineux et feuillus à 1 035 m", "Bosquets entretenus en hiver"],
+ "points": ["Visite et devis gratuits", "À une quinzaine de kilomètres de Courgenay", "Résineux et feuillus à 1 035 m", "Couronnes allégées avant l'hiver"],
  "intro_eyebrow": "Vos arbres aux Genevez",
  "intro_h2": "Ancienne Courtine de Bellelay, à 1 035 m d'altitude",
  "intro": "<p>La première mention des Genevez, en 1381, figure dans un inventaire de l'abbaye de Bellelay. Jusqu'en 1798, le village forme avec Lajoux et les deux Fornets la Courtine de Bellelay, sous l'abbé, vassal du prince-évêque de Bâle.</p><p>La commune a d'abord appartenu au district de Moutier avant de rejoindre celui des Franches-Montagnes. Elle compte 518 habitants sur 13,61 km², avec la localité du Prédame.</p><p>Les Genevez se trouvent à 1 035 m : la saison de végétation y est brève. La neige peut peser sur les branches dès l'automne.</p><p>Dans ces conditions, un arbre se taille peu et au bon moment. Nous enlevons le bois mort, allégeons les charpentières trop longues et laissons la silhouette intacte.</p>",
@@ -13,7 +13,7 @@
  "reglement": "<strong>Autorisation d'abattage aux Genevez.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur aux Genevez avant d'intervenir.",
  "contexte": [
   {"icone": "MOUNT", "titre": "Neige précoce", "texte": "À 1 035 m, la neige peut tomber tôt sur des feuillus encore en feuilles. Les branches surchargées cassent. Nous allégeons les couronnes exposées avant l'hiver."},
-  {"icone": "LEAF", "titre": "Bosquets protégés", "texte": "Hors zone à bâtir, la loi jurassienne protège les bosquets. Nous les entretenons par tronçons, en hiver, et vous indiquons la démarche de dérogation si une suppression est envisagée."},
+  {"icone": "DOC", "titre": "Ce que la loi protège", "texte": "Hors zone à bâtir, la loi jurassienne protège les bosquets. En zone à bâtir, le règlement communal désigne les arbres protégés. Nous vérifions la règle avant tout abattage."},
   {"icone": "HOME", "titre": "Fermes et Prédame", "texte": "Les arbres proches des fermes et des maisons du Prédame ou du village se démontent à la corde quand ils menacent. Le bois est débité sur place pour votre chauffage si vous le souhaitez."}
  ],
  "services": {

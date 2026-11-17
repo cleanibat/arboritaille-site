@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "TREE", "titre": "Fermes et jardins anciens", "texte": "Près d'une ancienne ferme, un arbre planté il y a cinquante ans a atteint sa taille adulte. Nous allégeons ou réduisons la couronne pour dégager toitures et façades sans dénaturer l'arbre."},
   {"icone": "SPROUT", "titre": "Arbres âgés à remplacer", "texte": "Un vieil arbre de jardin peut arriver en fin de vie. Après l'abattage, nous plantons un jeune arbre adapté au sol et à la place disponible."},
-  {"icone": "LEAF", "titre": "Bosquets protégés", "texte": "Hors zone à bâtir, un bosquet ne se supprime pas librement. Nous l'entretenons en hiver et vous indiquons la démarche si une dérogation est nécessaire."},
+  {"icone": "LEAF", "titre": "Arbres protégés", "texte": "Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. Avant d'abattre ou de réduire un arbre, nous vous indiquons la démarche si une dérogation est nécessaire."},
   {"icone": "HOME", "titre": "Près de l'église", "texte": "L'église Saint-Jean l'Évangéliste porte des vitraux d'André Bréchet. Près d'un tel bâtiment, chaque branche est retenue à la corde avant de descendre, sans chute libre."}
  ],
  "services": {

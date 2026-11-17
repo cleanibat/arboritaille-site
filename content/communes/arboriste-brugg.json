@@ -38,7 +38,7 @@
   {
    "icone": "USERS",
    "titre": "Entreprises et gérances",
-   "texte": "Zones d'activités et immeubles locatifs ont des arbres d'alignement et de parking à suivre. Nous proposons une visite, un devis par arbre et un calendrier d'entretien sur plusieurs années."
+   "texte": "Zones d'activités et immeubles locatifs ont des arbres de parking et d'abords à suivre. Nous proposons une visite, un devis par arbre et un calendrier d'entretien sur plusieurs années."
   },
   {
    "icone": "WIND",
@@ -52,7 +52,7 @@
   }
  ],
  "services": {
-  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin, de parking et d'alignement à Brügg.",
+  "elagage-taille-arbres": "Taille d'entretien et réduction de couronne pour les arbres de jardin et de parking à Brügg.",
   "abattage-demontage": "Démontage à la corde entre les maisons, abattage direct sur les terrains dégagés. Bois évacué ou débité en bûches.",
   "collectivites-entreprises": "Entreprises, gérances et commune : visite du site, devis détaillé, planification et compte rendu.",
   "rognage-souche": "Souche rognée sous le niveau du sol après un abattage, pour replanter ou retrouver une pelouse continue."

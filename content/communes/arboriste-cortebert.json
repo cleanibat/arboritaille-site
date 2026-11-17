@@ -5,7 +5,7 @@
  "eyebrow": "Arboriste-grimpeur · Cortébert · District de Courtelary",
  "h1": "Arboriste-grimpeur à <em>Cortébert</em> : taille, abattage et soins aux arbres",
  "lead": "Cortébert, 675 habitants à 680 m, a vécu de l'agriculture jusqu'au XVIIIe siècle avant de se tourner vers l'horlogerie. Depuis Courgenay, à environ vingt-cinq kilomètres, nous taillons, démontons et plantons vos arbres. Visite et devis gratuits.",
- "points": ["Visite et devis gratuits", "Arbres de ferme entretenus", "Grands arbres d'ornement réduits sans étêtage", "Protection cantonale des bosquets vérifiée"],
+ "points": ["Visite et devis gratuits", "Arbres de ferme entretenus", "Grands arbres d'ornement réduits sans étêtage", "Statut de chaque arbre vérifié"],
  "intro_eyebrow": "Vos arbres à Cortébert",
  "intro_h2": "Un village agricole devenu horloger, et les arbres de ses deux époques",
  "intro": "<p>Cortébert est mentionné dès 1178 sous le nom de Cortaibert, la ferme d'Aibert. Il a vécu de l'agriculture jusqu'à la fin du XVIIIe siècle, puis l'horlogerie s'y est installée et l'a fait grandir dans la seconde moitié du XIXe siècle.</p><p>Ces deux époques laissent souvent deux types d'arbres. Autour des anciennes fermes, des arbres de cour âgés. Autour des maisons et ateliers du XIXe siècle, des arbres d'ornement plantés à l'époque et aujourd'hui de grande taille.</p><p>Avec 46 habitants au km² sur 14,78 km², la commune est peu dense. Les bosquets y relèvent de la protection cantonale, et nous le vérifions avant chaque chantier.</p>",
@@ -14,7 +14,7 @@
  "contexte": [
   {"icone": "SPROUT", "titre": "Arbres de ferme", "texte": "Les vieux arbres de cour des anciennes fermes demandent une taille légère : bois mort, branches qui se croisent, allègement des charpentières trop longues. Jamais de rabattage sévère."},
   {"icone": "TREE", "titre": "Arbres d'ornement du XIXe siècle", "texte": "Un arbre planté lors de l'essor horloger aurait aujourd'hui plus d'un siècle. Quand un tel arbre dépasse la maison, une réduction de couronne sur branches secondaires remplace l'étêtage, qui l'affaiblirait."},
-  {"icone": "LEAF", "titre": "Bosquets", "texte": "Dans le canton de Berne, les bosquets sont protégés dans leur état actuel. Entretien permis en hiver, suppression soumise à dérogation de la préfecture."}
+  {"icone": "LEAF", "titre": "Arbres protégés", "texte": "Dans le canton de Berne, les arbres isolés de valeur sont protégés par le règlement communal. Nous vérifions le statut de l'arbre avant tout abattage."}
  ],
  "services": {
   "elagage-taille-arbres": "Taille douce des arbres de cour, réduction raisonnée des grands arbres d'ornement de Cortébert.",
@@ -26,7 +26,7 @@
   {"q": "Comment entretenir un vieil arbre de cour à Cortébert ?", "a": "Par une taille légère en hiver, hors gel : suppression du bois mort, des branches qui se croisent et des gourmands. Nous évitons les grosses coupes, qui ouvrent la porte aux champignons sur un arbre âgé."},
   {"q": "Un arbre centenaire près de la maison doit-il être abattu ?", "a": "Pas sans examen. Nous contrôlons la couronne, le tronc et la base. Un arbre ancien se conserve souvent par un allègement et, si besoin, un haubanage. L'abattage reste réservé aux arbres dangereux ou condamnés."},
   {"q": "Vous déplacez-vous à Cortébert pour un seul arbre ?", "a": "Oui. Cortébert est à environ vingt-cinq kilomètres de Courgenay et, quand c'est possible, nous groupons les visites du district de Courtelary. La visite est gratuite et nous répondons à votre demande sous 48 h ouvrées."},
-  {"q": "Puis-je supprimer un bosquet entre deux parcelles ?", "a": "Dans le canton de Berne, un bosquet se taille et s'éclaircit librement, mais sa suppression demande une dérogation de la préfecture avec compensation. Nous vous conseillons avant toute décision."},
+  {"q": "Faut-il une autorisation pour abattre un arbre à Cortébert ?", "a": "Pour un arbre isolé ou une allée de valeur, le règlement communal s'applique. Dans le canton de Berne, supprimer un bosquet demande une dérogation de la préfecture. Nous vérifions avant d'intervenir."},
   {"q": "Que faites-vous du bois ?", "a": "Selon le devis, les branches sont broyées ou évacuées et le tronc débité en bûches pour votre chauffage. Le terrain est nettoyé avant notre départ."}
  ],
  "cta_img": "reduction_tilleul_porrentruy",

@@ -5,7 +5,7 @@
  "eyebrow": "Arboriste-grimpeur · Haute-Ajoie · District de Porrentruy",
  "h1": "Arboriste-grimpeur à <em>Haute-Ajoie</em> : arbres isolés et arbres de ferme",
  "lead": "Haute-Ajoie regroupe Chevenez, Damvant, Réclère, Roche-d'Or et Rocourt sur près de 41 km². Depuis Courgenay, à une dizaine de kilomètres, nous taillons, sécurisons et abattons vos arbres après une visite gratuite.",
- "points": ["Cinq villages, visite gratuite", "À une dizaine de kilomètres de Courgenay", "Bosquets entretenus en hiver", "Arbres isolés contrôlés après le vent"],
+ "points": ["Cinq villages, visite gratuite", "À une dizaine de kilomètres de Courgenay", "Démontage à la corde près des fermes", "Arbres isolés contrôlés après le vent"],
  "intro_eyebrow": "Vos arbres à Haute-Ajoie",
  "intro_h2": "Près de 41 km² pour un millier d'habitants",
  "intro": "<p>Haute-Ajoie couvre 40,93 km² pour 1 063 habitants, soit 26 habitants au kilomètre carré. Sur un territoire aussi peu dense, un arbre a en général toute la place de se développer.</p><p>La commune date du 1er janvier 2009, quand Chevenez, Damvant, Réclère et Roche-d'Or ont fusionné. Rocourt l'a rejointe le 1er janvier 2018. L'altitude de référence est de 491 m.</p><p>Avec une telle densité, beaucoup d'arbres poussent en général hors zone à bâtir : bosquets, sujets isolés en bord de champ. La loi jurassienne les protège, et supprimer un bosquet passe par une dérogation.</p><p>Nous venons d'abord voir l'arbre, gratuitement. Le devis écrit précise ensuite ce qui sera coupé, ce qui sera conservé et ce que devient le bois.</p>",
@@ -13,7 +13,7 @@
  "reglement": "<strong>Autorisation d'abattage à Haute-Ajoie.</strong> Dans le canton du Jura, bosquets, arbres isolés et allées sont protégés par la loi cantonale (LPNP, RSJU 451). Hors zone à bâtir, supprimer un bosquet demande une dérogation de la commune, d'entente avec l'Office de l'environnement. En zone à bâtir, le règlement communal fixe les arbres protégés et les cas soumis à autorisation. Nous vérifions la règle en vigueur à Haute-Ajoie avant d'intervenir.",
  "contexte": [
   {"icone": "WIND", "titre": "Arbres isolés en bord de champ", "texte": "Un arbre seul prend le vent de face. Après une tempête, une branche fendue ou un tronc qui s'incline justifient un contrôle avant que le danger ne grandisse."},
-  {"icone": "LEAF", "titre": "Bosquets", "texte": "Un bosquet s'entretient en hiver, hors période de nidification. Si vous envisagez d'en supprimer une partie, nous vous expliquons la demande de dérogation à déposer."},
+  {"icone": "LEAF", "titre": "Arbres protégés hors zone à bâtir", "texte": "Hors zone à bâtir, la loi jurassienne protège bosquets et arbres isolés. Avant d'abattre un arbre, nous vérifions la règle auprès de la commune et vous indiquons la démarche."},
   {"icone": "HOME", "titre": "Cours de ferme et jardins", "texte": "Près d'un rural ou d'une habitation, le démontage se fait par petites sections descendues à la corde. Le toit, la cour et les clôtures restent intacts."}
  ],
  "services": {
@@ -24,9 +24,9 @@
  "faq": [
   {"q": "Vous déplacez-vous jusqu'à Damvant ou Réclère ?", "a": "Oui. Tous les villages de Haute-Ajoie sont desservis depuis Courgenay : Chevenez, Rocourt, Réclère, Roche-d'Or et Damvant. La commune se trouve à une dizaine de kilomètres à vol d'oiseau. La visite reste gratuite partout."},
   {"q": "Faut-il une autorisation pour abattre un arbre à Haute-Ajoie ?", "a": "Cela dépend de la zone. En zone à bâtir, le règlement communal précise les arbres protégés. Hors zone à bâtir, bosquets et arbres isolés sont protégés par la loi cantonale. Nous nous renseignons auprès de la commune avant d'intervenir."},
-  {"q": "Peut-on supprimer un bosquet en bord de champ ?", "a": "Pas librement. Dans le canton du Jura, supprimer un bosquet hors zone à bâtir demande une dérogation de la commune, d'entente avec l'Office de l'environnement. L'entretien courant, lui, reste possible et se fait en hiver."},
+  {"q": "Que devient la souche après l'abattage ?", "a": "Nous pouvons la <a href=\"/rognage-souche\">rogner</a> sous le niveau du sol. Le terrain peut ensuite être engazonné ou replanté. Le rognage est chiffré dans le même devis que l'abattage."},
   {"q": "Un arbre isolé a perdu une grosse branche : que faire ?", "a": "Tenez-vous à distance et balisez la zone si un passage est proche. Nous venons évaluer la blessure et la tenue de l'arbre. Selon le cas, une <a href=\"/urgence-tempete-arbre-dangereux\">mise en sécurité</a>, une taille de reprise ou un abattage sont proposés."},
-  {"q": "La visite est-elle facturée ?", "a": "Non. La visite sur place et le devis écrit sont gratuits et sans engagement, pour un arbre comme pour un bosquet entier. Nous répondons à votre demande sous 48 h ouvrées."}
+  {"q": "La visite est-elle facturée ?", "a": "Non. La visite sur place et le devis écrit sont gratuits et sans engagement, quel que soit le nombre d'arbres. Nous répondons à votre demande sous 48 h ouvrées."}
  ],
  "cta_img": "abattage_arbre_porrentruy-3",
  "cta_h2": "Un arbre à entretenir à Haute-Ajoie ?",

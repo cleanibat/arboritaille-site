@@ -5,15 +5,15 @@
  "eyebrow": "Arboriste-grimpeur · Corgémont · District de Courtelary",
  "h1": "Arboriste-grimpeur à <em>Corgémont</em> : taille, abattage et soins aux arbres",
  "lead": "Corgémont, 1 801 habitants à 663 m, est à environ vingt-cinq kilomètres de Courgenay. Avant toute coupe, nous vérifions ce que la loi bernoise et la commune autorisent, puis nous taillons ou abattons dans les règles. Visite et devis gratuits.",
- "points": ["Visite et devis gratuits", "Démarche d'autorisation expliquée", "Bosquets entretenus en hiver", "Souche rognée après abattage"],
+ "points": ["Visite et devis gratuits", "Démarche d'autorisation expliquée", "Statut de chaque arbre vérifié", "Souche rognée après abattage"],
  "intro_eyebrow": "Vos arbres à Corgémont",
  "intro_h2": "Avant la tronçonneuse, la question de l'autorisation",
- "intro": "<p>Corgémont compte 1 801 habitants répartis sur 17,61 km², dans le district de Courtelary. Son nom viendrait de « la cour d'un Gismund », et le village est mentionné dès 1178 sous la forme Corjamont.</p><p>Avec une centaine d'habitants au km², le territoire laisse en général de la place aux bosquets. La loi bernoise les protège dans leur état actuel ; les supprimer demande une dérogation de la préfecture.</p><p>Pour les arbres isolés et les allées, le règlement communal désigne ceux de valeur. Nous nous renseignons auprès de l'administration de Corgémont avant de fixer la date du chantier, et nous vous indiquons la démarche si une demande est nécessaire.</p>",
+ "intro": "<p>Corgémont compte 1 801 habitants répartis sur 17,61 km², dans le district de Courtelary. Son nom viendrait de « la cour d'un Gismund », et le village est mentionné dès 1178 sous la forme Corjamont.</p><p>Avec une centaine d'habitants au km², le territoire compte en général des bosquets. La loi bernoise les protège dans leur état actuel ; les supprimer demande une dérogation de la préfecture.</p><p>Pour les arbres isolés et les allées, le règlement communal désigne ceux de valeur. Nous nous renseignons auprès de l'administration de Corgémont avant de fixer la date du chantier, et nous vous indiquons la démarche si une demande est nécessaire.</p>",
  "faits": [["Habitants", "1 801 (2025)"], ["Altitude", "663 m"], ["District", "Courtelary"], ["Depuis Courgenay", "env. 25 km"]],
  "reglement": "<strong>Autorisation d'abattage à Corgémont.</strong> Dans le canton de Berne, les bosquets sont protégés dans leur état actuel (LCPN, BSG 426.11) : l'entretien est permis, leur suppression demande une dérogation de la préfecture avec compensation. Les arbres isolés et allées de valeur sont protégés par les règlements communaux. Nous vérifions la règle en vigueur à Corgémont avant d'intervenir.",
  "contexte": [
-  {"icone": "DOC", "titre": "Dérogation ou simple entretien", "texte": "Tailler ou éclaircir un bosquet, en recéper au plus la moitié en trois ans : cet entretien est permis. Le supprimer ou l'arracher demande une dérogation de la préfecture. Nous vous disons dans quel cas vous êtes."},
-  {"icone": "LEAF", "titre": "Bosquets entretenus en hiver", "texte": "Nous programmons l'entretien des bosquets entre octobre et mars, pendant le repos de la végétation et hors période de nidification des oiseaux."},
+  {"icone": "DOC", "titre": "Commune ou préfecture", "texte": "Pour un arbre isolé ou une allée de valeur, le règlement communal s'applique. Supprimer un bosquet demande une dérogation de la préfecture. Nous vous disons dans quel cas vous êtes."},
+  {"icone": "LEAF", "titre": "Taille au bon moment", "texte": "Nous taillons vos arbres hors période de nidification des oiseaux, de préférence pendant le repos de la végétation. Un arbre dangereux se sécurise en tout temps."},
   {"icone": "STUMP", "titre": "Souche rognée", "texte": "Après un abattage autorisé, la souche peut être rognée sous le niveau du sol. Vous récupérez la surface pour planter, semer ou poser une terrasse."}
  ],
  "services": {
@@ -25,7 +25,7 @@
  "faq": [
   {"q": "Qui autorise l'abattage d'un arbre à Corgémont ?", "a": "Pour un arbre isolé ou une allée de valeur, la commune, selon son règlement. Pour supprimer un bosquet, la préfecture, par dérogation avec compensation. Nous vérifions pour vous avant d'intervenir."},
   {"q": "Combien de temps prend une demande d'autorisation ?", "a": "Cela dépend de l'autorité et du dossier. Nous préparons la description de l'arbre et, si utile, un avis écrit sur son état. Pendant l'instruction, nous pouvons déjà sécuriser les branches dangereuses."},
-  {"q": "Puis-je entretenir un bosquet à Corgémont sans rien demander ?", "a": "Oui, l'entretien d'un bosquet est permis : taille, éclaircissage, recépage partiel. Seule sa suppression est soumise à dérogation de la préfecture. Nous intervenons en hiver, hors nidification."},
+  {"q": "Comment savoir si mon arbre est protégé à Corgémont ?", "a": "Cela dépend du règlement communal, qui désigne les arbres isolés et allées de valeur. L'abattage d'un arbre protégé demande une autorisation. Nous vérifions le statut de l'arbre auprès de la commune avant d'intervenir."},
   {"q": "Que faites-vous si l'arbre est protégé mais dangereux ?", "a": "Nous documentons le danger par un avis écrit et sécurisons l'arbre en attendant la décision. L'abattage n'a lieu qu'avec l'accord de l'autorité, puis une plantation compensatoire est organisée si elle est exigée."},
   {"q": "Quelle distance depuis Courgenay ?", "a": "Environ vingt-cinq kilomètres à vol d'oiseau. La visite à Corgémont est gratuite et nous répondons à votre demande sous 48 h ouvrées. Le devis écrit suit la visite."}
  ],
