@@ -675,7 +675,8 @@ def build_files():
 
 # ---------------- Exécution ----------------
 if __name__ == '__main__':
-    for f in glob.glob('*.html') + glob.glob('conseils/*.html'): os.remove(f)
+    for f in glob.glob('*.html') + glob.glob('conseils/*.html'):
+        if f != 'maintenance.html': os.remove(f)  # page de maintenance écrite à la main
     build_home()
     for s in SERVICES: build_service(s)
     build_b2b(); build_about(); build_contact(); build_merci(); build_404()
