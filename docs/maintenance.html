@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr-CH">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Accès protégé | Arboritaille</title>
+<link rel="icon" href="/arboritaille-site/img/logo-entreprise-icon-sans-fond.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/arboritaille-site/fonts/fonts.css">
+<style>
+  :root{--orange:#d56626;--orange-dark:#b5521b;--sand:#f5f1e8;--ink:#151a16}
+  *{box-sizing:border-box;margin:0}
+  body{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px 16px;background:var(--sand);color:var(--ink);font-family:var(--font-body,system-ui,sans-serif);line-height:1.5}
+  main{width:100%;max-width:380px;text-align:center}
+  img{width:200px;height:auto;margin-bottom:32px}
+  label{display:block;font-weight:700;margin-bottom:12px}
+  input{width:100%;padding:13px 16px;border:1px solid #c9c0ab;border-radius:12px;font:inherit;background:#fff;margin-bottom:12px}
+  button{width:100%;padding:13px 16px;border:0;border-radius:999px;background:var(--orange);color:#fff;font:inherit;font-weight:700;cursor:pointer}
+  button:hover{background:var(--orange-dark)}
+  .erreur{color:#b3261e;font-size:.95rem;margin-top:12px}
+</style>
+</head>
+<body>
+<main>
+  <img src="/arboritaille-site/img/logo-site-arboritaille-sans-ombre.svg" alt="Arboritaille" width="200" height="38">
+  <form method="post" action="/arboritaille-site/apercu.php">
+    <label for="mdp">Mot de passe</label>
+    <input type="password" id="mdp" name="mdp" autocomplete="current-password" required autofocus>
+    <input type="hidden" name="retour" id="retour" value="/">
+    <button type="submit">Entrer sur le site</button>
+    <p class="erreur" id="erreur" hidden>Mot de passe incorrect.</p>
+  </form>
+</main>
+<script>
+  (function () {
+    var q = location.search.replace(/([?&])acces=refuse(&|$)/, '$1').replace(/[?&]$/, '');
+    document.getElementById('retour').value = location.pathname + q;
+    if (/[?&]acces=refuse(&|$)/.test(location.search)) document.getElementById('erreur').hidden = false;
+  })();
+</script>
+</body>
+</html>

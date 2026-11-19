@@ -259,7 +259,7 @@ def form(page_name, title='Recevez votre devis gratuit', sub='Décrivez-nous vot
         <input type="hidden" name="Origine" value="Site">
         <input type="text" name="_honey" class="honeypot" tabindex="-1" autocomplete="off">
         <div class="field-row">
-          <div class="field"><label for="nom">Nom et prénom</label><input id="nom" name="Nom" type="text" required autocomplete="name" placeholder="Jean Dupont"></div>
+          <div class="field"><label for="nom">Nom et prénom</label><input id="nom" name="Nom" type="text" required autocomplete="name" placeholder="Céline Lovis"></div>
           <div class="field"><label for="tel">Téléphone</label><input id="tel" name="Téléphone" type="tel" required autocomplete="tel" placeholder="078 000 00 00"></div>
         </div>
         <div class="field-row">
